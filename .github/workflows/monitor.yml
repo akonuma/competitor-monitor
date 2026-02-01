@@ -1,0 +1,42 @@
+name: Competitor Site Monitor
+
+on:
+  schedule:
+    - cron: "0 0  * * *"
+    - cron: "0 6  * * *"
+    - cron: "0 12 * * *"
+    - cron: "0 18 * * *"
+  workflow_dispatch:
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run monitor
+        env:
+          TARGET_URLS: ${{ secrets.TARGET_URLS }}
+          SMTP_USER:   ${{ secrets.SMTP_USER }}
+          SMTP_PASS:   ${{ secrets.SMTP_PASS }}
+          ALERT_TO:    ${{ secrets.ALERT_TO }}
+        run: python monitor.py
+
+      - name: Commit updated hashes
+        run: |
+          git config --global user.email "bot@competitor-monitor.github.io"
+          git config --global user.name  "Competitor Monitor Bot"
+          git add hashes.json
+          git diff --cached --quiet || git commit -m "chore: update hashes $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push || true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
