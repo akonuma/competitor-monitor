@@ -2,20 +2,12 @@ import requests
 import hashlib
 import json
 import os
-import smtplib
-from email.mime.text import MIMEText
-from email.mime.multipart import MIMEMultipart
 from datetime import datetime, timezone
 
 # ─── 環境変数から設定を読み込む ───
-TARGET_URLS = json.loads(os.environ["TARGET_URLS"])          # '["url1","url2"]'
-HASH_FILE   = "hashes.json"                                  # リポジトリ上に保存するハッシュファイル
-
-SMTP_SERVER   = os.environ.get("SMTP_SERVER",   "smtp.gmail.com")
-SMTP_PORT     = int(os.environ.get("SMTP_PORT", "587"))
-SMTP_USER     = os.environ["SMTP_USER"]                      # Gmail アドレス
-SMTP_PASS     = os.environ["SMTP_PASS"]                      # Gmail アプリパスワード
-ALERT_TO      = os.environ["ALERT_TO"]                       # 通知先メールアドレス
+TARGET_URLS = json.loads(os.environ["TARGET_URLS"])
+HASH_FILE   = "hashes.json"
+TEAMS_WEBHOOK = os.environ["TEAMS_WEBHOOK"]  # Teams Webhook URL
 
 
 def load_hashes() -> dict:
@@ -45,37 +37,34 @@ def get_page_hash(url: str) -> str | None:
         return None
 
 
-def send_alert(changed_urls: list[str]):
-    """変更されたURLについてメールアラートを送信"""
+def send_teams_alert(changed_urls: list[str]):
+    """変更されたURLについてTeams通知を送信"""
     now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S UTC")
 
-    subject = f"🔔 競合サイト更新検知 ({len(changed_urls)}件) - {now}"
+    # Teams Adaptive Card 形式
+    facts = [{"name": f"URL {i+1}", "value": url} for i, url in enumerate(changed_urls)]
 
-    body_lines = [
-        f"検知時刻: {now}",
-        f"変更件数: {len(changed_urls)} サイト",
-        "",
-        "─── 変更されたURL ───",
-    ]
-    for url in changed_urls:
-        body_lines.append(f"  ✅ {url}")
-
-    body = "\n".join(body_lines)
-
-    msg = MIMEMultipart()
-    msg["From"]    = SMTP_USER
-    msg["To"]      = ALERT_TO
-    msg["Subject"] = subject
-    msg.attach(MIMEText(body, "plain", "utf-8"))
+    payload = {
+        "@type": "MessageCard",
+        "@context": "https://schema.org/extensions",
+        "summary": f"競合サイト更新検知 ({len(changed_urls)}件)",
+        "themeColor": "0078D4",
+        "title": f"🔔 競合サイト更新検知 ({len(changed_urls)}件)",
+        "sections": [
+            {
+                "activityTitle": "変更されたサイト",
+                "activitySubtitle": f"検知時刻: {now}",
+                "facts": facts
+            }
+        ]
+    }
 
     try:
-        with smtplib.SMTP(SMTP_SERVER, SMTP_PORT) as server:
-            server.starttls()
-            server.login(SMTP_USER, SMTP_PASS)
-            server.send_message(msg)
-        print(f"[OK] アラートメール送信完了 → {ALERT_TO}")
+        resp = requests.post(TEAMS_WEBHOOK, json=payload, timeout=10)
+        resp.raise_for_status()
+        print(f"[OK] Teams通知送信完了")
     except Exception as e:
-        print(f"[ERROR] メール送信に失敗: {e}")
+        print(f"[ERROR] Teams通知送信失敗: {e}")
 
 
 def main():
@@ -103,12 +92,12 @@ def main():
         else:
             print(f"[OK]      {url}")
 
-    # ハッシュファイルを更新（Actions で git push される）
+    # ハッシュファイルを更新
     save_hashes(hashes)
 
-    # 変更があればアラート送信
+    # 変更があればTeams通知
     if changed:
-        send_alert(changed)
+        send_teams_alert(changed)
     else:
         print("[INFO] 変更なし")
 
