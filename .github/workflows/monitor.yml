@@ -26,12 +26,14 @@ jobs:
           TEAMS_WEBHOOK:   ${{ secrets.TEAMS_WEBHOOK }}
         run: python monitor.py
 
-      - name: Commit updated hashes
+      - name: Commit updated hashes and content cache
         run: |
           git config --global user.email "bot@competitor-monitor.github.io"
           git config --global user.name  "Competitor Monitor Bot"
-          git add hashes.json
-          git diff --cached --quiet || git commit -m "chore: update hashes $(date -u '+%Y-%m-%d %H:%M UTC')"
-          git push || true
+          git add hashes.json content_cache/
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: update hashes and cache $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
