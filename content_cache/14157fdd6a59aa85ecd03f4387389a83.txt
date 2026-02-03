@@ -1,0 +1,1629 @@
+<!DOCTYPE html><html lang="ja"><head prefix="og: http://ogp.me/ns#"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://j.wovn.io/1" async="true" data-wovnio="key=QLeFbd&amp;backend=true&amp;currentLang=ja&amp;defaultLang=ja&amp;urlPattern=path&amp;version=1.24.1&amp;backendVersion=WOVN.php_1.10.1&amp;langParamName=wovn" data-wovnio-cache-time="202602031907+0000"> </script>
+
+<meta charset="utf-8">
+<title>決済代行・オンライン決済サービス・システム導入ならSBペイメントサービス（ソフトバンクグループ）</title>
+<meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0">
+<meta name="format-detection" content="telephone=no">
+<link rel="canonical" href="https://www.sbpayment.jp/">
+<meta name="description" content="SBペイメントサービス (SBPS) は、クレジットカード決済はもちろんPayPayやキャリア決済など様々な決済手段を一括導入可能な決済代行会社です。ソフトバンクグループの決済代行を担う当社の決済代行システムで、貴社サイトのオンラインショッピングをさらに快適に。">
+<meta name="keywords" content="決済代行,決済代行会社,キャッシュレス決済,Paypay決済,クレジットカード決済,クレジットカード,決済システム,SBペイメント,ソフトバンクペイメント">
+<meta property="og:title" content="決済代行・オンライン決済サービス・システム導入ならSBペイメントサービス（ソフトバンクグループ）">
+<meta property="og:description" content="SBペイメントサービス (SBPS) は、クレジットカード決済はもちろんPayPayやキャリア決済など様々な決済手段を一括導入可能な決済代行会社です。ソフトバンクグループの決済代行を担う当社の決済代行システムで、貴社サイトのオンラインショッピングをさらに快適に。">
+<meta property="og:type" content="website">
+<meta property="og:image" content="https://www.sbpayment.jp/news/img_ogp.png">
+<meta property="og:url" content="https://www.sbpayment.jp/">
+<meta property="og:locale" content="ja_jp">
+
+<link rel="stylesheet" href="/assets/css/style.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&amp;display=swap" rel="stylesheet">
+<style>
+  .topAlert{
+    padding: 15px 0;
+    text-align: center;
+    font-weight: 500;
+    color: var(--red);
+  }
+  .topAlert a{
+    color: var(--black);
+    text-decoration: underline;
+  }
+  .topAlert a:hover{
+    color: var(--blue);
+  }
+  @media screen and (max-width: 954px){
+    .topAlert{
+      padding: 10px;
+      font-size: 1.2rem;
+    }
+  }
+</style>
+
+<script type="text/javascript" src="/assets/js/libs/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/js/header.js"></script>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MRQRDWV');</script>
+<!-- End Google Tag Manager -->
+
+<link rel="alternate" hreflang="en" href="https://www.sbpayment.jp/en/?_=1770145657435"><link rel="alternate" hreflang="ja" href="https://www.sbpayment.jp/?_=1770145657435"><link rel="alternate" hreflang="x-default" href="https://www.sbpayment.jp/?_=1770145657435"></head>
+
+<body>
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MRQRDWV"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+  <div id="container" class="top">
+    <header class="header">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&amp;display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/assets/css/header.css">
+  <link rel="stylesheet" href="/assets/css/wovn.css">
+  <div class="header__inner">
+    <div class="header__top">
+      <div class="header__top__logo"><a href="/">SB Payment Service</a></div>
+      <div class="header__top__btn">
+        <a class="switch jsOpen" href="javascript:void(0);"><span></span><span></span><span></span></a>
+      </div>
+    </div>
+    <div class="header__menu">
+      <div class="header__menu__page">
+        <ul class="header__menu__cat">
+          <li class="item"><a href="/advantage/">当社の強み</a></li>
+          <li class="item jsHeaderSubmenu">
+            <div class="submenuLink jsSubmenuLink">サービス</div>
+            <div class="submenu">
+              <div class="submenu__inner">
+                <div class="cont">
+                  <p class="cont__title"><a href="/service/asp/"><i class="icon icon--service"></i>オンライン決済サービス</a></p>
+                  <div class="cont__row cont__row--column3 service">
+                    <ul class="cont__list cont__list--1st">
+                      <li>
+                        <a href="/service/asp/payment-method/" class="cont__list__title">決済手段一覧（40ブランド以上を提供）</a>
+                        <div class="inner">
+                          <ul class="cont__list">
+                            <li><a href="/service/asp/creditcard/">クレジットカード決済サービス</a></li>
+                            <li><a href="/service/asp/paypay_online/">PayPay（オンライン決済）</a></li>
+                            <li><a href="/service/asp/mobile/">キャリア決済</a></li>
+                          </ul>
+                          <ul class="cont__list">
+                            <li><a href="/service/asp/convenience_store/">コンビニ決済</a></li>
+                            <li><a href="/service/asp/rakuten/">楽天ペイ（オンライン決済）</a></li>
+                            <li><a href="/service/method/mail_link/">メールリンク型決済</a></li>
+                          </ul>
+                        </div>
+                      </li>
+                    </ul>
+                    <ul class="cont__list cont__list--2nd">
+                      <li>
+                        <a href="/purpose/security/" class="cont__list__title">セキュリティ一覧</a>
+                        <ul class="cont__list">
+                          <li><a href="/solution/security/ai_fraud_detection/">AI不正検知</a></li>
+                          <li><a href="/service/method/3d/">3Dセキュア</a></li>
+                          <li><a href="/service/method/card_info_storage/">クレジットカード情報お預かりサービス</a></li>
+                        </ul>
+                      </li>
+                    </ul>
+                    <ul class="cont__list cont__list--3nd">
+                      <li>
+                        <a href="/purpose/connect/" class="cont__list__title">オプション一覧</a>
+                        <ul class="cont__list">
+                          <li><a href="/service/method/accounting/">課金方式（都度課金・継続課金）</a></li>
+                          <li><a href="/service/connection/api_system/">API型</a></li>
+                          <li><a href="/service/connection/link_system/">リンク型</a></li>
+                          <li><a href="/support/dashboard/">加盟店さま向けダッシュボード</a></li>
+                        </ul>
+                      </li>
+                    </ul>
+                  </div>
+                  <div class="cont__row cont__row--column3">
+                    <ul class="cont__list cont__list--3rd">
+                      <li>
+                        <p class="cont__title"><a href="/service/device/"><i class="icon icon--shop"></i>店舗向け決済サービス</a></p>
+                      </li>
+                      <li class="cont__row cont__row--column3">
+                        <ul class="cont__list cont__list--3rd">
+                          <li>
+                            <a href="/service/device/omo/lp/" class="cont__list__title">モバイル型マルチ決済端末</a>
+                            <div class="inner">
+                              <ul class="cont__list">
+                                <li><a href="/service/device/omo/lp/">端末のご購入</a></li>
+                                <li><a href="/service/device/omo/lp-rental/">端末のレンタル</a></li>
+                                <li><a href="/service/device/psregi/lp/">SBPSかんたんレジ</a></li>
+                              </ul>
+                            </div>
+                          </li>
+                          <li><a href="/service/device/paycas/">POS連動型マルチ決済端末</a></li>
+                        </ul>
+                        <ul class="cont__list cont__list--3rd">  
+                          <li><a href="/service/device/scan/">コード決済サービス</a></li>
+                          <li><a href="/service/mpp/">加盟店ポータル ポケット</a></li>
+                        </ul>
+                      </li>
+                    </ul>
+                    <ul class="cont__list cont__list--3rd">
+                      <li>
+                        <p class="cont__title">
+                          <a href="/service/b2b/invoice-creditcard/"><i class="icon icon--company"></i>企業間サービス</a>
+                        </p>
+                      </li>
+                      <li><a href="/service/b2b/invoice-creditcard/">SBPS請求書カード払い</a></li>
+                      <li><a href="https://www.web-furi.com/campaign/sbpayment/" target="_blank">ウェブフリコム</a></li>
+                    </ul>
+                  </div>
+                  <p class="note"><i class="icon icon--blank"></i>：提携企業のサイトに遷移します。</p>                        
+                </div>
+              </div>
+            </div>
+          </li>
+          <li class="item jsHeaderSubmenu">
+            <div class="submenuLink jsSubmenuLink">事例</div>
+            <div class="submenu">
+              <div class="submenu__inner">
+                <div class="cont">
+                  <div class="cont__row cont__row--column3">
+                    <ul class="cont__list cont__list--case">
+                      <li><p class="cont__title"><a href="/case/">導入事例</a></p></li>
+                      <li><a href="/case/scogroup/">株式会社SCOグループ</a></li>
+                      <li><a href="/case/cosmos/">株式会社COSMOS</a></li>
+                      <li><a href="/case/sanyo-shokai/">株式会社 三陽商会</a></li>
+                      <li><a href="/case/golfdo/">株式会社ゴルフ・ドゥ</a></li>
+                      <li><a href="/case/gongcha/">株式会社ゴンチャ ジャパン</a></li>
+                      <li><a href="/case/mitsuhakai/">社会福祉法人　みつは会</a></li>
+                      <li><a href="/case/satohull/">株式会社さとふる</a></li>
+                      <li><a href="/case/kankyosho/">環境省</a></li>
+                      <li><a href="/case/bookoff/">ブックオフコーポレーション株式会社</a></li>
+                    </ul>
+                    <ul class="cont__list cont__list--usecase">
+                      <li><p class="cont__title"><a href="/purpose/needs/">ユースケース</a></p></li>
+                      <li><a href="/purpose/needs/usecase/enterprise/">大企業向け</a></li>
+                      <li><a href="/purpose/needs/usecase/game/">ゲーム事業者向け</a></li>
+                      <li><a href="/purpose/needs/usecase/e-commerce/">物販（ネット通販／ECサイト）</a></li>
+                      <li><a href="/purpose/needs/usecase/dental/">歯科医院向け</a></li>
+                      <li><a href="/purpose/needs/usecase/digitalcontent/">デジタルコンテンツ</a></li>
+                      <li></li>
+                      <li><a href="/purpose/needs/usecase/hotel/">ホテル／宿泊業</a></li>
+                      <li></li>
+                      <li><a href="/purpose/needs/usecase/fitness/">フィットネス</a></li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </li>
+          <li class="item"><a href="/support/pricing/">料金・手数料</a></li>
+          <li class="item jsHeaderSubmenu">
+            <div class="submenuLink jsSubmenuLink">導入について</div>
+            <div class="submenu">
+              <div class="submenu__inner">
+                <div class="cont">
+                  <div class="cont__row cont__row--column3">
+                    <ul class="cont__list">
+                      <li><p class="cont__title"><a href="/support/flow/">導入までの流れ</a></p></li>
+                    </ul>
+                    <ul class="cont__list">
+                      <li><p class="cont__title"><a href="/support/how_to_pay/">ご利用イメージ</a></p></li>
+                    </ul>
+                  </div>
+                  <div class="cont__row cont__row--column3">
+                    <ul class="cont__list">
+                      <li><p class="cont__title"><a href="/support/faq/">よくある質問</a></p></li>
+                    </ul>
+                    <ul class="cont__list">
+                      <li><p class="cont__title"><a href="/support/developerworks/">開発者向けコンテンツ</a></p></li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </li>
+          <li class="item jsHeaderSubmenu">
+            <div class="submenuLink jsSubmenuLink">お役立ち情報</div>
+            <div class="submenu">
+              <div class="submenu__inner">
+                <div class="cont">
+                  <div class="cont__row cont__row--column3">
+                    <ul class="cont__list cont__list--3rd cont__list--only">
+                      <li><p class="cont__title"><a href="/seminar/">イベント・セミナー</a></p></li>
+                      <li><p class="cont__title"><a href="/support/ec/">お役立ちコラム</a></p></li>
+                      <li><p class="cont__title"><a href="/whitepapers/download/">お役立ち資料一覧</a></p></li>
+                      <li><p class="cont__title"><a href="/support/glossary/">用語集</a></p></li>
+                    </ul>
+                    <ul class="cont__list cont__list--3rd">
+                      <li><p class="cont__title"><a href="/purpose/ec_cart/">ECカートパッケージ</a></p></li>
+                      <li><a href="/purpose/ec_cart/cartchoice/introduction/">あなたに合うECカートが見つかる！ECカート診断</a></li>
+                      <li><a href="/service/partner/shopify/">Shopify</a></li>
+                      <li><a href="/service/partner/futureshop/">futureshop</a></li>
+                      <li><a href="/service/partner/ec-force/">ecforce</a></li>
+                      <li><a href="/service/partner/eccube/">EC-CUBE</a></li>
+                      <li><a href="/service/partner/welcart/">welcart</a></li>
+                      <li><a href="/service/partner/cafe24/">Cafe24</a></li>
+                      <li><a href="/service/partner/ochanokonet/lp01/">おちゃのこネット</a></li>
+                      <li><a href="/service/partner/w2/lp01/">W2 Unified・Repeat・BtoB</a></li>
+                    </ul>
+                    <ul class="cont__list cont__list--3rd">
+                      <li><p class="cont__title"><a href="/service/partner/">提携サービス</a></p></li>
+                      <li><a href="/service/partner/liquid/">LIQUID eKYC</a></li>
+                      <li><a href="/service/partner/akuru/">チャージバック保証サービス</a></li>
+                      <li><a href="/service/partner/o-plux/">不正検知サービス O-PLUX（オープラックス）</a></li>
+                      <li><a href="/service/partner/paidy/">Paidy</a></li>
+                      <li><a href="/service/partner/atone/">atone</a></li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </li>
+        </ul>
+        <ul class="listBtn">
+          <li class="listBtn__download ja">
+            <div class="btn">
+            
+            
+              <a href="https://service.sbpayment.jp/document/download/" class="btn__inner modBpPc ja headcta-dl-Pc" target="_blank">資料をダウンロード</a>
+              <a href="https://service.sbpayment.jp/document/download/sp" class="btn__inner modBpSp ja menucta-dl-Sp" target="_blank">サービス資料ダウンロード</a>
+            
+            </div>
+          </li>
+          <li class="listBtn__download modBpSp ja">
+            <a href="/whitepapers/download/" class="menucta-wp-Sp">お役立ち資料ダウンロード</a>
+          </li>
+          
+          
+          <li class="listBtn__contact modBpPc ja">
+            <a href="https://service.sbpayment.jp/contact/" target="_blank" class="headcta-info-Pc">
+              お問い合わせ
+              <div class="caption">
+                <div class="caption__inner">お問い合わせ</div>
+              </div>
+            </a>
+          </li>
+          <li class="listBtn__contact modBpSp ja">
+            <a href="https://service.sbpayment.jp/contact/sp/" target="_blank" class="menucta-info-Sp">
+              お問い合わせ
+              <div class="caption">
+                <div class="caption__inner">お問い合わせ</div>
+              </div>
+            </a>
+          </li>
+          <li class="listBtn__contact modBpPc en">
+            <a href="https://service.sbpayment.jp/contact/" class="headcta-info">
+              お問い合わせ
+              <div class="caption">
+                <div class="caption__inner">お問い合わせ</div>
+              </div>
+            </a>
+          </li>
+          <li class="listBtn__contact modBpSp en">
+            <a href="https://service.sbpayment.jp/contact/sp/" class="menucta-info">
+              お問い合わせ
+              <div class="caption">
+                <div class="caption__inner">お問い合わせ</div>
+              </div>
+            </a>
+          </li>
+          
+        </ul>       
+        <ul class="otherLinks">
+          <li>
+            <a href="https://www.sbpayment.co.jp/" target="_blank">コーポレートサイト</a>
+          </li>
+          <li>
+            <a href="https://support.sbpayment.jp" target="_blank">サポート</a>
+          </li>
+          <li>
+            <a href="https://developer.sbpayment.jp" target="_blank">Developer</a>
+          </li>
+          <li class="merchant">
+            <a href="https://www.sbpayment.jp/mrp/login/" target="_blank">加盟店ポータルへログイン</a>
+          </li>
+          <li class="search ja">
+            <div class="box">
+              <form action="https://www.sbpayment.jp/dynamic/search.html" method="get"> 
+                <div class="box__inner">
+                  <p class="box__label">検索</p>
+                  <input type="hidden" name="sort_by" value="modified_on"> 
+                  <input type="text" name="query" class="box__input">
+                  <button type="submit" class="box__btn">検索</button>
+                </div>
+              </form>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </div>
+    <ul class="header__other">
+      <li>
+        <a href="https://www.sbpayment.co.jp/" target="_blank">コーポレートサイト</a>
+      </li>
+      <li>
+        <a href="https://support.sbpayment.jp" target="_blank">サポート</a>
+      </li>
+      <li>
+        <a href="https://developer.sbpayment.jp" target="_blank">Developer</a>
+      </li>
+      <li class="merchant">
+        <a href="https://www.sbpayment.jp/mrp/login/" target="_blank">加盟店ポータルへログイン</a>
+      </li>
+      <li class="search ja">
+        <a href="" class="search__btn modBpSp">検索</a>
+        <div class="search__inner modBpPc">
+          <input type="checkbox" id="search" name="menuOpen" class="search__check">
+          <label class="search__btn" for="search">検索</label>
+          <div class="box">
+            <form action="https://www.sbpayment.jp/dynamic/search.html" method="get"> 
+              <div class="box__inner">
+                <p class="box__label">検索</p>
+                <input type="hidden" name="sort_by" value="modified_on">
+                <input type="text" name="query" class="box__input">
+                <button type="submit" class="box__btn">検索</button>
+              </div>
+            </form>
+          </div>
+        </div>
+      </li>
+    </ul>
+  </div>
+</header>
+
+
+    <main class="main">
+      
+      
+      <div class="topAlert">
+        <p class="topAlert__text">【注意喚起】<a href="/news/info/2025/20250716_001471/">当社をかたる不審なメール、SNS、電話等からのご連絡にご注意ください</a></p>
+      </div>
+      <div class="topKv topKv--typeB">
+        <div class="topKv__inner">
+          <div class="topKv__left">
+            <a href="/service/asp/" class="kvlink-asptop">
+              <picture class="img">
+                <source media="(max-width: 954px)" srcset="/assets/img/top/sp/img_kv_left.png">
+                <img loading="eager" src="/assets/img/top/img_kv_left.png" alt="オンライン決済代行サービス・決済システム導入ならSBペイメントサービス">
+              </picture>
+            </a>
+          </div>
+          <div class="topKv__cont">
+            <h1 class="topKv__title">
+              <span class="word">事業成長に</span>
+              <span class="word">つながる決済を</span>
+              <span class="word">すべてここに</span>
+            </h1>
+            <p class="topKv__lead">豊富な決済手段と万全のセキュリティで、<br class="modBpPc">売上拡大を実現する決済プラットフォーム。</p>
+            <ul class="topKv__listBtn">
+              <li class="ja">
+                <a href="https://service.sbpayment.jp/contact/" class="btn btn--contact modBpPc kvcta-info-Pc" target="_blank">お問い合わせ</a>
+                <a href="https://service.sbpayment.jp/contact/sp/" class="btn btn--contact modBpSp kvcta-info-Sp" target="_blank">お問い合わせ</a>
+              </li>
+              <li class="en">
+                <a href="/contact/" class="btn btn--contact kvcta-info-Pc">お問い合わせ</a>
+              </li>
+              <li class="ja">
+                <a href="https://service.sbpayment.jp/document/download/" class="btn btn--download modBpPc kvcta-dl-Pc" target="_blank">資料をダウンロード</a>
+                <a href="https://service.sbpayment.jp/document/download/sp" class="btn btn--download modBpSp kvcta-dl-Sp" target="_blank">資料をダウンロード</a>
+              </li>
+            </ul>
+          </div>
+          <div class="topKv__right">
+            <a href="/service/device/" class="kvlink-devicetop">
+              <picture class="img">
+                <source media="(max-width: 954px)" srcset="/assets/img/top/sp/img_kv_right.png">
+                <img loading="eager" src="/assets/img/top/img_kv_right.png" alt="決済端末導入のご案内">
+              </picture>
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <div class="topCustomerLogos">
+        <p class="topCustomerLogos__title">導入<br class="en">企業様</p>
+        <div class="roop"></div>
+      </div>
+      
+      
+
+      <section class="pageSection pageSection--top">
+        <div class="pageSection__inner">
+          <h2 class="modHeadingSection modHeadingSection--top">ニーズに合わせた<br>最適な決済サービスをご提供します</h2>
+          <div class="topTab">
+            <div class="topTab__block">
+              <div class="topTab__block__filtering is-active">オンライン決済を<br class="modBpPc">導入したい</div>
+              <div class="topTab__block__item" style="display: block;">
+                <div class="head">
+                  <h3 class="title">オンライン決済を<br>導入したい</h3>
+                  <picture class="img">
+                    <source media="(max-width: 954px)" srcset="/assets/img/top/sp/img_service_01.jpg">
+                    <img loading="eager" src="/assets/img/top/img_service_01.jpg" alt="オンライン決済を導入したい">
+                  </picture>
+                  <picture class="logo">
+                    <source media="(max-width: 954px)" srcset="/assets/img/top/img_service_01_01.png">
+                    <img loading="eager" src="/assets/img/top/img_service_01_01.png" alt="オンライン決済手段">
+                  </picture>
+                </div>
+                <div class="cont">
+                  <p>SBペイメントサービス(SBPS)は、 オンライン決済に必須なクレジットカード決済をはじめ、人気のPayPay（オンライン決済）やキャリア決済など40ブランド以上の豊富な決済を取り扱いしております。</p>
+                  <ul class="list list--logo">
+                    <li class="creditcard">
+                      <a href="/service/asp/creditcard/">
+                        <picture class="img">
+                        <source media="(max-width: 954px)" srcset="/assets/img/top/sp/img_service_01_02.png">
+                          <img loading="eager" src="/assets/img/top/img_service_01_02.png" alt="クレジットカード決済サービス">
+                        </picture>
+                        <p class="text">クレジット<br class="modBpSp">カード決済サービス</p>
+                      </a>
+                    </li>
+                    <li class="convenience_store">
+                      <a href="/service/asp/convenience_store/">
+                        <picture class="img">
+                          <source media="(max-width: 954px)" srcset="/assets/img/top/sp/img_service_01_06.png">
+                          <img loading="eager" src="/assets/img/top/img_service_01_06.png" alt="コンビニ決済">
+                        </picture>
+                        <p class="text">コンビニ決済</p>
+                      </a>
+                    </li>
+                    <li class="paypay_online">
+                      <a href="/service/asp/paypay_online/">
+                        <picture class="img">
+                          <source media="(max-width: 954px)" srcset="/assets/img/top/img_service_01_03.png">
+                          <img loading="eager" src="/assets/img/top/img_service_01_03.png" alt="PayPay（オンライン決済）">
+                        </picture>
+                        <p class="text">PayPay<br class="modBpSp">（オンライン決済）</p>
+                      </a>
+                    </li>
+                    <li class="mobile">
+                      <a href="/service/asp/mobile/">
+                        <picture class="img">
+                          <source media="(max-width: 954px)" srcset="/assets/img/top/sp/img_service_01_04.png">
+                          <img loading="eager" src="/assets/img/top/img_service_01_04.png" alt="キャリア決済">
+                        </picture>
+                        <p class="text">キャリア決済</p>
+                      </a>
+                    </li>
+                    <li class="google_pay">
+                      <a href="/service/asp/google_pay/">
+                        <picture class="img">
+                          <source media="(max-width: 954px)" srcset="/assets/img/top/img_service_01_07.png">
+                          <img loading="eager" src="/assets/img/top/img_service_01_07.png" alt="Google Pay">
+                        </picture>
+                        <p class="text">Google Pay</p>
+                      </a>
+                    </li>
+                    <li class="rakuten">
+                      <a href="/service/asp/rakuten/">
+                        <picture class="img">
+                          <source media="(max-width: 954px)" srcset="/assets/img/top/img_service_01_08.png">
+                          <img loading="eager" src="/assets/img/top/img_service_01_08.png" alt="楽天ペイ（オンライン決済）">
+                        </picture>
+                        <p class="text">楽天ペイ<br class="modBpSp">（オンライン決済）</p>
+                      </a>
+                    </li>
+                  </ul>
+                  <div class="modBtnArea">
+                    <a href="/service/asp/" class="modBtnMain">オンライン決済サービス詳細を見る</a>
+                    <a href="/service/asp/payment-method/" class="modBtnMain">決済手段一覧を見る</a>
+                  </div>
+                  <div class="plusInformation">
+                    <p class="plusInformation__category">当社独自の<br class="modBpSp">セキュリティサービス</p>
+                    <picture class="plusInformation__img">
+                      <source media="(max-width: 954px)" srcset="/assets/img/top/img_service_01_05.png">
+                      <img loading="eager" src="/assets/img/top/img_service_01_05.png" alt="AI不正検知">
+                    </picture>
+                    <p class="plusInformation__title">AI不正検知</p>
+                    <p>膨大な決済情報と機械学習を用いて、ECサイトをクレジットカードの不正利用から守ります。無料でご導入いただけます。</p>
+                    <div class="plusInformation__bottomLink">
+                      <a href="/solution/security/ai_fraud_detection/">詳しく見る</a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="topTab__block">
+              <div class="topTab__block__filtering">ECと店舗の決済を<br class="modBpPc">連携させたい</div>
+              <div class="topTab__block__item">
+                <div class="head">
+                  <h3 class="title">ECと店舗の決済を<br>連携させたい</h3>
+                  <picture class="img">
+                    <source media="(max-width: 954px)" srcset="/assets/img/top/sp/img_service_02.jpg">
+                    <img loading="eager" src="/assets/img/top/img_service_02.jpg" alt="ECと店舗の決済を連携させたい">
+                  </picture>
+                </div>
+                <div class="cont">
+                  <p>当社が提供するオールインワン端末なら、端末で決済した情報を当社サーバで保持し御社のECサイトの顧客データと一元化することができます。データを融合することで、事業者さまのビジネス・お客さまの購買の利便性を向上させます。</p>
+                  <div class="modBtnArea">
+                    <a href="/service/device/omo/lp/" class="modBtnMain">詳しく見る</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="topTab__block">
+              <div class="topTab__block__filtering">ECカートを利用したい</div>
+              <div class="topTab__block__item">
+                <div class="head">
+                  <h3 class="title">ECカートを<br class="en">利用したい</h3>
+                  <picture class="img">
+                    <source media="(max-width: 954px)" srcset="/assets/img/top/sp/img_service_03.jpg">
+                    <img loading="eager" src="/assets/img/top/img_service_03.jpg" alt="ECカートを利用したい">
+                  </picture>
+                  <picture class="logo">
+                    <source media="(max-width: 954px)" srcset="/assets/img/top/img_service_03_01.png">
+                    <img loading="eager" src="/assets/img/top/img_service_03_01.png" alt="連携可能なECカートパッケージ">
+                  </picture>
+                </div>
+                <div class="cont">
+                  <p>20種類以上のECカート・パッケージと接続しているため、既にご利用中の方は簡単に当社の決済を導入いただけます。<br>またECカートの利用をご検討の事業者さまには、当社から最適なECカートをご提案いたします。<br>当社ではECカート・パッケージに関するサービス資料も多数ご用意しておりますので、ECカート選びでお悩みの方は是非ご覧ください。</p>
+                  <ul class="list list--logo list--logo--partner">
+                    <li>
+                      <a href="/service/partner/shopify/">
+                        <picture class="img">
+                          <source media="(max-width: 954px)" srcset="/assets/img/top/img_service_03_02.png">
+                          <img loading="eager" src="/assets/img/top/img_service_03_02.png" alt="shopify">
+                        </picture>
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/service/partner/futureshop/">
+                        <picture class="img">
+                          <source media="(max-width: 954px)" srcset="/assets/img/top/img_service_03_03.png">
+                          <img loading="eager" src="/assets/img/top/img_service_03_03.png" alt="futureshop">
+                        </picture>
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/service/partner/ec-force/">
+                        <picture class="img">
+                          <source media="(max-width: 954px)" srcset="/assets/img/top/img_service_03_04.png">
+                          <img loading="eager" src="/assets/img/top/img_service_03_04.png" alt="ecforce">
+                        </picture>
+                      </a>
+                    </li>
+                  </ul>
+                  <div class="modBtnArea">
+                    <a href="/purpose/ec_cart/" class="modBtnMain">接続カート一覧を見る</a>
+                    <div class="modBpPc ja">
+                      <a href="https://service.sbpayment.jp/document/download/" class="modBtnMain modBtnMain--keyColor tabcta-dl-Pc" target="_blank">資料ダウンロード</a>
+                    </div>
+                  </div>
+                  <div class="modBtnArea">
+                    <a href="/purpose/ec_cart/introduction/" class="modBnr cta-banner">
+                    <picture class="img">
+                      <source media="(max-width: 954px)" srcset="/assets/img/top/sp/bnr_service_03.jpg">
+                      <img loading="eager" src="/assets/img/top/bnr_service_03.jpg" alt="あなたに合うECカートが見つかる！ECカート診断">
+                    </picture>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="topTab__block">
+              <div class="topTab__block__filtering">店舗決済を導入したい</div>
+              <div class="topTab__block__item">
+                <div class="head">
+                  <h3 class="title">店舗決済を<br class="en">導入したい</h3>
+                  <picture class="img">
+                    <source media="(max-width: 954px)" srcset="/assets/img/top/sp/img_service_04.jpg">
+                    <img loading="eager" src="/assets/img/top/img_service_04.jpg" alt="店舗決済を導入したい">
+                  </picture>
+                  <picture class="logo">
+                    <source media="(max-width: 954px)" srcset="/assets/img/top/img_service_04_01.png">
+                    <img loading="eager" src="/assets/img/top/img_service_04_01.png" alt="店舗向け決済手段">
+                  </picture>
+                </div>
+                <div class="cont">
+                  <p>初期・月額費用無料のクレジットカード決済端末から、30種類以上の決済が利用できるマルチ決済端末など豊富に取り扱いしております。</p>
+                  <div class="modBtnArea">
+                    <a href="/service/device/" class="modBtnMain">詳しく見る</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="topTab__block">
+              <div class="topTab__block__filtering">法人・個人への<br class="modBpPc">支払いを<br class="modBpSp">代行して欲しい</div>
+              <div class="topTab__block__item">
+                <div class="head">
+                  <h3 class="title">法人・<br class="en">個人への<br>支払いを<br class="en">代行して欲しい</h3>
+                  <picture class="img">
+                    <source media="(max-width: 954px)" srcset="/assets/img/top/sp/img_service_05.jpg">
+                    <img loading="eager" src="/assets/img/top/img_service_05.jpg" alt="法人・個人への支払いを代行して欲しい">
+                  </picture>
+                </div>
+                <div class="cont">
+                  <p>金融機関だけでなく、携帯電話番号と氏名だけで24時間365日お支払いができる通信各社が提供するサービスへの入金が可能です。<br>事業者さまの返金業務や買取代金の支払いなどといった業務の負担を軽減します。</p>
+                  <div class="modBtnArea">
+                    <a href="/service/lp/payment_agency01/" class="modBtnMain">詳しく見る</a>
+                  </div>
+                  <div class="addText">
+                    <p>企業間の支払いや従業員の給与・賞与支払いをされたい方は、会計ソフト連携や全銀・CSV形式での管理画面アップロードにも対応している「ウェブフリコム」のご利用がお勧めです。</p>
+                    <p><span style="font-size:70%;">※こちらは、㈱フォーライフシステムのサービスです。</span></p>
+                    <ul class="list list--logo list--logo--partner">
+                      <li>
+                        <a href="https://www.web-furi.com/campaign/sbpayment/" target="_blank">
+                          <picture class="img">
+                            <source media="(max-width: 954px)" srcset="/assets/img/top/img_service_05_01.png">
+                            <img loading="eager" src="/assets/img/top/img_service_05_01.png" alt="ウェブフリコム">
+                          </picture>
+                        </a>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="modCta">
+        <div class="modCta__inner">
+          <div class="modCta__head">
+            <p class="modCta__head__title">決済導入をご検討の方は<br class="modBpSp">お気軽にお問い合わせください</p>
+            <p class="modCta__head__lead">各種サービスに関する詳しい資料ダウンロードから、費用や導入に関するご相談はお問い合わせより承ります。</p>
+          </div>
+          <div class="modCta__cont">
+            <ul class="modCta__cont__list">
+              <li class="modBpPc ja">
+                <a class="btn btn--contact" href="https://service.sbpayment.jp/contact/" target="_blank">
+                  <span class="btn__inner"><i class="icon icon--contact"></i>お問い合わせする</span>
+                </a>
+              </li>
+              <li class="modBpPc en">
+                <a class="btn btn--contact" href="/en/contact/contact-en/">
+                  <span class="btn__inner"><i class="icon icon--contact"></i>お問い合わせ</span>
+                </a>
+              </li>
+              <li class="modBpPc ja">
+                <a class="btn" href="https://service.sbpayment.jp/document/download/" target="_blank">
+                  <span class="btn__inner"><i class="icon icon--download"></i>資料をダウンロードする</span>
+                </a>
+              </li>
+              <li class="modBpSp ja">
+                <a class="btn btn--contact" href="https://service.sbpayment.jp/contact/sp/" target="_blank">
+                  <span class="btn__inner"><i class="icon icon--contact"></i>お問い合わせする</span>
+                </a>
+              </li>
+              <li class="modBpSp en">
+                <a class="btn btn--contact" href="/en/contact/contact-en/">
+                  <span class="btn__inner"><i class="icon icon--contact"></i>お問い合わせ</span>
+                </a>
+              </li>
+              <li class="modBpSp ja">
+                <a class="btn" href="https://service.sbpayment.jp/document/download/sp" target="_blank">
+                  <span class="btn__inner"><i class="icon icon--download"></i>資料をダウンロードする</span>
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </section>
+
+
+      <section class="pageSection pageSection--bgWhite">
+        <div class="pageSection__inner">
+          <h2 class="modHeadingSection">決済導入企業さまのお声</h2>
+          <p class="modTextDescription">さまざまな事業の企業さまから選ばれています。</p>
+          <div class="modListCompany__wrapper swiper-container">
+            <ul class="modListCompany swiper-wrapper">
+              <li class="modListCompany__item swiper-slide">
+                <a href="/case/scogroup/">
+                  <div class="logo">
+                    <div class="logo__img">
+                      <img src="/assets/img/top/bnr_scogroup.png" alt="株式会社SCOグループ">
+                    </div>
+                    <p class="logo__name"><span class="logo__name__inner">株式会社<br>SCOグループ</span></p>
+                    <div class="logo__tag__wrapper"><span class="logo__tag"><span>オンライン決済</span></span></div>
+                  </div>
+                  <div class="cont">
+                    <p class="title">オンライン決済の一括審査を採用し、歯科業界のキャッシュレス化を加速</p>
+                    <p class="text">審査からシステム接続までの期間を大幅に短縮するため、SBPSの多数の加盟店を一括で審査する仕組みを採用しました。さらに、厚生労働省の判断と日本歯科医師会との連携で、歯科業界のキャッシュレス化を促進しています。</p>
+                  </div>
+                </a>
+              </li>
+              <li class="modListCompany__item swiper-slide">
+                <a href="/case/cosmos/">
+                  <div class="logo">
+                    <div class="logo__img">
+                      <img src="/assets/img/top/bnr_cosmos.png" alt="株式会社COSMOS">
+                    </div>
+                    <p class="logo__name"><span class="logo__name__inner">株式会社<br>COSMOS</span></p>
+                    <div class="logo__tag__wrapper"><span class="logo__tag"><span>オンライン決済</span></span></div>
+                  </div>
+                  <div class="cont">
+                    <p class="title">BTSのライセンス新商品発売日も、処理負荷を分散し安定した決済を実現</p>
+                    <p class="text">さまざまな決済に対応している点や豊富な導入実績、セキュリティー＆サポート体制が万全であることはもちろん、ソフトバンクグループであるという圧倒的な安心感が、SBPSのオンライン決済サービス導入の決め手となりました。</p>
+                  </div>
+                </a>
+              </li>
+              <li class="modListCompany__item swiper-slide">
+                <a href="/case/sanyo-shokai/">
+                  <div class="logo">
+                    <div class="logo__img">
+                      <img src="/assets/img/top/bnr_sanyo.png" alt="株式会社三陽商会">
+                    </div>
+                    <p class="logo__name"><span class="logo__name__inner">株式会社<br>三陽商会</span></p>
+                    <div class="logo__tag__wrapper"><span class="logo__tag"><span>オンライン決済</span></span></div>
+                  </div>
+                  <div class="cont">
+                    <p class="title">ECサイトリニューアルでチャージバックはほぼゼロに</p>
+                    <p class="text">サイトリニューアルを機にECプラットフォーム「Shopify Plus」を採用。合わせて当社が提供する「AI不正検知」「EMV 3-Dセキュア」や多種多様な決済手段を導入したことでECの購入率を高めています。</p>
+                  </div>
+                </a>
+              </li>
+              <li class="modListCompany__item swiper-slide">
+                <a href="/case/golfdo/">
+                  <div class="logo">
+                    <div class="logo__img">
+                      <img src="/assets/img/top/bnr_golfdo.png" alt="株式会社ゴルフ・ドゥ">
+                    </div>
+                    <p class="logo__name"><span class="logo__name__inner">株式会社<br>ゴルフ・ドゥ</span></p>
+                    <div class="logo__tag__wrapper"><span class="logo__tag"><span>オンライン決済</span></span></div>
+                  </div>
+                  <div class="cont">
+                    <p class="title">80%以上の決済が正常に進み、コンバージョンが格段に向上</p>
+                    <p class="text">従前のセキュリティー対策ではかご落ちは約20％も発生している状況でしたが、AI不正検知を導入したことでかご落ち率が低下しコンバージョンが各段に向上しました。</p>
+                  </div>
+                </a>
+              </li>
+              <li class="modListCompany__item swiper-slide">
+                <a href="/case/mitsuhakai/">
+                  <div class="logo">
+                    <div class="logo__img">
+                      <img src="/assets/img/top/bnr_mitsuhakai.png" alt="社会福祉法人みつは会">
+                    </div>
+                    <p class="logo__name"><span class="logo__name__inner">社会福祉法人<br>みつは会</span></p>
+                    <div class="logo__tag__wrapper"><span class="logo__tag"><span>オンライン決済</span></span></div>
+                  </div>
+                  <div class="cont">
+                    <p class="title">入金管理を可視化し、保育料の回収・集計作業を50%削減</p>
+                    <p class="text">「おが～るシステム」を導入し、入退室・検温管理から、保育料の計算、キャッシュレス決済、入金管理まで一元化が可能になり、これまで6日かかっていた回収・集計作業を3日に短縮することができました。</p>
+                  </div>
+                </a>
+              </li>
+              <li class="modListCompany__item swiper-slide">
+                <a href="/case/gongcha/">
+                  <div class="logo">
+                    <div class="logo__img">
+                      <img src="/assets/img/top/bnr_gongcha.png" alt="株式会社ゴンチャ ジャパン">
+                    </div>
+                    <p class="logo__name"><span class="logo__name__inner">株式会社<br>ゴンチャ ジャパン</span></p>
+                    <div class="logo__tag__wrapper"><span class="logo__tag"><span>オンライン決済</span></span></div>
+                  </div>
+                  <div class="cont">
+                    <p class="title">モバイルオーダーの導入で店頭での注文受付の工数を削減</p>
+                    <p class="text">SBペイメントのオンライン決済サービスと連携しているモバイルオーダーの導入を行い、お客さまの待ち時間削減の他、店頭での注文受付の工数削減といったオペレーション改善にも繋がっています。</p>
+                  </div>
+                </a>
+              </li>
+              <li class="modListCompany__item swiper-slide">
+                <a href="/case/itcenex/">
+                  <div class="logo">
+                    <div class="logo__img">
+                      <img src="/assets/img/top/bnr_itcenex.png" alt="伊藤忠エネクス株式会社">
+                    </div>
+                    <p class="logo__name"><span class="logo__name__inner">伊藤忠エネクス<br>株式会社</span></p>
+                    <div class="logo__tag__wrapper"><span class="logo__tag"><span>オンライン決済</span></span></div>
+                  </div>
+                  <div class="cont">
+                    <p class="title">「スマホ給油」で操作を簡素化・時短化し、リピーターを獲得</p>
+                    <p class="text">従前は精算時に現金で支払う場合お客さまの手間がかかってしまっていましたが、スマホ給油を導入し給油操作の簡易化・時短化に繋がっています。</p>
+                  </div>
+                </a>
+              </li>
+            </ul>
+            <div class="swiper-pagination"></div>
+          </div>
+          <div class="modBtnArea">
+            <a href="/case/" class="modBtnMain"><span>導入事例一覧を見る</span></a>
+            <a href="https://service.sbpayment.jp/case/download/" class="modBtnMain modBtnMain--keyColor ja" target="_blank"><span>導入事例集をダウンロードする</span></a>
+          </div>
+        </div>
+      </section>
+
+      <section class="pageSection">
+        <div class="pageSection__inner">
+          <h2 class="modHeadingSection">最新セミナー情報</h2>
+          <p class="modTextDescription">事業者さまのビジネスに役立つセミナーを実施しています。</p>
+          <div class="modListCompany__wrapper modListCompany__wrapper02 swiper-container">
+            <ul class="modListCompany swiper-wrapper">
+              <li class="modListPost__item swiper-slide" style="max-width: 350px;">
+                <a href="https://gtmf.jp/" target="_blank">
+                  <figure class="img">
+                    <img src="/image/top/seminar/img_seminar20251030.png" width="700" height="364" alt="" loading="lazy">
+                  </figure>
+                  <div class="cont">
+                    <div class="status__wrapper">
+                      <span class="status status--end"><span>開催終了</span></span>
+                    </div>
+                    <div class="title">
+                      Game Tools &amp; Middleware Forum 2025
+                    </div>
+                    <br>
+                    <div class="title">
+                      大阪会場 
+                    </div>
+                    <ul class="info" style="margin-top: 0px;">
+                      <li class="info__time">2025年11月20日(木) 10:00-18:30</li>
+                      <li class="info__online">コングレコンベンションセンター<br>After Party 18:30-20:30</li>
+                    </ul>
+                    <br>
+                    <div class="title">
+                      東京会場 
+                    </div>
+                    <ul class="info" style="margin-top: 0px;">
+                      <li class="info__time">2025年11月25日(火) 10:00-18:30</li>
+                      <li class="info__online">ベルサール新宿南口<br>After Party 18:30-20:30</li>
+                    </ul>
+                  </div>
+                </a>
+              </li>
+              <li class="modListPost__item swiper-slide" style="max-width: 350px;">
+                <a href="https://frauddetection.cacco.co.jp/seminar/ec_online_conference_2025/" target="_blank">
+                  <figure class="img">
+                    <img src="/image/top/seminar/img_seminar20250911.png" width="700" height="364" alt="" loading="lazy">
+                  </figure>
+                  <div class="cont">
+                    <div class="status__wrapper">
+                      <span class="status status--end"><span>開催終了</span></span>
+                    </div>
+                    <div class="title">
+                      Cacco Presents ECオンラインカンファレンス2025
+                    </div>
+                    <ul class="info">
+                      <li class="info__time">2025年10月16日(木) 10:00～17:40</li>
+                      <li class="info__online">オンライン</li>
+                    </ul>
+                  </div>
+                </a>
+              </li>
+              <li class="modListPost__item swiper-slide" style="max-width: 350px;">
+                <a href="https://www.fangrowth.biz/cs_event/20250917_ptw?organizationId=1692" target="_blank">
+                  <figure class="img">
+                    <img src="/image/top/seminar/img_seminar20250905.png" width="700" height="364" alt="" loading="lazy">
+                  </figure>
+                  <div class="cont">
+                    <div class="status__wrapper">
+                      <span class="status status--end"><span>開催終了</span></span>
+                    </div>
+                    <div class="title">
+                      飲食店イノベーションサミット　ー「現場力」向上の最前線ー
+                    </div>
+                    <ul class="info">
+                      <li class="info__time">2025年9月17日(水) 14:00～16:30</li>
+                      <li class="info__online">オンライン</li>
+                    </ul>
+                  </div>
+                </a>
+              </li>
+              <li class="modListPost__item swiper-slide" style="max-width: 350px;">
+                <a href="https://service.sbpayment.jp/seminar-202509" target="_blank">
+                  <figure class="img">
+                    <img src="/image/top/seminar/img_seminar20250827.png" width="700" height="364" alt="" loading="lazy">
+                  </figure>
+                  <div class="cont">
+                    <div class="status__wrapper">
+                      <span class="status status--end"><span>開催終了</span></span>
+                      <span class="status"><span>アーカイブ提供中</span></span>
+                    </div>
+                    <div class="title">
+                      アプリ外課金で手数料30％の壁を突破せよ！―ユーザーを巻き込む新たなマネタイズとマーケティング戦略
+                    </div>
+                    <ul class="info">
+                      <li class="info__time">2025年8月27日(水) 17:00～18:30<br>懇親会：18:40～19:50</li>
+                      <li class="info__online">UDX AKIHABARA SPACE カンファレンス</li>
+                    </ul>
+                  </div>
+                </a>
+              </li>
+              <li class="modListPost__item swiper-slide" style="max-width: 350px;">
+                <a href="https://www.softbank.jp/biz/solutions/public/solution/education/edix2025/" target="_blank">
+                  <figure class="img">
+                    <img src="/image/top/seminar/img_seminar20250423.png" width="700" height="364" alt="" loading="lazy">
+                  </figure>
+                  <div class="cont">
+                    <div class="status__wrapper">
+                      <span class="status status--end"><span>開催終了</span></span>
+                    </div>
+                    <div class="title">
+                      第16回　EDIX（教育総合展）東京
+                    </div>
+                    <ul class="info">
+                      <li class="info__time">2025年4月23日（水）～ <br>4月25日（金）</li>
+                      <li class="info__online">東京ビッグサイト　南展示棟</li>
+                    </ul>
+                  </div>
+                </a>
+              </li>
+              <li class="modListPost__item swiper-slide" style="max-width: 350px;">
+                <a href="https://www.softbank.jp/biz/events/2025/retail-tech-2025/" target="_blank">
+                  <figure class="img">
+                    <img src="/image/top/seminar/img_seminar20250304.png" width="700" height="364" alt="" loading="lazy">
+                  </figure>
+                  <div class="cont">
+                    <div class="status__wrapper">
+                      <span class="status status--end"><span>開催終了</span></span>
+                    </div>
+                    <div class="title">
+                      リテールテックJAPAN 2025
+                    </div>
+                    <ul class="info">
+                      <li class="info__time">2025年3月4日（火）～ <br>3月7日（金）</li>
+                      <li class="info__online">東京ビッグサイト　東展示棟</li>
+                    </ul>
+                  </div>
+                </a>
+              </li>
+              <li class="modListPost__item swiper-slide" style="max-width: 350px;">
+                <a href="https://service.sbpayment.jp/seminar-202501" target="_blank">
+                  <figure class="img">
+                    <img src="/image/top/seminar/img_seminar20240122.png" width="700" height="364" alt="" loading="lazy">
+                  </figure>
+                  <div class="cont">
+                    <div class="status__wrapper">
+                      <span class="status status--end"><span>開催終了</span></span>
+                      <span class="status"><span>アーカイブ提供中</span></span>
+                    </div>
+                    <div class="title">
+                      2025年のスタートダッシュを決める！不正転売対策・脆弱性診断・EMV 3-Dセキュア完全攻略セミナー
+                    </div>
+                    <ul class="info">
+                      <li class="info__time">2025年1月22日(水), 23日(木)<br>14:00-15:30</li>
+                      <li class="info__online">オンライン</li>
+                    </ul>
+                  </div>
+                </a>
+              </li>
+              <li class="modListPost__item swiper-slide" style="max-width: 350px;">
+                <a href="https://service.sbpayment.jp/seminar-202411" target="_blank">
+                  <figure class="img">
+                    <img src="/image/top/seminar/img_seminar20241120.png" width="700" height="364" alt="" loading="lazy">
+                  </figure>
+                  <div class="cont">
+                    <div class="status__wrapper">
+                      <span class="status status--end"><span>開催終了</span></span>
+                      <span class="status"><span>アーカイブ提供中</span></span>
+                    </div>
+                    <div class="title">
+                      初めてでも安心！越境ECで売上増へ！マーケティング・決済・物流の秘訣
+                    </div>
+                    <ul class="info">
+                      <li class="info__time">2024年11月20日（水）12:00 ～ 13:30<br>2024年11月21日（木）14:00 ～ 15:30</li>
+                      <li class="info__online">ウェビナー（zoom）</li>
+                    </ul>
+                  </div>
+                </a>
+              </li>
+              <li class="modListPost__item swiper-slide" style="max-width: 350px;">
+                <a href="https://service.sbpayment.jp/seminar-202410" target="_blank">
+                  <figure class="img">
+                    <img src="/image/top/seminar/img_seminar20240917.png" width="1920" height="1080" alt="" loading="lazy">
+                  </figure>
+                  <div class="cont">
+                    <div class="status__wrapper"><span class="status status--end"><span>開催終了</span></span><span class="status"><span>アーカイブ提供中</span></span></div>
+                    <div class="title">
+                    越境ECの成功法則｜成功までのステップと実践ガイドを大公開！
+                    </div>
+                    <ul class="info">
+                      <li class="info__time">2024年10月3日（木）12:00～13:00<br>2024年10月4日（金）12:00～13:00<br>2024年10月8日（火）12:00～13:00</li>
+                      <li class="info__online">オンライン</li>
+                    </ul>
+                  </div>
+                </a>
+              </li>
+              <li class="modListPost__item swiper-slide" style="max-width: 350px;">
+                <a href="https://www.sbpayment.jp/service/seminer/shopifyevent202211/">
+                  <figure class="img">
+                    <img src="/assets/img/top/seminar/img_shopifyevent202211.png" width="1200" height="500" alt="" loading="lazy">
+                  </figure>
+                  <div class="cont">
+                    <div class="status__wrapper"><span class="status status--end"><span>開催終了</span></span><span class="status"><span>アーカイブ提供中</span></span></div>
+                    <div class="title">
+                      ShopifyグロースハックDAY<br>- Shopifyについて徹底的にインプットする2日間 -
+                    </div>
+                    <ul class="info">
+                      <li class="info__time">2022年11月24日(木), 25日(金)<br>11:00-17:55</li>
+                      <li class="info__online">オンライン</li>
+                    </ul>
+                  </div>
+                </a>
+              </li>
+              <li class="modListPost__item swiper-slide" style="max-width: 350px;">
+                <a href="https://service.sbpayment.jp/l/562982/2023-03-01/9rh8sc">
+                  <figure class="img">
+                    <img src="/assets/img/top/seminar/img_seminar20220929.png" width="1200" height="500" alt="" loading="lazy">
+                  </figure>
+                  <div class="cont">
+                    <div class="status__wrapper"><span class="status status--end"><span>開催終了</span></span><span class="status"><span>アーカイブ提供中</span></span></div>
+                    <div class="title">
+                      ルタオの成功事例にみる<br>ECサイトの効果的な不正対策
+                    </div>
+                    <ul class="info">
+                      <li class="info__time">2022年9月29日（木）<br>16:00-17:00</li>
+                      <li class="info__online">オンライン</li>
+                    </ul>
+                  </div>
+                </a>
+              </li>
+            </ul>
+            <div class="swiper-pagination"></div>
+          </div>
+          <div class="modBtnArea">
+            <a href="/seminar/" class="modBtnMain">セミナー一覧を見る</a>
+          </div>
+        </div>
+      </section>
+
+      <section class="pageSection pageSection--bgWhite ja" style="display: block;">
+        <div class="pageSection__inner">
+          <div class="topUseful">
+            <div class="topUseful__head">
+              <h2 class="modHeadingSection">EC事業者さま向け <br class="modBpSp">決済お役立ち情報</h2>
+              <p class="modTextDescription">EC事業者のさまざまな課題解決・ビジネスを加速させるための情報を発信しています。</p>
+              <picture class="img">
+                <source media="(max-width: 954px)" srcset="/assets/img/top/sp/img_useful.png">
+                <img loading="eager" src="/assets/img/top/img_useful.png" alt="お役立ち情報">
+              </picture>
+            </div>
+            <div class="modListPost__wrapper swiper-container">
+              <ul class="modListPost swiper-wrapper">
+                <li class="modListPost__item swiper-slide">
+                  <a href="/support/ec/about-payment_agency/">
+                    <figure class="img">
+                      <img src="/images/support/ec/clm_29_01_2_sp.png" alt="" loading="lazy">
+                    </figure>
+                    <div class="cont">
+                      <div class="title">
+                        決済代行とは？サービスの仕組みやメリット、比較ポイントを徹底解説
+                      </div>
+                      <ul class="info">
+                        <li class="info__time">2025.08.07</li>
+                      </ul>
+                    </div>
+                  </a>
+                </li>
+                <li class="modListPost__item swiper-slide">
+                  <a href="/support/ec/creditcard/">
+                    <figure class="img">
+                      <img src="/support/ec/creditcard/img_kv.jpg" alt="" loading="lazy">
+                    </figure>
+                    <div class="cont">
+                      <div class="title">
+                        クレジットカード決済の導入方法は？費用やメリットも解説
+                      </div>
+                      <ul class="info">
+                        <li class="info__time">2025.04.08</li>
+                      </ul>
+                    </div>
+                  </a>
+                </li>
+                <li class="modListPost__item swiper-slide">
+                  <a href="/support/ec/out-of-app-billing/">
+                    <figure class="img">
+                      <img src="/support/ec/out-of-app-billing/img_kv.jpg" alt="" loading="lazy">
+                    </figure>
+                    <div class="cont">
+                      <div class="title">
+                        アプリ外課金とは？事業者必見！メリット・デメリットや検討のポイントを解説
+                      </div>
+                      <ul class="info">
+                        <li class="info__time">2025.06.18</li>
+                      </ul>
+                    </div>
+                  </a>
+                </li>
+              </ul>
+              <div class="swiper-pagination"></div>
+            </div>
+            <div class="modBtnArea">
+              <a href="/support/ec/" class="modBtnMain"><span>お役立ち情報一覧を見る</span></a>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="pageSection pageSection--bgWhite">
+        <div class="pageSection__inner pageSection__inner--min">
+          <h2 class="modHeadingSection">プレスリリース・<br class="modBpSp">お知らせ</h2>
+          <ul class="modListNews">
+            
+            <li class="modListNews__item">
+              
+              <a href="https://www.sbpayment.jp/news/info/2026/20260115_001514/">
+                <time class="time" datetime="2026-01-15">2026.01.15</time>
+                <span class="category"><span>お知らせ</span></span>
+                <p class="title">【導入事例】「さとふる」において、<br>新たに24自治体のふるさと納税に決済サービスを導入</p>
+              </a>
+              
+            </li>
+            
+            <li class="modListNews__item">
+              
+              <a href="https://www.sbpayment.jp/news/press/2025/20251224_001512/">
+                <time class="time" datetime="2025-12-24">2025.12.24</time>
+                <span class="category"><span>プレスリリース</span></span>
+                <p class="title">実店舗でのキャッシュレス決済に関する<br>第2回 利用実態調査結果を公開<br><span style="font-size:70%;">～キャッシュレス決済派は72.7％！ 20代の60.3％が「キャッシュレス決済非対応が原因で支払いをやめた経験あり」～ </span></p>
+              </a>
+              
+            </li>
+            
+            <li class="modListNews__item">
+              
+              <a href="https://www.sbpayment.jp/news/press/2025/20251209_001509/">
+                <time class="time" datetime="2025-12-09">2025.12.09</time>
+                <span class="category"><span>プレスリリース</span></span>
+                <p class="title"><span style="font-size:70%;">本キャンペーンは終了しました</span><br><br>「SBPS請求書カード払い」の対応ブランド拡大を記念し、<br> 「総額1,000万円！導入支援キャンペーン」を開始！<br><span style="font-size:70%;">～Visa、Mastercardに対応し、より利用しやすさが向上～</span></p>
+              </a>
+              
+            </li>
+            
+          </ul>
+          <div class="modBtnArea">
+            <a href="/news/2026/" class="modBtnMain modBtnMain--min">一覧をみる</a>
+          </div>
+        </div>
+      </section>
+      <section class="modCta">
+        <div class="modCta__inner">
+          <div class="modCta__head">
+            <p class="modCta__head__title">決済導入をご検討の方は<br class="modBpSp">お気軽にお問い合わせください</p>
+            <p class="modCta__head__lead">各種サービスに関する詳しい資料ダウンロードから、費用や導入に関するご相談はお問い合わせより承ります。</p>
+          </div>
+          <div class="modCta__cont">
+            <ul class="modCta__cont__list">
+              <li class="modBpPc ja">
+                <a class="btn btn--contact" href="https://service.sbpayment.jp/contact/" target="_blank">
+                  <span class="btn__inner"><i class="icon icon--contact"></i>お問い合わせする</span>
+                </a>
+              </li>
+              <li class="modBpPc en">
+                <a class="btn btn--contact" href="/en/contact/contact-en/">
+                  <span class="btn__inner"><i class="icon icon--contact"></i>お問い合わせ</span>
+                </a>
+              </li>
+              <li class="modBpPc ja">
+                <a class="btn" href="https://service.sbpayment.jp/document/download/" target="_blank">
+                  <span class="btn__inner"><i class="icon icon--download"></i>資料をダウンロードする</span>
+                </a>
+              </li>
+              <li class="modBpSp ja">
+                <a class="btn btn--contact" href="https://service.sbpayment.jp/contact/sp/" target="_blank">
+                  <span class="btn__inner"><i class="icon icon--contact"></i>お問い合わせする</span>
+                </a>
+              </li>
+              <li class="modBpSp en">
+                <a class="btn btn--contact" href="/en/contact/contact-en/">
+                  <span class="btn__inner"><i class="icon icon--contact"></i>お問い合わせ</span>
+                </a>
+              </li>
+              <li class="modBpSp ja">
+                <a class="btn" href="https://service.sbpayment.jp/document/download/sp" target="_blank">
+                  <span class="btn__inner"><i class="icon icon--download"></i>資料をダウンロードする</span>
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </section>
+
+    </main>
+    <!-- <div class="modPagetop">
+  <a href="javascript:void(0);" class="jsPagetop"><img src="/assets/img/common/icon_arrow.svg" alt="" loading="lazy" width="16" height="18"><br>TOP</a>
+</div> -->
+
+
+
+<ul class="modCtaBottom">
+  <li class="modBpPc ja">
+    <a href="https://service.sbpayment.jp/contact/" class="btn btn--contact" target="_blank">
+      <i class="icon icon--contact"></i>
+      お問い合わせする
+    </a>
+    <a href="https://service.sbpayment.jp/document/download/" class="btn btn--download" target="_blank">
+      <i class="icon icon--download"></i>
+      資料をダウンロードする
+    </a>
+  </li>
+  <li class="modBpPc en">
+    <a href="https://service.sbpayment.jp/contact/" class="btn btn--contact">
+      <i class="icon icon--contact"></i>
+      お問い合わせ
+    </a>
+  </li>
+  <li class="modBpSp ja">
+    <a href="https://service.sbpayment.jp/contact/sp/" class="btn btn--contact" target="_blank">
+      <i class="icon icon--contact"></i>
+      お問い合わせする
+    </a>
+    <a href="https://service.sbpayment.jp/document/download/sp" class="btn btn--download ja" target="_blank">
+      <i class="icon icon--download"></i>
+      資料をダウンロードする
+    </a>
+    <a href="/en/document/download-en/" class="btn btn--download en">
+      <i class="icon icon--download"></i>
+      資料をダウンロードする
+    </a>
+  </li>
+  <li class="modBpSp en">
+    <a href="https://service.sbpayment.jp/contact/sp/" class="btn btn--contact">
+      <i class="icon icon--contact"></i>
+      お問い合わせ
+    </a>
+  </li>
+</ul>
+
+
+<footer class="footer">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&amp;display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/assets/css/footer.css">
+  <div class="footer__inner">
+    <p class="footer__head">サービス</p>
+    <div class="footer__block__wrapper footer__block__wrapper--top">
+      <div class="footer__block">
+        <p class="footer__block__title">
+          <a href="/service/asp/">オンライン決済サービス</a>
+        </p>
+        <ul class="footer__block__menu">
+          <li><a href="/service/asp/creditcard/">クレジットカード決済サービス</a></li>
+          <li><a href="/service/asp/convenience_store/">コンビニ決済</a></li>
+          <li><a href="/service/asp/np/">後払い決済</a></li>
+          <li><a href="/service/asp/paypal/">ペイパル</a></li>
+          <li><a href="/service/asp/merpay_net/">メルペイネット決済</a></li>
+          <li><a href="/service/asp/unionpay/">銀聯ネット決済</a></li>
+          <li><a href="/service/asp/prepaid_card/">プリペイドカード決済</a></li>
+          <li><a href="/service/asp/amazonpay/">Amazon Pay</a></li>
+          <li><a href="/service/asp/apple_pay/">Apple Pay</a></li>
+          <li><a href="/service/asp/account-transfer/">口座振替サービス</a></li>
+          <li><a href="/service/asp/paypay_online/">PayPay（オンライン決済）</a></li>
+          <li><a href="/service/asp/mobile/">キャリア決済</a></li>
+          <li><a href="/service/asp/yahoo/">ウォレット決済サービス（Type-Y）</a></li>
+          <li><a href="/service/asp/alipay/">Alipay+</a></li>
+          <li><a href="/service/asp/wechatpay/">WeChat Pay</a></li>
+          <li><a href="/service/asp/rakuten/">楽天ペイ（オンライン決済）V2</a></li>
+          <li><a href="/service/asp/google_pay/">Google Pay</a></li>
+          <li><a href="/service/asp/pay-easy/">Pay-easy決済</a></li>
+          <li><a href="/service/asp/electronic_money/">電子マネー決済</a></li>
+          <li><a href="/service/asp/recruit_kantan/">リクルートかんたん支払い</a></li>
+          <li><a href="/service/asp/bill/">総合振込決済</a></li>
+          <li><a href="/service/asp/netmile/">ネットマイル決済</a></li>
+        </ul>
+      </div>
+      <div class="footer__block">
+        <p class="footer__block__title">
+          <a href="/service/method/">セキュリティ・決済オプションサービス</a>
+        </p>
+        <ul class="footer__block__menu">
+          <li><a href="/solution/security/ai_fraud_detection/">AI不正検知</a></li>
+          <li class="ja"><a href="/support/ec/card_security/">クレジットカード情報の非保持化</a></li>
+          <li><a href="/service/method/3d/">本人認証サービス（3Dセキュア）</a></li>
+          <li><a href="/service/method/token_system/">ワンタイムトークンシステム</a></li>
+          <li><a href="/service/method/tools/">決済管理ツール</a></li>
+          <li><a href="/service/method/domain/">独自ドメイン・画面カスタマイズ</a></li>
+          <li><a href="/service/mpp/">加盟店ポータル ポケット</a></li>
+          <li><a href="/service/method/laundering/">クレジットカード洗替サービス</a></li>
+          <li><a href="/service/method/accounting/">課金方式（都度課金、継続課金）</a></li>
+          <li><a href="/service/method/mail_link/">メールリンク型サービス</a></li>
+          <li><a href="/service/method/card_info_storage/">クレジットカード情報お預かりサービス</a></li>
+          <li><a href="/service/method/ivr/">IVR決済サービス</a></li>
+          <li><a href="/service/method/token_device/">永久トークン非保持化サービス</a></li>
+          <li><a href="/support/dashboard/">加盟店さま向けダッシュボード</a></li>
+        </ul>
+      </div>
+      <div class="footer__block">
+        <p class="footer__block__title">
+          <a href="/service/device/">店舗向け決済サービス</a>
+        </p>
+        <ul class="footer__block__menu">
+          <li class="inner__wrapper">
+            <a href="/service/device/omo/lp/">店舗向け決済DXプラットフォーム</a>
+            <ul class="inner">
+              <li><a href="/service/device/omo/lp/">端末のご購入</a></li>
+              <li><a href="/service/device/omo/lp-rental/">端末のレンタル</a></li>
+            </ul>
+          </li>
+          <li><a href="/service/device/anywhere/">モバイル型端末</a></li>
+          <li><a href="/service/device/scan/">コード決済サービス</a></li>
+          <li><a href="/service/mpp/">加盟店ポータル ポケット</a></li>
+        </ul>
+      </div>
+      <div class="footer__block">
+        <p class="footer__block__title">
+          支払代行サービス
+        </p>
+        <ul class="footer__block__menu">
+          <li><a href="/service/lp/payment_agency01/">支払代行サービス</a></li>
+          <li><a href="https://www.web-furi.com/campaign/sbpayment/" target="_blank">ウェブフリコム</a></li>
+        </ul>
+      </div>
+      <div class="footer__block">
+        <p class="footer__block__title">
+          企業間サービス
+        </p>
+        <ul class="footer__block__menu">
+          <li><a href="/service/b2b/invoice-creditcard/">SBPS請求書カード払い</a></li>
+          <li><a href="https://www.web-furi.com/campaign/sbpayment/" target="_blank">ウェブフリコム</a></li>
+        </ul>
+      </div>
+      <div class="footer__block">
+        <p class="footer__block__title">
+          <a href="/service/connection/">決済システム接続方式</a>
+        </p>
+        <ul class="footer__block__menu">
+          <li><a href="/service/connection/link_system/">リンク型</a></li>
+          <li><a href="/service/connection/api_system/">API型</a></li>
+        </ul>
+      </div>
+    </div>
+    <p class="footer__head">導入サポート</p>
+    <div class="footer__block__wrapper footer__block__wrapper--bottom">
+      <div class="footer__block">
+        <p class="footer__block__title">
+          <a href="/support/">導入サポート一覧</a>
+        </p>
+        <ul class="footer__block__menu">
+          <li><a href="/support/flow/">導入までの流れ・手順</a></li>
+          <li><a href="/support/how_to_pay/">ご利用イメージ</a></li>
+          <li><a href="/support/pricing/">導入料金・手数料について</a></li>
+          <li><a href="/support/faq/">よくある質問</a></li>
+          <li class="ja"><a href="/support/ec/">ECお役立ち情報</a></li>
+          <li><a href="/support/glossary/">用語集</a></li>
+          <li><a href="/support/developerworks/">開発者向けコンテンツ</a></li>
+        </ul>
+      </div>
+      <div class="footer__block">
+        <p class="footer__block__title">
+          <a href="/case/">導入事例</a>
+        </p>
+      </div>
+      <div class="footer__block">
+        <p class="footer__block__title">
+          <a href="/seminar/">セミナー一覧</a>
+        </p>
+      </div>
+      <div class="footer__block">
+        <p class="footer__block__title">
+          <a href="/service/partner/">提携サービス</a>
+        </p>
+      </div>
+      <div class="footer__block">
+        <p class="footer__block__title">
+          <a href="/purpose/">目的から探す</a>
+        </p>
+      </div>
+      <div class="footer__block">
+        <p class="footer__block__title">
+          <a href="/advantage/">当社の強み</a>
+        </p>
+      </div>
+      <div class="footer__block">
+        <p class="footer__block__title">
+          <a href="/news/2026/">お知らせ</a>
+        </p>
+      </div>
+      <div class="footer__block">
+        <p class="footer__block__title">
+          <a href="https://service.sbpayment.jp/contact/" target="_blank">お問い合わせ</a>
+        </p>
+        <ul class="footer__block__menu">
+          <li class="modBpPc"><a href="https://service.sbpayment.jp/contact/" target="_blank">お見積り・導入のご相談</a></li>
+          <li class="modBpSp"><a href="https://service.sbpayment.jp/contact/sp/" target="_blank">お見積り・導入のご相談</a></li>
+          <li class="modBpPc ja"><a href="https://service.sbpayment.jp/document/download/" target="_blank">サービス資料ダウンロード</a></li>
+          <li class="modBpSp ja"><a href="https://service.sbpayment.jp/document/download/sp" target="_blank">サービス資料ダウンロード</a></li>
+          <li class="ja"><a href="/whitepapers/download/">お役立ち情報資料ダウンロード</a></li>
+        </ul>
+      </div>
+      <div class="footer__block">
+        <p class="footer__block__title">
+          <a href="/sitemap/">サイトマップ</a>
+        </p>
+      </div>
+    </div>
+    <ul class="footer__block__bottom">
+      <li>
+        <a href="https://support.sbpayment.jp" target="_blank">サポート</a>
+      </li>
+      <li>
+        <a href="https://developer.sbpayment.jp" target="_blank">Developer</a>
+      </li>
+      <li>
+        <a href="https://www.sbpayment.jp/mrp/login/" target="_blank">加盟店ポータルへログイン</a>
+      </li>
+    </ul>
+    <ul class="footer__block__bottom">
+      <li class="ja">
+        <a href="https://www.sbpayment.co.jp/info/security/info_policy/" target="_blank">情報セキュリティ基本方針</a>
+      </li>
+      <li class="ja">
+        <a href="https://www.sbpayment.co.jp/info/security/privacy/" target="_blank">個人情報について</a>
+      </li>
+      <li>
+        <a href="https://www.sbpayment.co.jp/info/security/privacy_policy/" target="_blank">プライバシーポリシー</a>
+      </li>
+      <li class="ja">
+        <a href="https://www.sbpayment.co.jp/info/security/mynumber_policy/" target="_blank">特定個人情報</a>
+      </li>
+      <li class="en">
+        <a href="/en/cookie_policy/" target="_blank">Cookie Policy</a>
+      </li>
+      <li>
+        <a href="/sitepolicy/" target="_blank">サイトポリシー</a>
+      </li>
+      <li>
+        <a href="https://www.sbpayment.co.jp/" target="_blank">コーポレートサイト</a>
+      </li>
+    </ul>
+  </div>
+  <div class="footer__bottom">
+    <div class="footer__bottom__inner">
+      <ul class="markList">
+        <li>
+          <a href="https://privacymark.jp/" target="_blank" style="aspect-ratio: 6/7;height: 50px;">
+            <img src="/assets/img/common/mark_p_1.png" loading="lazy" alt="プライバシーマーク">
+          </a>
+        </li>
+        <li style="aspect-ratio: 108/91;height: 50px;">
+          <img src="/assets/img/common/mark_p_2.png" loading="lazy" alt="">
+        </li>
+        <li style="aspect-ratio: 109/91;height: 50px;">
+          <img src="/assets/img/common/mark_p_3.png" loading="lazy" alt="">
+        </li>
+        <li style="aspect-ratio: 103/91;height: 50px;">
+          <img src="/assets/img/common/mark_p_4.png" loading="lazy" alt="">
+        </li>
+      </ul>
+      <ul class="bnrList">
+        <li>
+          <a href="https://www.softbank.jp/card/" target="_blank">
+            <img src="/assets/img/common/bnr_softbank_card.png" loading="lazy" alt="Softbank Card">
+          </a>
+        </li>
+        <li>
+          <a href="http://ecpf.jp/" target="_blank">
+            <img src="/assets/img/common/bnr_ec.png" loading="lazy" alt="EC決済協議会">
+          </a>
+        </li>
+        <li>
+          <a href="https://sharing-economy.jp/" target="_blank">
+            <img src="/assets/img/common/bnr_sharing-economy.png" loading="lazy" alt="シェアリングエコノミー協会">
+          </a>
+        </li>
+      </ul>
+    
+    </div>
+  </div>
+  <div class="footer__lower">
+    <div class="footer__lower__inner">
+      <div class="logo"><a href="/">SBペイメントサービス株式会社</a></div>
+      <p class="copyright">Copyright © SB Payment Service Corp. All right reserved.</p>
+    </div>
+  </div>
+</footer>
+
+<script type="text/javascript" src="/assets/js/libs/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/js/libs/swiper.min.js"></script>
+<script type="text/javascript" src="/assets/js/common.js"></script>
+
+<!--Google Analytics-->
+<script type="text/plain" class="optanon-category-C0002">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-5734687-4', 'auto');
+  
+  
+    ga('send', 'pageview');
+  
+</script>
+
+
+
+
+
+
+
+<!--Google Adwords リマーケティングタグ開始-->
+<!-- Google Code for &#12473;&#12510;&#12540;&#12488;&#12500;&#12463;&#12475;&#12523; -->
+<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1044928740;
+var google_conversion_label = "MBMaCJDfkwQQ5LGh8gM";
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1044928740/?value=0&amp;label=MBMaCJDfkwQQ5LGh8gM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+<!--Google Adwords リマーケティングタグ完了-->
+
+<!-- 2015/06運用変更 -->
+
+<!-- GDN -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 955383099;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/955383099/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+<!-- YDN -->
+<script type="text/javascript" language="javascript">
+/* <![CDATA[ */
+var yahoo_retargeting_id = 'UL8XFBSTXU';
+var yahoo_retargeting_label = '';
+/* ]]> */
+</script>
+<script type="text/javascript" language="javascript" src="//b92.yahoo.co.jp/js/s_retargeting.js"></script>
+
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '802973449843945'); // Insert your pixel ID here.
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=802973449843945&ev=PageView&noscript=1"
+/></noscript>
+<!-- DO NOT MODIFY -->
+<!-- End Facebook Pixel Code -->
+
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 946655598;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/946655598/?guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+  </div>
+
+<script type="text/javascript" src="/js/jquery.cookie.js"></script>
+<script type="text/javascript" src="/js/sticky_display.js"></script>
+<script type="text/plain" src="/js/targeting_cookies.js" class="optanon-category-C0004"></script>
+<script>
+  var currentDate = new Date();
+  var endDate = new Date(2022, 10, 24) // 2022-11-24 00:00:00
+  $.ajax({
+    type: 'HEAD',
+    url: window.location.href,
+    cache: false
+  }).done(function (data, textStatus, jqXHR ) {
+    currentDate = new Date(jqXHR.getResponseHeader('Date'));
+  }).always(function () {
+    if (endDate.getTime() <= currentDate.getTime()) {
+      $('#seminarSection').hide()
+    }
+  });
+</script>
+</body></html>

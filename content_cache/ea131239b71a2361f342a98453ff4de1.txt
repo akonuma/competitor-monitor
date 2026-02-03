@@ -1,0 +1,3175 @@
+<!DOCTYPE html><html lang="ja"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://j.wovn.io/1" async="true" data-wovnio='key=f1IRL-&amp;backend=true&amp;currentLang=ja&amp;defaultLang=ja&amp;urlPattern=path&amp;langCodeAliases={"en":"en"}&amp;version=1.24.1&amp;backendVersion=WOVN.php_1.12.0&amp;langParamName=wovn' data-wovnio-cache-time="202602030723+0000"> </script>
+<!-- GTM tag -->
+<script>
+	var dataLayer = dataLayer || [];
+	dataLayer.push({'gtmIp':'240f:3a:679:1:44a2:cac5:d12e:11a2'});
+	</script>
+	<script>
+	(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-M26SSP');
+	</script>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="format-detection" content="telephone=no">
+	<title>決済代行など多様なオンライン決済サービスの導入ならGMOペイメントゲートウェイ</title>
+	<meta name="keywords" content="クレジットカード決済,通販,決済代行,導入,カード払い,継続課金">
+	<meta name="description" content="GMOペイメントゲートウェイは、クレジットカード決済やコンビニ決済、キャリア決済、PCI DSS、トークンなどセキュリティ対応の決済手段など、多様な決済手段の導入が一括で可能な決済代行会社です。">
+	<!-- ogp -->
+	<meta property="og:title" content="決済代行など多様なオンライン決済サービスの導入ならGMOペイメントゲートウェイ">
+	<meta property="og:description" content="GMOペイメントゲートウェイは、クレジットカード決済やコンビニ決済、キャリア決済、PCI DSS、トークンなどセキュリティ対応の決済手段など、多様な決済手段の導入が一括で可能な決済代行会社です。">
+	<meta property="og:image" content="https://www.gmo-pg.com/common/image/ogp.png">
+	<meta property="og:url" content="https://www.gmo-pg.com/">
+	<meta property="og:type" content="website">
+	<meta property="fb:app_id" content="244270202291484">
+	<link rel="icon" href="/favicon.ico">
+	<link rel="canonical" href="https://www.gmo-pg.com/">
+
+	<!-- twittercard -->
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:title" content="決済代行など多様なオンライン決済サービスの導入ならGMOペイメントゲートウェイ">
+	<meta name="twitter:description" content="GMOペイメントゲートウェイは、クレジットカード決済やコンビニ決済、キャリア決済、PCI DSS、トークンなどセキュリティ対応の決済手段など、多様な決済手段の導入が一括で可能な決済代行会社です。">
+	<meta property="og:image" content="https://www.gmo-pg.com/common/image/ogp.png">
+	<meta name="twitter:url" content="https://www.gmo-pg.com/">
+
+	<!-- for IE11(Old Browser) -->
+	<script src="/common/js/polyfill/ie11CustomProperties.js"></script>
+	<!-- web font -->
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+	<link href="https://fonts.googleapis.com/css2?family=Marcellus&amp;display=swap" rel="stylesheet">
+	<script src="https://font.realtype.jp/api/script/v4" data-rt-user="tHs9xWEV7hTvkvU8xu7WYBNGIP0zfbG4" data-rt-input="true" data-rt-nofliker="true" data-rt-layout="true" data-rt-emulation="true" data-rt-cache="true"></script>
+    <!-- css -->
+	<link rel="stylesheet" href="/common/css/style.css?ver=202602031604">
+	<link rel="stylesheet" href="/common/css/lib/splide-core.min.css">
+	<link rel="stylesheet" href="/common/js/lib/swiper-bundle.min.css">
+	<!-- script -->
+	<script src="/common/js/lib/jquery.min.js"></script>
+	<script src="/common/js/lib/swiper-bundle.min.js"></script>
+	
+	
+	<script type="application/ld+json">
+{
+  "@context":"https://schema.org",
+  "@type":"Organization",
+  "@id":"https://www.gmo-pg.com/#org",
+  "name":"GMOペイメントゲートウェイ株式会社",
+  "url":"https://www.gmo-pg.com/",
+  "logo":"https://www.gmo-pg.com/common/images/logo.png"
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context":"https://schema.org",
+  "@type":"WebSite",
+  "@id":"https://www.gmo-pg.com/#website",
+  "url":"https://www.gmo-pg.com/",
+  "name":"GMOペイメントゲートウェイ",
+  "inLanguage":"ja",
+  "publisher":{"@id":"https://www.gmo-pg.com/#org"},
+  "potentialAction":{
+    "@type":"SearchAction",
+    "target":"https://www.gmo-pg.com/search/?q={search_term_string}",
+    "query-input":"required name=search_term_string"
+  }
+}
+</script>
+
+
+	
+	
+		<script type="application/ld+json">
+{
+  "@context":"https://schema.org",
+  "@type":"WebPage",
+  "@id":"https://www.gmo-pg.com/#webpage",
+  "name":"決済代行など多様なオンライン決済サービスの導入ならGMOペイメントゲートウェイ",
+  "url":"https://www.gmo-pg.com/",
+  "inLanguage":"ja",
+  "isPartOf":{"@id":"https://www.gmo-pg.com/#website"},
+  "publisher":{"@id":"https://www.gmo-pg.com/#org"}
+}
+</script>
+
+
+	
+
+
+
+<!-- TOP用CSS/JS -->
+<link rel="stylesheet" href="/top/css/style.css?ver=202602031604">
+<script src="/top/js/script.js?ver=202602031604"></script>
+<link rel="alternate" hreflang="en" href="https://www.gmo-pg.com/en/"><link rel="alternate" hreflang="ja" href="https://www.gmo-pg.com/"><link rel="alternate" hreflang="x-default" href="https://www.gmo-pg.com/"></head>
+<body>
+<canvas id="waveBg" aria-hidden="true"></canvas>
+<header class="c-header l-header">
+	<div class="c-header__inner">
+		<p class="c-header__logo">
+			<a class="c-header__logo-link" href="/"><img src="/common/image/logo.svg" alt="GMO PAYMENTGATEWAY"></a>
+		</p>
+		<a class="u-skip-link" href="#main">本文へスキップ</a>
+		<div class="c-header__assembly">
+			<nav class="c-header-navi">
+				<div class="c-header-navi__sub">
+					<ul class="c-header-sub-navi">
+						<li class="c-header-sub-navi__item">
+							<button type="button" id="js-megaMenuCorpTrigger" class="c-header-sub-navi__link c-header-sub-navi__link--plus" aria-haspopup="true" aria-expanded="false" aria-controls="megaMenuCorp">
+								<span class="hide_if_en">会社情報</span>
+								<span class="hide_if_ja">Corporate</span>
+							</button>
+						</li>
+						<li class="c-header-sub-navi__item">
+							<a class="c-header-sub-navi__link" href="/news/">
+								<span class="hide_if_en">ニュース</span>
+								<span class="hide_if_ja">News</span>
+							</a>
+						</li>
+						<li class="c-header-sub-navi__item">
+							<button type="button" id="js-megaMenuIrTrigger" class="c-header-sub-navi__link c-header-sub-navi__link--plus" aria-haspopup="true" aria-expanded="false" aria-controls="megaMenuIr">
+								<span class="hide_if_en">IR情報</span>
+								<span class="hide_if_ja">Information for Investors</span>
+							</button>
+						</li>
+						<li class="c-header-sub-navi__item">
+							<a class="c-header-sub-navi__link" href="/sustainability/">
+								<span class="hide_if_en">サステナビリティ</span>
+								<span class="hide_if_ja">Sustainability</span>
+							</a>
+						</li>
+						<li class="c-header-sub-navi__item">
+							<a class="c-header-sub-navi__link" href="/corp/recruit/" target="_blank">
+								<span class="hide_if_en">採用情報</span>
+								<span class="hide_if_ja">Career</span>
+							</a>
+						</li>
+					</ul>
+				</div>
+				<div class="c-header-navi__main">
+					<!-- Global Navi -->
+					<ul class="c-header-global-navi">
+						<li class="c-header-global-navi__item">
+							 <button type="button" id="js-megaMenuServiceTrigger" class="c-header-global-navi__link" aria-haspopup="true" aria-expanded="false" aria-controls="megaMenuService">
+								<span class="hide_if_en">サービス</span>
+								<span class="hide_if_ja">Services</span>
+							</button>
+						</li>
+						<li class="c-header-global-navi__item">
+							<a class="c-header-global-navi__link" href="/customersuccess/">
+								<span class="hide_if_en">成功事例</span>
+								<span class="hide_if_ja">CustomerSuccess</span>
+							</a>
+						</li>
+						<li class="c-header-global-navi__item">
+							<a class="c-header-global-navi__link" href="/document/">
+								<span class="hide_if_en">お役立ち資料</span>
+								<span class="hide_if_ja">Documents</span>
+							</a>
+						</li>
+						<li class="c-header-global-navi__item">
+							<a class="c-header-global-navi__link" href="/inquiry/">
+								<span class="hide_if_en">資料請求・お問い合わせ</span>
+								<span class="hide_if_ja">Inquiry</span>
+							</a>
+						</li>
+					</ul>
+					<!-- /Global Navi -->
+				</div>
+			</nav>
+			<!-- Language Navi -->
+			<div class="wovn-languages">
+				<ul class="c-header-language">
+					<li class="c-header-language__item"><a class="c-header-language__link " href="#" data-value="ja" aria-current="true">JP</a></li>
+					<li class="c-header-language__item"><a class="c-header-language__link " href="#" data-value="en">EN</a></li>
+				</ul>
+			</div>
+			<!-- /Language Navi -->
+			<div class="c-header-search">
+				<button id="js-headerSearchTrigger" class="c-header-search__button" type="button" aria-label="サイト内検索フィールドを開く"></button>
+			</div>
+			<div class="c-header-menu">
+				<button id="js-headerMenuTrigger" class="c-header-menu__button" type="button" aria-label="メニューを開く"></button>
+			</div>
+			<div class="c-header-mega-menu"></div>
+		</div>
+	</div>
+</header>
+<!-- サイト内検索 START -->
+<div id="js-headerSearchTarget" class="c-header-searchBox">
+	<div class="hide_if_en">
+		<div class="c-header-searchBox__inner">
+			<form name="SS_searchForm_ja" id="SS_searchForm_ja" action="https://search.gmo-pg.com/search" method="get" enctype="application/x-www-form-urlencoded" data-hs-cf-bound="true">
+				<div class="c-header-searchBox__field">
+					<label for="SS_searchQuery_ja" class="c-header-searchBoxField">
+						<input type="hidden" name="site" value="66Q81MHZ" />
+						<input type="hidden" name="charset" value="UTF-8" />
+						<input type="hidden" name="design" value="neww" />
+						<input type="text" name="query" id="SS_searchQuery_ja" class="c-header-searchBoxField__input" placeholder="サイト内検索" value=""/>
+						<button type="submit" name="submit" class="c-header-searchBoxField__button" id="SS_searchSubmit_ja" aria-label="検索する"></button>
+					</label>
+				</div>
+			</form>
+		</div>
+	</div>
+	<div class="hide_if_ja">
+		<div class="c-header-searchBox__inner">
+			<form name="SS_searchForm_en" id="SS_searchForm_en" action="https://search.gmo-pg.com/search" method="get" enctype="application/x-www-form-urlencoded" data-hs-cf-bound="true">
+				<div class="c-header-searchBox__field">
+					<label for="SS_searchQuery_en" class="c-header-searchBoxField">
+						<input type="hidden" name="site" value="66Q81MHZ" />
+						<input type="hidden" name="charset" value="UTF-8" />
+						<input type="hidden" name="design" value="new_en" />
+						<input type="hidden" name="group" value="1" />
+						<input type="text" name="query" id="SS_searchQuery_en" class="c-header-searchBoxField__input" placeholder="Search" value=""/>
+						<button type="submit" name="submit" class="c-header-searchBoxField__button" id="SS_searchSubmit_en" aria-label="Search"></button>
+					</label>
+				</div>
+			</form>
+		</div>
+	</div>
+</div>
+<!-- サイト内検索 END -->
+<!-- SPメニュー START -->
+<div id="js-headerMenuTarget" class="c-header-menuBox">
+	<div class="c-header-menuBox__inner">
+		<nav class="c-header-menuArea">
+			<ul class="c-header-menuNavi" style="margin-bottom: 40px;">
+				<li>
+				<!-- サイト内検索 START -->
+					<div class="hide_if_en">
+						<div class="c-header-searchBox__inner">
+							<form name="SS_searchForm_ja_sp" id="SS_searchForm_ja_sp" action="https://search.gmo-pg.com/search" method="get" enctype="application/x-www-form-urlencoded" data-hs-cf-bound="true">
+								<div class="c-header-searchBox__field">
+									<label for="SS_searchQuery_ja_sp" class="c-header-searchBoxField">
+										<input type="hidden" name="site" value="66Q81MHZ" />
+										<input type="hidden" name="charset" value="UTF-8" />
+										<input type="hidden" name="design" value="neww" />
+										<input type="text" name="query" id="SS_searchQuery_ja_sp" class="c-header-searchBoxField__input" placeholder="サイト内検索" value=""/>
+										<button type="submit" name="submit" class="c-header-searchBoxField__button" id="SS_searchSubmit_ja_sp" aria-label="検索する"></button>
+									</label>
+								</div>
+							</form>
+						</div>
+					</div>
+					<div class="hide_if_ja">
+						<div class="c-header-searchBox__inner">
+							<form name="SS_searchForm_en_sp" id="SS_searchForm_en_sp" action="https://search.gmo-pg.com/search" method="get" enctype="application/x-www-form-urlencoded" data-hs-cf-bound="true">
+								<div class="c-header-searchBox__field">
+									<label for="SS_searchQuery_en_sp" class="c-header-searchBoxField">
+										<input type="hidden" name="site" value="66Q81MHZ" />
+										<input type="hidden" name="charset" value="UTF-8" />
+										<input type="hidden" name="design" value="new_en" />
+										<input type="hidden" name="group" value="1" />
+										<input type="text" name="query" id="SS_searchQuery_en_sp" class="c-header-searchBoxField__input" placeholder="Search" value=""/>
+										<button type="submit" name="submit" class="c-header-searchBoxField__button" id="SS_searchSubmit_en_sp" aria-label="Search"></button>
+									</label>
+								</div>
+							</form>
+						</div>
+					</div>
+				<!-- サイト内検索 END -->
+				</li>
+				<li class="c-header-menuNavi__item">
+					<button class="c-header-menuNavi__accordion is-active" type="button" aria-expanded="true" aria-controls="header-menu-service"><span class="hide_if_en">サービス</span><span class="hide_if_ja">Services</span></button>
+					<div class="c-header-menuChild c-header-menuChild--service" id="header-menu-service">
+						<div class="c-header-menuChild__inner">
+							<ul class="c-header-menuService">
+								<li class="c-header-menuService__item">
+									<div class="c-header-menuService__accordion is-active" role="button" tabindex="0"><span>決済代行サービス</span></div>
+									<div class="c-header-menuServiceChild">
+										<div class="c-header-menuServiceChild__inner">
+											<div class="c-header-menuServiceDetail">
+												<div class="c-header-menuServiceDetail__top">
+													<a class="c-header-menuServiceMulpay" href="/service/mulpay/">
+														<span class="c-header-menuServiceMulpay__subTitle">総合オンライン決済サービス</span>
+														<span class="c-header-menuServiceMulpay__title">PGマルチペイメントサービス</span>
+													</a>
+													<ul class="c-header-menuServicePayment">
+														<li class="c-header-menuServicePayment__item">
+															<div class="c-header-menuServicePayment__accordion" role="button" tabindex="0">ご提供可能な決済手段<span class="note">国内・国外あわせて30以上の手段を提供</span></div>
+															<div class="c-header-menuServicePaymentChild">
+																<div class="c-header-menuServicePaymentChild__inner">
+																	<ul class="c-header-menuSubLinks c-header-menuSubLinks--horizontal">
+																		<li class="c-header-menuSubLinks__item"><a class="c-header-menuSubLinks__link" href="/service/mulpay-creditcard/">クレジットカード</a></li>
+																		<li class="c-header-menuSubLinks__item"><a class="c-header-menuSubLinks__link" href="/service/mulpay-mobilecarrier/">キャリア決済</a></li>
+																		<li class="c-header-menuSubLinks__item"><a class="c-header-menuSubLinks__link" href="/service/mulpay-conveniencestore/">コンビニ決済</a></li>
+																		<li class="c-header-menuSubLinks__item"><a class="c-header-menuSubLinks__link" href="/service/mulpay-virtual/">銀行振込（バーチャル口座）</a></li>
+																		<li class="c-header-menuSubLinks__item"><a class="c-header-menuSubLinks__link" href="/service/mulpay-atobarai/">GMO後払い</a></li>
+																	</ul>
+																	<ul class="c-header-menuSubLinks c-header-menuSubLinks--horizontal">
+																		<li class="c-header-menuSubLinks__item c-header-menuSubLinks__item--1col"><span class="c-header-menuSubLinks__noLink">Pay系決済</span></li>
+																		<li class="c-header-menuSubLinks__item"><a class="c-header-menuSubLinks__link" href="/service/mulpay-paypay/">PayPay</a></li>
+																		<li class="c-header-menuSubLinks__item"><a class="c-header-menuSubLinks__link" href="/service/mulpay-amazonpay/">AmazonPay</a></li>
+																		<li class="c-header-menuSubLinks__item"><a class="c-header-menuSubLinks__link" href="/service/mulpay-mobilecarrier-docomo/">d払い</a></li>
+																		<li class="c-header-menuSubLinks__item"><a class="c-header-menuSubLinks__link" href="/service/mulpay-rakutenpay/">楽天ペイ</a></li>
+																		<li class="c-header-menuSubLinks__item"><a class="c-header-menuSubLinks__link" href="/service/mulpay-merpay/">メルペイ</a></li>
+																		<li class="c-header-menuSubLinks__item"><a class="c-header-menuSubLinks__link" href="/service/mulpay-googlepay/">GooglePay</a></li>
+																		<li class="c-header-menuSubLinks__item"><a class="c-header-menuSubLinks__link" href="/service/mulpay-applepay/">ApplePay</a></li>
+																	</ul>
+																</div>
+															</div>
+														</li>
+														<li class="c-header-menuServicePayment__item">
+															<div class="c-header-menuServicePayment__accordion" role="button" tabindex="0">セキュリティ対策</div>
+															<div class="c-header-menuServicePaymentChild">
+																<div class="c-header-menuServicePaymentChild__inner">
+																	<ul class="c-header-menuSubLinks c-header-menuSubLinks--horizontal">
+																		<li class="c-header-menuSubLinks__item"><a class="c-header-menuSubLinks__link" href="/service/security#security_01">情報漏えい対策</a></li>
+																		<li class="c-header-menuSubLinks__item"><a class="c-header-menuSubLinks__link" href="/service/security#security_02">不正利用対策</a></li>
+																		<li class="c-header-menuSubLinks__item"><a class="c-header-menuSubLinks__link" href="/service/security-3dsecure/">EMV 3Dセキュア(3Dセキュア2.0)</a></li>
+																		<li class="c-header-menuSubLinks__item"><a class="c-header-menuSubLinks__link" href="/service/security#security_03">クレジットマスター対策</a></li>
+																		<li class="c-header-menuSubLinks__item"><a class="c-header-menuSubLinks__link" href="/service/security-verify/">その他の対策</a></li>
+																	</ul>
+																	<p class="c-header-menuServiceGoToList"><a href="/service/security/">一覧へ</a></p>
+																</div>
+															</div>
+														</li>
+													</ul>
+												</div>
+												<div class="c-header-menuServiceDetail__bottom">
+													<ul class="c-header-menuServicePayment">
+														<li class="c-header-menuServicePayment__item">
+															<div class="c-header-menuServicePayment__accordion" role="button" tabindex="0">各種決済サービス</div>
+															<div class="c-header-menuServicePaymentChild">
+																<div class="c-header-menuServicePaymentChild__inner">
+																	<ul class="c-header-menuSubLinks">
+																		<li class="c-header-menuSubLinks__item"><a class="c-header-menuSubLinks__link" href="https://www.fincode.jp/" target="_blank">スタートアップ向けオンライン決済</a></li>
+																		<li class="c-header-menuSubLinks__item"><a class="c-header-menuSubLinks__link" href="https://www.epsilon.jp/" target="_blank">中小・個人事業主向けオンライン決済</a></li>
+																		<li class="c-header-menuSubLinks__item"><a class="c-header-menuSubLinks__link" href="/service/gcp/">店舗向けQR決済</a></li>
+																		<li class="c-header-menuSubLinks__item"><a class="c-header-menuSubLinks__link" href="https://gmo-fg.com/" target="_blank">実店舗向決済端末</a></li>
+																	</ul>
+																</div>
+															</div>
+														</li>
+													</ul>
+												</div>
+											</div>
+										</div>
+									</div>
+								</li>
+								<li class="c-header-menuService__item">
+									<div class="c-header-menuService__accordion is-active" role="button" tabindex="0"><span>ビジネス成長サポート</span></div>
+									<div class="c-header-menuServiceChild">
+										<div class="c-header-menuServiceChild__inner">
+											<ul class="c-header-menuServiceSupport">
+												<li class="c-header-menuServiceSupport__item">
+													<div class="c-header-menuServiceSupport__accordion" role="button" tabindex="0">ファイナンス支援</div>
+													<div class="c-header-menuServiceSupportChild">
+														<div class="c-header-menuServiceSupportChild__inner">
+															<ul class="c-header-menuSubLinks">
+																<li class="c-header-menuSubLinks__item"><a class="c-header-menuSubLinks__link" href="/service/invoicecardpay/">支払い期日を伸ばしたい</a></li>
+																<li class="c-header-menuSubLinks__item"><a class="c-header-menuSubLinks__link" href="/service/hayabarai/">売掛金を早期資金化したい</a></li>
+																<li class="c-header-menuSubLinks__item"><a class="c-header-menuSubLinks__link" href="/service/urikake/">売掛金の未回収リスクに備えたい</a></li>
+																<li class="c-header-menuSubLinks__item"><a class="c-header-menuSubLinks__link" href="/service/adpayment/">WEB広告費を後払いにしたい</a></li>
+																<li class="c-header-menuSubLinks__item"><a class="c-header-menuSubLinks__link" href="/service/souki/">ECの入金サイクルを最適化したい</a></li>
+																<li class="c-header-menuSubLinks__item"><a class="c-header-menuSubLinks__link" href="/service/tl/">事業費を調達したい</a></li>
+															</ul>
+														</div>
+													</div>
+												</li>
+												<li class="c-header-menuServiceSupport__item">
+													<div class="c-header-menuServiceSupport__accordion" role="button" tabindex="0">DX支援</div>
+													<div class="c-header-menuServiceSupportChild">
+														<div class="c-header-menuServiceSupportChild__inner">
+															<ul class="c-header-menuSubLinks">
+																<li class="c-header-menuSubLinks__item"><a class="c-header-menuSubLinks__link" href="/service/soukin/">返金/送金を効率化したい</a></li>
+																<li class="c-header-menuSubLinks__item"><a class="c-header-menuSubLinks__link" href="/service/digitalbilling/">請求書発行を効率化したい</a></li>
+																<li class="c-header-menuSubLinks__item"><a class="c-header-menuSubLinks__link" href="/service/sokkyu/">給与業務を効率化したい</a></li>
+																<li class="c-header-menuSubLinks__item"><a class="c-header-menuSubLinks__link" href="/service/themesolution/">課題別に探したい</a></li>
+																<li class="c-header-menuSubLinks__item"><a class="c-header-menuSubLinks__link" href="/service/ad/">サービスの集客を増やしたい</a></li>
+																<li class="c-header-menuSubLinks__item"><a class="c-header-menuSubLinks__link" href="/service/zcom/">海外展開を伴走してほしい</a></li>
+																<li class="c-header-menuSubLinks__item"><a class="c-header-menuSubLinks__link" href="/service/ginkopay/">銀行Pay 基盤システム</a></li>
+																<li class="c-header-menuSubLinks__item"><a class="c-header-menuSubLinks__link" href="/service/processing/">BaaS支援</a></li>
+															</ul>
+														</div>
+													</div>
+												</li>
+											</ul>
+										</div>
+									</div>
+								</li>
+							</ul>
+							<a class="c-header-menuServiceMore" href="/service/">すべてのサービスを見る</a>
+						</div>
+					</div>
+				</li>
+				<li class="c-header-menuNavi__item"><a class="c-header-menuNavi__link" href="/customersuccess/"><span class="hide_if_en">成功事例</span><span class="hide_if_ja">CustomerSuccess</span></a></li>
+				<li class="c-header-menuNavi__item"><a class="c-header-menuNavi__link" href="/document/"><span class="hide_if_en">お役立ち資料</span><span class="hide_if_ja">Documents</span></a></li>
+				<li class="c-header-menuNavi__item"><a class="c-header-menuNavi__link" href="/inquiry/"><span class="hide_if_en">資料請求・お問い合わせ</span><span class="hide_if_ja">Inquiry</span></a></li>
+				<li class="c-header-menuNavi__item">
+					<button class="c-header-menuNavi__accordion" type="button" aria-expanded="true" aria-controls="header-menu-corp"><span class="hide_if_en">会社情報</span><span class="hide_if_ja">Corporate</span></button>
+					<div class="c-header-menuChild" id="header-menu-corp">
+						<div class="c-header-menuChild__inner">
+							<ul class="c-header-menuLinks">
+								<li class="c-header-menuLinks__item"><a class="c-header-menuLinks__link" href="/corp/"><span class="hide_if_en">会社情報TOP</span><span class="hide_if_ja">CorporateTOP</span></a></li>
+								<li class="c-header-menuLinks__item"><a class="c-header-menuLinks__link" href="/corp/company/"><span class="hide_if_en">会社概要・沿革</span><span class="hide_if_ja">Company Profile and History</span></a></li>
+								<li class="c-header-menuLinks__item"><a class="c-header-menuLinks__link" href="/corp/company-access/"><span class="hide_if_en">地図・連絡先</span><span class="hide_if_ja">Map / Contact</span></a></li>
+								<li class="c-header-menuLinks__item"><a class="c-header-menuLinks__link" href="/corp/company-management/"><span class="hide_if_en">私たちについて</span><span class="hide_if_ja">Who We Are</span></a></li>
+								<li class="c-header-menuLinks__item"><a class="c-header-menuLinks__link" href="/corp/company-profile/"><span class="hide_if_en">役員一覧</span><span class="hide_if_ja">Board Members</span></a></li>
+								<li class="c-header-menuLinks__item"><a class="c-header-menuLinks__link" href="/corp/company-business/"><span class="hide_if_en">事業内容</span><span class="hide_if_ja">Business Overview</span></a></li>
+								<li class="c-header-menuLinks__item"><a class="c-header-menuLinks__link" href="/corp/company-access/">地図・連絡先</a></li>
+								<li class="c-header-menuLinks__item"><a class="c-header-menuLinks__link" href="/corp/company-value/"><span class="hide_if_en">提供価値の領域</span><span class="hide_if_ja">The Scope of Our Value Proposition</span></a></li>
+								<li class="c-header-menuLinks__item hide_if_en"><a class="c-header-menuLinks__link" href="/corp/security/"><span>セキュリティ・コンプライアンス</span><span>Security compliance</span></a></li>
+							</ul>
+						</div>
+					</div>
+				</li>
+				<li class="c-header-menuNavi__item"><a class="c-header-menuNavi__link" href="/news/"><span class="hide_if_en">ニュース</span><span class="hide_if_ja">News</span></a></li>
+				<li class="c-header-menuNavi__item">
+					<button class="c-header-menuNavi__accordion" type="button" aria-expanded="true" aria-controls="header-menu-IR"><span class="hide_if_en">IR情報</span><span class="hide_if_ja">Information for Investors</span></button>
+					<div class="c-header-menuChild" id="header-menu-IR">
+						<div class="c-header-menuChild__inner">
+							<ul class="c-header-menuLinks">
+								<li class="c-header-menuLinks__item"><a class="c-header-menuLinks__link" href="/ir/"><span class="hide_if_en">IR情報TOP</span><span class="hide_if_ja">IR TOP</span></a></li>
+								<li class="c-header-menuLinks__item"><a class="c-header-menuLinks__link" href="/ir/policy/"><span class="hide_if_en">経営方針</span><span class="hide_if_ja">Management Policy</span></a></li>
+								<li class="c-header-menuLinks__item"><a class="c-header-menuLinks__link" href="/ir/library/"><span class="hide_if_en">IR資料室</span><span class="hide_if_ja">IR Library</span></a></li>
+								<li class="c-header-menuLinks__item"><a class="c-header-menuLinks__link" href="/ir/newslist/"><span class="hide_if_en">IRニュース</span><span class="hide_if_ja">IR News</span></a></li>
+								<li class="c-header-menuLinks__item"><a class="c-header-menuLinks__link" href="/ir/stock/"><span class="hide_if_en">株式・格付情報</span><span class="hide_if_ja">Stock Overview</span></a></li>
+								<li class="c-header-menuLinks__item"><a class="c-header-menuLinks__link" href="/ir/calendar/"><span class="hide_if_en">IRカレンダー</span><span class="hide_if_ja">IR Calendar</span></a></li>
+								<li class="c-header-menuLinks__item"><a class="c-header-menuLinks__link" href="/ir/individual/"><span class="hide_if_en">個人投資家の皆様へ</span><span class="hide_if_ja">Information for Individual Investors</span></a></li>
+								<li class="c-header-menuLinks__item"><a class="c-header-menuLinks__link" href="/ir/highlights/"><span class="hide_if_en">財務ハイライト</span><span class="hide_if_ja">Financial Highlights</span></a></li>
+								<li class="c-header-menuLinks__item"><a class="c-header-menuLinks__link" href="/ir/faq/"><span class="hide_if_en">よくあるご質問</span><span class="hide_if_ja">Frequently Asked Questions</span></a></li>
+							</ul>
+						</div>
+					</div>
+				</li>
+				<li class="c-header-menuNavi__item"><a class="c-header-menuNavi__link" href="/sustainability/">サステナビリティ</a></li>
+				<li class="c-header-menuNavi__item"><a class="c-header-menuNavi__link" href="/corp/recruit/" target="_blank">採用情報</a></li>
+			</ul>
+		</nav>
+	</div>
+</div>
+<!-- SPメニュー END -->
+<!-- PCメガメニュー START -->
+<div id="js-overlay" class="bg-overlay"></div>
+<div class="c-header-megaMenu">
+	<div id="megaMenuCorp" class="c-megaMenu c-megaMenu--corp" hidden="">
+		<div class="c-megaMenu__inner">
+			<div class="c-megaMenu__heading">
+				<p class="c-megaMenu__title"><a href="/corp/">会社情報</a></p>
+				<p class="c-megaMenu__subTitle">CORPORATE</p>
+			</div>
+			<div class="c-megaMenu__body">
+				<nav class="c-megaMenuLinks">
+					<ul class="c-megaMenuLinksList">
+						<li class="c-megaMenuLinksList__item"><a class="c-megaMenuLinksList__link" href="/corp/company-management/"><span class="hide_if_en">私たちについて</span><span class="hide_if_ja">Who We Are</span></a></li>
+						<li class="c-megaMenuLinksList__item"><a class="c-megaMenuLinksList__link" href="/corp/company-business/"><span class="hide_if_en">事業内容</span><span class="hide_if_ja">Business Overview</span></a></li>
+						<li class="c-megaMenuLinksList__item"><a class="c-megaMenuLinksList__link" href="/corp/company/"><span class="hide_if_en">会社概要・沿革</span><span class="hide_if_ja">Company Profile and History</span></a></li>
+						<li class="c-megaMenuLinksList__item"><a class="c-megaMenuLinksList__link" href="/corp/company-access/"><span class="hide_if_en">地図・連絡先</span><span class="hide_if_ja">Map / Contact</span></a></li>
+						<li class="c-megaMenuLinksList__item"><a class="c-megaMenuLinksList__link" href="/corp/company-profile/"><span class="hide_if_en">役員一覧</span><span class="hide_if_ja">Board Members</span></a></li>
+						<li class="c-megaMenuLinksList__item"><a class="c-megaMenuLinksList__link" href="/corp/company-value/"><span class="hide_if_en">提供価値の領域</span><span class="hide_if_ja">The Scope of Our Value Proposition</span></a></li>
+						<li class="c-megaMenuLinksList__item hide_if_en">
+							<a class="c-megaMenuLinksList__link" href="/corp/security/">セキュリティ・<br>コンプライアンス</a>
+						</li>
+					</ul>
+				</nav>
+			</div>
+		</div>
+	</div>
+	<div id="megaMenuIr" class="c-megaMenu c-megaMenu--ir" hidden="">
+		<div class="c-megaMenu__inner">
+			<div class="c-megaMenu__heading">
+				<p class="c-megaMenu__title"><a href="/ir/">IR情報</a></p>
+				<p class="c-megaMenu__subTitle">Information for Investors</p>
+			</div>
+			<div class="c-megaMenu__body">
+				<nav class="c-megaMenuLinks">
+					<ul class="c-megaMenuLinksList">
+						<li class="c-megaMenuLinksList__item"><a class="c-megaMenuLinksList__link" href="/ir/newslist/"><span class="hide_if_en">IRニュース</span><span class="hide_if_ja">IR News</span></a></li>
+						<li class="c-megaMenuLinksList__item"><a class="c-megaMenuLinksList__link" href="/ir/policy/"><span class="hide_if_en">経営方針</span><span class="hide_if_ja">Management Policy</span></a></li>
+						<li class="c-megaMenuLinksList__item"><a class="c-megaMenuLinksList__link" href="/ir/library/"><span class="hide_if_en">IR資料室</span><span class="hide_if_ja">IR Library</span></a></li>
+						<li class="c-megaMenuLinksList__item"><a class="c-megaMenuLinksList__link" href="/ir/stock/"><span class="hide_if_en">株式・格付情報</span><span class="hide_if_ja">Stock Overview</span></a></li>
+						<li class="c-megaMenuLinksList__item"><a class="c-megaMenuLinksList__link" href="/ir/calendar/"><span class="hide_if_en">IRカレンダー</span><span class="hide_if_ja">IR Calendar</span></a></li>
+						<li class="c-megaMenuLinksList__item"><a class="c-megaMenuLinksList__link" href="/ir/individual/"><span class="hide_if_en">個人投資家の皆様へ</span><span class="hide_if_ja">Information for Individual Investors</span></a></li>
+						<li class="c-megaMenuLinksList__item"><a class="c-megaMenuLinksList__link" href="/ir/highlights/"><span class="hide_if_en">財務ハイライト</span><span class="hide_if_ja">Financial Highlights</span></a></li>
+						<li class="c-megaMenuLinksList__item"><a class="c-megaMenuLinksList__link" href="/ir/faq/"><span class="hide_if_en">よくあるご質問</span><span class="hide_if_ja">Frequently Asked Questions</span></a></li>
+					</ul>
+				</nav>
+			</div>
+		</div>
+	</div>
+	<div id="megaMenuService" class="c-megaMenuService" hidden="">
+		<div class="c-megaMenuService__inner">
+			<p class="c-megaMenuService__note">※<img src="/common/image/ico/ico_external.svg" width="16" height="16" alt="" aria-hidden="true">は各運営会社サイトに遷移します。</p>
+			<div class="c-megaMenuService__contents">
+				<div class="c-megaMenuServicePayment">
+					<p class="c-megaMenuServicePayment__title">決済代行サービス</p>
+					<div class="c-megaMenuServicePayment__body">
+						<div class="c-megaMenuServicePaymentColumn">
+							<div class="c-megaMenuServicePaymentColumn__left">
+								<div class="c-megaMenuServiceMulpay">
+									<p class="c-megaMenuServiceMulpay__subTitle">総合オンライン決済サービス</p>
+									<p class="c-megaMenuServiceMulpay__title"><a href="/service/mulpay/">PGマルチペイメントサービス</a></p>
+								</div>
+								<div class="c-megaMenuServicePaymentSubColumn">
+									<div class="c-megaMenuServicePaymentSubColumn__left">
+										<p class="c-megaMenuServicePaymentSubColumn__title">ご提供可能な決済手段<span class="note">（国内・国外あわせて30以上の手段を提供）</span></p>
+										<ul class="c-megaMenuServiceLinks c-megaMenuServiceLinks--horizontal">
+											<li class="c-megaMenuServiceLinks__item"><a class="c-megaMenuServiceLinks__link" href="/service/mulpay-creditcard/">クレジットカード</a></li>
+											<li class="c-megaMenuServiceLinks__item"><a class="c-megaMenuServiceLinks__link" href="/service/mulpay-mobilecarrier">キャリア決済</a></li>
+											<li class="c-megaMenuServiceLinks__item"><a class="c-megaMenuServiceLinks__link" href="/service/mulpay-conveniencestore">コンビニ決済</a></li>
+											<li class="c-megaMenuServiceLinks__item"><a class="c-megaMenuServiceLinks__link" href="/service/mulpay-virtual">銀行振込（バーチャル口座）</a></li>
+											<li class="c-megaMenuServiceLinks__item"><a class="c-megaMenuServiceLinks__link" href="/service/mulpay-atobarai">GMO後払い</a></li>
+										</ul>
+										<p class="c-megaMenuServicePaymentSubColumn__subTitle">Pay系決済</p>
+										<ul class="c-megaMenuServiceLinks c-megaMenuServiceLinks--horizontal">
+											<li class="c-megaMenuServiceLinks__item"><a class="c-megaMenuServiceLinks__link" href="/service/mulpay-paypay/">PayPay</a></li>
+											<li class="c-megaMenuServiceLinks__item"><a class="c-megaMenuServiceLinks__link" href="/service/mulpay-amazonpay/">AmazonPay</a></li>
+											<li class="c-megaMenuServiceLinks__item"><a class="c-megaMenuServiceLinks__link" href="/service/mulpay-mobilecarrier-docomo/">d払い</a></li>
+											<li class="c-megaMenuServiceLinks__item"><a class="c-megaMenuServiceLinks__link" href="/service/mulpay-rakutenpay/">楽天ペイ</a></li>
+											<li class="c-megaMenuServiceLinks__item"><a class="c-megaMenuServiceLinks__link" href="/service/mulpay-merpay/">メルペイ</a></li>
+											<li class="c-megaMenuServiceLinks__item"><a class="c-megaMenuServiceLinks__link" href="/service/mulpay-googlepay/">GooglePay</a></li>
+											<li class="c-megaMenuServiceLinks__item"><a class="c-megaMenuServiceLinks__link" href="/service/mulpay-applepay/">ApplePay</a></li>
+										</ul>
+									</div>
+									<div class="c-megaMenuServicePaymentSubColumn__right">
+										<p class="c-megaMenuServicePaymentSubColumn__title">セキュリティ対策</p>
+										<ul class="c-megaMenuServiceLinks c-megaMenuServiceLinks--horizontal">
+											<li class="c-megaMenuServiceLinks__item"><a class="c-megaMenuServiceLinks__link" href="/service/security#security_01">情報漏えい対策</a></li>
+											<li class="c-megaMenuServiceLinks__item"><a class="c-megaMenuServiceLinks__link" href="/service/security#security_02">不正利用対策</a></li>
+											<li class="c-megaMenuServiceLinks__item"><a class="c-megaMenuServiceLinks__link" href="/service/security-3dsecure/">EMV 3Dセキュア(3Dセキュア2.0)</a></li>
+											<li class="c-megaMenuServiceLinks__item"><a class="c-megaMenuServiceLinks__link" href="/service/security#security_03">クレジットマスター対策</a></li>
+											<li class="c-megaMenuServiceLinks__item"><a class="c-megaMenuServiceLinks__link" href="/service/security-verify/">その他の対策</a></li>
+										</ul>
+									</div>
+								</div>
+							</div>
+							<div class="c-megaMenuServicePaymentColumn__right">
+								<p class="c-megaMenuServicePaymentColumn__title">各種決済サービス</p>
+								<ul class="c-megaMenuServiceLinks">
+									<li class="c-megaMenuServiceLinks__item"><a class="c-megaMenuServiceLinks__link" href="https://www.fincode.jp/" target="_blank">スタートアップ向けオンライン決済</a></li>
+									<li class="c-megaMenuServiceLinks__item"><a class="c-megaMenuServiceLinks__link" href="https://www.epsilon.jp/" target="_blank">中小・個人事業主向けオンライン決済</a></li>
+									<li class="c-megaMenuServiceLinks__item"><a class="c-megaMenuServiceLinks__link" href="/service/gcp/">店舗向けQR決済</a></li>
+									<li class="c-megaMenuServiceLinks__item"><a class="c-megaMenuServiceLinks__link" href="https://gmo-fg.com/" target="_blank">実店舗向決済端末</a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="c-megaMenuServiceSupport">
+					<p class="c-megaMenuServiceSupport__title">ビジネス成長サポート</p>
+					<div class="c-megaMenuServiceSupportColumn">
+						<div class="c-megaMenuServiceSupportColumn__item">
+							<p class="c-megaMenuServiceSupportColumn__title"><a href="/service/cat04/">ファイナンス支援</a></p>
+							<div class="c-megaMenuServiceSupportColumn__body">
+								<ul class="c-megaMenuServiceLinks c-megaMenuServiceLinks--w50per">
+									<li class="c-megaMenuServiceLinks__item"><a class="c-megaMenuServiceLinks__link" href="/service/invoicecardpay/">支払い期日を伸ばしたい</a></li>
+									<li class="c-megaMenuServiceLinks__item"><a class="c-megaMenuServiceLinks__link" href="/service/hayabarai/">売掛金を早期資金化したい</a></li>
+									<li class="c-megaMenuServiceLinks__item"><a class="c-megaMenuServiceLinks__link" href="/service/urikake/">売掛金の未回収リスクに備えたい</a></li>
+									<li class="c-megaMenuServiceLinks__item"><a class="c-megaMenuServiceLinks__link" href="/service/adpayment/">WEB広告費を後払いにしたい</a></li>
+									<li class="c-megaMenuServiceLinks__item"><a class="c-megaMenuServiceLinks__link" href="/service/souki/">ECの入金サイクルを最適化したい</a></li>
+									<li class="c-megaMenuServiceLinks__item"><a class="c-megaMenuServiceLinks__link" href="/service/tl/">事業費を調達したい</a></li>
+								</ul>
+							</div>
+						</div>
+						<div class="c-megaMenuServiceSupportColumn__item">
+							<p class="c-megaMenuServiceSupportColumn__title">DX支援</p>
+							<div class="c-megaMenuServiceSupportColumn__body">
+								<ul class="c-megaMenuServiceLinks c-megaMenuServiceLinks--w50per">
+									<li class="c-megaMenuServiceLinks__item"><a class="c-megaMenuServiceLinks__link" href="/service/soukin/">返金/送金を効率化したい</a></li>
+									<li class="c-megaMenuServiceLinks__item"><a class="c-megaMenuServiceLinks__link" href="/service/digitalbilling/">請求書発行を効率化したい</a></li>
+									<li class="c-megaMenuServiceLinks__item"><a class="c-megaMenuServiceLinks__link" href="/service/sokkyu/">給与業務を効率化したい</a></li>
+									<li class="c-megaMenuServiceLinks__item"><a class="c-megaMenuServiceLinks__link" href="/service/themesolution/">課題別に探したい</a></li>
+									<li class="c-megaMenuServiceLinks__item"><a class="c-megaMenuServiceLinks__link" href="/service/ad/">サービスの集客を増やしたい</a></li>
+									<li class="c-megaMenuServiceLinks__item"><a class="c-megaMenuServiceLinks__link" href="/service/zcom/">海外展開を伴走してほしい</a></li>
+									<li class="c-megaMenuServiceLinks__item"><a class="c-megaMenuServiceLinks__link" href="/service/ginkopay/">銀行Pay 基盤システム</a></li>
+									<li class="c-megaMenuServiceLinks__item"><a class="c-megaMenuServiceLinks__link" href="/service/processing/">BaaS支援</a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="c-megaMenuService_bottom">
+				<a class="c-megaMenuService_viewMore" href="/service/">すべてのサービスを見る</a>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="c-shadow-header">
+	<div class="c-shadow-header__inner">
+		<ul class="c-shadow-header-links">
+			<li class="c-shadow-header-links__item">
+				<button type="button" id="js-megaMenuCorpCloseTrigger" class="c-shadow-header-links__button c-shadow-header-links__button--corp">会社情報</button>
+			</li>
+			<li class="c-shadow-header-links__item">
+				<button type="button" id="js-megaMenuIrCloseTrigger" class="c-shadow-header-links__button c-shadow-header-links__button--ir">IR情報</button>
+			</li>
+			<li class="c-shadow-header-links__item">
+				<button type="button" id="js-megaMenuServiceCloseTrigger" class="c-shadow-header-links__button c-shadow-header-links__button--service">サービス</button>
+			</li>
+		</ul>
+
+		<button id="js-headerSearchCloseTrigger" class="c-shadow-header-search-button" type="button" aria-label="サイト内検索フィールドを閉じる"></button>
+	</div>
+</div>
+<!-- PCメガメニュー END -->
+<main class="l-main">
+	<!-- キービジュアル START -->
+<div class="p-topKeyVisual">
+	<div class="p-topKeyVisual__inner">
+		<div id="js-topKeyVisualMainSlider" class="p-topKeyVisualContents swiper" style="position: relative;">
+			<div style="padding: 5px 0;background-color: rgb(0,0,0,0.3);color: #ffffff;text-align: center;z-index: 100;width: 100%;position: absolute;">
+            <a href="/news/news/info/2019/0618.html" style="text-decoration: none;">！当社もしくは類似する社名を騙る会社やサービス、フィッシングサイトへの誘導にご注意ください</a>
+			</div>
+			<div class="p-topKeyVisualMain swiper-wrapper">
+				<div class="p-topKeyVisualMain__item swiper-slide"><!-- 1つ目 -->
+					<div id="js-topKeyVisualFadeAnime" class="p-topKeyVisualAnime swiper">
+						<div class="p-topKeyVisualAnimeSlider swiper-wrapper">
+							<div class="p-topKeyVisualAnimeSlider__item swiper-slide">
+                            	<div class="animate">
+								<picture>
+									<source srcset="/top/image/img_top_kv01_sp.png" media="(max-width: 767px)">
+									<img src="/top/image/img_top_kv01.png">
+								</picture>
+                                </div>
+							</div>
+							<div class="p-topKeyVisualAnimeSlider__item swiper-slide">
+                            	<div class="animate">
+								<picture>
+									<source srcset="/top/image/img_top_kv03_sp.jpg" media="(max-width: 767px)">
+									<img src="/top/image/img_top_kv03.jpg">
+								</picture>
+                                </div>
+							</div>
+							<div class="p-topKeyVisualAnimeSlider__item swiper-slide">
+                            	<div class="animate">
+								<picture>
+									<source srcset="/top/image/img_top_kv02_sp.png" media="(max-width: 767px)">
+									<img src="/top/image/img_top_kv02.png">
+								</picture>
+                                </div>
+							</div>
+						</div>
+					</div>
+					<div class="p-topKeyVisualMain__content">
+						<h2 class="p-topKeyVisualMain__title">決済で、<br class="u-sp-only">次をつくる。</h2>
+						<p class="p-topKeyVisualMain__description">お金の流れをデジタル化し、<br class="u-sp-only">もっと便利で、もっと可能性あふれる社会へ。<br>
+							新しい夢、新しいビジネス、新しいサステナブル。<br>
+							決済はつくる、想像以上の未来を。</p>
+					</div>
+				</div>
+			</div>
+		</div>
+        <div class="p-topKeyVisualScroll">
+			<div class="p-topKeyVisualScroll__inner">
+				<div class="p-topKeyVisualScroll__shape">
+					<p class="p-topKeyVisualScroll__text">SCROLL</p>
+					<span class="p-topKeyVisualScroll__view"><span class="p-topKeyVisualScroll__line"></span><span class="p-topKeyVisualScroll__arrow"><img src="/top/image/icon_top_kv_arrow.svg"></span></span>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<!-- キービジュアル END -->
+	
+	
+	<!-- サービス -->
+<section class="p-topSectionService">
+	<div class="p-topSectionService__inner">
+		<div class="p-topService">
+			<div class="p-topService__top">
+				<div class="p-topService__heading">
+					<h2 class="p-topService__title">
+						<span class="en">SERVICE</span>
+						<span class="ja">サービス</span>
+					</h2>
+					<p class="p-topService__description">決済サービスの提供や資金面のサポート、コンサルティングなど<br>豊富なソリューションがお客様の事業成長をサポートします。<br>また、グローバル事業も積極的に行っています。</p>
+				</div>
+				<a class="p-topService__button c-button c-button--whiteWithGradation c-button--md" href="/service/">
+					<span class="c-button__text">サービス一覧へ</span>
+					<span class="c-button__icon"></span>
+				</a>
+			</div>
+			<div class="p-topService__middle">
+				<ul class="p-topServiceList">
+					<li class="p-topServiceList__item">
+                    <a href="/service/issue/onlinepayment/" class="p-topServiceCard">
+							<figure class="p-topServiceCard__image">
+								<img src="/top/image/img_top_service01.png" alt="オンライン決済サービス">
+							</figure>
+							<div class="p-topServiceCard__content">
+								<p class="p-topServiceCard__title">オンライン<br class="u-sp-only">決済サービス</p>
+							</div>
+						</a>
+					</li>
+					<li class="p-topServiceList__item">
+						<a href="/service/issue/ecreal/" class="p-topServiceCard">
+							<figure class="p-topServiceCard__image">
+								<img src="/top/image/img_top_service02.png" alt="ECサイト・実店舗での決済">
+							</figure>
+							<div class="p-topServiceCard__content">
+								<p class="p-topServiceCard__title">ECサイト・<br>実店舗での決済</p>
+							</div>
+						</a>
+					</li>
+					<li class="p-topServiceList__item">
+						<a href="/service/issue/finance/" class="p-topServiceCard">
+							<figure class="p-topServiceCard__image">
+								<img src="/top/image/img_top_service03.png" alt="事業会社向けファイナンス・送金・給与">
+							</figure>
+							<div class="p-topServiceCard__content">
+								<p class="p-topServiceCard__title">事業会社向け<br class="u-sp-only">ファイナンス<br>・送金・給与</p>
+							</div>
+						</a>
+					</li>
+					<li class="p-topServiceList__item">
+						<a href="/service/issue/BaaS/" class="p-topServiceCard">
+							<figure class="p-topServiceCard__image">
+								<img src="/top/image/img_top_service04.png" alt="金融機関向けBaaS支援">
+							</figure>
+							<div class="p-topServiceCard__content">
+								<p class="p-topServiceCard__title">金融機関向け<br class="u-sp-only">BaaS支援</p>
+							</div>
+						</a>
+					</li>
+				</ul>
+			</div>
+			<div class="p-topService__bottom">
+				<a class="p-topService__button c-button c-button--whiteWithGradation c-button--md" href="/service/">
+					<span class="c-button__text">サービス一覧へ</span>
+					<span class="c-button__icon"></span>
+				</a>
+			</div>
+		</div>
+	</div>
+</section>
+	<section class="p-topSectionValue">
+	<div class="p-topSectionValue__inner">
+		<div class="p-topValue">
+			<div class="p-topValue__content">
+				<div class="p-topValue__message">
+					<h2 class="p-topValue__title">
+						<span class="en">VALUE<br>PROPOSITION</span>
+						<span class="ja">提供価値の領域</span>
+					</h2>
+					<p class="p-topValue__description"><em>
+						決済イノベーションの創出で、<br>
+						お客様の成長と社会の進歩発展に<br>貢献する。
+					</em></p>
+					<div class="p-topValue__button">
+						<a class="c-button c-button--whiteWithGradation c-button--md" href="/corp/company-value/">
+							<span class="c-button__text">もっと見る</span>
+							<span class="c-button__icon"></span>
+						</a>
+					</div>
+				</div>
+				<figure class="p-topValue__figure">
+                	<span class="hide_if_en"><img class="image" src="/top/image/img_top_value_figure01.png" alt="提供価値の領域"></span>
+                	<span class="hide_if_ja"><img class="image" src="/top/image/img_top_value_figure01_en.png"></span>
+				</figure>
+			</div>
+			<div class="p-topValue__bottom">
+				<a class="c-button c-button--whiteWithGradation c-button--md" href="/corp/company-value/">
+					<span class="c-button__text">もっと見る</span>
+					<span class="c-button__icon"></span>
+				</a>
+			</div>
+			<div style="display: flex; margin-top: 20px;align-items: center;">
+				<figure style="width: 150px;">
+					<img src="/news/img/20250519press_ogp.png" style="border-radius: 10px;">
+				</figure>
+				<div style="margin-left: 12px;">
+					<div class="new_business">新しい取り組み</div>
+					<div>
+						<a href="https://www.epsilon.jp/news/20250619.html" target="_blank">【GMO-EP】国内PSP初、「fincode byGMO」がMCP対応、AI時代における最適な決済プラットフォームへ</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+	<!-- お知らせ -->
+	<section class="p-topSectionNews">
+		<div class="p-topSectionNews__inner">
+			<div class="p-topNews">
+				<div class="p-topNews__top">
+					<h2 class="p-topNews__title">
+						<span class="en">NEWS</span>
+						<span class="ja">お知らせ</span>
+					</h2>
+					<div id="js-topNewsTabTrigger" class="p-topNewsTabButton">
+						<button class="p-topNewsTabButton__item is-active" type="button">すべて</button>
+						<button class="p-topNewsTabButton__item" type="button">IRニュース</button>
+						<button class="p-topNewsTabButton__item" type="button">プレスリリース</button>
+						<button class="p-topNewsTabButton__item" type="button">お知らせ</button>
+					</div>
+					<div class="p-topNews__button">
+						<a class="c-button c-button--whiteWithGradation c-button--md" href="/news/">
+							<span class="c-button__text">もっと見る</span>
+							<span class="c-button__icon"></span>
+						</a>
+					</div>
+				</div>
+				<div class="p-topNews__content">
+					<div id="js-topNewsTabTarget" class="p-topNewsTabContent">
+						<div class="p-topNewsTabContent__item is-active">
+							
+							<ul class="p-topNewsList">
+								
+									<li class="p-topNewsListItem hide_if_ja">
+	<div class="p-topNewsListItem__head">
+		<time class="p-topNewsListItem__date" datetime="2026-02-03">2026.02.03</time>
+		<ul class="p-topNewsListItem__tagList">
+		
+		<li class="p-topNewsListItem__tag">
+		
+		
+		<span class="c-tag c-tag--press">プレスリリース</span>
+		
+		
+		</li>
+		
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">GMO PAYMENT GATEWAY</span></li>
+		</ul>
+		<!--  -->
+	</div>
+	<div class="p-topNewsListItem__body">
+		<p class="p-topNewsListItem__title"><a href="
+	/en/news/press/gmo-paymentgateway/2026/0203.html
+	
+">GMO Payment Gateway, the first PSP in Japan, has developed payment development documentation with LLM search and AI search</a></p>
+	</div>
+</li>
+
+
+
+	
+<li class="p-topNewsListItem hide_if_en">
+	<div class="p-topNewsListItem__head">
+		<time class="p-topNewsListItem__date" datetime="2026-02-03">2026.02.03</time>
+		<ul class="p-topNewsListItem__tagList">
+		
+		<li class="p-topNewsListItem__tag">
+		
+		
+		<span class="c-tag c-tag--press">プレスリリース</span>
+		
+		
+		</li>
+		
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">GMO PAYMENT GATEWAY</span></li>
+		</ul>
+		<!--  -->
+	</div>
+	<div class="p-topNewsListItem__body">
+		<p class="p-topNewsListItem__title"><a href="/news/press/gmo-paymentgateway/2026/0203.html">GMOペイメントゲートウェイ、国内PSP初、LLMによる探索とAI検索を備えた決済開発ドキュメントを整備</a></p>
+	</div>
+</li>
+
+
+								
+									<li class="p-topNewsListItem hide_if_ja">
+	<div class="p-topNewsListItem__head">
+		<time class="p-topNewsListItem__date" datetime="2026-02-02">2026.02.02</time>
+		<ul class="p-topNewsListItem__tagList">
+		
+		<li class="p-topNewsListItem__tag">
+		
+		
+		<span class="c-tag c-tag--press">プレスリリース</span>
+		
+		
+		</li>
+		
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">GMO PAYMENT GATEWAY</span></li>
+		</ul>
+		<!--  -->
+	</div>
+	<div class="p-topNewsListItem__body">
+		<p class="p-topNewsListItem__title"><a href="
+	/en/news/press/gmo-paymentgateway/2026/0202.html
+	
+">"GMO-PG Remittance Service" started offering "– Bank Transfer Instruction Option Combined with Electronic Payment Services " Remittances of over 1 million yen can be realized on the same interface</a></p>
+	</div>
+</li>
+
+
+
+	
+<li class="p-topNewsListItem hide_if_en">
+	<div class="p-topNewsListItem__head">
+		<time class="p-topNewsListItem__date" datetime="2026-02-02">2026.02.02</time>
+		<ul class="p-topNewsListItem__tagList">
+		
+		<li class="p-topNewsListItem__tag">
+		
+		
+		<span class="c-tag c-tag--press">プレスリリース</span>
+		
+		
+		</li>
+		
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">GMO PAYMENT GATEWAY</span></li>
+		</ul>
+		<!--  -->
+	</div>
+	<div class="p-topNewsListItem__body">
+		<p class="p-topNewsListItem__title"><a href="/news/press/gmo-paymentgateway/2026/0202.html">「GMO-PG送金サービス」で「電代業併用オプション」を提供開始 同一インターフェースで100万円超の送金も実現</a></p>
+	</div>
+</li>
+
+
+								
+									<li class="p-topNewsListItem hide_if_ja">
+	<div class="p-topNewsListItem__head">
+		<time class="p-topNewsListItem__date" datetime="2026-01-30">2026.01.30</time>
+		<ul class="p-topNewsListItem__tagList">
+		
+		<li class="p-topNewsListItem__tag">
+		
+		
+		<span class="c-tag c-tag--press">プレスリリース</span>
+		
+		
+		</li>
+		
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">GMO PAYMENT GATEWAY</span></li>
+		</ul>
+		<!--  -->
+	</div>
+	<div class="p-topNewsListItem__body">
+		<p class="p-topNewsListItem__title"><a href="
+	/en/news/press/gmo-paymentgateway/2026/0130.html
+	
+">freee and GMO Payment Gateway Launch New Service to Improve Cash Flow with invoice Card Payments</a></p>
+	</div>
+</li>
+
+
+
+	
+<li class="p-topNewsListItem hide_if_en">
+	<div class="p-topNewsListItem__head">
+		<time class="p-topNewsListItem__date" datetime="2026-01-30">2026.01.30</time>
+		<ul class="p-topNewsListItem__tagList">
+		
+		<li class="p-topNewsListItem__tag">
+		
+		
+		<span class="c-tag c-tag--press">プレスリリース</span>
+		
+		
+		</li>
+		
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">GMO PAYMENT GATEWAY</span></li>
+		</ul>
+		<!--  -->
+	</div>
+	<div class="p-topNewsListItem__body">
+		<p class="p-topNewsListItem__title"><a href="/news/press/gmo-paymentgateway/2026/0130.html">freeeとGMOペイメントゲートウェイ、請求書のカード払いでキャッシュフローを改善する新サービスを開始</a></p>
+	</div>
+</li>
+
+
+								
+									<li class="p-topNewsListItem hide_if_ja">
+	<div class="p-topNewsListItem__head">
+		<time class="p-topNewsListItem__date" datetime="2026-01-26">2026.01.26</time>
+		<ul class="p-topNewsListItem__tagList">
+		
+		<li class="p-topNewsListItem__tag">
+		
+		
+		<span class="c-tag c-tag--press">プレスリリース</span>
+		
+		
+		</li>
+		
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">GMO PAYMENT GATEWAY</span></li>
+		</ul>
+		<!--  -->
+	</div>
+	<div class="p-topNewsListItem__body">
+		<p class="p-topNewsListItem__title"><a href="
+	/en/news/press/gmo-paymentgateway/2026/0126.html
+	
+">GMO Payment Gateway launches "PX+ by GMO", an owned media platform that supports the growth of businesses starting with payment</a></p>
+	</div>
+</li>
+
+
+
+	
+<li class="p-topNewsListItem hide_if_en">
+	<div class="p-topNewsListItem__head">
+		<time class="p-topNewsListItem__date" datetime="2026-01-26">2026.01.26</time>
+		<ul class="p-topNewsListItem__tagList">
+		
+		<li class="p-topNewsListItem__tag">
+		
+		
+		<span class="c-tag c-tag--press">プレスリリース</span>
+		
+		
+		</li>
+		
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">GMO PAYMENT GATEWAY</span></li>
+		</ul>
+		<!--  -->
+	</div>
+	<div class="p-topNewsListItem__body">
+		<p class="p-topNewsListItem__title"><a href="/news/press/gmo-paymentgateway/2026/0126.html">GMOペイメントゲートウェイ、決済を起点に事業者の成長を支援するオウンドメディア「PX＋ byGMO」開始</a></p>
+	</div>
+</li>
+
+
+								
+									<li class="p-topNewsListItem hide_if_ja">
+	<div class="p-topNewsListItem__head">
+		<time class="p-topNewsListItem__date" datetime="2025-12-23">2025.12.23</time>
+		<ul class="p-topNewsListItem__tagList">
+		
+		<li class="p-topNewsListItem__tag">
+		
+		
+		<span class="c-tag c-tag--press">プレスリリース</span>
+		
+		
+		</li>
+		
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">GMO EPSILON</span></li>
+		</ul>
+		<!--  -->
+	</div>
+	<div class="p-topNewsListItem__body">
+		<p class="p-topNewsListItem__title"><a href="
+	/en/news/press/gmo-epsilon/2025/1223.html
+	
+">【GMO Epsilon】CSS and GMO Epsilon Begin Collaboration to Launch Payment Management Service "TREE PAYMENT－nyuukin totsugou zero VAce －" in March 2026</a></p>
+	</div>
+</li>
+
+
+
+	
+<li class="p-topNewsListItem hide_if_en">
+	<div class="p-topNewsListItem__head">
+		<time class="p-topNewsListItem__date" datetime="2025-12-23">2025.12.23</time>
+		<ul class="p-topNewsListItem__tagList">
+		
+		<li class="p-topNewsListItem__tag">
+		
+		
+		<span class="c-tag c-tag--press">プレスリリース</span>
+		
+		
+		</li>
+		
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">GMO EPSILON</span></li>
+		</ul>
+		<!--  -->
+	</div>
+	<div class="p-topNewsListItem__body">
+		<p class="p-topNewsListItem__title"><a href="/news/press/gmo-epsilon/2025/1223.html">【GMOイプシロン】CSSとGMOイプシロンが協業開始 入金管理サービス「TREE PAYMENT－入金突合ゼロVAce(ベース)－」を2026年3月提供開始</a></p>
+	</div>
+</li>
+
+
+								
+									<li class="p-topNewsListItem hide_if_ja">
+	<div class="p-topNewsListItem__head">
+		<time class="p-topNewsListItem__date" datetime="2025-12-22">2025.12.22</time>
+		<ul class="p-topNewsListItem__tagList">
+		
+		<li class="p-topNewsListItem__tag">
+		
+		
+		<span class="c-tag c-tag--press">プレスリリース</span>
+		
+		
+		</li>
+		
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">GMO PAYMENT GATEWAY</span></li>
+		</ul>
+		<!--  -->
+	</div>
+	<div class="p-topNewsListItem__body">
+		<p class="p-topNewsListItem__title"><a href="
+	/en/news/press/gmo-paymentgateway/2025/1222.html
+	
+">J&amp;J Tax Free and GMO Payment Gateway Support for New Tax Exemption System Refunds strategic alliance</a></p>
+	</div>
+</li>
+
+
+
+	
+<li class="p-topNewsListItem hide_if_en">
+	<div class="p-topNewsListItem__head">
+		<time class="p-topNewsListItem__date" datetime="2025-12-22">2025.12.22</time>
+		<ul class="p-topNewsListItem__tagList">
+		
+		<li class="p-topNewsListItem__tag">
+		
+		
+		<span class="c-tag c-tag--press">プレスリリース</span>
+		
+		
+		</li>
+		
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">GMO PAYMENT GATEWAY</span></li>
+		</ul>
+		<!--  -->
+	</div>
+	<div class="p-topNewsListItem__body">
+		<p class="p-topNewsListItem__title"><a href="/news/press/gmo-paymentgateway/2025/1222.html">J&amp;J Tax FreeとGMOペイメントゲートウェイ、新免税制度のリファンド方式対応で戦略的提携</a></p>
+	</div>
+</li>
+
+
+								
+									<li class="p-topNewsListItem hide_if_ja">
+	<div class="p-topNewsListItem__head">
+		<time class="p-topNewsListItem__date" datetime="2025-12-19">2025.12.19</time>
+		<ul class="p-topNewsListItem__tagList">
+		
+		<li class="p-topNewsListItem__tag">
+		
+		
+		<span class="c-tag c-tag--press">プレスリリース</span>
+		
+		
+		</li>
+		
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">GMO PAYMENT GATEWAY</span></li>
+		</ul>
+		<!--  -->
+	</div>
+	<div class="p-topNewsListItem__body">
+		<p class="p-topNewsListItem__title"><a href="
+	/en/news/press/gmo-paymentgateway/2025/1219.html
+	
+">GMO Payment Gateway Launches Free Webinar to Explain Smartphone Act Compatible Apps payment Trends</a></p>
+	</div>
+</li>
+
+
+
+	
+<li class="p-topNewsListItem hide_if_en">
+	<div class="p-topNewsListItem__head">
+		<time class="p-topNewsListItem__date" datetime="2025-12-19">2025.12.19</time>
+		<ul class="p-topNewsListItem__tagList">
+		
+		<li class="p-topNewsListItem__tag">
+		
+		
+		<span class="c-tag c-tag--press">プレスリリース</span>
+		
+		
+		</li>
+		
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">GMO PAYMENT GATEWAY</span></li>
+		</ul>
+		<!--  -->
+	</div>
+	<div class="p-topNewsListItem__body">
+		<p class="p-topNewsListItem__title"><a href="/news/press/gmo-paymentgateway/2025/1219.html">GMOペイメントゲートウェイ、スマホ新法に対応したアプリ決済トレンドを解説する無料オンラインセミナーを開催</a></p>
+	</div>
+</li>
+
+
+								
+									<li class="p-topNewsListItem hide_if_en">
+	<div class="p-topNewsListItem__head">
+		<time class="p-topNewsListItem__date" datetime="2025-12-15">2025.12.15</time>
+		<ul class="p-topNewsListItem__tagList">
+		
+		<li class="p-topNewsListItem__tag">
+		
+		
+		<span class="c-tag c-tag--ir">IRニュース</span>
+		
+		
+		</li>
+		
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">適時開示・任意開示</span></li>
+		</ul>
+		<!--  -->
+	</div>
+	<div class="p-topNewsListItem__body">
+		<p class="p-topNewsListItem__title"><a href="/news/pdf/20251215_CG.pdf" target="_blank">コーポレート・ガバナンス報告書</a></p>
+	</div>
+</li>
+
+
+								
+							</ul>
+						</div>
+						<div class="p-topNewsTabContent__item">
+                            <ul class="p-topNewsList">
+							
+							
+								<li class="p-topNewsListItem hide_if_en">
+	<div class="p-topNewsListItem__head">
+		<time class="p-topNewsListItem__date" datetime="2025-12-15">2025.12.15</time>
+		<ul class="p-topNewsListItem__tagList">
+		
+		<li class="p-topNewsListItem__tag">
+		
+		
+		<span class="c-tag c-tag--ir">IRニュース</span>
+		
+		
+		</li>
+		
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">適時開示・任意開示</span></li>
+		</ul>
+		<!--  -->
+	</div>
+	<div class="p-topNewsListItem__body">
+		<p class="p-topNewsListItem__title"><a href="/news/pdf/20251215_CG.pdf" target="_blank">コーポレート・ガバナンス報告書</a></p>
+	</div>
+</li>
+
+
+							
+								<li class="p-topNewsListItem hide_if_ja">
+	<div class="p-topNewsListItem__head">
+		<time class="p-topNewsListItem__date" datetime="2025-12-15">2025.12.15</time>
+		<ul class="p-topNewsListItem__tagList">
+		
+		<li class="p-topNewsListItem__tag">
+		
+		
+		<span class="c-tag c-tag--ir">IRニュース</span>
+		
+		
+		</li>
+		
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">適時開示・任意開示</span></li>
+		</ul>
+		<!--  -->
+	</div>
+	<div class="p-topNewsListItem__body">
+		<p class="p-topNewsListItem__title"><a href="
+	/news/pdf/20251215_gmo_pg_ir_kaiji_01_en.pdf
+		
+		
+" target="_blank">Notice Concerning Conversion Price Adjustment of Zero Coupon Convertible Bonds Due 2026</a></p>
+	</div>
+</li>
+
+
+
+	
+<li class="p-topNewsListItem hide_if_en">
+	<div class="p-topNewsListItem__head">
+		<time class="p-topNewsListItem__date" datetime="2025-12-15">2025.12.15</time>
+		<ul class="p-topNewsListItem__tagList">
+		
+		<li class="p-topNewsListItem__tag">
+		
+		
+		<span class="c-tag c-tag--ir">IRニュース</span>
+		
+		
+		</li>
+		
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">適時開示・任意開示</span></li>
+		</ul>
+		<!--  -->
+	</div>
+	<div class="p-topNewsListItem__body">
+		<p class="p-topNewsListItem__title"><a href="/news/pdf/20251215_gmo_pg_ir_kaiji_01.pdf" target="_blank">2026年満期ユーロ円建転換社債型新株予約権付社債の転換価額の調整に関するお知らせ</a></p>
+	</div>
+</li>
+
+
+							
+								<li class="p-topNewsListItem hide_if_ja">
+	<div class="p-topNewsListItem__head">
+		<time class="p-topNewsListItem__date" datetime="2025-12-15">2025.12.15</time>
+		<ul class="p-topNewsListItem__tagList">
+		
+		<li class="p-topNewsListItem__tag">
+		
+		
+		<span class="c-tag c-tag--ir">IRニュース</span>
+		
+		
+		</li>
+		
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">適時開示・任意開示</span></li>
+		</ul>
+		<!--  -->
+	</div>
+	<div class="p-topNewsListItem__body">
+		<p class="p-topNewsListItem__title"><a href="
+	/news/pdf/20251215_gmo_pg_ir_kaiji_02_en.pdf
+		
+		
+" target="_blank">Notice Concerning Controlling Shareholders, etc.</a></p>
+	</div>
+</li>
+
+
+
+	
+<li class="p-topNewsListItem hide_if_en">
+	<div class="p-topNewsListItem__head">
+		<time class="p-topNewsListItem__date" datetime="2025-12-15">2025.12.15</time>
+		<ul class="p-topNewsListItem__tagList">
+		
+		<li class="p-topNewsListItem__tag">
+		
+		
+		<span class="c-tag c-tag--ir">IRニュース</span>
+		
+		
+		</li>
+		
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">適時開示・任意開示</span></li>
+		</ul>
+		<!--  -->
+	</div>
+	<div class="p-topNewsListItem__body">
+		<p class="p-topNewsListItem__title"><a href="/news/pdf/20251215_gmo_pg_ir_kaiji_02.pdf" target="_blank">支配株主等に関する事項について</a></p>
+	</div>
+</li>
+
+
+							
+								<li class="p-topNewsListItem hide_if_en">
+	<div class="p-topNewsListItem__head">
+		<time class="p-topNewsListItem__date" datetime="2025-12-12">2025.12.12</time>
+		<ul class="p-topNewsListItem__tagList">
+		
+		<li class="p-topNewsListItem__tag">
+		
+		
+		<span class="c-tag c-tag--ir">IRニュース</span>
+		
+		
+		</li>
+		
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">有価証券報告書</span></li>
+		</ul>
+		<!--  -->
+	</div>
+	<div class="p-topNewsListItem__body">
+		<p class="p-topNewsListItem__title"><a href="/news/pdf/20251212_gmo_pg_ir_yuho.pdf" target="_blank">2025年9月期 有価証券報告書</a></p>
+	</div>
+</li>
+
+
+							
+								<li class="p-topNewsListItem hide_if_ja">
+	<div class="p-topNewsListItem__head">
+		<time class="p-topNewsListItem__date" datetime="2025-11-28">2025.11.28</time>
+		<ul class="p-topNewsListItem__tagList">
+		
+		<li class="p-topNewsListItem__tag">
+		
+		
+		<span class="c-tag c-tag--ir">IRニュース</span>
+		
+		
+		</li>
+		
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">株主総会</span></li>
+		</ul>
+		<!--  -->
+	</div>
+	<div class="p-topNewsListItem__body">
+		<p class="p-topNewsListItem__title"><a href="
+	/news/pdf/20251128_gmo_pg_ir_shosyu_en.pdf
+		
+		
+" target="_blank">Notice of the FY2025 (32nd) Annual Meeting of Shareholders</a></p>
+	</div>
+</li>
+
+
+
+	
+<li class="p-topNewsListItem hide_if_en">
+	<div class="p-topNewsListItem__head">
+		<time class="p-topNewsListItem__date" datetime="2025-11-28">2025.11.28</time>
+		<ul class="p-topNewsListItem__tagList">
+		
+		<li class="p-topNewsListItem__tag">
+		
+		
+		<span class="c-tag c-tag--ir">IRニュース</span>
+		
+		
+		</li>
+		
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">株主総会</span></li>
+		</ul>
+		<!--  -->
+	</div>
+	<div class="p-topNewsListItem__body">
+		<p class="p-topNewsListItem__title"><a href="
+	/news/pdf/20251128_gmo_pg_ir_shosyu_en.pdf
+		
+		
+" target="_blank">2025年9月期定時株主総会招集ご通知（英）</a></p>
+	</div>
+</li>
+
+
+							
+								<li class="p-topNewsListItem hide_if_en">
+	<div class="p-topNewsListItem__head">
+		<time class="p-topNewsListItem__date" datetime="2025-11-22">2025.11.22</time>
+		<ul class="p-topNewsListItem__tagList">
+		
+		<li class="p-topNewsListItem__tag">
+		
+		
+		<span class="c-tag c-tag--ir">IRニュース</span>
+		
+		
+		</li>
+		
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">株主総会</span></li>
+		</ul>
+		<!--  -->
+	</div>
+	<div class="p-topNewsListItem__body">
+		<p class="p-topNewsListItem__title"><a href="/news/pdf/20251122_gmo_pg_ir_shosyu.pdf" target="_blank">2025年9月期定時株主総会招集ご通知</a></p>
+	</div>
+</li>
+
+
+							
+								<li class="p-topNewsListItem hide_if_ja">
+	<div class="p-topNewsListItem__head">
+		<time class="p-topNewsListItem__date" datetime="2025-11-17">2025.11.17</time>
+		<ul class="p-topNewsListItem__tagList">
+		
+		<li class="p-topNewsListItem__tag">
+		
+		
+		<span class="c-tag c-tag--ir">IRニュース</span>
+		
+		
+		</li>
+		
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">適時開示・任意開示</span></li>
+		</ul>
+		<!--  -->
+	</div>
+	<div class="p-topNewsListItem__body">
+		<p class="p-topNewsListItem__title"><a href="
+	/news/pdf/20251117_gmo_pg_ir_kaiji_01_en.pdf
+		
+		
+" target="_blank">Notice Regarding the Distribution of Dividends from Retained Earnings</a></p>
+	</div>
+</li>
+
+
+
+	
+<li class="p-topNewsListItem hide_if_en">
+	<div class="p-topNewsListItem__head">
+		<time class="p-topNewsListItem__date" datetime="2025-11-17">2025.11.17</time>
+		<ul class="p-topNewsListItem__tagList">
+		
+		<li class="p-topNewsListItem__tag">
+		
+		
+		<span class="c-tag c-tag--ir">IRニュース</span>
+		
+		
+		</li>
+		
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">適時開示・任意開示</span></li>
+		</ul>
+		<!--  -->
+	</div>
+	<div class="p-topNewsListItem__body">
+		<p class="p-topNewsListItem__title"><a href="/news/pdf/20251117_gmo_pg_ir_kaiji_01.pdf" target="_blank">剰余金の配当に関するお知らせ</a></p>
+	</div>
+</li>
+
+
+							
+								<li class="p-topNewsListItem hide_if_ja">
+	<div class="p-topNewsListItem__head">
+		<time class="p-topNewsListItem__date" datetime="2025-11-17">2025.11.17</time>
+		<ul class="p-topNewsListItem__tagList">
+		
+		<li class="p-topNewsListItem__tag">
+		
+		
+		<span class="c-tag c-tag--ir">IRニュース</span>
+		
+		
+		</li>
+		
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">適時開示・任意開示</span></li>
+		</ul>
+		<!--  -->
+	</div>
+	<div class="p-topNewsListItem__body">
+		<p class="p-topNewsListItem__title"><a href="
+	/news/pdf/20251117_gmo_pg_ir_kaiji_02_en.pdf
+		
+		
+" target="_blank">Notice on Reinstatement and Partial Revision of the Performance-Based Stock Compensation Plan</a></p>
+	</div>
+</li>
+
+
+
+	
+<li class="p-topNewsListItem hide_if_en">
+	<div class="p-topNewsListItem__head">
+		<time class="p-topNewsListItem__date" datetime="2025-11-17">2025.11.17</time>
+		<ul class="p-topNewsListItem__tagList">
+		
+		<li class="p-topNewsListItem__tag">
+		
+		
+		<span class="c-tag c-tag--ir">IRニュース</span>
+		
+		
+		</li>
+		
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">適時開示・任意開示</span></li>
+		</ul>
+		<!--  -->
+	</div>
+	<div class="p-topNewsListItem__body">
+		<p class="p-topNewsListItem__title"><a href="/news/pdf/20251117_gmo_pg_ir_kaiji_02.pdf" target="_blank">業績連動型株式報酬制度の再開および一部改定に関するお知らせ</a></p>
+	</div>
+</li>
+
+
+							
+							</ul>
+						</div>
+						<div class="p-topNewsTabContent__item">
+                            <ul class="p-topNewsList">
+							
+							
+								<li class="p-topNewsListItem hide_if_ja">
+	<div class="p-topNewsListItem__head">
+		<time class="p-topNewsListItem__date" datetime="2026-02-03">2026.02.03</time>
+		<ul class="p-topNewsListItem__tagList">
+		
+		<li class="p-topNewsListItem__tag">
+		
+		
+		<span class="c-tag c-tag--press">プレスリリース</span>
+		
+		
+		</li>
+		
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">GMO PAYMENT GATEWAY</span></li>
+		</ul>
+		<!--  -->
+	</div>
+	<div class="p-topNewsListItem__body">
+		<p class="p-topNewsListItem__title"><a href="
+	/en/news/press/gmo-paymentgateway/2026/0203.html
+	
+">GMO Payment Gateway, the first PSP in Japan, has developed payment development documentation with LLM search and AI search</a></p>
+	</div>
+</li>
+
+
+
+	
+<li class="p-topNewsListItem hide_if_en">
+	<div class="p-topNewsListItem__head">
+		<time class="p-topNewsListItem__date" datetime="2026-02-03">2026.02.03</time>
+		<ul class="p-topNewsListItem__tagList">
+		
+		<li class="p-topNewsListItem__tag">
+		
+		
+		<span class="c-tag c-tag--press">プレスリリース</span>
+		
+		
+		</li>
+		
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">GMO PAYMENT GATEWAY</span></li>
+		</ul>
+		<!--  -->
+	</div>
+	<div class="p-topNewsListItem__body">
+		<p class="p-topNewsListItem__title"><a href="/news/press/gmo-paymentgateway/2026/0203.html">GMOペイメントゲートウェイ、国内PSP初、LLMによる探索とAI検索を備えた決済開発ドキュメントを整備</a></p>
+	</div>
+</li>
+
+
+							
+								<li class="p-topNewsListItem hide_if_ja">
+	<div class="p-topNewsListItem__head">
+		<time class="p-topNewsListItem__date" datetime="2026-02-02">2026.02.02</time>
+		<ul class="p-topNewsListItem__tagList">
+		
+		<li class="p-topNewsListItem__tag">
+		
+		
+		<span class="c-tag c-tag--press">プレスリリース</span>
+		
+		
+		</li>
+		
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">GMO PAYMENT GATEWAY</span></li>
+		</ul>
+		<!--  -->
+	</div>
+	<div class="p-topNewsListItem__body">
+		<p class="p-topNewsListItem__title"><a href="
+	/en/news/press/gmo-paymentgateway/2026/0202.html
+	
+">"GMO-PG Remittance Service" started offering "– Bank Transfer Instruction Option Combined with Electronic Payment Services " Remittances of over 1 million yen can be realized on the same interface</a></p>
+	</div>
+</li>
+
+
+
+	
+<li class="p-topNewsListItem hide_if_en">
+	<div class="p-topNewsListItem__head">
+		<time class="p-topNewsListItem__date" datetime="2026-02-02">2026.02.02</time>
+		<ul class="p-topNewsListItem__tagList">
+		
+		<li class="p-topNewsListItem__tag">
+		
+		
+		<span class="c-tag c-tag--press">プレスリリース</span>
+		
+		
+		</li>
+		
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">GMO PAYMENT GATEWAY</span></li>
+		</ul>
+		<!--  -->
+	</div>
+	<div class="p-topNewsListItem__body">
+		<p class="p-topNewsListItem__title"><a href="/news/press/gmo-paymentgateway/2026/0202.html">「GMO-PG送金サービス」で「電代業併用オプション」を提供開始 同一インターフェースで100万円超の送金も実現</a></p>
+	</div>
+</li>
+
+
+							
+								<li class="p-topNewsListItem hide_if_ja">
+	<div class="p-topNewsListItem__head">
+		<time class="p-topNewsListItem__date" datetime="2026-01-30">2026.01.30</time>
+		<ul class="p-topNewsListItem__tagList">
+		
+		<li class="p-topNewsListItem__tag">
+		
+		
+		<span class="c-tag c-tag--press">プレスリリース</span>
+		
+		
+		</li>
+		
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">GMO PAYMENT GATEWAY</span></li>
+		</ul>
+		<!--  -->
+	</div>
+	<div class="p-topNewsListItem__body">
+		<p class="p-topNewsListItem__title"><a href="
+	/en/news/press/gmo-paymentgateway/2026/0130.html
+	
+">freee and GMO Payment Gateway Launch New Service to Improve Cash Flow with invoice Card Payments</a></p>
+	</div>
+</li>
+
+
+
+	
+<li class="p-topNewsListItem hide_if_en">
+	<div class="p-topNewsListItem__head">
+		<time class="p-topNewsListItem__date" datetime="2026-01-30">2026.01.30</time>
+		<ul class="p-topNewsListItem__tagList">
+		
+		<li class="p-topNewsListItem__tag">
+		
+		
+		<span class="c-tag c-tag--press">プレスリリース</span>
+		
+		
+		</li>
+		
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">GMO PAYMENT GATEWAY</span></li>
+		</ul>
+		<!--  -->
+	</div>
+	<div class="p-topNewsListItem__body">
+		<p class="p-topNewsListItem__title"><a href="/news/press/gmo-paymentgateway/2026/0130.html">freeeとGMOペイメントゲートウェイ、請求書のカード払いでキャッシュフローを改善する新サービスを開始</a></p>
+	</div>
+</li>
+
+
+							
+								<li class="p-topNewsListItem hide_if_ja">
+	<div class="p-topNewsListItem__head">
+		<time class="p-topNewsListItem__date" datetime="2026-01-26">2026.01.26</time>
+		<ul class="p-topNewsListItem__tagList">
+		
+		<li class="p-topNewsListItem__tag">
+		
+		
+		<span class="c-tag c-tag--press">プレスリリース</span>
+		
+		
+		</li>
+		
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">GMO PAYMENT GATEWAY</span></li>
+		</ul>
+		<!--  -->
+	</div>
+	<div class="p-topNewsListItem__body">
+		<p class="p-topNewsListItem__title"><a href="
+	/en/news/press/gmo-paymentgateway/2026/0126.html
+	
+">GMO Payment Gateway launches "PX+ by GMO", an owned media platform that supports the growth of businesses starting with payment</a></p>
+	</div>
+</li>
+
+
+
+	
+<li class="p-topNewsListItem hide_if_en">
+	<div class="p-topNewsListItem__head">
+		<time class="p-topNewsListItem__date" datetime="2026-01-26">2026.01.26</time>
+		<ul class="p-topNewsListItem__tagList">
+		
+		<li class="p-topNewsListItem__tag">
+		
+		
+		<span class="c-tag c-tag--press">プレスリリース</span>
+		
+		
+		</li>
+		
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">GMO PAYMENT GATEWAY</span></li>
+		</ul>
+		<!--  -->
+	</div>
+	<div class="p-topNewsListItem__body">
+		<p class="p-topNewsListItem__title"><a href="/news/press/gmo-paymentgateway/2026/0126.html">GMOペイメントゲートウェイ、決済を起点に事業者の成長を支援するオウンドメディア「PX＋ byGMO」開始</a></p>
+	</div>
+</li>
+
+
+							
+								<li class="p-topNewsListItem hide_if_ja">
+	<div class="p-topNewsListItem__head">
+		<time class="p-topNewsListItem__date" datetime="2025-12-23">2025.12.23</time>
+		<ul class="p-topNewsListItem__tagList">
+		
+		<li class="p-topNewsListItem__tag">
+		
+		
+		<span class="c-tag c-tag--press">プレスリリース</span>
+		
+		
+		</li>
+		
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">GMO EPSILON</span></li>
+		</ul>
+		<!--  -->
+	</div>
+	<div class="p-topNewsListItem__body">
+		<p class="p-topNewsListItem__title"><a href="
+	/en/news/press/gmo-epsilon/2025/1223.html
+	
+">【GMO Epsilon】CSS and GMO Epsilon Begin Collaboration to Launch Payment Management Service "TREE PAYMENT－nyuukin totsugou zero VAce －" in March 2026</a></p>
+	</div>
+</li>
+
+
+
+	
+<li class="p-topNewsListItem hide_if_en">
+	<div class="p-topNewsListItem__head">
+		<time class="p-topNewsListItem__date" datetime="2025-12-23">2025.12.23</time>
+		<ul class="p-topNewsListItem__tagList">
+		
+		<li class="p-topNewsListItem__tag">
+		
+		
+		<span class="c-tag c-tag--press">プレスリリース</span>
+		
+		
+		</li>
+		
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">GMO EPSILON</span></li>
+		</ul>
+		<!--  -->
+	</div>
+	<div class="p-topNewsListItem__body">
+		<p class="p-topNewsListItem__title"><a href="/news/press/gmo-epsilon/2025/1223.html">【GMOイプシロン】CSSとGMOイプシロンが協業開始 入金管理サービス「TREE PAYMENT－入金突合ゼロVAce(ベース)－」を2026年3月提供開始</a></p>
+	</div>
+</li>
+
+
+							
+								<li class="p-topNewsListItem hide_if_ja">
+	<div class="p-topNewsListItem__head">
+		<time class="p-topNewsListItem__date" datetime="2025-12-22">2025.12.22</time>
+		<ul class="p-topNewsListItem__tagList">
+		
+		<li class="p-topNewsListItem__tag">
+		
+		
+		<span class="c-tag c-tag--press">プレスリリース</span>
+		
+		
+		</li>
+		
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">GMO PAYMENT GATEWAY</span></li>
+		</ul>
+		<!--  -->
+	</div>
+	<div class="p-topNewsListItem__body">
+		<p class="p-topNewsListItem__title"><a href="
+	/en/news/press/gmo-paymentgateway/2025/1222.html
+	
+">J&amp;J Tax Free and GMO Payment Gateway Support for New Tax Exemption System Refunds strategic alliance</a></p>
+	</div>
+</li>
+
+
+
+	
+<li class="p-topNewsListItem hide_if_en">
+	<div class="p-topNewsListItem__head">
+		<time class="p-topNewsListItem__date" datetime="2025-12-22">2025.12.22</time>
+		<ul class="p-topNewsListItem__tagList">
+		
+		<li class="p-topNewsListItem__tag">
+		
+		
+		<span class="c-tag c-tag--press">プレスリリース</span>
+		
+		
+		</li>
+		
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">GMO PAYMENT GATEWAY</span></li>
+		</ul>
+		<!--  -->
+	</div>
+	<div class="p-topNewsListItem__body">
+		<p class="p-topNewsListItem__title"><a href="/news/press/gmo-paymentgateway/2025/1222.html">J&amp;J Tax FreeとGMOペイメントゲートウェイ、新免税制度のリファンド方式対応で戦略的提携</a></p>
+	</div>
+</li>
+
+
+							
+								<li class="p-topNewsListItem hide_if_ja">
+	<div class="p-topNewsListItem__head">
+		<time class="p-topNewsListItem__date" datetime="2025-12-19">2025.12.19</time>
+		<ul class="p-topNewsListItem__tagList">
+		
+		<li class="p-topNewsListItem__tag">
+		
+		
+		<span class="c-tag c-tag--press">プレスリリース</span>
+		
+		
+		</li>
+		
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">GMO PAYMENT GATEWAY</span></li>
+		</ul>
+		<!--  -->
+	</div>
+	<div class="p-topNewsListItem__body">
+		<p class="p-topNewsListItem__title"><a href="
+	/en/news/press/gmo-paymentgateway/2025/1219.html
+	
+">GMO Payment Gateway Launches Free Webinar to Explain Smartphone Act Compatible Apps payment Trends</a></p>
+	</div>
+</li>
+
+
+
+	
+<li class="p-topNewsListItem hide_if_en">
+	<div class="p-topNewsListItem__head">
+		<time class="p-topNewsListItem__date" datetime="2025-12-19">2025.12.19</time>
+		<ul class="p-topNewsListItem__tagList">
+		
+		<li class="p-topNewsListItem__tag">
+		
+		
+		<span class="c-tag c-tag--press">プレスリリース</span>
+		
+		
+		</li>
+		
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">GMO PAYMENT GATEWAY</span></li>
+		</ul>
+		<!--  -->
+	</div>
+	<div class="p-topNewsListItem__body">
+		<p class="p-topNewsListItem__title"><a href="/news/press/gmo-paymentgateway/2025/1219.html">GMOペイメントゲートウェイ、スマホ新法に対応したアプリ決済トレンドを解説する無料オンラインセミナーを開催</a></p>
+	</div>
+</li>
+
+
+							
+								<li class="p-topNewsListItem hide_if_ja">
+	<div class="p-topNewsListItem__head">
+		<time class="p-topNewsListItem__date" datetime="2025-12-12">2025.12.12</time>
+		<ul class="p-topNewsListItem__tagList">
+		
+		<li class="p-topNewsListItem__tag">
+		
+		
+		<span class="c-tag c-tag--press">プレスリリース</span>
+		
+		
+		</li>
+		
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">GMO PAYMENT GATEWAY</span></li>
+		</ul>
+		<!--  -->
+	</div>
+	<div class="p-topNewsListItem__body">
+		<p class="p-topNewsListItem__title"><a href="
+	/en/news/press/gmo-paymentgateway/2025/1212.html
+	
+">First time named to CDP Climate Change Report 2025 as the highest rated "A-list" company</a></p>
+	</div>
+</li>
+
+
+
+	
+<li class="p-topNewsListItem hide_if_en">
+	<div class="p-topNewsListItem__head">
+		<time class="p-topNewsListItem__date" datetime="2025-12-12">2025.12.12</time>
+		<ul class="p-topNewsListItem__tagList">
+		
+		<li class="p-topNewsListItem__tag">
+		
+		
+		<span class="c-tag c-tag--press">プレスリリース</span>
+		
+		
+		</li>
+		
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">GMO PAYMENT GATEWAY</span></li>
+		</ul>
+		<!--  -->
+	</div>
+	<div class="p-topNewsListItem__body">
+		<p class="p-topNewsListItem__title"><a href="/news/press/gmo-paymentgateway/2025/1212.html">CDP気候変動レポート2025で最高評価の「Aリスト」企業に初選定</a></p>
+	</div>
+</li>
+
+
+							
+							</ul>
+						</div>
+						<div class="p-topNewsTabContent__item">
+                            <ul class="p-topNewsList">
+							
+							
+								<li class="p-topNewsListItem hide_if_ja">
+	<div class="p-topNewsListItem__head">
+		<time class="p-topNewsListItem__date" datetime="2025-10-01">2025.10.01</time>
+		<ul class="p-topNewsListItem__tagList">
+		
+		<li class="p-topNewsListItem__tag">
+		
+		
+		<span class="c-tag c-tag--news">お知らせ</span>
+		
+		
+		</li>
+		
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">お知らせ</span></li>
+		</ul>
+		<!--  -->
+	</div>
+	<div class="p-topNewsListItem__body">
+		<p class="p-topNewsListItem__title"><a href="
+	/en/news/news/info/2025/1001.html
+	
+">Acquired shares of GMO Reserve Plus and became a consolidated company of GMO Payment Gateway</a></p>
+	</div>
+</li>
+
+
+
+	
+<li class="p-topNewsListItem hide_if_en">
+	<div class="p-topNewsListItem__head">
+		<time class="p-topNewsListItem__date" datetime="2025-10-01">2025.10.01</time>
+		<ul class="p-topNewsListItem__tagList">
+		
+		<li class="p-topNewsListItem__tag">
+		
+		
+		<span class="c-tag c-tag--news">お知らせ</span>
+		
+		
+		</li>
+		
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">お知らせ</span></li>
+		</ul>
+		<!--  -->
+	</div>
+	<div class="p-topNewsListItem__body">
+		<p class="p-topNewsListItem__title"><a href="/news/news/info/2025/1001.html">GMOリザーブプラスの株式を取得し、GMOペイメントゲートウェイ連結対象会社へ</a></p>
+	</div>
+</li>
+
+
+							
+								<li class="p-topNewsListItem hide_if_ja">
+	<div class="p-topNewsListItem__head">
+		<time class="p-topNewsListItem__date" datetime="2025-05-29">2025.05.29</time>
+		<ul class="p-topNewsListItem__tagList">
+		
+		<li class="p-topNewsListItem__tag">
+		
+		
+		<span class="c-tag c-tag--news">お知らせ</span>
+		
+		
+		</li>
+		
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">お知らせ</span></li>
+		</ul>
+		<!--  -->
+	</div>
+	<div class="p-topNewsListItem__body">
+		<p class="p-topNewsListItem__title"><a href="
+	/en/news/news/info/2025/0529.html
+	
+">Added a new payment method "AEON Pay" to "PG Multi-Payment Service"</a></p>
+	</div>
+</li>
+
+
+
+	
+<li class="p-topNewsListItem hide_if_en">
+	<div class="p-topNewsListItem__head">
+		<time class="p-topNewsListItem__date" datetime="2025-05-29">2025.05.29</time>
+		<ul class="p-topNewsListItem__tagList">
+		
+		<li class="p-topNewsListItem__tag">
+		
+		
+		<span class="c-tag c-tag--news">お知らせ</span>
+		
+		
+		</li>
+		
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">お知らせ</span></li>
+		</ul>
+		<!--  -->
+	</div>
+	<div class="p-topNewsListItem__body">
+		<p class="p-topNewsListItem__title"><a href="/news/news/info/2025/0529.html">「PGマルチペイメントサービス」に新たな決済手段「AEON Pay」を追加</a></p>
+	</div>
+</li>
+
+
+							
+								<li class="p-topNewsListItem hide_if_ja">
+	<div class="p-topNewsListItem__head">
+		<time class="p-topNewsListItem__date" datetime="2025-02-20">2025.02.20</time>
+		<ul class="p-topNewsListItem__tagList">
+		
+		<li class="p-topNewsListItem__tag">
+		
+		
+		<span class="c-tag c-tag--news">お知らせ</span>
+		
+		
+		</li>
+		
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">お知らせ</span></li>
+		</ul>
+		<!--  -->
+	</div>
+	<div class="p-topNewsListItem__body">
+		<p class="p-topNewsListItem__title"><a href="
+	/en/news/news/info/2025/0220.html
+	
+">Notice of Change of Trade Name of Consolidated Company enpay Inc.</a></p>
+	</div>
+</li>
+
+
+
+	
+<li class="p-topNewsListItem hide_if_en">
+	<div class="p-topNewsListItem__head">
+		<time class="p-topNewsListItem__date" datetime="2025-02-20">2025.02.20</time>
+		<ul class="p-topNewsListItem__tagList">
+		
+		<li class="p-topNewsListItem__tag">
+		
+		
+		<span class="c-tag c-tag--news">お知らせ</span>
+		
+		
+		</li>
+		
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">お知らせ</span></li>
+		</ul>
+		<!--  -->
+	</div>
+	<div class="p-topNewsListItem__body">
+		<p class="p-topNewsListItem__title"><a href="/news/news/info/2025/0220.html">連結会社 株式会社エンペイの商号変更に関するお知らせ</a></p>
+	</div>
+</li>
+
+
+							
+								<li class="p-topNewsListItem hide_if_ja">
+	<div class="p-topNewsListItem__head">
+		<time class="p-topNewsListItem__date" datetime="2025-02-14">2025.02.14</time>
+		<ul class="p-topNewsListItem__tagList">
+		
+		<li class="p-topNewsListItem__tag">
+		
+		
+		<span class="c-tag c-tag--news">お知らせ</span>
+		
+		
+		</li>
+		
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">お知らせ</span></li>
+		</ul>
+		<!--  -->
+	</div>
+	<div class="p-topNewsListItem__body">
+		<p class="p-topNewsListItem__title"><a href="
+	/en/news/news/info/2025/0214.html
+	
+">Notice of Change of Trade Name of Consolidated Company GMO Medical Reservations Technology Co., Ltd.</a></p>
+	</div>
+</li>
+
+
+
+	
+<li class="p-topNewsListItem hide_if_en">
+	<div class="p-topNewsListItem__head">
+		<time class="p-topNewsListItem__date" datetime="2025-02-14">2025.02.14</time>
+		<ul class="p-topNewsListItem__tagList">
+		
+		<li class="p-topNewsListItem__tag">
+		
+		
+		<span class="c-tag c-tag--news">お知らせ</span>
+		
+		
+		</li>
+		
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">お知らせ</span></li>
+		</ul>
+		<!--  -->
+	</div>
+	<div class="p-topNewsListItem__body">
+		<p class="p-topNewsListItem__title"><a href="/news/news/info/2025/0214.html">連結会社 GMO医療予約技術研究所株式会社の商号変更に関するお知らせ</a></p>
+	</div>
+</li>
+
+
+							
+								<li class="p-topNewsListItem hide_if_ja">
+	<div class="p-topNewsListItem__head">
+		<time class="p-topNewsListItem__date" datetime="2025-02-06">2025.02.06</time>
+		<ul class="p-topNewsListItem__tagList">
+		
+		<li class="p-topNewsListItem__tag">
+		
+		
+		<span class="c-tag c-tag--news">お知らせ</span>
+		
+		
+		</li>
+		
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">お知らせ</span></li>
+		</ul>
+		<!--  -->
+	</div>
+	<div class="p-topNewsListItem__body">
+		<p class="p-topNewsListItem__title"><a href="
+	/en/news/news/info/2025/0206.html
+	
+">Selected as an "Outstanding Winner" in the "ODPO Data Utilization Idea Contest" sponsored by Osaka Prefecture</a></p>
+	</div>
+</li>
+
+
+
+	
+<li class="p-topNewsListItem hide_if_en">
+	<div class="p-topNewsListItem__head">
+		<time class="p-topNewsListItem__date" datetime="2025-02-06">2025.02.06</time>
+		<ul class="p-topNewsListItem__tagList">
+		
+		<li class="p-topNewsListItem__tag">
+		
+		
+		<span class="c-tag c-tag--news">お知らせ</span>
+		
+		
+		</li>
+		
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">お知らせ</span></li>
+		</ul>
+		<!--  -->
+	</div>
+	<div class="p-topNewsListItem__body">
+		<p class="p-topNewsListItem__title"><a href="/news/news/info/2025/0206.html">大阪府主催「ODPOデータ活用アイデアコンテスト」において「優秀者」に選定されました</a></p>
+	</div>
+</li>
+
+
+							
+								<li class="p-topNewsListItem hide_if_ja">
+	<div class="p-topNewsListItem__head">
+		<time class="p-topNewsListItem__date" datetime="2024-11-06">2024.11.06</time>
+		<ul class="p-topNewsListItem__tagList">
+		
+		<li class="p-topNewsListItem__tag">
+		
+		
+		<span class="c-tag c-tag--news">お知らせ</span>
+		
+		
+		</li>
+		
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">お知らせ</span></li>
+		</ul>
+		<!--  -->
+	</div>
+	<div class="p-topNewsListItem__body">
+		<p class="p-topNewsListItem__title"><a href="
+	/en/news/news/info/2024/1106.html
+	
+">Online Payment Service The "PayPay" installed in the "PG Multi-Payment Service" supports a smoother payment method using the new SDK</a></p>
+	</div>
+</li>
+
+
+
+	
+<li class="p-topNewsListItem hide_if_en">
+	<div class="p-topNewsListItem__head">
+		<time class="p-topNewsListItem__date" datetime="2024-11-06">2024.11.06</time>
+		<ul class="p-topNewsListItem__tagList">
+		
+		<li class="p-topNewsListItem__tag">
+		
+		
+		<span class="c-tag c-tag--news">お知らせ</span>
+		
+		
+		</li>
+		
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">お知らせ</span></li>
+		</ul>
+		<!--  -->
+	</div>
+	<div class="p-topNewsListItem__body">
+		<p class="p-topNewsListItem__title"><a href="/news/news/info/2024/1106.html">オンライン総合決済サービス「PGマルチペイメントサービス」に搭載している「PayPay」は、新しくSDKを用いたよりスムーズな決済方法に対応します</a></p>
+	</div>
+</li>
+
+
+							
+								<li class="p-topNewsListItem hide_if_ja">
+	<div class="p-topNewsListItem__head">
+		<time class="p-topNewsListItem__date" datetime="2024-09-02">2024.09.02</time>
+		<ul class="p-topNewsListItem__tagList">
+		
+		<li class="p-topNewsListItem__tag">
+		
+		
+		<span class="c-tag c-tag--news">お知らせ</span>
+		
+		
+		</li>
+		
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">お知らせ</span></li>
+		</ul>
+		<!--  -->
+	</div>
+	<div class="p-topNewsListItem__body">
+		<p class="p-topNewsListItem__title"><a href="
+	/en/news/news/info/2024/0902.html
+	
+">Selected as "Great Place to Work Certification" for 10 consecutive times with "Great Place to Work" certification</a></p>
+	</div>
+</li>
+
+
+
+	
+<li class="p-topNewsListItem hide_if_en">
+	<div class="p-topNewsListItem__head">
+		<time class="p-topNewsListItem__date" datetime="2024-09-02">2024.09.02</time>
+		<ul class="p-topNewsListItem__tagList">
+		
+		<li class="p-topNewsListItem__tag">
+		
+		
+		<span class="c-tag c-tag--news">お知らせ</span>
+		
+		
+		</li>
+		
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">お知らせ</span></li>
+		</ul>
+		<!--  -->
+	</div>
+	<div class="p-topNewsListItem__body">
+		<p class="p-topNewsListItem__title"><a href="/news/news/info/2024/0902.html">「働きがいのある会社」認定で10回連続「働きがい認定企業」に選出</a></p>
+	</div>
+</li>
+
+
+							
+								<li class="p-topNewsListItem hide_if_ja">
+	<div class="p-topNewsListItem__head">
+		<time class="p-topNewsListItem__date" datetime="2024-07-29">2024.07.29</time>
+		<ul class="p-topNewsListItem__tagList">
+		
+		<li class="p-topNewsListItem__tag">
+		
+		
+		<span class="c-tag c-tag--news">お知らせ</span>
+		
+		
+		</li>
+		
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">お知らせ</span></li>
+		</ul>
+		<!--  -->
+	</div>
+	<div class="p-topNewsListItem__body">
+		<p class="p-topNewsListItem__title"><a href="
+	/en/news/news/info/2024/0729.html
+	
+">Renewal of the website</a></p>
+	</div>
+</li>
+
+
+
+	
+<li class="p-topNewsListItem hide_if_en">
+	<div class="p-topNewsListItem__head">
+		<time class="p-topNewsListItem__date" datetime="2024-07-29">2024.07.29</time>
+		<ul class="p-topNewsListItem__tagList">
+		
+		<li class="p-topNewsListItem__tag">
+		
+		
+		<span class="c-tag c-tag--news">お知らせ</span>
+		
+		
+		</li>
+		
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">お知らせ</span></li>
+		</ul>
+		<!--  -->
+	</div>
+	<div class="p-topNewsListItem__body">
+		<p class="p-topNewsListItem__title"><a href="/news/news/info/2024/0729.html">WEBサイトをリニューアル</a></p>
+	</div>
+</li>
+
+
+							
+							</ul>
+						</div>
+					</div>
+				</div>
+				<div class="p-topNews__bottom">
+					<a class="c-button c-button--whiteWithGradation c-button--md" href="/news/">
+						<span class="c-button__text">もっと見る</span>
+						<span class="c-button__icon"></span>
+					</a>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="p-topSectionOwnedMedia">
+	<div class="p-topSectionOwnedMedia__inner">
+		<div class="p-topOwnedMedia">
+			<h2 class="p-topOwnedMedia__title">
+				<span class="en">OWNED MEDIA</span>
+				<span class="ja">あなたのとなりに決済を</span>
+			</h2>
+			<div class="p-topOwnedMedia__content">
+				<div id="js-topOwnedMediaSlider" class="splide" data-slider="topOwnedMediaSlider" aria-label="オウンドメディア記事のスライダー">
+					<div class="splide__track">
+						<ul class="p-topOwnedMediaList splide__list">
+							
+							
+							
+							
+							<li class="p-topOwnedMediaList__item splide__slide">
+								<a class="p-topOwnedMediaCard" href="/blog/articles/article-0174/">
+									<figure class="p-topOwnedMediaCard__thumbnail">
+										<img src="/blog/articles/images/article-0174_top.jpg" loading="lazy">
+									</figure>
+									<div class="p-topOwnedMediaCard__content">
+										<div class="p-topOwnedMediaCard__headline">
+											<time class="p-topOwnedMediaCard__date" datetime="2025-11-06">2025.11.06</time>
+											
+											<div class="p-topOwnedMediaCard__category">
+												
+												<span>AWS</span>
+												
+												<span>イベント</span>
+												
+												<span>エンジニア</span>
+												
+												<span>クラウド</span>
+												
+												<span>プロダクト紹介</span>
+												
+											</div>
+											
+										</div>
+										<p class="p-topOwnedMediaCard__title">年間20兆円の決済システムを支えるGMOペイメントゲートウェイが内製開発で蓄積したクラウド活用の極意 【AWS Summit Japan  2025】</p>
+									</div>
+								</a>
+							</li>
+							
+							
+							
+							<li class="p-topOwnedMediaList__item splide__slide">
+								<a class="p-topOwnedMediaCard" href="/blog/articles/article-0164/">
+									<figure class="p-topOwnedMediaCard__thumbnail">
+										<img src="/blog/articles/images/article-0164_top.jpg" loading="lazy">
+									</figure>
+									<div class="p-topOwnedMediaCard__content">
+										<div class="p-topOwnedMediaCard__headline">
+											<time class="p-topOwnedMediaCard__date" datetime="2025-09-19">2025.09.19</time>
+											
+											<div class="p-topOwnedMediaCard__category">
+												
+												<span>インタビュー</span>
+												
+												<span>エンジニア</span>
+												
+												<span>キャリア入社</span>
+												
+											</div>
+											
+										</div>
+										<p class="p-topOwnedMediaCard__title">決済サービスの土台をつくる──25%営業利益成長を支えるインフラエンジニアの視点</p>
+									</div>
+								</a>
+							</li>
+							
+							
+							
+							<li class="p-topOwnedMediaList__item splide__slide">
+								<a class="p-topOwnedMediaCard" href="/blog/articles/article-0159/">
+									<figure class="p-topOwnedMediaCard__thumbnail">
+										<img src="/blog/articles/images/article-0159_top.jpg" loading="lazy">
+									</figure>
+									<div class="p-topOwnedMediaCard__content">
+										<div class="p-topOwnedMediaCard__headline">
+											<time class="p-topOwnedMediaCard__date" datetime="2025-09-05">2025.09.05</time>
+											
+											<div class="p-topOwnedMediaCard__category">
+												
+												<span>インタビュー</span>
+												
+												<span>プロダクト紹介</span>
+												
+												<span>請求書カード払い byGMO</span>
+												
+											</div>
+											
+										</div>
+										<p class="p-topOwnedMediaCard__title">企業間決済に新たな選択肢を。「請求書カード払い byGMO」が描く BtoBキャッシュフローの新常識</p>
+									</div>
+								</a>
+							</li>
+							
+							
+							
+							<li class="p-topOwnedMediaList__item splide__slide">
+								<a class="p-topOwnedMediaCard" href="/blog/articles/article-0154/">
+									<figure class="p-topOwnedMediaCard__thumbnail">
+										<img src="/blog/articles/images/article-0154_top.jpg" loading="lazy">
+									</figure>
+									<div class="p-topOwnedMediaCard__content">
+										<div class="p-topOwnedMediaCard__headline">
+											<time class="p-topOwnedMediaCard__date" datetime="2025-08-07">2025.08.07</time>
+											
+											<div class="p-topOwnedMediaCard__category">
+												
+												<span>インタビュー</span>
+												
+												<span>プロダクト紹介</span>
+												
+												<span>即給 byGMO</span>
+												
+												<span>給与前払い</span>
+												
+											</div>
+											
+										</div>
+										<p class="p-topOwnedMediaCard__title">「いつでも給与が受け取れる時代」へ──GMO-PGが変える"給与の常識"と企業経営の未来</p>
+									</div>
+								</a>
+							</li>
+							
+							
+							
+							<li class="p-topOwnedMediaList__item splide__slide">
+								<a class="p-topOwnedMediaCard" href="/blog/articles/article-0158/">
+									<figure class="p-topOwnedMediaCard__thumbnail">
+										<img src="/blog/articles/images/article-0158_top.jpg" loading="lazy">
+									</figure>
+									<div class="p-topOwnedMediaCard__content">
+										<div class="p-topOwnedMediaCard__headline">
+											<time class="p-topOwnedMediaCard__date" datetime="2025-08-01">2025.08.01</time>
+											
+											<div class="p-topOwnedMediaCard__category">
+												
+												<span>AI</span>
+												
+												<span>fincode byGMO</span>
+												
+												<span>インタビュー</span>
+												
+												<span>プロダクト紹介</span>
+												
+											</div>
+											
+										</div>
+										<p class="p-topOwnedMediaCard__title">公式MCP対応で示すAIに任せる"決済領域"―決済サービスプロバイダーが果たすべきAI時代の役割―</p>
+									</div>
+								</a>
+							</li>
+							
+							
+						</ul>
+					</div>
+					<div class="splide__arrows">
+						<button class="splide__arrow splide__arrow--prev"><span>PREV</span></button>
+						<ul class="splide__pagination"></ul>
+						<button class="splide__arrow splide__arrow--next"><span>NEXT</span></button>
+						<button class="splide__toggle" type="button">
+							<span class="splide__toggle__play"><span class="splide__toggle__text">Play</span></span>
+							<span class="splide__toggle__pause"><span class="splide__toggle__text">Pause</span></span>
+						</button>
+					</div>
+				</div>
+			</div>
+			<div class="p-topOwnedMedia__bottom">
+				<a class="c-button c-button--whiteWithGradation c-button--md" href="/blog/">
+					<span class="c-button__text">あなたのとなりに決済を</span>
+					<span class="c-button__icon"></span>
+				</a>
+			</div>
+		</div>
+	</div>
+</section>
+	<div class="p-topSectionlinks">
+	<div class="p-topSectionlinks__inner">
+		<ul class="p-topLinks">
+			<li class="p-topLinks__item">
+				<a href="/ir/" class="p-topLinksCard p-topLinksCard--investor">
+					<p class="p-topLinksCard__heading">INVESTOR<br>RELATIONS</p>
+					<div class="p-topLinksCard__bottom">
+						<p class="p-topLinksCard__jaText">投資家向け情報</p>
+						<div class="p-topLinksCard__icon"></div>
+					</div>
+				</a>
+			</li>
+			<li class="p-topLinks__item">
+				<a href="/sustainability/" class="p-topLinksCard p-topLinksCard--sustainability">
+					<p class="p-topLinksCard__heading">SUSTAINABILITY</p>
+					<div class="p-topLinksCard__bottom">
+						<p class="p-topLinksCard__jaText">サステナビリティ</p>
+						<div class="p-topLinksCard__icon"></div>
+					</div>
+				</a>
+			</li>
+			<li class="p-topLinks__item">
+				<a href="/corp/recruit/" class="p-topLinksCard p-topLinksCard--recruit">
+					<p class="p-topLinksCard__heading">RECRUIT</p>
+					<div class="p-topLinksCard__bottom">
+						<p class="p-topLinksCard__jaText">採用情報</p>
+						<div class="p-topLinksCard__icon"></div>
+					</div>
+				</a>
+			</li>
+			<li class="p-topLinks__item">
+				<a href="/corp/" class="p-topLinksCard p-topLinksCard--corporate">
+					<p class="p-topLinksCard__heading">CORPORATE</p>
+					<div class="p-topLinksCard__bottom">
+						<p class="p-topLinksCard__jaText">会社情報</p>
+						<div class="p-topLinksCard__icon"></div>
+					</div>
+				</a>
+			</li>
+		</ul>
+	</div>
+</div>
+	<section class="p-topSectionInquiry">
+	<a href="/inquiry/" class="p-topSectionInquiry__inner">
+		<div class="p-topSectionInquiry__content">
+			<h2 class="p-topSectionInquiry__title">
+				<span class="en">INQUIRY</span>
+				<span class="ja">お問合せ</span>
+			</h2>
+			<p class="p-topSectionInquiry__description">メディア関連やパートナープログラム関連、サービスについてなど<br>各種お問い合わせはこちらから</p>
+			<span class="p-topSectionInquiry__icon"></span>
+		</div>
+	</a>
+</section>
+</main>
+<footer class="c-footer l-footer">
+
+	<div class="c-footerLogoArea">
+		<ul class="c-footerLogo">
+			<li class="c-footerLogo__item">
+				<figure class="c-footerLogo__image">
+					<a class="c-footerLogo__link" href="https://privacymark.jp/" target="_blank">
+						<img src="/common/image/logo/ico_pmark.png" alt="プライバシーマークのロゴ画像" width="76" height="76">
+					</a>
+				</figure>
+				<div class="c-footerLogo__content">
+					<p class="c-footerLogo__name">プライバシーマーク</p>
+					<p class="c-footerLogo__description">GMOペイメントゲートウェイはプライバシーマークの認定を受けています。</p>
+				</div>
+			</li>
+			<li class="c-footerLogo__item">
+				<figure class="c-footerLogo__image">
+					<a class="c-footerLogo__link" href="/corp/security-pcidss/" target="_blank">
+						<img src="/common/image/logo/logo_pcidss181220.png" alt="PCI DSSGMOのロゴ画像" width="76" height="76">
+					</a>
+				</figure>
+				<div class="c-footerLogo__content">
+					<p class="c-footerLogo__name">PCI DSS</p>
+					<p class="c-footerLogo__description">GMOペイメントゲートウェイのサービスはPCI DSSに完全準拠しています。</p>
+				</div>
+			</li>
+			<li class="c-footerLogo__item">
+				<figure class="c-footerLogo__image">
+					<a class="c-footerLogo__link" href="/corp/security-iso27001/" target="_blank">
+						<img src="/common/image/logo/logo_iso27001.png" alt="ISO27001GMOのロゴ画像" width="112" height="76">
+					</a>
+				</figure>
+				<div class="c-footerLogo__content">
+					<p class="c-footerLogo__name">ISO27001</p>
+					<p class="c-footerLogo__description">GMOペイメントゲートウェイは事業所全てを対象にISO27001への適合認証を取得しています。</p>
+				</div>
+			</li>
+		</ul>
+	</div>
+
+	<div class="c-footerShareArea">
+		<div class="c-share" data-title="決済代行など多様なオンライン決済サービスの導入ならGMOペイメントゲートウェイ" data-url="https://www.gmo-pg.com/" data-hide-on-noindex="true"></div>
+	</div>
+
+	<div class="c-footer__top">
+		<p class="c-footer__topText">私たちがお客さまの事業成長を<br class="u-sp-only">サポートいたします。</p>
+		<div class="c-footerGroupBannerArea splide" data-slider="footerGroupBannerSlider" aria-label="GMOグループ会社のバナー画像スライダー">
+			<div class="splide__arrows">
+				<button class="splide__arrow splide__arrow--prev"><span>PREV</span></button>
+				<ul class="splide__pagination"></ul>
+				<button class="splide__arrow splide__arrow--next"><span>NEXT</span></button>
+				<button class="splide__toggle" type="button">
+					<span class="splide__toggle__play"><span class="splide__toggle__text">Play</span></span>
+					<span class="splide__toggle__pause"><span class="splide__toggle__text">Pause</span></span>
+				</button>
+			</div>
+			<div class="splide__track">
+				<ul class="c-footerGroupBanner splide__list">
+					<li class="c-footerGroupBanner__item splide__slide">
+						<span><img src="/common/image/bnr/footer/companies_logo_01.png" alt="GMO PAYMENT GATEWAY"></span>
+					</li>
+					<li class="c-footerGroupBanner__item splide__slide">
+						<a href="https://www.epsilon.jp/" target="_blank"><img src="/common/image/bnr/footer/companies_logo_02.png" alt="GMO EPSILON"></a>
+					</li>
+					<li class="c-footerGroupBanner__item splide__slide">
+						<a href="https://www.gmo-ps.com/" target="_blank"><img src="/common/image/bnr/footer/companies_logo_03.png" alt="GMO PAYMENT SERVISE"></a>
+					</li>
+					<li class="c-footerGroupBanner__item splide__slide">
+						<a href="https://gmo-fg.com/" target="_blank"><img src="/common/image/bnr/footer/companies_logo_04.png" alt="GMO FINANCIAL GATE"></a>
+					</li>
+					<li class="c-footerGroupBanner__item splide__slide">
+						<a href="https://www.gmo-cas.com/" target="_blank"><img src="/common/image/bnr/footer/companies_logo_05.png" alt="GMO CARD SYSTEM"></a>
+					</li>
+					<li class="c-footerGroupBanner__item splide__slide">
+						<a href="https://gmo-reserve.plus/" target="_blank"><img src="/common/image/bnr/footer/companies_logo_06.png" alt="GMO RESERVE PLUS"></a>
+					</li>
+					<li class="c-footerGroupBanner__item splide__slide">
+						<a href="https://www.enpay.co.jp/corporation/" target="_blank"><img src="/common/image/bnr/footer/companies_logo_14.png" alt="GMO ENPAY"></a>
+					</li>
+					<li class="c-footerGroupBanner__item splide__slide">
+						<span><img src="/common/image/bnr/footer/companies_logo_08.png" alt="GMO-Z.com Payment Gateway Pte. Ltd."></span>
+					</li>
+					<li class="c-footerGroupBanner__item splide__slide">
+						<span><img src="/common/image/bnr/footer/companies_logo_09.png" alt="GMO-Z.com Payment Gateway HK Ltd."></span>
+					</li>
+					<li class="c-footerGroupBanner__item splide__slide">
+						<span><img src="/common/image/bnr/footer/companies_logo_11.png" alt="GMO-Z.com Payment Gateway Malaysia Sdn. Bhd."></span>
+					</li>
+					<li class="c-footerGroupBanner__item splide__slide">
+						<span><img src="/common/image/bnr/footer/companies_logo_10.png" alt="GMO-Z.com Payment Gateway Thailand Co., Ltd."></span>
+					</li>
+					<li class="c-footerGroupBanner__item splide__slide">
+						<a href="https://www.gmo-pg.com/us/" target="_blank"><img src="/common/image/bnr/footer/companies_logo_12.png" alt="GMO-Z.com Payment Gateway USA, Inc."></a>
+					</li>
+					<li class="c-footerGroupBanner__item splide__slide">
+						<span><img src="/common/image/bnr/footer/companies_logo_13.png" alt="GMO-Z.com Payment Gateway India Pvt. Ltd."></span>
+					</li>
+				</ul>
+			</div>
+		</div>
+		<div class="c-footerMain">
+			<div class="c-footerMain__top">
+				<nav class="c-footerNavi">
+					<div class="c-footerNaviBlock">
+						<div class="c-footerNaviBlock__item c-footerNaviBlock__item--accordion">
+							<p class="c-footerNaviBlock__title"><span>SERVICE</span></p>
+							<div class="c-footerNaviBlock__body">
+								<div class="c-footerColumn">
+									<div class="c-footerUnit c-footerUnit--w25per">
+										<h3 class="c-footerUnit__title">決済代行サービス</h3>
+										<div class="c-footerUnitColumn c-footerUnitColumn--noGrid">
+											<div class="c-footerUnitNavi">
+												<h4 class="c-footerUnitNavi__title">オンライン向け</h4>
+												<ul class="c-footerUnitNaviList">
+													<li class="c-footerUnitNaviList__item"><a href="/service/mulpay/">PGマルチペイメントサービス</a></li>
+													<li class="c-footerUnitNaviList__item"><a href="https://www.fincode.jp/">fincode byGMO</a></li>
+													<li class="c-footerUnitNaviList__item"><a href="https://www.epsilon.jp/">Epsilon byGMO</a></li>
+												</ul>
+
+												<h4 class="c-footerUnitNavi__title">対面向け</h4>
+												<ul class="c-footerUnitNaviList">
+													<li class="c-footerUnitNaviList__item"><a href="/service/gcp/">GMO Cashless Platform</a></li>
+													<li class="c-footerUnitNaviList__item"><a href="https://gmo-fg.com/index.html">キャッシュレス決済インフラ</a></li>
+													<li class="c-footerUnitNaviList__item"><a href="/service/taimen/">対面連携サービス</a></li>
+												</ul>
+
+												<h4 class="c-footerUnitNavi__title">海外展開向け</h4>
+												<ul class="c-footerUnitNaviList">
+													<li class="c-footerUnitNaviList__item"><a href="/service/zcom/">Z.com Payment</a></li>
+												</ul>
+											</div>
+										</div>
+									</div>
+									<!-- /.c-footerUnit -->
+
+									<div class="c-footerUnit c-footerUnit--w75per">
+										<h3 class="c-footerUnit__title">オンライン決済手段</h3>
+
+										<div class="c-footerUnitColumn">
+											<div class="c-footerUnitNavi">
+												<h4 class="c-footerUnitNavi__title">クレジットカード払い系</h4>
+												<ul class="c-footerUnitNaviList">
+													<li class="c-footerUnitNaviList__item"><a href="/service/mulpay-creditcard/">クレジットカード決済</a></li>
+													<li class="c-footerUnitNaviList__item"><a href="/service/mulpay-googlepay/">Google Pay決済サービス</a></li>
+													<li class="c-footerUnitNaviList__item"><a href="/service/mulpay-applepay/">Apple Pay</a></li>
+												</ul>
+
+												<h4 class="c-footerUnitNavi__title">Pay払い系</h4>
+												<ul class="c-footerUnitNaviList">
+													<li class="c-footerUnitNaviList__item"><a href="/service/mulpay-paypay/">PayPay</a></li>
+													<li class="c-footerUnitNaviList__item"><a href="/service/mulpay-mobilecarrier-docomo/">d払い</a></li>
+													<li class="c-footerUnitNaviList__item"><a href="/service/mulpay-rakutenpay/">楽天ペイ（オンライン決済）</a></li>
+													<li class="c-footerUnitNaviList__item"><a href="/service/mulpay-amazonpay/">Amazon Pay</a></li>
+													<li class="c-footerUnitNaviList__item"><a href="/service/mulpay-merpay/">メルペイ</a></li>
+													<li class="c-footerUnitNaviList__item"><a href="/service/mulpay-aeonpay/">AEON Pay（イオンペイ）</a></li>
+												</ul>
+											</div>
+
+											<div class="c-footerUnitNavi">
+												<h4 class="c-footerUnitNavi__title">現金払い系</h4>
+												<ul class="c-footerUnitNaviList">
+													<li class="c-footerUnitNaviList__item"><a href="/service/mulpay-conveniencestore/">コンビニ決済</a></li>
+													<li class="c-footerUnitNaviList__item"><a href="/service/mulpay-payeasy/">Pay-easy（ペイジー）決済</a></li>
+													<li class="c-footerUnitNaviList__item"><a href="/service/mulpay-virtual/">銀行振込（バーチャル口座）</a></li>
+												</ul>
+
+												<h4 class="c-footerUnitNavi__title">BtoB系</h4>
+												<ul class="c-footerUnitNaviList">
+													<li class="c-footerUnitNaviList__item"><a href="https://www.gmo-ps.com/kb_customer/">GMO掛け払い</a></li>
+													<li class="c-footerUnitNaviList__item"><a href="/service/mulpay-creditcard/">クレジットカード決済</a></li>
+													<li class="c-footerUnitNaviList__item"><a href="/service/mulpay-virtual/">銀行振込（バーチャル口座）</a></li>
+													<li class="c-footerUnitNaviList__item"><a href="/service/mulpay-accounttransfer/">口座振替サービス</a></li>
+													<li class="c-footerUnitNaviList__item"><a href="/service/mulpay-paid/">Paid決済</a></li>
+												</ul>
+											</div>
+
+											<div class="c-footerUnitNavi">
+												<h4 class="c-footerUnitNavi__title">後払い</h4>
+												<ul class="c-footerUnitNaviList">
+													<li class="c-footerUnitNaviList__item"><a href="/service/mulpay-atobarai/">GMO後払い</a></li>
+													<li class="c-footerUnitNaviList__item"><a href="https://www.gmo-ps.com/kb_customer/">GMO掛け払い</a></li>
+													<li class="c-footerUnitNaviList__item"><a href="/service/mulpay-atokara/">アトカラ</a></li>
+												</ul>
+
+												<h4 class="c-footerUnitNavi__title">その他</h4>
+												<ul class="c-footerUnitNaviList">
+													<li class="c-footerUnitNaviList__item"><a href="/service/mulpay-netcash/">NET CASH決済</a></li>
+													<li class="c-footerUnitNaviList__item"><a href="/service/mulpay-jcbpremo/">JCB PREMO</a></li>
+													<li class="c-footerUnitNaviList__item"><a href="/service/mulpay-mobileedy/">モバイルEdy決済</a></li>
+													<li class="c-footerUnitNaviList__item"><a href="/service/mulpay-mobilesuica/">モバイルSuica決済</a></li>
+													<li class="c-footerUnitNaviList__item"><a href="/service/mulpay-webmoney/">WebMoney（ウェブマネー）決済</a></li>
+												</ul>
+											</div>
+										</div>
+									</div>
+									<!-- /.c-footerUnit -->
+								</div>
+								<!-- /.c-footerColumn -->
+
+								<div class="c-footerColumn">
+									<div class="c-footerUnit c-footerUnit--w25per">
+										<h3 class="c-footerUnit__title">セキュリティ対策</h3>
+
+										<div class="c-footerUnitColumn c-footerUnitColumn--noGrid">
+											<div class="c-footerUnitNavi">
+												<h4 class="c-footerUnitNavi__title">情報漏えい対策</h4>
+												<ul class="c-footerUnitNaviList">
+													<li class="c-footerUnitNaviList__item"><a href="/service/security-ivr/">IVR決済サービス</a></li>
+													<li class="c-footerUnitNaviList__item"><a href="/service/security-tablet/">決済専用タブレット端末</a></li>
+													<li class="c-footerUnitNaviList__item"><a href="/service/mulpay-linktypeplus/">リンクタイプPlus</a></li>
+													<li class="c-footerUnitNaviList__item"><a href="/service/security-attacksyadan/">大量アタック遮断サービス</a></li>
+												</ul>
+
+												<h4 class="c-footerUnitNavi__title">不正利用対策</h4>
+												<ul class="c-footerUnitNaviList">
+													<li class="c-footerUnitNaviList__item"><a href="/service/security-sift/">不正防止サービス（Sift）</a></li>
+													<li class="c-footerUnitNaviList__item"><a href="/service/security-red/">不正防止サービス（ReDShield）</a></li>
+													<li class="c-footerUnitNaviList__item"><a href="/service/security-3dsecure/">EMV 3-Dセキュア(3Dセキュア2.0)</a></li>
+													<li class="c-footerUnitNaviList__item"><a href="/service/security-securitycode/">セキュリティコード</a></li>
+													<li class="c-footerUnitNaviList__item"><a href="/service/security-chargeback/">チャージバック補償団体保険</a></li>
+													<li class="c-footerUnitNaviList__item"><a href="/service/security-attacksyadan/">大量アタック遮断サービス</a></li>
+													<li class="c-footerUnitNaviList__item"><a href="/service/security-cyberprotector/">サイバープロテクター</a></li>
+												</ul>
+
+												<h4 class="c-footerUnitNavi__title">その他</h4>
+												<ul class="c-footerUnitNaviList">
+													<li class="c-footerUnitNaviList__item"><a href="/service/ssl/">SSLクーポン</a></li>
+													<li class="c-footerUnitNaviList__item"><a href="/service/security-verify/">Verifyサービス</a></li>
+												</ul>
+											</div>
+										</div>
+									</div>
+									<!-- /.c-footerUnit -->
+
+									<div class="c-footerUnit c-footerUnit--w25per">
+										<h3 class="c-footerUnit__title">資金面のサポート</h3>
+										<div class="c-footerUnitColumn c-footerUnitColumn--noGrid">
+											<div class="c-footerUnitNavi">
+												<h4 class="c-footerUnitNavi__title">BtoC向け</h4>
+												<ul class="c-footerUnitNaviList">
+													<li class="c-footerUnitNaviList__item"><a href="/service/tl/">GMO-PG トランザクションレンディング</a></li>
+													<li class="c-footerUnitNaviList__item"><a href="/service/souki/">早期入金サービス</a></li>
+												</ul>
+
+												<h4 class="c-footerUnitNavi__title">BtoB向け</h4>
+												<ul class="c-footerUnitNaviList">
+													<li class="c-footerUnitNaviList__item"><a href="/service/hayabarai/">GMO BtoB早払い（ファクタリング）</a></li>
+													<li class="c-footerUnitNaviList__item"><a href="/service/adpayment/">広告費後払い決済代行サービス</a></li>
+													<li class="c-footerUnitNaviList__item"><a href="/service/urikake/">GMO BtoB売掛保証</a></li>
+													<li class="c-footerUnitNaviList__item"><a href="/service/shiharaihosho/">GMO BtoB支払保証</a></li>
+													<li class="c-footerUnitNaviList__item"><a href="https://www.gmo-ps.com/kb_customer/">GMO掛け払い</a></li>
+													<li class="c-footerUnitNaviList__item"><a href="/service/invoicecardpay/">請求書カード払い byGMO</a></li>
+												</ul>
+											</div>
+										</div>
+									</div>
+									<!-- /.c-footerUnit -->
+
+									<div class="c-footerUnit c-footerUnit--w50per">
+										<h3 class="c-footerUnit__title">送金・企業間決済・給与振込</h3>
+										<div class="c-footerUnitColumn">
+											<div class="c-footerUnitNavi">
+												<h4 class="c-footerUnitNavi__title">支払い業務</h4>
+												<ul class="c-footerUnitNaviList">
+													<li class="c-footerUnitNaviList__item"><a href="/service/mulpay-virtual/">銀行振込（バーチャル口座）</a></li>
+													<li class="c-footerUnitNaviList__item"><a href="/service/mulpay-accounttransfer/">口座振替サービス</a></li>
+													<li class="c-footerUnitNaviList__item"><a href="/service/digitalbilling/">GMOデジタル請求サービス</a></li>
+													<li class="c-footerUnitNaviList__item"><a href="https://www.gmo-ps.com/kb_customer/">GMO掛け払い</a></li>
+												</ul>
+
+												<h4 class="c-footerUnitNavi__title">給与業務</h4>
+												<ul class="c-footerUnitNaviList">
+													<li class="c-footerUnitNaviList__item"><a href="/service/sokkyu/">即給 byGMO</a></li>
+												</ul>
+
+												<h4 class="c-footerUnitNavi__title">送金業務</h4>
+												<ul class="c-footerUnitNaviList">
+													<li class="c-footerUnitNaviList__item"><a href="/service/soukin/">GMO-PG送金サービス</a></li>
+													<li class="c-footerUnitNaviList__item"><a href="/service/remittance/">海外送金サービス</a></li>
+												</ul>
+											</div>
+
+											<div class="c-footerUnitNavi">
+												<h4 class="c-footerUnitNavi__title">企業間決済手段</h4>
+												<ul class="c-footerUnitNaviList">
+													<li class="c-footerUnitNaviList__item"><a href="https://www.gmo-ps.com/kb_customer/">GMO掛け払い</a></li>
+													<li class="c-footerUnitNaviList__item"><a href="/service/mulpay-creditcard/">クレジットカード決済</a></li>
+													<li class="c-footerUnitNaviList__item"><a href="/service/mulpay-virtual/">銀行振込（バーチャル口座）</a></li>
+													<li class="c-footerUnitNaviList__item"><a href="/service/mulpay-accounttransfer/">口座振替サービス</a></li>
+													<li class="c-footerUnitNaviList__item"><a href="/service/mulpay-paid/">Paid決済</a></li>
+													<li class="c-footerUnitNaviList__item"><a href="/service/invoicecardpay/">請求書カード払い byGMO</a></li>
+												</ul>
+											</div>
+										</div>
+									</div>
+									<!-- /.c-footerUnit -->
+								</div>
+								<!-- /.c-footerColumn -->
+							</div>
+						</div>
+					</div>
+					<div class="c-footerNaviBlock c-footerNaviBlock--3col">
+						<div class="c-footerNaviBlock__item">
+							<p class="c-footerNaviBlock__title"><a href="/customersuccess/">CUSTOMER SUCCESS</a></p>
+						</div>
+						<div class="c-footerNaviBlock__item">
+							<p class="c-footerNaviBlock__title"><a href="/document/">DOWNLOAD</a></p>
+						</div>
+						<div class="c-footerNaviBlock__item">
+							<p class="c-footerNaviBlock__title"><a href="/news/">NEWS</a></p>
+						</div>
+					</div>
+					<div class="c-footerNaviBlock c-footerNaviBlock--2to1col">
+						<div class="c-footerNaviBlock__item c-footerNaviBlock__item--accordion">
+							<p class="c-footerNaviBlock__title"><span>CORPORATE</span></p>
+							<div class="c-footerNaviBlock__body">
+								<div class="c-footerColumn">
+									<div class="c-footerUnit c-footerUnit--w25per">
+										<div class="c-footerUnitNavi">
+											<ul class="c-footerUnitNaviList">
+												<li class="c-footerUnitNaviList__item"><a href="/corp/company-management/">私たちについて</a></li>
+												<li class="c-footerUnitNaviList__item"><a href="/corp/company-business/">事業内容</a></li>
+												<li class="c-footerUnitNaviList__item"><a href="/corp/company/">会社概要・沿革</a></li>
+												<li class="c-footerUnitNaviList__item"><a href="/corp/company-profile/">役員一覧</a></li>
+												<li class="c-footerUnitNaviList__item"><a href="/corp/company-access/">地図・連絡先</a></li>
+												<li class="c-footerUnitNaviList__item"><a href="/corp/company-value/">提供価値の領域</a></li>
+											</ul>
+										</div>
+									</div>
+									<div class="c-footerUnit c-footerUnit--w75per hide_if_en">
+										<div class="c-footerUnitNavi">
+											<h4 class="c-footerUnitNavi__title">セキュリティ・コンプライアンス</h4>
+											<div class="c-footerUnitNaviListColumn">
+												<ul class="c-footerUnitNaviList">
+													<li class="c-footerUnitNaviList__item"><a href="/corp/security/">セキュリティ・コンプライアンス TOP</a></li>
+													<li class="c-footerUnitNaviList__item"><a href="/corp/security-iso27001/">ISO27001適合認証</a></li>
+													<li class="c-footerUnitNaviList__item"><a href="/corp/security-pcidss/">PCI DSS</a></li>
+													<li class="c-footerUnitNaviList__item"><a href="/corp/security-policy/">情報セキュリティ基本方針</a></li>
+													<li class="c-footerUnitNaviList__item"><a href="/corp/security-privacypolicy/">個人情報及び特定個人情報保護方針</a></li>
+													<li class="c-footerUnitNaviList__item"><a href="/corp/security-handling/">個人情報等の取り扱いについて</a></li>
+												</ul>
+												<ul class="c-footerUnitNaviList">
+													<li class="c-footerUnitNaviList__item"><a href="/corp/security-financialsolicitation/">金融商品勧誘方針</a></li>
+													<li class="c-footerUnitNaviList__item"><a href="/corp/security-electronicpaymentservice/">「電子決済等代行業」に係る表示</a></li>
+													<li class="c-footerUnitNaviList__item"><a href="/corp/security-amlcft/">「マネー・ローンダリング及びテロ資金供与対策に関するガイドライン」を踏まえた当社の取組について</a></li>
+												</ul>
+											</div>
+										</div>
+									</div>
+								</div>
+								<!-- /.c-footerColumn -->
+								<div class="c-footerColumn">
+									<div class="c-footerUnit c-footerUnit--w75per">
+										<div class="c-footerUnitNavi">
+											<ul class="c-footerUnitNaviList">
+												<li class="c-footerUnitNaviList__item"><a href="/corp/news_em/20170310.html">2017年3月10日の「不正アクセスに関するご報告と情報流出のお詫び」について</a></li>
+											</ul>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="c-footerNaviBlock__item">
+							<p class="c-footerNaviBlock__title"><a href="/inquiry/">INQUIRY</a></p>
+						</div>
+					</div>
+					<div class="c-footerNaviBlock c-footerNaviBlock--2to1col">
+						<div class="c-footerNaviBlock__item c-footerNaviBlock__item--accordion">
+							<p class="c-footerNaviBlock__title"><span>INVESTOR RELATIONS</span></p>
+							<div class="c-footerNaviBlock__body">
+								<div class="c-footerColumn">
+									<div class="c-footerUnit c-footerUnit--w50per">
+										<div class="c-footerUnitNavi">
+											<ul class="c-footerUnitNaviList">
+												<li class="c-footerUnitNaviList__item"><a href="/ir/policy/">経営方針</a></li>
+												<li class="c-footerUnitNaviList__item"><a href="/ir/newslist/ir/">IRニュース</a></li>
+												<li class="c-footerUnitNaviList__item"><a href="/ir/library/">IR資料室</a></li>
+												<li class="c-footerUnitNaviList__item"><a href="/ir/stock/">株式情報</a></li>
+												<li class="c-footerUnitNaviList__item"><a href="/ir/highlights/">連結財務ハイライト</a></li>
+											</ul>
+										</div>
+									</div>
+
+									<div class="c-footerUnit c-footerUnit--w50per">
+										<div class="c-footerUnitNavi">
+											<ul class="c-footerUnitNaviList">
+												<li class="c-footerUnitNaviList__item"><a href="/ir/calendar/">IRカレンダー</a></li>
+												<li class="c-footerUnitNaviList__item"><a href="/ir/individual/">個人投資家の皆様へ</a></li>
+												<li class="c-footerUnitNaviList__item"><a href="/ir/faq/">よくある質問</a></li>
+												<li class="c-footerUnitNaviList__item"><a href="https://contact.gmo-pg.com/m?f=26" target="_blank">IRメールマガジン購読</a></li>
+											</ul>
+										</div>
+									</div>
+								</div>
+								<!-- /.c-footerColumn -->
+							</div>
+						</div>
+						<div class="c-footerNaviBlock__item">
+							<p class="c-footerNaviBlock__title"><a href="/sustainability/">SUSTAINABILITY</a></p>
+						</div>
+					</div>
+					<div class="c-footerNaviBlock c-footerNaviBlock--3col">
+						<div class="c-footerNaviBlock__item">
+							<p class="c-footerNaviBlock__title"><a href="/corp/recruit/" target="_blank">RECRUIT</a></p>
+						</div>
+						<div class="c-footerNaviBlock__item c-footerNaviBlock__item--accordion">
+							<p class="c-footerNaviBlock__title"><span>LINK</span></p>
+							<div class="c-footerNaviBlock__body">
+								<div class="c-footerColumn">
+									<div class="c-footerUnit c-footerUnit--w100per">
+										<div class="c-footerUnitNavi">
+											<ul class="c-footerUnitNaviList">
+												<li class="c-footerUnitNaviList__item">
+													<a href="https://www.tricorn.co.jp/" target="_blank">トライコーン</a>
+												</li>
+												<li class="c-footerUnitNaviList__item">
+													<a href="https://ecpf.jp/" target="_blank">EC決済協議会</a>
+												</li>
+											</ul>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="c-footerNaviBlock__item c-footerNaviBlock__item--accordion">
+							<p class="c-footerNaviBlock__title is-active"><span>OWNED MEDIA</span></p>
+							<div class="c-footerNaviBlock__body">
+								<div class="c-footerColumn">
+									<div class="c-footerUnit c-footerUnit--w100per">
+										<div class="c-footerUnitNavi">
+											<ul class="c-footerUnitNaviList">
+												<li class="c-footerUnitNaviList__item">
+													<a href="/blog/" target="_blank">あなたのとなりに決済を</a>
+												</li>
+												<li class="c-footerUnitNaviList__item">
+													<a href="/pxplus/" target="_blank">PX+ byGMO</a>
+												</li>
+											</ul>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</nav>
+			</div>
+			<div class="c-footerMain__bottom">
+				<div class="c-footerSubAssembly">
+					<ul class="c-footerLinks">
+						<li class="c-footerLinks__item"><a class="c-footerLinks__link" href="/corp/accessibility/">サイトご利用にあたって</a></li>
+						<li class="c-footerLinks__item hide_if_en"><a class="c-footerLinks__link" href="/corp/security/">セキュリティ・コンプライアンス</a></li>
+						<li class="c-footerLinks__item"><a class="c-footerLinks__link" href="/corp/accessibility-data/">アクセスデータの利用について</a></li>
+					</ul>
+					<p class="c-footerCopyrights"><small>Copyright (C) 1995 GMO Payment Gateway, Inc. All Rights Reserved.</small></p>
+				</div>
+			</div>
+		</div>
+		<button id="js-anchorPageTop" class="c-footerPageTop" type="button" aria-label="ページ先頭までスクロールする"><img src="/common/image/btn/btn_footer_to_top.png" width="56" height="128"></button>
+	</div>
+	<div class="c-footer__middle">
+		<div class="c-footerLogoArea" style="text-align: center;">
+			<a href="/news/news/info/2019/0624.html" class="c-footerLinks__link" style="color: var(--color-default);">！当社名を騙る架空請求詐欺にご注意ください</a>　<a href="/news/news/info/2019/0618.html" class="c-footerLinks__link" style="color: var(--color-default);">！当社もしくは類似する社名を騙る会社やサービス、フィッシングサイトへの誘導にご注意ください.</a>　<a href="/news/news/info/2019/0507.html" class="c-footerLinks__link" style="color: var(--color-default);">！ クレジットカード取引におけるセキュリティ対策の「見える化」に関するお知らせ</a>
+		</div>
+
+		<div class="securityfooter_box">
+			<div>
+				<div class="securityfooter_box_logo">
+					<div>
+						<a href="/">
+							<img src="/common/image/logo.svg" alt="GMO PAYMENTGATEWAY" style="height: 18px;">
+						</a>
+					</div>
+				</div>
+				<!-- GMOセキュリティリスト -->
+				<script type="text/javascript" charset="UTF-8" src="https://cache.img.gmo.jp/gmo/security/script.min.js" id="gmosecuritytag" async="async"></script>
+			</div>
+
+			<div class="securityfooter_box_seals">
+				<ul>
+					<li>
+						<div id="ss_gmo_globalsign_secured_site_seal" oncontextmenu="return false;">
+							<img id="ss_gmo_globalsign_img" src="data:image/gif;base64,R0lGODlhAQABAGAAACH5BAEKAP8ALAAAAAABAAEAAAgEAP8FBAA7" alt="" onclick="ss_open_profile()" style="cursor:pointer; border:0;">
+						</div>
+						<script>
+							window.addEventListener('load', () => {
+							let s = document.createElement("script");
+							s.src = "https://seal.atlas.globalsign.com/gss/one/seal?image=seal_130-66_ja.png";
+							document.body.appendChild(s);
+							});
+						</script>
+					</li>
+					<li>
+						<span id="csi_siteseal_tag" oncontextmenu="return false;">
+							<a id="csi_siteseal_profile_link">
+								<img loading="lazy" alt="dark_typeA_130x66.png" id="csi_siteseal_image" width="130" height="66" src="#" style="display: none">
+							</a>
+						</span>
+						<script type="text/javascript" src="https://siteseal.gmo-cybersecurity.com/static/scripts/siteseal.js" defer="defer"></script>
+					</li>
+					<li>
+						<span id="brs_siteseal_tag" oncontextmenu="return false;">
+							<a id="gmobrs_seal_profile_link">
+							<img decoding="async" alt="dark_typeA_130x66.png" id="gmobrs_seal_image" width="130px" height="66px" src="#" style="display: none">
+							</a>
+						</span>
+						<script>
+							window.addEventListener("load", () => {
+							let s = document.createElement("script");
+							s.src = "https://seal.brandsecurity.gmo/static/js/siteseal.js";
+							document.body.appendChild(s);
+							});
+						</script>
+					</li>
+				</ul>
+			</div>
+
+		</div>
+	</div>
+	<!-- GMOグループフッター -->
+	<script type="text/javascript" charset="UTF-8" src="https://cache.img.gmo.jp/gmo/footer/script.min.js" id="gmofootertag" data-gmofooter-listed="true" async="async"></script>
+</footer>
+
+<!-- script -->
+<script src="/common/js/lib/splide.min.js"></script>
+<script src="/common/js/lib/splide-extension-intersection.min.js"></script>
+<script src="/common/js/lib/micromodal.min.js"></script>
+<script src="/common/js/lib/scroll-hint.min.js"></script>
+<link rel="stylesheet" href="/common/js/lib/scroll-hint.css">
+<script src="/common/js/script.js?ver=202602031604"></script>
+<!-- GMOグループヘッダー -->
+<script type="text/javascript" charset="UTF-8" src="https://cache.img.gmo.jp/gmo/header/script.min.js" id="gmoheadertag" async="async"></script>
+<!-- END GMOグループヘッダー -->
+
+<!-- SNSシェアボタン -->
+<script src="/common/js/script_sns.js"></script>
+<link rel="stylesheet" href="/common/css/style_footer.css">
+
+</body></html>
