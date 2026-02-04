@@ -1,4 +1,4 @@
-<!DOCTYPE html><html lang="ja"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://j.wovn.io/1" async="true" data-wovnio='key=f1IRL-&amp;backend=true&amp;currentLang=ja&amp;defaultLang=ja&amp;urlPattern=path&amp;langCodeAliases={"en":"en"}&amp;version=1.24.1&amp;backendVersion=WOVN.php_1.12.0&amp;langParamName=wovn' data-wovnio-cache-time="202602030713+0000"> </script>
+<!DOCTYPE html><html lang="ja"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://j.wovn.io/1" async="true" data-wovnio='key=f1IRL-&amp;backend=true&amp;currentLang=ja&amp;defaultLang=ja&amp;urlPattern=path&amp;langCodeAliases={"en":"en"}&amp;version=1.24.1&amp;backendVersion=WOVN.php_1.12.0&amp;langParamName=wovn' data-wovnio-cache-time="202602030723+0000"> </script>
 <!-- GTM tag -->
 <script>
 	var dataLayer = dataLayer || [];
