@@ -27,56 +27,6 @@ def save_hashes(hashes: dict):
         json.dump(hashes, f, indent=2)
 
 
-def normalize_content(content: str) -> str:
-    """動的に変わる要素を正規化して無視する"""
-    
-    # 1. タイムスタンプ系の属性を削除
-    patterns = [
-        # WOVN関連（バージョン、キャッシュタイム含む）
-        r'<script[^>]*data-wovnio[^>]*>.*?</script>',
-        r'data-wovnio-[^=]*="[^"]*"',
-        # タイムスタンプ全般
-        r'timestamp[^=]*="[^"]*"',
-        r'data-timestamp[^=]*="[^"]*"',
-        # 日時を含むメタタグ
-        r'content="[0-9]{12,14}\+[0-9]{4}"',
-        # CSRFトークン
-        r'csrf[-_]token[^>]*value="[^"]*"',
-        r'data-csrf[^=]*="[^"]*"',
-        # セッションID
-        r'session[-_]id[^=]*="[^"]*"',
-        # ランダムなID（32文字以上の16進数）
-        r'id="[a-f0-9]{32,}"',
-        # Google Analytics
-        r'_ga=[^&\s"]*',
-        r'gtm\.start=[^&\s"]*',
-        # 実験・A/Bテスト関連（全パターン）
-        r'experiment[-_]?[^=]*="[^"]*"',
-        r'name="[^"]*experiment[^"]*"\s+content="[^"]*"',
-        r'data-testid[^=]*="[^"]*"',
-        # リクエスト情報
-        r'name="request-country"\s+content="[^"]*"',
-    ]
-    
-    normalized = content
-    for pattern in patterns:
-        normalized = re.sub(pattern, '', normalized, flags=re.IGNORECASE | re.DOTALL)
-    
-    # 2. 連続する空白を1つにまとめる
-    normalized = re.sub(r'\s+', ' ', normalized)
-    
-    return normalized
-    
-    normalized = content
-    for pattern in patterns:
-        normalized = re.sub(pattern, '', normalized, flags=re.IGNORECASE)
-    
-    # 2. 連続する空白を1つにまとめる（正規化のため）
-    normalized = re.sub(r'\s+', ' ', normalized)
-    
-    return normalized
-
-
 def get_page_content(url: str) -> str | None:
     """ページの内容を取得"""
     try:
@@ -91,23 +41,47 @@ def get_page_content(url: str) -> str | None:
 
 
 def strip_html_tags(html: str) -> str:
-    """HTML タグを除去してテキストのみ抽出"""
+    """HTML タグを除去してテキストのみ抽出（画像URL・alt属性も含む）"""
+    # 画像タグから URL と alt を抽出して保存
+    images = []
+    for match in re.finditer(r'<img[^>]*>', html, re.IGNORECASE):
+        img_tag = match.group(0)
+        # src 属性を抽出
+        src_match = re.search(r'src=["\']([^"\']+)["\']', img_tag, re.IGNORECASE)
+        # alt 属性を抽出
+        alt_match = re.search(r'alt=["\']([^"\']*)["\']', img_tag, re.IGNORECASE)
+        
+        if src_match:
+            src = src_match.group(1)
+            alt = alt_match.group(1) if alt_match else ""
+            images.append(f"[IMAGE: {src}]" + (f" (alt: {alt})" if alt else ""))
+    
     # スクリプトとスタイルを除去
     html = re.sub(r'<script[^>]*>.*?</script>', '', html, flags=re.DOTALL | re.IGNORECASE)
     html = re.sub(r'<style[^>]*>.*?</style>', '', html, flags=re.DOTALL | re.IGNORECASE)
+    # コメントを除去
+    html = re.sub(r'<!--.*?-->', '', html, flags=re.DOTALL)
     # HTML タグを除去
     text = re.sub(r'<[^>]+>', '', html)
+    # HTML エンティティをデコード
+    text = text.replace('&nbsp;', ' ').replace('&amp;', '&').replace('&lt;', '<').replace('&gt;', '>')
     # 連続する空白を1つにまとめる
     text = re.sub(r'\s+', ' ', text)
     # 各行をトリム
     lines = [line.strip() for line in text.split('\n') if line.strip()]
+    
+    # テキストと画像情報を結合
+    if images:
+        lines.append("\n--- 画像一覧 ---")
+        lines.extend(images)
+    
     return '\n'.join(lines)
 
 
-def get_content_hash(content: str) -> str:
-    """コンテンツのハッシュ値を計算（正規化後）"""
-    normalized = normalize_content(content)
-    return hashlib.md5(normalized.encode('utf-8')).hexdigest()
+def get_text_content_hash(html: str) -> str:
+    """テキストコンテンツのハッシュ値を計算（HTMLタグを除去後）"""
+    text = strip_html_tags(html)
+    return hashlib.md5(text.encode('utf-8')).hexdigest()
 
 
 def save_content(url: str, content: str):
@@ -129,7 +103,7 @@ def load_content(url: str) -> str | None:
     return None
 
 
-def get_diff_summary(old_content: str, new_content: str, max_lines: int = 10) -> str:
+def get_diff_summary(old_content: str, new_content: str, max_lines: int = 20) -> str:
     """変更の差分サマリーを取得"""
     old_lines = old_content.splitlines()
     new_lines = new_content.splitlines()
@@ -138,51 +112,43 @@ def get_diff_summary(old_content: str, new_content: str, max_lines: int = 10) ->
         old_lines, 
         new_lines, 
         lineterm='',
-        n=0
+        n=1  # 前後1行のコンテキストを表示
     ))
     
     if not diff:
         return "変更なし"
     
     changes = []
-    for line in diff[2:]:
-        if line.startswith('---') or line.startswith('+++') or line.startswith('@@'):
+    for line in diff[2:]:  # 最初の2行（ファイル名）はスキップ
+        if line.startswith('---') or line.startswith('+++'):
             continue
         changes.append(line)
     
     if len(changes) > max_lines:
         changes = changes[:max_lines]
-        changes.append(f"... (他 {len(diff) - max_lines} 行)")
+        changes.append(f"... (他 {len(changes) - max_lines} 行以上)")
     
     return '\n'.join(changes) if changes else "差分なし"
 
 
 def send_teams_alert(changed_urls: list[dict]):
-    """変更されたURLについてTeams通知を送信（テキスト差分 + HTML差分）"""
+    """変更されたURLについてTeams通知を送信（テキスト差分のみ）"""
     now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S UTC")
 
     sections = [{
         "activityTitle": "変更検知サマリー",
         "activitySubtitle": f"検知時刻: {now}",
-        "text": f"**{len(changed_urls)}件のサイトで変更を検知しました**"
+        "text": f"**{len(changed_urls)}件のサイトで実質的な内容変更を検知しました**"
     }]
     
     for item in changed_urls:
         url = item["url"]
         text_diff = item.get("text_diff", "差分情報なし")
-        html_diff = item.get("html_diff", "差分情報なし")
         
-        # テキスト差分（読みやすい）
         sections.append({
             "activityTitle": f"📝 {url}",
-            "activitySubtitle": "**テキスト差分（読みやすい表示）**",
-            "text": f"```\n{text_diff[:800]}\n```"
-        })
-        
-        # HTML差分（詳細確認用）
-        sections.append({
-            "activitySubtitle": "**HTML差分（詳細確認用）**",
-            "text": f"```html\n{html_diff[:500]}\n```"
+            "activitySubtitle": "**変更内容（テキスト差分）**",
+            "text": f"```\n{text_diff[:1500]}\n```"
         })
 
     payload = {
@@ -209,56 +175,48 @@ def main():
     changed = []
 
     for url in TARGET_URLS:
-        current_content = get_page_content(url)
-        if current_content is None:
+        current_html = get_page_content(url)
+        if current_html is None:
             continue
 
-        current_hash = get_content_hash(current_content)
+        # テキストコンテンツのハッシュを計算（HTMLタグ除去後）
+        current_hash = get_text_content_hash(current_html)
         prev_hash = hashes.get(url)
 
         if prev_hash is None:
             # 初回登録
             print(f"[NEW]     {url}")
             hashes[url] = current_hash
-            save_content(url, current_content)
+            save_content(url, current_html)
         elif current_hash != prev_hash:
-            # 変更検知
+            # テキストコンテンツが変更された
             print(f"[CHANGED] {url}")
             
-            old_content = load_content(url)
+            old_html = load_content(url)
             text_diff = "前回のコンテンツが見つかりません"
-            html_diff = "前回のコンテンツが見つかりません"
             
-            if old_content:
-                # 正規化して比較
-                old_normalized = normalize_content(old_content)
-                new_normalized = normalize_content(current_content)
-                
-                # テキスト差分を作成
-                old_text = strip_html_tags(old_normalized)
-                new_text = strip_html_tags(new_normalized)
-                text_diff = get_diff_summary(old_text, new_text, max_lines=20)
-                
-                # HTML差分を作成
-                html_diff = get_diff_summary(old_normalized, new_normalized, max_lines=10)
+            if old_html:
+                # テキストのみ抽出して差分を作成
+                old_text = strip_html_tags(old_html)
+                new_text = strip_html_tags(current_html)
+                text_diff = get_diff_summary(old_text, new_text, max_lines=30)
             
             changed.append({
                 "url": url,
-                "text_diff": text_diff,
-                "html_diff": html_diff
+                "text_diff": text_diff
             })
             
             hashes[url] = current_hash
-            save_content(url, current_content)
+            save_content(url, current_html)
         else:
-            print(f"[OK]      {url}")
+            print(f"[OK]      {url} (テキストコンテンツ変更なし)")
 
     save_hashes(hashes)
 
     if changed:
         send_teams_alert(changed)
     else:
-        print("[INFO] 変更なし")
+        print("[INFO] 実質的な変更なし")
 
     print("[END] チェック完了")
 
