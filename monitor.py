@@ -49,9 +49,10 @@ def normalize_content(content: str) -> str:
         # Google Analytics など
         r'_ga=[^&\s"]*',
         r'gtm\.start=[^&\s"]*',
-        # バージョン番号付きアセット（変更を検知したい場合はコメントアウト）
-        # r'\.js\?v=[0-9]+',
-        # r'\.css\?v=[0-9]+',
+        # A/Bテスト・実験ID
+        r'data-experiment[^>]*="[^"]*"',
+        r'name="edge-experiment-treatments"\s+content="[^"]*"',
+        r'data-testid="[^"]*"',
     ]
     
     normalized = content
