@@ -1,0 +1,1093 @@
+<!doctype html>
+<html itemscope="" itemtype="https://schema.org/Organization" xmlns="https://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
+
+
+<head prefix="og: https://ogp.me/ns# fb: https://ogp.me/ns/fb# website: https://ogp.me/ns/website#">
+
+
+<script async src="https://s.yimg.jp/images/listing/tool/cv/ytag.js"></script>
+<script>
+window.yjDataLayer = window.yjDataLayer || [];
+function ytag() { yjDataLayer.push(arguments); }
+ytag({"type":"ycl_cookie"});
+</script>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<meta content="width=device-width,initial-scale=1.0,minimum-scale=1.0,shrink-to-fit=no" name="viewport">
+
+<title>決済代行サービスなら株式会社DGフィナンシャルテクノロジー（旧：ベリトランス株式会社）</title>
+
+<meta name="description" content="クレジットカード決済、コンビニ決済、キャリア決済やAlipay等の国際決済まで、EC・店舗、国内・海外など各チャネルに応じた決済代行サービスから越境EC、EC支援など、決済代行会社DGフィナンシャルテクノロジー（旧：ベリトランス）がeコマース事業者の成長を支えるサービスを提供" />
+
+
+
+<!-- ※基本共通設定 -->
+<link rel="canonical" href="https://www.veritrans.co.jp/" />
+<meta property="og:title" content="決済代行サービスなら株式会社DGフィナンシャルテクノロジー（旧：ベリトランス株式会社）" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://www.veritrans.co.jp/" />
+<meta property="og:image" content="https://www.veritrans.co.jp/assets/img/content/4G-thumb-1200x630_og.png" />
+<meta property="og:site_name" content="決済代行の株式会社DGフィナンシャルテクノロジー（旧：ベリトランス株式会社）" />
+<meta property="og:description" content="クレジットカード決済、コンビニ決済、キャリア決済やAlipay等の国際決済まで、EC・店舗、国内・海外など各チャネルに応じた決済代行サービスから越境EC、EC支援など、決済代行会社DGフィナンシャルテクノロジー（旧：ベリトランス）がeコマース事業者の成長を支えるサービスを提供" />
+<!-- Facebook用設定 -->
+<meta property="fb:app_id" content="2375006662806307" />
+<!-- ※Twitter共通設定 -->
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@dgft_dg" />
+<meta name="twitter:player" content="@dgft_dg" />
+
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="stylesheet" type="text/css" media="all" href="/assets/css/reset.css" />
+<link rel="stylesheet" type="text/css" media="all" href="/assets/css/base.css" />
+<link rel="stylesheet" type="text/css" media="all" href="/assets/css/class.css" />
+<link rel="stylesheet" type="text/css" media="all" href="/assets/css/template.css" />
+<link rel="stylesheet" type="text/css" media="all" href="/assets/css/unique.css" />
+<link rel="stylesheet" type="text/css" media="all" href="/assets/css/cmn_parts.css?ver=1.0" />
+<link rel="stylesheet" type="text/css" media="all" href="/assets/css/module.css" />
+
+
+<link rel="stylesheet" type="text/css" media="all" href="/assets/css/top_new.css" />
+<link rel="stylesheet" type="text/css" media="all" href="/assets/css/slick.css" />
+<link rel="stylesheet" type="text/css" media="all" href="/assets/css/slick-theme.css" />
+
+
+<link rel="stylesheet" type="text/css" media="all" href="/assets/css/sp.css?ver=1.0" />
+
+
+
+<script type="text/javascript" src="/assets/js/jquery-3.6.0.min.js"></script>
+<script type="text/javascript" src="/assets/js/jquery.cookie.js" defer></script>
+<script type="text/javascript" src="/assets/js/jquery.flatheights.js" defer></script>
+<!--script type="text/javascript" src="/assets/js/jquery.floatThead.js"></script-->
+<script type="text/javascript" src="/assets/js/img_hover.js" defer></script>
+<script type="text/javascript" src="/assets/js/common.js" defer></script>
+<script type="text/javascript" src="/assets/js/faq.js" defer></script>
+<script type="text/javascript" src="/assets/js/tabunit.js" defer></script>
+
+<script type="text/javascript" src="/assets/js/progressbar.min.js" defer></script>
+<script type="text/javascript" src="/assets/js/slick.min.js" defer></script>
+<script type="text/javascript" src="/assets/js/gsap.min.js" defer></script>
+<script type="text/javascript" src="/assets/js/ScrollTrigger.min.js" defer></script>
+<script type="text/javascript" src="/assets/js/top.js" defer></script>
+
+<script type="text/javascript" src="/assets/js/script.js?ver=1.1"></script>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NVKGTG6');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '483841275328618'); // Insert your pixel ID here.
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=483841275328618&ev=PageView&noscript=1"
+/></noscript>
+<!-- DO NOT MODIFY -->
+<!-- End Facebook Pixel Code -->
+<!-- affiliate tracking -->
+<script src="https://r.moshimo.com/af/r/maftag.js"></script>
+<!-- End affiliate tracking -->
+<!-- Hotjar Tracking Code for https://www.veritrans.co.jp/ -->
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:1072967,hjsv:6};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
+<!-- End Hotjar Tracking Code -->
+<script type="application/ld+json">
+ {
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "株式会社DGフィナンシャルテクノロジー",
+ "alternateName": ["DGフィナンシャルテクノロジー", "DGFT"],
+  "url": "https://www.veritrans.co.jp/"
+ }
+</script>
+
+
+ <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "url": "https://www.dgft.jp/company/",
+      "logo": "https://www.dgft.jp/company/images/DGFT_logo.svg",
+      "name": "株式会社DGフィナンシャルテクノロジー",
+      "description": "DGフィナンシャルテクノロジー（DGFT）は、日々進化するテクノロジーを基盤に、多様な業界のニーズに対応した、さまざまなキャッシュレス・決済関連サービスを提供しています",
+      "email": "pr@dgft.jp",
+      "telephone": "+81-3-6367-1500",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "恵比寿南3-5-7",
+        "addressLocality": "渋谷区",
+        "addressRegion": "東京都",
+        "addressCountry": "JP",
+        "postalCode": "150-0022"
+      }
+    }
+    </script>
+
+</head>
+
+
+<body class="topPage" id="top">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NVKGTG6"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<!-- PCヘッダ -->
+<header>
+<nav>
+<div class="ly_header ly_header_pc">
+    
+	<div class="ly_heading_cont">
+        <h1 class="el_heading_page_h1">クレジットカード決済など多機能・高セキュアな決済代行サービスの導入なら株式会社DGフィナンシャルテクノロジー（旧：ベリトランス株式会社）</h1>
+	</div>
+    
+    <div class="ly_header_pc_inner">
+        <div class="ly_header_mainArea">
+            <div class="ly_logo"><a href="/"><img src="/assets/img/common/dgft_logo-white.svg" alt="DGフィナンシャルテクノロジーロゴ"></a></div>
+            <div class="ly_globalMenu">
+                <ul class="bl_globalMenu">
+                    <li class="bl_hasUnderMenu uni_product">
+                        <span class="el_glabal_toggle">プロダクト</span>
+                        <div class="ly_globalUnderMenu_wrap">
+                            <ul class="bl_globalUnderMenu">
+                                <li><a href="/payment/online.html" class="el_glabalMenu_ttl">オンライン向け決済サービス</a>
+                                    <ul class="bl_globalUnderMenu_inner">
+                                      <li><a href="/payment/">マルチ決済ソリューション「VeriTrans4G」</a></li>
+                                      <li><a href="/payment/ivr.html">IVR（音声自動応答）決済ソリューション</a></li>
+                                      <li><a href="/payment/web_transfer.html">Web口座振替</a></li>
+                                      <li><a href="/payment/omnipay.html">オムニチャネル決済「オムニPAY」</a></li>
+                                      <li><a href="https://lp.dginvoice.jp" target="_blank" rel="noopener noreferrer" class="el_ico_window el_ico_window_grey">DGFT請求書カード払い<img src="/assets/img/common/ico_window_grey.svg" alt=""></a></li>
+									</ul>
+                                </li>
+                            </ul>
+                            <ul class="bl_globalUnderMenu">
+                                <li><a href="/payment/store.html" class="el_glabalMenu_ttl">オフライン向け決済サービス</a>
+									<ul class="bl_globalUnderMenu_inner">
+										<li><a href="https://www.cloud-pay.jp/mpm/s/" target="_blank" rel="noopener noreferrer" class="el_ico_window el_ico_window_grey">Cloud Pay（マルチQRコード決済）<img src="/assets/img/common/ico_window_grey.svg" alt=""></a></li>
+										<li><a href="/lp/cloudpayneo/" target="_blank" rel="noopener noreferrer" class="el_ico_window el_ico_window_grey">Cloud Pay Neo（端末レス決済）<img src="/assets/img/common/ico_window_grey.svg" alt=""></a></li>
+                                        <li><a href="/payment/pos_payment.html">POS向けバーコード決済ソリューション</a></li>
+                                        <li><a href="/payment/ceremonypay.html">葬祭事業者向け決済「セレモニーPAY」</a></li>
+                                        <li><a href="/payment/mpos.html">対面向けキャッシュレス決済サービス（決済端末利用）<br />「mPOS」</a></li>
+                                        <li><a href="/payment/sumapay.html">不動産会社向け決済代行サービス「住まPAY」</a></li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li class="bl_hasUnderMenu uni_usecase">
+                        <span class="el_glabal_toggle">ユースケース</span>
+                        <div class="ly_globalUnderMenu_wrap">
+                            <ul class="bl_globalUnderMenu">
+                                <li><a href="/purpose/" class="el_glabalMenu_ttl">テーマから探す</a>
+                                    <ul class="bl_globalUnderMenu_inner">
+                                         <li><a href="/industry/">業種・ビジネスモデルから探す</a></li>
+                                         <li><a href="/purpose/">目的・課題から探す</a></li>
+                                         <li><a href="/case/">導入事例から探す</a></li>
+                                     </ul>
+                                 </li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li class="bl_hasUnderMenu uni_support">
+                        <span class="el_glabal_toggle">サポート</span>
+                        <div class="ly_globalUnderMenu_wrap">
+                            <ul class="bl_globalUnderMenu">
+                                <li><span class="el_glabalMenu_ttl">サポート</span>
+                                    <ul class="bl_globalUnderMenu_inner">
+                                        <li><a href="/user_support/">お客様サポート</a></li>
+                                        <li><a href="/faq/">よくあるご質問</a></li>
+                                        <li><a href="https://faqfa.dgft.jp/" target="_blank" class="el_ico_window el_ico_window_grey">ヘルプサイト<img src="/assets/img/common/ico_window_grey.svg" alt=""></a></li>
+                                        <li><a href="/payment/partner.html">提携サービス・パートナー</a></li>
+                                        <li><a href="/payment/flow.html">導入までの流れ</a></li>
+                                        <li><a href="/tips/column/">コラム</a></li>
+                                        <li><a href="/tips/glossary/">決済用語集</a></li>
+                                        <li><a href="/webinar/">ウェビナー</a></li>
+                                     </ul>
+                                 </li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li class="bl_hasUnderMenu uni_search">
+                      <span class="el_glabal_toggle"><img src="/assets/img/common/ico_search.svg" alt="サイト内検索"></span>
+                      <div class="ly_globalUnderMenu_wrap ly_search_box">
+                        <form action="/cgi-bin/mt/mt-search.cgi" name="search" method="get" class="bl_search_form">
+                          <input type="hidden" name="IncludeBlogs" value="3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,22,23,24,25,26,27,28,29,30,31,32,36,51" />
+                          <input type="hidden" name="blog_id" value="38" />
+                          <input type="text" value="" name="search" placeholder="サイト内を検索する" autocomplete="off" title="検索したい文字を入力する" class="el_search_txt">
+                          <label class="bl_search_btn"><input type="submit" class="el_search_btn" value="" role="button" aria-label="検索する"></label>
+                        </form>
+                      </div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div class="ly_header_subArea">
+            <div class="ly_subMenu">
+                <ul class="bl_subMenu">
+                    <li class="bl_link_txt"><a href="/developer/" class="el_subLink el_link_arrow_r">開発者向け情報</a></li>
+                    <li class="bl_link_txt"><a href="/partner/" class="el_subLink el_link_arrow_r">事業提携をご検討の方</a></li>
+                    <li class="bl_link_txt"><a href="/login/" class="el_subLink el_link_arrow_r">ご契約中のお客様</a></li>
+                </ul>
+            </div>
+            <div class="ly_ctaMenu">
+                <ul class="bl_ctaMenu">
+                    <li><a href="/contact/inquiry/?cta_header_n" class="el_ctaBtn el_ctaBtn_inquiry"><img src="/assets/img/common/ico_inquiry.svg" alt="">お問い合わせ</a></li>
+                    <li><a href="/download/?cta_header_n" class="el_ctaBtn el_ctaBtn_dl">資料ダウンロード</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+    <div class="ly_header ly_header_sp">
+        <div class="ly_header_logoArea">
+            <div class="ly_logo"><a href="/"><img src="/assets/img/common/dgft_logo-white.svg" alt="DGフィナンシャルテクノロジーロゴ"></a></div>
+            <button type="button" id="nav-btn" class="nav-btn" role="button" aria-pressed="false" aria-label="メニュー開閉ボタン"><span class="nav-btn-icon"></span></button>
+        </div>
+        <div class="ly_headerMenu">
+            <div class="ly_globalMenu">
+                <ul class="bl_globalMenu">
+                    <li class="bl_hasUnderMenu uni_search">
+                      <span class="el_glabal_toggle"><img src="/assets/img/common/ico_search.svg" alt="サイト内検索"></span>
+                      <div class="ly_search_box">
+                        <form action="/cgi-bin/mt/mt-search.cgi" name="search" method="get" class="bl_search_form">
+                          <input type="hidden" name="IncludeBlogs" value="3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,22,23,24,25,26,27,28,29,30,31,32,36" />
+                          <input type="hidden" name="blog_id" value="38" />
+                          <input type="text" value="" name="search" placeholder="サイト内を検索する" autocomplete="off" title="検索したい文字を入力する" class="el_search_txt">
+                          <label class="bl_search_btn"><input type="submit" class="el_search_btn" value="" role="button" aria-label="検索する"></label>
+                        </form>
+                      </div>
+                    </li>
+                    <li class="bl_hasUnderMenu uni_product">
+                        <span class="el_glabal_toggle">プロダクト</span>
+                        <div class="ly_globalUnderMenu_wrap">
+                            <ul class="bl_globalUnderMenu">
+                                <li><a href="/payment/online.html" class="el_glabalMenu_ttl">オンライン向け決済サービス</a>
+                                    <ul class="bl_globalUnderMenu_inner">
+                                      <li><a href="/payment/">マルチ決済ソリューション「VeriTrans4G」</a></li>
+                                      <li><a href="/payment/ivr.html">IVR（音声自動応答）決済ソリューション</a></li>
+                                      <li><a href="/payment/web_transfer.html">Web口座振替</a></li>
+                                      <li><a href="/payment/omnipay.html">オムニチャネル決済「オムニPAY」</a></li>
+                                      <li><a href="https://lp.dginvoice.jp" target="_blank" rel="noopener noreferrer" class="el_ico_window el_ico_window_grey">DGFT請求書カード払い<img src="/assets/img/common/ico_window_grey.svg" alt=""></a></li>
+                                    </ul>
+                                </li>
+                            </ul>
+                            <ul class="bl_globalUnderMenu">
+                                <li><a href="/payment/store.html" class="el_glabalMenu_ttl">オフライン向け決済サービス</a>
+                                    <ul class="bl_globalUnderMenu_inner">
+										<li><a href="https://www.cloud-pay.jp/mpm/s/" target="_blank" rel="noopener noreferrer" class="el_ico_window el_ico_window_grey">Cloud Pay（マルチQRコード決済）<img src="/assets/img/common/ico_window_grey.svg" alt=""></a></li>
+                                    	<li><a href="/lp/cloudpayneo/" target="_blank" rel="noopener noreferrer" class="el_ico_window el_ico_window_grey">Cloud Pay Neo（端末レス決済）<img src="/assets/img/common/ico_window_grey.svg" alt=""></a></li>
+                                        <li><a href="/payment/pos_payment.html">POS向けバーコード決済ソリューション</a></li>
+                                        <li><a href="/payment/ceremonypay.html">葬祭事業者向け決済「セレモニーPAY」</a></li>
+                                        <li><a href="/payment/mpos.html">対面向けキャッシュレス決済サービス（決済端末利用）<br />「mPOS」</a></li>
+                                        <li><a href="/payment/sumapay.html">不動産会社向け決済代行サービス「住まPAY」</a></li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li class="bl_hasUnderMenu uni_usecase">
+                        <span class="el_glabal_toggle">ユースケース</span>
+                        <div class="ly_globalUnderMenu_wrap">
+                            <ul class="bl_globalUnderMenu">
+                                <li><a href="/purpose/" class="el_glabalMenu_ttl">テーマから探す</a>
+                                    <ul class="bl_globalUnderMenu_inner">
+                                         <li><a href="/industry/">業種・ビジネスモデルから探す</a></li>
+                                         <li><a href="/purpose/">目的・課題から探す</a></li>
+                                         <li><a href="/case/">導入事例から探す</a></li>
+                                     </ul>
+                                 </li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li class="bl_hasUnderMenu uni_support">
+                        <span class="el_glabal_toggle">サポート</span>
+                        <div class="ly_globalUnderMenu_wrap">
+                            <ul class="bl_globalUnderMenu">
+                                <li><span class="el_glabalMenu_ttl">サポート</span>
+                                    <ul class="bl_globalUnderMenu_inner">
+                                        <li><a href="/user_support/">お客様サポート</a></li>
+                                        <li><a href="/faq/">よくあるご質問</a></li>
+                                        <li><a href="https://faqfa.dgft.jp/" target="_blank" class="el_ico_window el_ico_window_grey">ヘルプサイト<img src="/assets/img/common/ico_window_grey.svg" alt=""></a></li>
+                                        <li><a href="/payment/partner.html">提携サービス・パートナー</a></li>
+                                        <li><a href="/payment/flow.html">導入までの流れ</a></li>
+                                        <li><a href="/tips/column/">コラム</a></li>
+                                        <li><a href="/tips/glossary/">決済用語集</a></li>
+                                        <li><a href="/webinar/">ウェビナー</a></li>
+                                     </ul>
+                                 </li>
+                            </ul>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+            <div class="ly_header_subArea">
+                <div class="ly_subMenu">
+                    <ul class="bl_subMenu">
+                        <li class="bl_link_txt"><a href="/developer/" class="el_subLink el_link_arrow_r">開発者向け情報</a></li>
+                        <li class="bl_link_txt"><a href="/partner/" class="el_subLink el_link_arrow_r">事業提携をご検討の方</a></li>
+                        <li class="bl_link_txt"><a href="/login/" class="el_subLink el_link_arrow_r">ご契約中のお客様</a></li>
+                    </ul>
+                </div>
+                <div class="ly_ctaMenu">
+                    <ul class="bl_ctaMenu">
+                        <li><a href="/contact/inquiry/?cta_header_n" class="el_ctaBtn el_ctaBtn_inquiry"><img src="/assets/img/common/ico_inquiry.svg" alt="">お問い合わせ</a></li>
+                        <li><a href="/download/?cta_header_n" class="el_ctaBtn el_ctaBtn_dl">資料ダウンロード</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</nav>
+</header>
+
+
+    
+
+
+</MTIf>
+<div class="ly_loading">
+  <div class="bl_loading">
+    <img src="/assets/img/common/dgft_logo-white.svg" alt="DGフィナンシャルテクノロジー" class="fadeUp">
+  </div>
+  <div class="bl_progress">
+    <div class="el_loading_progressNum" id="splash_text"></div>
+  </div>
+</div>
+
+<main>
+    <section>
+        <div class="ly_mainVisualArea">
+            <div class="ly_mainVisual_txt">
+                <div class="ly_mainVisual_heading"><h1 class="el_heading_top">ビジネスを成功に導く<br>速さと堅牢さを兼ね備えた<br>決済インフラ</h1></div>
+                <div class="ly_mainVisual_catch"><p>1997年の設立以来、私たちは決済を通じて<br>生活に密着した<br class="sp-only">さまざまな支払いのシーンを支えています</p></div>
+            	<div class="ly_mainVisual_btn"><a href="/contact/inquiry/" class="el_ctaBtn el_ctaBtn_cost">お問い合わせ</a></div>
+            </div>
+            <div class="ly_mainVisual_video">
+                <div class="ly_mainVisual_video_inner">
+                    <video poster="/assets/img/top/mainVisual.jpg" webkit-playsinline playsinline muted autoplay loop>
+                      <source src="/assets/img/top/mainVisual_dgft_light.mp4" type="video/mp4">
+                    </video>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section>
+        <div class="ly_features_wrap">
+            <div class="ly_wrap_1100">
+                <div class="ly_headingArea">
+                    <h2 class="el_heading_large">
+                        <p class="el_heading_en el_color_accent el_heading_subttl">FEATURES</p>
+                        <p class="el_heading_jp">DGフィナンシャルテクノロジーの<br class="sp-only">強み</p>
+                    </h2>
+                </div>
+                <div class="ly_features_inner">
+                    <div class="ly_features_cont">
+                        <div class="uni_features_01">
+                            <h3 class="el_heading_midium">幅広い決済ニーズに応える<br>総合決済プロバイダー</h3>
+                            <p class="el_txt_normal">ビジネス構築からご一緒させていただく提案力でお客様の業種・ジャンル・規模を問わず、ビジネスの検討から実行までシームレスなご提案を致します。</p>
+                        </div>
+                        <div class="uni_features_02">
+                            <h3 class="el_heading_midium">速さと堅牢性を兼ね備えた<br>ハイパフォーマンスな決済インフラ</h3>
+                            <p class="el_txt_normal">大手金融機関などで採用されるOracle社の高速データベースを採用し、業界随一の処理スペックのゲートウェイ。<br>
+                            国の重要インフラとしてデータセンターの完全2重化とDR/BCP対策対応を実施しています。</p>
+                        </div>
+                        <div class="uni_features_03">
+                            <h3 class="el_heading_midium">40種を超える豊富な<br>決済ラインナップ</h3>
+                            <p class="el_txt_normal">対面店舗・オンラインショップ・OMOなどのご利用シーンや業態別に定番のクレジットカードだけでなく、PayPay含む40を超える決済手段をご用意しています。<br>
+                            導入方法もノーコード方式からAPI接続などニーズに合わせてご提案いたします。</p>
+                        </div>
+                        <div class="uni_features_04">
+                            <h3 class="el_heading_midium">総合提案力</h3>
+                            <p class="el_txt_normal">決済周辺サービスのご提案のみならず、戦略立案・プロデュースから販促支援、セキュリティ強化などのソリューションをご用意しております。立ち上げから運用までお客様のビジネスを成功に導くマーケティングソリューション、サービスを総合的にご提案致します。</p>
+                        </div>
+                        <div class="uni_features_05">
+                            <h3 class="el_heading_midium">万全の<br>セキュリティ＆サポート</h3>
+                            <p class="el_txt_normal">PCI DSSコンプライアンスに完全準拠したゲートウェイシステムと24/365の監視による安定稼働を実現します。<br>
+                            テクニカルサポート、カスタマーサポート等お客様のビジネスを幅広くご支援します。</p>
+                        </div>
+                    </div>
+                    <div class="ly_features_img">
+                        <div class="uni_features_01">
+                            <video poster="/assets/img/top/img_features_01.png" webkit-playsinline playsinline muted autoplay loop class="pc-only">
+                              <source src="/assets/img/top/img_features_01.mp4" type="video/mp4">
+                            </video>
+                        </div>
+                        <div class="uni_features_02">
+                            <video poster="/assets/img/top/img_features_02.png" webkit-playsinline playsinline muted autoplay loop class="pc-only">
+                              <source src="/assets/img/top/img_features_02.mp4" type="video/mp4">
+                            </video>
+                        </div>
+                        <div class="uni_features_03">
+                            <video poster="/assets/img/top/img_features_03.png" webkit-playsinline playsinline muted autoplay loop class="pc-only">
+                              <source src="/assets/img/top/img_features_03.mp4" type="video/mp4">
+                            </video>
+                        </div>
+                        <div class="uni_features_04">
+                            <video poster="/assets/img/top/img_features_02.png" webkit-playsinline playsinline muted autoplay loop class="pc-only">
+                              <source src="/assets/img/top/img_features_02.mp4" type="video/mp4">
+                            </video>
+                        </div>
+                        <div class="uni_features_05">
+                            <video poster="/assets/img/top/img_features_01.png" webkit-playsinline playsinline muted autoplay loop class="pc-only">
+                              <source src="/assets/img/top/img_features_01.mp4" type="video/mp4">
+                            </video>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section>
+        <div class="ly_service_wrap">
+            <div class="ly_headingArea">
+                <h2 class="el_heading_large">
+                    <p class="el_heading_en el_color_accent el_heading_subttl">OUR SERVICES</p>
+                    <p class="el_heading_jp">DGフィナンシャルテクノロジーの<br>決済サービス</p>
+                </h2>
+            </div>
+            <div class="ly_service_cont el_service_online">
+                <div class="bl_service_img_outer"><div class="bl_service_img js-service-scroll">
+                </div></div>
+                <div class="bl_service_txt">
+                    <div class="bl_service_txt_heading"><h3 class="el_heading_midium"><span class="el_color_accent">オンライン</span><span>向け決済サービス</span></h3></div>
+                    <div class="bl_service_txt_detail">
+                        <p class="el_color_grey el_txt_normal">スムーズでスマートな支払いのために必要なすべてを提供するパッケージソリューションを提供します。</p>
+                        <div class="ly_link_wrap_r"><a href="/payment/online.html" class="bl_link_circle"><span class="el_heading_en el_link_white el_link_txt">explore</span><div class="el_link_circle el_link_arrow_rt"><span></span></div></a></div>
+                    </div>
+                </div>
+            </div>
+            <div class="ly_service_cont el_service_store">
+                <div class="bl_service_img_outer"><div class="bl_service_img js-service-scroll">
+                </div></div>
+                <div class="bl_service_txt">
+                    <div class="bl_service_txt_heading"><h3 class="el_heading_midium"><span class="el_color_accent">店舗</span><span>向け決済サービス</span></h3></div>
+                    <div class="bl_service_txt_detail">
+                        <p class="el_color_grey el_txt_normal">対面（リアル店舗）の電子決済領域においても、多様化するニーズに答えるサービスを提供します。</p>
+                        <div class="ly_link_wrap_r"><a href="/payment/store.html" class="bl_link_circle"><span class="el_heading_en el_link_white el_link_txt">explore</span><div class="el_link_circle el_link_arrow_rt"><span></span></div></a></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section>
+        <div class="ly_news_wrap">
+            <div class="ly_news_wrap_inner">
+                <div class="ly_headingArea">
+                    <h2 class="el_heading_large">
+                        <p class="el_heading_en el_color_accent el_heading_subttl">Latest news &amp; ideas</p>
+                        <p class="el_heading_jp">ニュース・お役立ち情報</p>
+                    </h2>
+                    <div class="ly_link_wrap_r pc-only"><a href="https://www.dgft.jp/company/info/" class="bl_link_circle"><span class="el_heading_en el_link_black el_link_txt">See all</span><div class="el_link_circle el_link_arrow_rt"><span></span></div></a></div>
+                </div>
+                <div class="ly_catList">
+                    <ul class="bl_catList">
+                        <li class="is-active bl_link_txt uni_cat_all"><button type="button" class="el_link_arrow_b el_btn_tab el_heading_en">All</button></li>
+                        <li class="bl_link_txt uni_cat_insideDGFT"><button type="button" class="el_link_arrow_b el_btn_tab el_heading_en">inside DGFT</button></li>
+                        <li class="bl_link_txt uni_cat_research"><button type="button" class="el_link_arrow_b el_btn_tab el_heading_en">Column</button></li>
+                        <li class="bl_link_txt uni_cat_trends"><button type="button" class="el_link_arrow_b el_btn_tab el_heading_en">Webinar</button></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="ly_news_cont">
+
+<!--all表示-->
+                <div class="ly_news_cont_cat uni_cat_all">
+                    <div class="bl_newsList">
+
+    
+    
+
+    <!--insideDGFT-->
+    
+
+    <!--コラム-->
+    
+                        <div class="uni_cat_research">
+                            <a href="https://www.veritrans.co.jp/tips/column/recolumn2.html" class="el_news_col">
+                                <span class="el_cat el_cat_research">Column</span>
+                                <h3 class="el_news_heading">法人EC決済選定「7つの視点」｜成長を阻む”負債”を作らない設計術</h3>
+                                <p class="el_news_date">2026年1月30日</p>
+                                <p class="el_news_datail"> 法人ECの決済選定は、単なる機能導入ではなく、将来の運用負荷やセキュリティリスクを見据えた「経営設計」そのものです。本記事では、後戻りできないインフラ投資や、</p>
+                            </a>
+                        </div>
+    
+
+    <!--セミナー-->
+    
+
+    
+    
+
+    <!--insideDGFT-->
+    
+
+    <!--コラム-->
+    
+                        <div class="uni_cat_research">
+                            <a href="https://www.veritrans.co.jp/tips/column/recolumn1.html" class="el_news_col">
+                                <span class="el_cat el_cat_research">Column</span>
+                                <h3 class="el_news_heading">複数決済を一本化するマルチ決済サービス</h3>
+                                <p class="el_news_date">2026年1月30日</p>
+                                <p class="el_news_datail"> マルチ決済サービスは、多様な決済手段をまとめて導入・一元管理できる総合決済プラットフォームで、開発コストの削減と顧客体験の向上を実現します。2024年のキャッ</p>
+                            </a>
+                        </div>
+    
+
+    <!--セミナー-->
+    
+
+    
+    
+
+    <!--insideDGFT-->
+    
+
+    <!--コラム-->
+    
+                        <div class="uni_cat_research">
+                            <a href="https://www.veritrans.co.jp/tips/column/nrf26-report.html" class="el_news_col">
+                                <span class="el_cat el_cat_research">Column</span>
+                                <h3 class="el_news_heading">【イベントレポート】NRF’26 速報：ChatGPT・Geminiが「新たな売場」になる。EC事業者が今すぐ備えるべきAgentic Commerce実践論</h3>
+                                <p class="el_news_date">2026年1月22日</p>
+                                <p class="el_news_datail"> グループ会社で、デジタルビジネス総合支援を手がけるDGビジネステクノロジーが、イベントレポート 『NRF’26 速報：ChatGPT・Geminiが「新たな売</p>
+                            </a>
+                        </div>
+    
+
+    <!--セミナー-->
+    
+
+    
+    
+
+    <!--insideDGFT-->
+    
+
+    <!--コラム-->
+    
+
+    <!--セミナー-->
+    
+                        <div class="uni_cat_trends">
+                            <a href="https://www.veritrans.co.jp/webinar/2026/260216.html" class="el_news_col">
+                             <span class="el_cat el_cat_trends">Webinar</span>
+                             <h3 class="el_news_heading">集患・決済から始めるクリニックDX</h3>
+                             <p class="el_news_date">【オンデマンド配信】2026年2月16日(月)～2月27日(金)</p>
+                            <p class="el_news_datail"><h1>集患・決済から始めるクリニックDX</h1>
+<h1>～患者の体験価値を高め、スタッフの業務負担を減らす最新事例～</h1>
+<p></p>
+<h4>「患者満足度」と「スタッフの働きやすさ」を両立し、選ばれるクリニックへ。</h4>
+<p></p>
+<h4>競争が激化するクリニック経営において、患者様から選ばれ続けるためには、</h4>
+<h4>質の高い医療に加え、「快適な受診体験」の提供が不可欠です。</h4>
+<h4>予約の取りやすさ、待ち時間の短縮、スムーズな会計――。</h4>
+<h4>これらを実現する鍵こそが、“<span style="color: #0000ff;">クリニックのDX</span>”です。</h4>
+<h4>しかし、「DXは難しそう」「費用対効果が心配」と感じている方も多いのではないでしょうか。</h4>
+<p></p>
+<h4>＼ご安心ください／</h4>
+<h4>本セミナーでは、クリニック経営の根幹である「集客」と「決済」にテーマを絞り、</h4>
+<h4>DXの第一歩を成功に導くためのノウハウを、すぐに真似できる最新の成功事例を交えて具体的にお伝えします。</h4>
+<p></p>
+<p>----------------------------------------------</p>
+<p><span>※本ウェビナーはお客様・パートナー企業様向けの内容となっております。</span></p>
+<p><span></span>恐れ入りますが、同業他社・競合企業に所属される方のご参加はご遠慮くださいますようお願いいたします。</p></p>
+                            </a>
+                        </div>
+    
+
+    
+    
+
+    <!--insideDGFT-->
+    
+                        <div class="uni_cat_insideDGFT">
+        
+            
+                            <a href="https://www.dgft.jp/company/info/2026/apppay_link-out.html" class="el_news_col">
+                                <span class="el_cat el_cat_insideDGFT">inside DGFT</span>
+                                <h3 class="el_news_heading">デジタルガレージのアプリ外課金プラットフォーム「アプリペイ」、 スマホ法に対応した、「ストア×決済」の新UIを提供～アプリ内からの「リンクアウト」でシームレスな購入体験を実現～</h3>
+                                <p class="el_news_date">2026年1月6日</p>
+                            </a>
+            
+        
+                        </div>
+    
+
+    <!--コラム-->
+    
+
+    <!--セミナー-->
+    
+
+                    </div>
+                    <div class="ly_newsList_arrows_wrap">
+                      <div class="bl_newsList_arrows"><div class="bl_link_circle"></div></div>
+                      <div class="ly_link_wrap_r sp-only"><a class="bl_link_circle"><span class="el_heading_en el_link_white el_link_txt">See all</span><div class="el_link_circle el_link_arrow_rt"><span></span></div></a></div>
+                    </div>
+                </div>
+
+<!--insideDGFTのみ表示-->
+                <div class="ly_news_cont_cat uni_cat_insideDGFT">
+                    <div class="bl_newsList">
+
+
+                        <div class="uni_cat_insideDGFT">
+        
+            
+                            <a href="https://www.dgft.jp/company/info/2026/apppay_link-out.html" class="el_news_col">
+                                <span class="el_cat el_cat_insideDGFT">inside DGFT</span>
+                                <h3 class="el_news_heading">デジタルガレージのアプリ外課金プラットフォーム「アプリペイ」、 スマホ法に対応した、「ストア×決済」の新UIを提供～アプリ内からの「リンクアウト」でシームレスな購入体験を実現～</h3>
+                                <p class="el_news_date">2026年1月6日</p>
+                            </a>
+            
+        
+                        </div>
+
+
+                        <div class="uni_cat_insideDGFT">
+        
+            
+                            <a href="https://www.dgft.jp/company/info/2025/dginvoice_bips.html" class="el_news_col">
+                                <span class="el_cat el_cat_insideDGFT">inside DGFT</span>
+                                <h3 class="el_news_heading">デジタルガレージ、「請求書カード払い協会」に初期参画事業者として参画</h3>
+                                <p class="el_news_date">2025年12月26日</p>
+                            </a>
+            
+        
+                        </div>
+
+
+                        <div class="uni_cat_insideDGFT">
+        
+            
+                            <a href="https://www.dgft.jp/company/info/2025/dginvoice_epark.html" class="el_news_col">
+                                <span class="el_cat el_cat_insideDGFT">inside DGFT</span>
+                                <h3 class="el_news_heading">飲食業、医療、理美容サロンなどの事業成長をフィンテックサービスで支援〜オンライン予約サービス「EPARK」にDGFT請求書カード払いを提供～</h3>
+                                <p class="el_news_date">2025年12月5日</p>
+                            </a>
+            
+        
+                        </div>
+
+
+                        <div class="uni_cat_insideDGFT">
+        
+            
+                            <a href="https://www.dgft.jp/company/info/2025/amusementexpo2025.html" class="el_news_col">
+                                <span class="el_cat el_cat_insideDGFT">inside DGFT</span>
+                                <h3 class="el_news_heading">「アミューズメント エキスポ 2025」出展のお知らせ〜共通QRコード決済ソリューション「Cloud Pay」シリーズの新サービスを紹介、アミューズメント施設の運営を支える新たな店舗DXを提案～</h3>
+                                <p class="el_news_date">2025年10月30日</p>
+                            </a>
+            
+        
+                        </div>
+
+
+                        <div class="uni_cat_insideDGFT">
+        
+            
+                            <a href="https://www.dgft.jp/company/info/2025/apppay_merpay.html" class="el_news_col">
+                                <span class="el_cat el_cat_insideDGFT">inside DGFT</span>
+                                <h3 class="el_news_heading">「アプリペイ」決済手段として新たにメルペイを追加〜「メルカリ」の売上金（メルペイ残高）やポイントを使って、人気ゲームのデジタルコンテンツ購入が可能に〜</h3>
+                                <p class="el_news_date">2025年10月27日</p>
+                            </a>
+            
+        
+                        </div>
+
+                    </div>
+                    <div class="ly_newsList_arrows_wrap">
+                      <div class="bl_newsList_arrows"><div class="bl_link_circle"></div></div>
+                      <div class="ly_link_wrap_r sp-only"><a class="bl_link_circle"><span class="el_heading_en el_link_white el_link_txt">See all</span><div class="el_link_circle el_link_arrow_rt"><span></span></div></a></div>
+                    </div>
+                </div>
+
+<!--コラムのみ表示-->
+                <div class="ly_news_cont_cat uni_cat_research">
+                    <div class="bl_newsList">
+
+
+                        <div class="uni_cat_research">
+                            <a href="https://www.veritrans.co.jp/tips/column/recolumn2.html" class="el_news_col">
+                                <span class="el_cat el_cat_research">Column</span>
+                                <h3 class="el_news_heading">法人EC決済選定「7つの視点」｜成長を阻む”負債”を作らない設計術</h3>
+                                <p class="el_news_date">2026年1月30日</p>
+                                <p class="el_news_datail"> 法人ECの決済選定は、単なる機能導入ではなく、将来の運用負荷やセキュリティリスクを見据えた「経営設計」そのものです。本記事では、後戻りできないインフラ投資や、</p>
+                            </a>
+                        </div>
+
+
+                        <div class="uni_cat_research">
+                            <a href="https://www.veritrans.co.jp/tips/column/recolumn1.html" class="el_news_col">
+                                <span class="el_cat el_cat_research">Column</span>
+                                <h3 class="el_news_heading">複数決済を一本化するマルチ決済サービス</h3>
+                                <p class="el_news_date">2026年1月30日</p>
+                                <p class="el_news_datail"> マルチ決済サービスは、多様な決済手段をまとめて導入・一元管理できる総合決済プラットフォームで、開発コストの削減と顧客体験の向上を実現します。2024年のキャッ</p>
+                            </a>
+                        </div>
+
+
+                        <div class="uni_cat_research">
+                            <a href="https://www.veritrans.co.jp/tips/column/nrf26-report.html" class="el_news_col">
+                                <span class="el_cat el_cat_research">Column</span>
+                                <h3 class="el_news_heading">【イベントレポート】NRF’26 速報：ChatGPT・Geminiが「新たな売場」になる。EC事業者が今すぐ備えるべきAgentic Commerce実践論</h3>
+                                <p class="el_news_date">2026年1月22日</p>
+                                <p class="el_news_datail"> グループ会社で、デジタルビジネス総合支援を手がけるDGビジネステクノロジーが、イベントレポート 『NRF’26 速報：ChatGPT・Geminiが「新たな売</p>
+                            </a>
+                        </div>
+
+
+                        <div class="uni_cat_research">
+                            <a href="https://www.veritrans.co.jp/tips/column/paypay-fee.html" class="el_news_col">
+                                <span class="el_cat el_cat_research">Column</span>
+                                <h3 class="el_news_heading">PayPayの手数料はいくら？加盟店のコストや導入のメリットを紹介</h3>
+                                <p class="el_news_date">2025年10月14日</p>
+                                <p class="el_news_datail">      --> キャッシュレス決済が浸透する中、PayPayは多くの事業者にとって欠かせない決済手段となっています。しかし気になるのが、PayPayの手数料</p>
+                            </a>
+                        </div>
+
+
+                        <div class="uni_cat_research">
+                            <a href="https://www.veritrans.co.jp/tips/column/mobile-payment.html" class="el_news_col">
+                                <span class="el_cat el_cat_research">Column</span>
+                                <h3 class="el_news_heading">スマホ決済とは？種類や支払方法、メリット・デメリットを解説</h3>
+                                <p class="el_news_date">2025年10月14日</p>
+                                <p class="el_news_datail">      --> 業務効率化、顧客満足度の向上、そしてセキュリティの強化。スマホ決済は単なる「便利な支払い手段」から、企業価値を高める戦略的なインフラへと進化</p>
+                            </a>
+                        </div>
+
+                    </div>
+                    <div class="ly_newsList_arrows_wrap">
+                      <div class="bl_newsList_arrows"><div class="bl_link_circle"></div></div>
+                      <div class="ly_link_wrap_r sp-only"><a class="bl_link_circle"><span class="el_heading_en el_link_white el_link_txt">See all</span><div class="el_link_circle el_link_arrow_rt"><span></span></div></a></div>
+                    </div>
+                </div>
+
+<!--ウェビナーのみ表示-->
+                <div class="ly_news_cont_cat uni_cat_trends is-none">
+                    <div class="bl_newsList">
+
+                        <div class="uni_cat_trends">
+
+                            <a href="https://www.veritrans.co.jp/webinar/2026/260216.html" class="el_news_col">
+                                <span class="el_cat el_cat_trends">Webinar</span>
+                                <h3 class="el_news_heading">集患・決済から始めるクリニックDX</h3>
+                             　<p class="el_news_date">【オンデマンド配信】2026年2月16日(月)～2月27日(金)</p>
+                            　　<p class="el_news_datail"><h1>集患・決済から始めるクリニックDX</h1>
+<h1>～患者の体験価値を高め、スタッフの業務負担を減らす最新事例～</h1>
+<p></p>
+<h4>「患者満足度」と「スタッフの働きやすさ」を両立し、選ばれるクリニックへ。</h4>
+<p></p>
+<h4>競争が激化するクリニック経営において、患者様から選ばれ続けるためには、</h4>
+<h4>質の高い医療に加え、「快適な受診体験」の提供が不可欠です。</h4>
+<h4>予約の取りやすさ、待ち時間の短縮、スムーズな会計――。</h4>
+<h4>これらを実現する鍵こそが、“<span style="color: #0000ff;">クリニックのDX</span>”です。</h4>
+<h4>しかし、「DXは難しそう」「費用対効果が心配」と感じている方も多いのではないでしょうか。</h4>
+<p></p>
+<h4>＼ご安心ください／</h4>
+<h4>本セミナーでは、クリニック経営の根幹である「集客」と「決済」にテーマを絞り、</h4>
+<h4>DXの第一歩を成功に導くためのノウハウを、すぐに真似できる最新の成功事例を交えて具体的にお伝えします。</h4>
+<p></p>
+<p>----------------------------------------------</p>
+<p><span>※本ウェビナーはお客様・パートナー企業様向けの内容となっております。</span></p>
+<p><span></span>恐れ入りますが、同業他社・競合企業に所属される方のご参加はご遠慮くださいますようお願いいたします。</p></p>
+                            </a>
+                        </div>
+
+                        <div class="uni_cat_trends">
+
+                            <a href="https://www.veritrans.co.jp/webinar/2025/251015.html" class="el_news_col">
+                                <span class="el_cat el_cat_trends">Webinar</span>
+                                <h3 class="el_news_heading">集患・決済から始めるクリニックDX</h3>
+                             　<p class="el_news_date">【LIVE】2025年10月15日(水)12:30-13:30</p>
+                            　　<p class="el_news_datail"><h1>集患・決済から始めるクリニックDX</h1>
+<h1>～患者の体験価値を高め、スタッフの業務負担を減らす最新事例～</h1>
+<p></p>
+<h4>「患者満足度」と「スタッフの働きやすさ」を両立し、選ばれるクリニックへ。</h4>
+<p></p>
+<h4>競争が激化するクリニック経営において、患者様から選ばれ続けるためには、</h4>
+<h4>質の高い医療に加え、「快適な受診体験」の提供が不可欠です。</h4>
+<h4>予約の取りやすさ、待ち時間の短縮、スムーズな会計――。</h4>
+<h4>これらを実現する鍵こそが、“<span style="color: #0000ff;">クリニックのDX</span>”です。</h4>
+<h4>しかし、「DXは難しそう」「費用対効果が心配」と感じている方も多いのではないでしょうか。</h4>
+<p></p>
+<h4>＼ご安心ください／</h4>
+<h4>本セミナーでは、クリニック経営の根幹である「集客」と「決済」にテーマを絞り、</h4>
+<h4>DXの第一歩を成功に導くためのノウハウを、すぐに真似できる最新の成功事例を交えて具体的にお伝えします。</h4>
+<p></p>
+<p>----------------------------------------------</p>
+<p><span>※本ウェビナーはお客様・パートナー企業様向けの内容となっております。</span></p>
+<p><span></span>恐れ入りますが、同業他社・競合企業に所属される方のご参加はご遠慮くださいますようお願いいたします。</p></p>
+                            </a>
+                        </div>
+
+                        <div class="uni_cat_trends">
+
+                            <a href="https://www.veritrans.co.jp/webinar/2025/251003.html" class="el_news_col">
+                                <span class="el_cat el_cat_trends">Webinar</span>
+                                <h3 class="el_news_heading">Payment day｜決済で加速するEC戦略</h3>
+                             　<p class="el_news_date">【LIVE】2025年10月3日(金)11:00-13:00</p>
+                            　　<p class="el_news_datail"><p>ECビジネスの成長が新たな局面を迎える中、単なる支払い手段に留まらない「決済」の戦略的重要性が一段と高まっています。<br />それは顧客体験の終着点であり、データ活用の始点であり、事業を守る砦でもあります。</p>
+<p>本セミナー 「Payment day | 決済で加速するEC戦略」では、ECの未来を左右する決済のポテンシャルを最大限に引き出すための知見を、各領域のリーディングカンパニーが一堂に会し、余すことなく解説します。</p>
+<p>～本セミナーで得られること～</p>
+<p>未来予測: 激変する決済市場の最新トレンドを読み解き、次なる一手を見据える 。<br />収益最大化: 機会損失を根絶し、売上を最大化させる決済承認率向上の技術と3Dセキュアの核心に迫る 。<br />顧客育成: 購買データをLTV（顧客生涯価値）向上に繋げる、データドリブンなリピート戦略を学ぶ 。<br />事業防衛: 巧妙化する不正アクセスから事業と顧客を堅守する、最先端のセキュリティ対策を知る 。</p>
+<p>EC事業の成長にコミットする全ての責任者様、担当者様にとって、本セミナーが未来の戦略を描くための指針となるはずです。<br />皆様のご参加を心よりお待ちしております。</p></p>
+                            </a>
+                        </div>
+
+                        <div class="uni_cat_trends">
+
+                            <a href="https://www.veritrans.co.jp/webinar/2025/250909.html" class="el_news_col">
+                                <span class="el_cat el_cat_trends">Webinar</span>
+                                <h3 class="el_news_heading">主要5大ID決済事業者が一挙に登壇！ユニファイドAPIで広がるキャッシュレスの可能性とは？</h3>
+                             　<p class="el_news_date">2025年9月9日(火)12:00-13:20</p>
+                            　　<p class="el_news_datail"><p>キャッシュレス化が加速する今、auPay・d払い・PayPay・メルペイ・楽天Payなどの主要ID決済の導入は、顧客体験を向上させ、競合他社との差別化につながります。</p>
+<p>本ウェビナーでは、業界を代表する5つのID決済事業者が一堂に登壇！5社の魅力をまとめて聞けるのはこのウェビナーだけです！今後のキャッシュレス戦略に活かせる最新情報・導入の裏側・成功事例を各社より解説。</p>
+<p>また、複数のID決済をまとめて導入できる「ユニファイドAPI」についても解説。複数の決済手段を1つのAPIで一括導入・管理できる革新的な仕組みです。<br />開発コストを抑えつつ、主要ID決済を一気に導入可能です。最小限の開発リソースで最大限の決済対応を実現したい企業様に必見の内容です。</p></p>
+                            </a>
+                        </div>
+
+                        <div class="uni_cat_trends">
+
+                            <a href="https://www.veritrans.co.jp/webinar/2025/250822.html" class="el_news_col">
+                                <span class="el_cat el_cat_trends">Webinar</span>
+                                <h3 class="el_news_heading">離脱で年間いくら損している？ カゴ落ち半減を実現する「決済 × EFO」</h3>
+                             　<p class="el_news_date">2025年8月22日(金) 11:00-12:00</p>
+                            　　<p class="el_news_datail"><p>年間で数百万、数千万もの機会損失を生み出している「カゴ落ち」「フォーム離脱」。<br />ECサイトのCVR改善において、購入・申込み直前の離脱率改善は喫緊の課題です。<br />決済とEFO（入力フォーム最適化）それぞれの専門家が、カゴ落ちを半減させるための実践的なノウハウを具体的な事例を交えてご紹介します。購入直前の離脱にお悩みの方は、ぜひご参加ください。</p></p>
+                            </a>
+                        </div>
+
+                    </div>
+                    <div class="ly_newsList_arrows_wrap">
+                      <div class="bl_newsList_arrows"><div class="bl_link_circle"></div></div>
+                      <div class="ly_link_wrap_r sp-only"><a class="bl_link_circle"><span class="el_heading_en el_link_white el_link_txt">See all</span><div class="el_link_circle el_link_arrow_rt"><span></span></div></a></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section>
+        <div class="ly_case_wrap">
+            <div class="ly_wrap_1100">
+                <div class="ly_headingArea">
+                    <h2 class="el_heading_large">
+                        <p class="el_heading_jp">支払い拠点数 <br class="sp-only"><span class="el_color_accent el_heading_en el_txt_large150 js-number_countup"data-num="119">0</span> 万超<sup style="font-size: 0.6em;">※</sup></p>
+                    </h2>
+                </div>
+                <div class="ly_case_cont">
+                    <div class="ly_case_logoArea">
+                        <ul class="bl_case_logo">
+                            <li><img src="/assets/img/top/case_logo_renta.png" alt=""></li>
+                            <li><img src="/assets/img/top/case_logo_ryouhinkeikaku.png" alt=""></li>
+                            <li><img src="/assets/img/top/case_logo_tohocinemas.png" alt=""></li>
+                            <li><img src="/assets/img/top/case_logo_tokkyochou.png" alt=""></li>
+                            <li><img src="/assets/img/top/case_logo_tokyuhands.png" alt=""></li>
+                            <li><img src="/assets/img/top/case_logo_nissen.png" alt=""></li>
+                            <li><img src="/assets/img/top/case_logo_hitachi.png" alt=""></li>
+                            <li><img src="/assets/img/top/case_logo_sanikleen.png" alt=""></li>
+                        </ul>
+                    </div>
+                    <div class="ly_caseList">
+                        <ul class="bl_caseList">
+
+                            <li>
+                                <a href="https://www.veritrans.co.jp/case/case_24.html" class="el_case_col">
+                                    <p class="el_case_datail el_txt_normal">那須ハイランドパークのチケット販売のリードタイムを1週間から”即時”へ。データ活用とコスト削減を実現</p>
+                                    <h3 class="el_case_heading">
+                                        <p class="el_case_name">藤和那須リゾート株式会社 様　サイバーウェーブ株式会社 様</p>
+                                    </h3>
+                                </a>
+                            </li>
+
+                            <li>
+                                <a href="https://www.veritrans.co.jp/case/case22.html" class="el_case_col">
+                                    <p class="el_case_datail el_txt_normal">「手ぶら」で広がる決済体験ー日立製作所と東武鉄道が進める「生体認証サービス」を支えるDGFTの決済ソリューション</p>
+                                    <h3 class="el_case_heading">
+                                        <p class="el_case_name">株式会社日立製作所 様 東武鉄道株式会社 様</p>
+                                    </h3>
+                                </a>
+                            </li>
+
+                            <li>
+                                <a href="https://www.veritrans.co.jp/case/case23.html" class="el_case_col">
+                                    <p class="el_case_datail el_txt_normal">マルチ決済サービスVeriTrans4Gで「集金業務負担の軽減」と「利用者の利便性向上」を実現</p>
+                                    <h3 class="el_case_heading">
+                                        <p class="el_case_name">極東開発パーキング株式会社 様</p>
+                                    </h3>
+                                </a>
+                            </li>
+
+                        </ul>
+                         <div class="ly_link_wrap_r"><a href="/case/" class="bl_link_circle"><span class="el_heading_en el_link_black el_link_txt">See all</span><div class="el_link_circle el_link_arrow_rt"><span></span></div></a></div>
+						<p class="mt60 txtRight">※支払い拠点数: EC等オンライン領域、<br class="sp-only">店舗などの対面領域の合計数（2025年3月末実績）</p>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section id="ctaArea">
+        <div class="ly_ctaArea">
+            <div class="ly_ctaArea_inner">
+                <div class="ly_cta_img">
+                    <div><img src="/assets/img/common/dgft_logo-large-white.svg" alt=""></div>
+                </div>
+                <div class="ly_cta_txt">
+                    <p class="el_cta_catch">ビジネスの成長を<br>DGフィナンシャルテクノロジーが<br class="sp-only">お手伝いします</p>
+                    <p class="el_cta_detail">ご不明な点はお気軽にお問い合わせください。<br>スタッフがさらに詳しくご説明します。</p>
+                    <div class="bl_ctaBtn">
+                        <a href="/contact/inquiry/?cta_footer_n" class="el_ctaBtn el_ctaBtn_inquiry"><img src="/assets/img/common/ico_inquiry.svg" alt="">お問い合わせ</a>
+                        <a href="/download/?cta_footer_n" class="el_ctaBtn el_ctaBtn_dl">資料ダウンロード</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</main>
+<footer>
+    <div class="ly_pagetop"><a href="#" class="el_btn_pagetop">トップへ戻る</a></div>
+    <div class="overlay" id="overlay"></div>
+    <div class="ly_logoMarkArea">
+        <div class="ly_logoMark_inner">
+            <ul class="bl_logoMark">
+                <li><a href="https://privacymark.jp/" target="_blank"><img src="/assets/img/common/footer_logoMarks_1.png" alt="たいせつにしますプライバシー 10820471(02)"></a></li>
+                <li><a href="https://www.icms.co.jp/license.html" target="_blank"><img src="/assets/img/common/footer_logoMarks_2.png" alt=""></a></li>
+                <li><img src="/assets/img/common/footer_logoMarks_3.png" alt=""></li>
+                <li><a href="http://ecpf.jp/" target="_blank"><img src="/assets/img/common/footer_logoMarks_5.png" alt="EC決済協議会"></a></li>
+                <li><a href="http://dairisyuno.org/" target="_blank"><img src="/assets/img/common/footer_logoMarks_6.png" alt="JCAA 日本代理収納サービス協会"></a></li>
+            </ul>
+        </div>
+    </div>
+    <div class="ly_footerMenu">
+        <div class="ly_footerMainmenu">
+            <ul class="bl_footerMainmenu">
+                <li class="el_footermenu_3col">
+                    <h2 class="el_heading_footer_main"><span>プロダクト</span></h2>
+                    <div class="ly_footerMenu_wrap">
+                        <ul class="bl_footerMenu el_footermenu_1col">
+                            <li><a href="/payment/online.html">オンライン向け決済サービス</a>
+                                <ul class="bl_footerInnerMenu">
+                                   <li><a href="/payment/">マルチ決済ソリューション「VeriTrans4G」</a></li>
+                                   <li><a href="/payment/ivr.html">IVR（音声自動応答）決済ソリューション</a></li>
+                                   <li><a href="/payment/web_transfer.html">Web口座振替</a></li>
+                                   <li><a href="/payment/omnipay.html">オムニチャネル決済「オムニPAY」</a></li>
+                                <li><a href="https://lp.dginvoice.jp" target="_blank" rel="noopener noreferrer" class="el_ico_window el_ico_window_grey">DGFT請求書カード払い<img src="/assets/img/common/ico_window_grey.svg" alt=""></a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                        <ul class="bl_footerMenu el_footermenu_1col">
+                            <li><a href="/payment/store.html">オフライン向け決済サービス</a>
+                                <ul class="bl_footerInnerMenu">
+                                    <li><a href="https://www.cloud-pay.jp/mpm/s/" target="_blank" rel="noopener noreferrer" class="el_ico_window el_ico_window_grey">Cloud Pay（マルチQRコード決済）<img src="/assets/img/common/ico_window_grey.svg" alt=""></a></li>
+									<li><a href="/lp/cloudpayneo/" target="_blank" rel="noopener noreferrer" class="el_ico_window el_ico_window_grey">Cloud Pay Neo（端末レス決済）<img src="/assets/img/common/ico_window_grey.svg" alt=""></a></li>
+                                    <li><a href="/payment/pos_payment.html">POS向けバーコード決済ソリューション</a></li>
+                                    <li><a href="/payment/ceremonypay.html">葬祭事業者向け決済「セレモニーPAY」</a></li>
+                                    <li><a href="/payment/mpos.html">対面向けキャッシュレス決済サービス（決済端末利用）「mPOS」</a></li>
+                                    <li><a href="/payment/sumapay.html">不動産会社向け決済代行サービス「住まPAY」</a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                        <ul class="bl_footerMenu el_footermenu_1col">
+                            <li><a href="/payment/store.html">その他サービス</a>
+                                <ul class="bl_footerInnerMenu">
+                                 <li><a href="https://www.dgft.jp/cashpost/" target="_blank" class="el_ico_window el_ico_window_grey">送金サービス CASH POST<img src="/assets/img/common/ico_window_grey.svg" alt=""></a></li>
+                                </ul>
+                            </li>
+                        </ul>                    
+                    </div>
+                </li>
+
+                <li class="el_footermenu_1col">
+                    <h2 class="el_heading_footer_main"><span>サポート</span></h2>
+                    <div class="ly_footerMenu_wrap">
+                        <ul class="bl_footerMenu">
+                            <li><a href="/user_support/">お客様サポート</a></li>
+                            <li><a href="/faq/">よくあるご質問</a></li>
+                            <li><a href="https://faqfa.dgft.jp/" target="_blank" class="el_ico_window el_ico_window_grey">ヘルプサイト<img src="/assets/img/common/ico_window_grey.svg" alt=""></a></li>
+                            <li><a href="/payment/partner.html">提携サービス・パートナー</a></li>
+                            <li><a href="/payment/flow.html">導入までの流れ</a></li>
+                            <li><a href="/case/">導入事例</a></li>
+                            <li><a href="/tips/column/">コラム</a></li>
+                            <li><a href="/tips/glossary/">決済用語集</a></li>
+                            <li><a href="/webinar/">ウェビナー</a></li>
+                        </ul>
+                    </div>
+                </li>
+            
+                <li class="el_footermenu_1col">
+                    <h2 class="el_heading_footer_main"><span>EC総合支援サービス</span></h2>
+                    <div class="ly_footerMenu_wrap">
+                        <ul class="bl_footerMenu">
+                            <li><a href="https://naviplus.dgbt.jp/" target="_blank" class="el_ico_window el_ico_window_grey">Eビジネス向けマーケティングツール<img src="/assets/img/common/ico_window_grey.svg" alt=""></a></li>
+                            <li><a href="https://siws.dgbt.jp/" target="_blank" class="el_ico_window el_ico_window_grey">EC・DXプラットフォーム<img src="/assets/img/common/ico_window_grey.svg" alt=""></a></li>
+                            <li><a href="https://www.veritrans.co.jp/payment/fraud_detection.html" target="_blank" class="el_ico_window el_ico_window_grey">不正検知サービスラインナップ<img src="/assets/img/common/ico_window_grey.svg" alt=""></a></li>
+                        </ul>
+                    </div>
+                </li>
+                    
+                <li class="el_footermenu_1col">
+                    <h2 class="el_heading_footer_main"><a href="/developer/">開発者向け情報</a></h2>
+                    <h2 class="el_heading_footer_main"><a href="/partner/">事業提携をご検討の方</a></h2>
+                    <h2 class="el_heading_footer_main"><a href="/login/">ご契約中のお客様</a></h2>
+                </li>
+            </ul>
+        </div>
+        <div class="ly_footerSubmenu">
+            <ul class="bl_footerSubmenu">
+                <li><a href="https://www.dgft.jp/company/" target="_blank" class="el_ico_window el_ico_window_grey">企業情報<img src="/assets/img/common/ico_window_grey.svg" alt=""></a></li>
+                <li><a href="https://www.dgft.jp/company/info/" target="_blank" class="el_ico_window el_ico_window_grey">プレスリリース・お知らせ<img src="/assets/img/common/ico_window_grey.svg" alt=""></a></li>
+                <li><a href="https://www.dgft.jp/recruit/" target="_blank" class="el_ico_window el_ico_window_grey">採用情報<img src="/assets/img/common/ico_window_grey.svg" alt=""></a></li>
+                <li><a href="/declaration/" class="el_ico_window_grey">各種方針・宣言</a></li>
+                <li><a href="https://www.dgft.jp/company/privacy/" target="_blank" class="el_ico_window el_ico_window_grey">個人情報保護方針<img src="/assets/img/common/ico_window_grey.svg" alt=""></a></li>
+                <li><a href="/tos/contract.html" class="el_ico_window el_ico_window_grey">決済サービスに係る利用規約</a></li>
+                <li><a href="https://www.dgft.jp/company/termofuse/" target="_blank" class="el_ico_window el_ico_window_grey">サイトの利用条件</a></li>
+                <li><a href="/sitemap/" class="el_ico_window_grey">サイトマップ</a></li>
+            </ul>
+        </div>
+    </div>
+    <div class="ly_footer_copyright">
+        <div class="bl_footer_copyright">
+            <img src="/assets/img/common/dgft_logo-small-white.svg" alt="">
+            <p>Copyright &copy; DG Financial Technology,Inc., a Digital Garage company. All rights reserved.</p>
+        </div>
+    </div>
+</footer>
+
+
+<!--- AshiAto log Start --->
+<script> 
+(function(){
+  var beacon = '0910fa09-9e8d-449b-a9ad-f6ff6b5780c3';
+  var url = (
+    ('https:' == document.location.protocol) ? 'https' : 'http'
+  ) + '://bridge-ashiato.appspot.com/beacon/script/' + beacon;
+
+  document.write(unescape(
+    '%3Cscript src="' + url + '" type="text/javascript"%3E%3C/script%3E'
+  ));
+})();
+</script>
+<!--- AshiAto log End --->
+<!-- HM TAG -->
+<script type="text/javascript">
+!function(){var t=Date.now().toString();if(/[?&]hm_ct=ff04d805068f5229627c66560de7100f/.test(location.search)){var e=document.createElement("script");e.type="text/javascript",e.src="https://contents-lb01.hm-f.jp/common_tag.js?t="+t,e.async=!0,document.head.appendChild(e)}}();</script>
+<!-- HM TAG -->
+</body>
+</html>
