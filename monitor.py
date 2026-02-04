@@ -32,28 +32,40 @@ def normalize_content(content: str) -> str:
     
     # 1. タイムスタンプ系の属性を削除
     patterns = [
-        # WOVN のキャッシュタイム
-        r'data-wovnio-cache-time="[^"]*"',
-        # 一般的なタイムスタンプ
-        r'timestamp="[^"]*"',
-        r'data-timestamp="[^"]*"',
+        # WOVN関連（バージョン、キャッシュタイム含む）
+        r'<script[^>]*data-wovnio[^>]*>.*?</script>',
+        r'data-wovnio-[^=]*="[^"]*"',
+        # タイムスタンプ全般
+        r'timestamp[^=]*="[^"]*"',
+        r'data-timestamp[^=]*="[^"]*"',
         # 日時を含むメタタグ
         r'content="[0-9]{12,14}\+[0-9]{4}"',
-        # CSRFトークンなど
+        # CSRFトークン
         r'csrf[-_]token[^>]*value="[^"]*"',
-        r'data-csrf="[^"]*"',
+        r'data-csrf[^=]*="[^"]*"',
         # セッションID
-        r'session[-_]id="[^"]*"',
-        # ランダムなID
+        r'session[-_]id[^=]*="[^"]*"',
+        # ランダムなID（32文字以上の16進数）
         r'id="[a-f0-9]{32,}"',
-        # Google Analytics など
+        # Google Analytics
         r'_ga=[^&\s"]*',
         r'gtm\.start=[^&\s"]*',
-        # A/Bテスト・実験ID
-        r'data-experiment[^>]*="[^"]*"',
-        r'name="edge-experiment-treatments"\s+content="[^"]*"',
-        r'data-testid="[^"]*"',
+        # 実験・A/Bテスト関連（全パターン）
+        r'experiment[-_]?[^=]*="[^"]*"',
+        r'name="[^"]*experiment[^"]*"\s+content="[^"]*"',
+        r'data-testid[^=]*="[^"]*"',
+        # リクエスト情報
+        r'name="request-country"\s+content="[^"]*"',
     ]
+    
+    normalized = content
+    for pattern in patterns:
+        normalized = re.sub(pattern, '', normalized, flags=re.IGNORECASE | re.DOTALL)
+    
+    # 2. 連続する空白を1つにまとめる
+    normalized = re.sub(r'\s+', ' ', normalized)
+    
+    return normalized
     
     normalized = content
     for pattern in patterns:
