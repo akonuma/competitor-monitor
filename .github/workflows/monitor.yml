@@ -2,8 +2,8 @@ name: Competitor Site Monitor
 
 on:
   schedule:
-    - cron: "0 23  * * *"
-  workflow_dispatch:
+    - cron: "*/5 * * * *"  # 5分ごと（テスト用）
+    workflow_dispatch:
 
 jobs:
   monitor:
