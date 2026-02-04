@@ -8,7 +8,8 @@ from datetime import datetime, timezone
 
 # ─── 環境変数から設定を読み込む ───
 TARGET_URLS = json.loads(os.environ["TARGET_URLS"])
-HASH_FILE   = "hashes.json"import requests
+HASH_FILE   = "hashes.json"
+import requests
 import hashlib
 import json
 import os
