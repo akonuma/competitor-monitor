@@ -1,8 +1,6 @@
 name: Competitor Site Monitor
 
 on:
-  schedule:
-    - cron: "30 0 * * *"  # 毎日 9:30 JST（テスト用）
   workflow_dispatch:
 
 jobs:
