@@ -521,6 +521,30 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <div class="uni_cat_insideDGFT">
         
             
+                            <a href="https://www.dgft.jp/company/info/2026/cloudpay_aeonfantasy.html" class="el_news_col">
+                                <span class="el_cat el_cat_insideDGFT">inside DGFT</span>
+                                <h3 class="el_news_heading">DGFTの共通QRコード決済ソリューション「Cloud Pay」シリーズ、 イオンファンタジーの大型店舗の新システムに提供開始～多様な決済手段を一元化し、店舗運営の効率化とエンドユーザーの利便性向上を実現～</h3>
+                                <p class="el_news_date">2026年2月5日</p>
+                            </a>
+            
+        
+                        </div>
+    
+
+    <!--コラム-->
+    
+
+    <!--セミナー-->
+    
+
+    
+    
+
+    <!--insideDGFT-->
+    
+                        <div class="uni_cat_insideDGFT">
+        
+            
                             <a href="https://www.dgft.jp/company/info/2026/cloudpay_aeonpay.html" class="el_news_col">
                                 <span class="el_cat el_cat_insideDGFT">inside DGFT</span>
                                 <h3 class="el_news_heading">DGFTの共通QRコード決済サービス「Cloud Pay」、「AEON Pay」に接続開始</h3>
@@ -600,44 +624,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <!--セミナー-->
     
 
-    
-    
-
-    <!--insideDGFT-->
-    
-
-    <!--コラム-->
-    
-
-    <!--セミナー-->
-    
-                        <div class="uni_cat_trends">
-                            <a href="https://www.veritrans.co.jp/webinar/2026/260216.html" class="el_news_col">
-                             <span class="el_cat el_cat_trends">Webinar</span>
-                             <h3 class="el_news_heading">集患・決済から始めるクリニックDX</h3>
-                             <p class="el_news_date">【オンデマンド配信】2026年2月16日(月)～2月27日(金)</p>
-                            <p class="el_news_datail"><h1>集患・決済から始めるクリニックDX</h1>
-<h1>～患者の体験価値を高め、スタッフの業務負担を減らす最新事例～</h1>
-<p></p>
-<h4>「患者満足度」と「スタッフの働きやすさ」を両立し、選ばれるクリニックへ。</h4>
-<p></p>
-<h4>競争が激化するクリニック経営において、患者様から選ばれ続けるためには、</h4>
-<h4>質の高い医療に加え、「快適な受診体験」の提供が不可欠です。</h4>
-<h4>予約の取りやすさ、待ち時間の短縮、スムーズな会計――。</h4>
-<h4>これらを実現する鍵こそが、“<span style="color: #0000ff;">クリニックのDX</span>”です。</h4>
-<h4>しかし、「DXは難しそう」「費用対効果が心配」と感じている方も多いのではないでしょうか。</h4>
-<p></p>
-<h4>＼ご安心ください／</h4>
-<h4>本セミナーでは、クリニック経営の根幹である「集客」と「決済」にテーマを絞り、</h4>
-<h4>DXの第一歩を成功に導くためのノウハウを、すぐに真似できる最新の成功事例を交えて具体的にお伝えします。</h4>
-<p></p>
-<p>----------------------------------------------</p>
-<p><span>※本ウェビナーはお客様・パートナー企業様向けの内容となっております。</span></p>
-<p><span></span>恐れ入りますが、同業他社・競合企業に所属される方のご参加はご遠慮くださいますようお願いいたします。</p></p>
-                            </a>
-                        </div>
-    
-
                     </div>
                     <div class="ly_newsList_arrows_wrap">
                       <div class="bl_newsList_arrows"><div class="bl_link_circle"></div></div>
@@ -648,6 +634,19 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!--insideDGFTのみ表示-->
                 <div class="ly_news_cont_cat uni_cat_insideDGFT">
                     <div class="bl_newsList">
+
+
+                        <div class="uni_cat_insideDGFT">
+        
+            
+                            <a href="https://www.dgft.jp/company/info/2026/cloudpay_aeonfantasy.html" class="el_news_col">
+                                <span class="el_cat el_cat_insideDGFT">inside DGFT</span>
+                                <h3 class="el_news_heading">DGFTの共通QRコード決済ソリューション「Cloud Pay」シリーズ、 イオンファンタジーの大型店舗の新システムに提供開始～多様な決済手段を一元化し、店舗運営の効率化とエンドユーザーの利便性向上を実現～</h3>
+                                <p class="el_news_date">2026年2月5日</p>
+                            </a>
+            
+        
+                        </div>
 
 
                         <div class="uni_cat_insideDGFT">
@@ -696,19 +695,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 <span class="el_cat el_cat_insideDGFT">inside DGFT</span>
                                 <h3 class="el_news_heading">飲食業、医療、理美容サロンなどの事業成長をフィンテックサービスで支援〜オンライン予約サービス「EPARK」にDGFT請求書カード払いを提供～</h3>
                                 <p class="el_news_date">2025年12月5日</p>
-                            </a>
-            
-        
-                        </div>
-
-
-                        <div class="uni_cat_insideDGFT">
-        
-            
-                            <a href="https://www.dgft.jp/company/info/2025/amusementexpo2025.html" class="el_news_col">
-                                <span class="el_cat el_cat_insideDGFT">inside DGFT</span>
-                                <h3 class="el_news_heading">「アミューズメント エキスポ 2025」出展のお知らせ〜共通QRコード決済ソリューション「Cloud Pay」シリーズの新サービスを紹介、アミューズメント施設の運営を支える新たな店舗DXを提案～</h3>
-                                <p class="el_news_date">2025年10月30日</p>
                             </a>
             
         
