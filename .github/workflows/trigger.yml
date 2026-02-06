@@ -1,8 +1,8 @@
 name: Daily Trigger
 
 on:
-  schedule:
-    - cron: "00 1 * * *"  # 毎日 9:30 JST
+  # schedule:
+  #   - cron: "0 23 * * *"
   workflow_dispatch:
 
 jobs:
