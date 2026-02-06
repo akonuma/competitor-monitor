@@ -1,4 +1,4 @@
-<!DOCTYPE html><html lang="ja"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://j.wovn.io/1" async="true" data-wovnio='key=f1IRL-&amp;backend=true&amp;currentLang=ja&amp;defaultLang=ja&amp;urlPattern=path&amp;langCodeAliases={"en":"en"}&amp;version=1.24.1&amp;backendVersion=WOVN.php_1.12.0&amp;langParamName=wovn' data-wovnio-cache-time="202602040631+0000"> </script>
+<!DOCTYPE html><html lang="ja"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://j.wovn.io/1" async="true" data-wovnio='key=f1IRL-&amp;backend=true&amp;currentLang=ja&amp;defaultLang=ja&amp;urlPattern=path&amp;langCodeAliases={"en":"en"}&amp;version=1.24.1&amp;backendVersion=WOVN.php_1.12.0&amp;langParamName=wovn' data-wovnio-cache-time="202602050756+0000"> </script>
 <!-- GTM tag -->
 <script>
 	var dataLayer = dataLayer || [];
@@ -43,7 +43,7 @@
 	<link href="https://fonts.googleapis.com/css2?family=Marcellus&amp;display=swap" rel="stylesheet">
 	<script src="https://font.realtype.jp/api/script/v4" data-rt-user="tHs9xWEV7hTvkvU8xu7WYBNGIP0zfbG4" data-rt-input="true" data-rt-nofliker="true" data-rt-layout="true" data-rt-emulation="true" data-rt-cache="true"></script>
     <!-- css -->
-	<link rel="stylesheet" href="/common/css/style.css?ver=202602031604">
+	<link rel="stylesheet" href="/common/css/style.css?ver=202602051606">
 	<link rel="stylesheet" href="/common/css/lib/splide-core.min.css">
 	<link rel="stylesheet" href="/common/js/lib/swiper-bundle.min.css">
 	<!-- script -->
@@ -79,9 +79,9 @@
 </script>
 
 
-	
-	
-		<script type="application/ld+json">
+  
+  
+    <script type="application/ld+json">
 {
   "@context":"https://schema.org",
   "@type":"WebPage",
@@ -95,13 +95,12 @@
 </script>
 
 
-	
-
+  
 
 
 <!-- TOP用CSS/JS -->
-<link rel="stylesheet" href="/top/css/style.css?ver=202602031604">
-<script src="/top/js/script.js?ver=202602031604"></script>
+<link rel="stylesheet" href="/top/css/style.css?ver=202602051606">
+<script src="/top/js/script.js?ver=202602051606"></script>
 <link rel="alternate" hreflang="en" href="https://www.gmo-pg.com/en/"><link rel="alternate" hreflang="ja" href="https://www.gmo-pg.com/"><link rel="alternate" hreflang="x-default" href="https://www.gmo-pg.com/"></head>
 <body>
 <canvas id="waveBg" aria-hidden="true"></canvas>
@@ -811,6 +810,58 @@
 								
 									<li class="p-topNewsListItem hide_if_ja">
 	<div class="p-topNewsListItem__head">
+		<time class="p-topNewsListItem__date" datetime="2026-02-05">2026.02.05</time>
+		<ul class="p-topNewsListItem__tagList">
+		
+		<li class="p-topNewsListItem__tag">
+		
+		
+		<span class="c-tag c-tag--press">プレスリリース</span>
+		
+		
+		</li>
+		
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">GMO RESERVE PLUS</span></li>
+		</ul>
+		<!--  -->
+	</div>
+	<div class="p-topNewsListItem__body">
+		<p class="p-topNewsListItem__title"><a href="
+	/en/news/press/gmo-reserveplus/2026/0205.html
+	
+">【GMO Reserve Plus】Launched "Medical Referral &amp; Scheduling Platform" to digitize referrals and appointments between medical institutions</a></p>
+	</div>
+</li>
+
+
+
+	
+<li class="p-topNewsListItem hide_if_en">
+	<div class="p-topNewsListItem__head">
+		<time class="p-topNewsListItem__date" datetime="2026-02-05">2026.02.05</time>
+		<ul class="p-topNewsListItem__tagList">
+		
+		<li class="p-topNewsListItem__tag">
+		
+		
+		<span class="c-tag c-tag--press">プレスリリース</span>
+		
+		
+		</li>
+		
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">GMO RESERVE PLUS</span></li>
+		</ul>
+		<!--  -->
+	</div>
+	<div class="p-topNewsListItem__body">
+		<p class="p-topNewsListItem__title"><a href="/news/press/gmo-reserveplus/2026/0205.html">【GMOリザーブプラス】医療機関間の紹介・予約をデジタル化する「医療連携機能」を提供開始</a></p>
+	</div>
+</li>
+
+
+								
+									<li class="p-topNewsListItem hide_if_ja">
+	<div class="p-topNewsListItem__head">
 		<time class="p-topNewsListItem__date" datetime="2026-02-03">2026.02.03</time>
 		<ul class="p-topNewsListItem__tagList">
 		
@@ -1168,30 +1219,6 @@
 	</div>
 	<div class="p-topNewsListItem__body">
 		<p class="p-topNewsListItem__title"><a href="/news/press/gmo-paymentgateway/2025/1219.html">GMOペイメントゲートウェイ、スマホ新法に対応したアプリ決済トレンドを解説する無料オンラインセミナーを開催</a></p>
-	</div>
-</li>
-
-
-								
-									<li class="p-topNewsListItem hide_if_en">
-	<div class="p-topNewsListItem__head">
-		<time class="p-topNewsListItem__date" datetime="2025-12-15">2025.12.15</time>
-		<ul class="p-topNewsListItem__tagList">
-		
-		<li class="p-topNewsListItem__tag">
-		
-		
-		<span class="c-tag c-tag--ir">IRニュース</span>
-		
-		
-		</li>
-		
-		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">適時開示・任意開示</span></li>
-		</ul>
-		<!--  -->
-	</div>
-	<div class="p-topNewsListItem__body">
-		<p class="p-topNewsListItem__title"><a href="/news/pdf/20251215_CG.pdf" target="_blank">コーポレート・ガバナンス報告書</a></p>
 	</div>
 </li>
 
@@ -1552,6 +1579,58 @@
 							
 								<li class="p-topNewsListItem hide_if_ja">
 	<div class="p-topNewsListItem__head">
+		<time class="p-topNewsListItem__date" datetime="2026-02-05">2026.02.05</time>
+		<ul class="p-topNewsListItem__tagList">
+		
+		<li class="p-topNewsListItem__tag">
+		
+		
+		<span class="c-tag c-tag--press">プレスリリース</span>
+		
+		
+		</li>
+		
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">GMO RESERVE PLUS</span></li>
+		</ul>
+		<!--  -->
+	</div>
+	<div class="p-topNewsListItem__body">
+		<p class="p-topNewsListItem__title"><a href="
+	/en/news/press/gmo-reserveplus/2026/0205.html
+	
+">【GMO Reserve Plus】Launched "Medical Referral &amp; Scheduling Platform" to digitize referrals and appointments between medical institutions</a></p>
+	</div>
+</li>
+
+
+
+	
+<li class="p-topNewsListItem hide_if_en">
+	<div class="p-topNewsListItem__head">
+		<time class="p-topNewsListItem__date" datetime="2026-02-05">2026.02.05</time>
+		<ul class="p-topNewsListItem__tagList">
+		
+		<li class="p-topNewsListItem__tag">
+		
+		
+		<span class="c-tag c-tag--press">プレスリリース</span>
+		
+		
+		</li>
+		
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">GMO RESERVE PLUS</span></li>
+		</ul>
+		<!--  -->
+	</div>
+	<div class="p-topNewsListItem__body">
+		<p class="p-topNewsListItem__title"><a href="/news/press/gmo-reserveplus/2026/0205.html">【GMOリザーブプラス】医療機関間の紹介・予約をデジタル化する「医療連携機能」を提供開始</a></p>
+	</div>
+</li>
+
+
+							
+								<li class="p-topNewsListItem hide_if_ja">
+	<div class="p-topNewsListItem__head">
 		<time class="p-topNewsListItem__date" datetime="2026-02-03">2026.02.03</time>
 		<ul class="p-topNewsListItem__tagList">
 		
@@ -1909,58 +1988,6 @@
 	</div>
 	<div class="p-topNewsListItem__body">
 		<p class="p-topNewsListItem__title"><a href="/news/press/gmo-paymentgateway/2025/1219.html">GMOペイメントゲートウェイ、スマホ新法に対応したアプリ決済トレンドを解説する無料オンラインセミナーを開催</a></p>
-	</div>
-</li>
-
-
-							
-								<li class="p-topNewsListItem hide_if_ja">
-	<div class="p-topNewsListItem__head">
-		<time class="p-topNewsListItem__date" datetime="2025-12-12">2025.12.12</time>
-		<ul class="p-topNewsListItem__tagList">
-		
-		<li class="p-topNewsListItem__tag">
-		
-		
-		<span class="c-tag c-tag--press">プレスリリース</span>
-		
-		
-		</li>
-		
-		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">GMO PAYMENT GATEWAY</span></li>
-		</ul>
-		<!--  -->
-	</div>
-	<div class="p-topNewsListItem__body">
-		<p class="p-topNewsListItem__title"><a href="
-	/en/news/press/gmo-paymentgateway/2025/1212.html
-	
-">First time named to CDP Climate Change Report 2025 as the highest rated "A-list" company</a></p>
-	</div>
-</li>
-
-
-
-	
-<li class="p-topNewsListItem hide_if_en">
-	<div class="p-topNewsListItem__head">
-		<time class="p-topNewsListItem__date" datetime="2025-12-12">2025.12.12</time>
-		<ul class="p-topNewsListItem__tagList">
-		
-		<li class="p-topNewsListItem__tag">
-		
-		
-		<span class="c-tag c-tag--press">プレスリリース</span>
-		
-		
-		</li>
-		
-		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">GMO PAYMENT GATEWAY</span></li>
-		</ul>
-		<!--  -->
-	</div>
-	<div class="p-topNewsListItem__body">
-		<p class="p-topNewsListItem__title"><a href="/news/press/gmo-paymentgateway/2025/1212.html">CDP気候変動レポート2025で最高評価の「Aリスト」企業に初選定</a></p>
 	</div>
 </li>
 
@@ -3163,7 +3190,7 @@
 <script src="/common/js/lib/micromodal.min.js"></script>
 <script src="/common/js/lib/scroll-hint.min.js"></script>
 <link rel="stylesheet" href="/common/js/lib/scroll-hint.css">
-<script src="/common/js/script.js?ver=202602031604"></script>
+<script src="/common/js/script.js?ver=202602051606"></script>
 <!-- GMOグループヘッダー -->
 <script type="text/javascript" charset="UTF-8" src="https://cache.img.gmo.jp/gmo/header/script.min.js" id="gmoheadertag" async="async"></script>
 <!-- END GMOグループヘッダー -->
