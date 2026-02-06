@@ -55,7 +55,6 @@ def strip_html_tags(html: str) -> str:
         if src_match:
             src = src_match.group(1)
             alt = alt_match.group(1) if alt_match else ""
-            # 特定の動的パラメータ（タイムスタンプ等）が含まれる場合は無視する等の処理が必要な場合もあるが、一旦そのまま
             images.append(f"[IMAGE: {src}]" + (f" (alt: {alt})" if alt else ""))
     
     html = re.sub(r'<script[^>]*>.*?</script>', '', html, flags=re.DOTALL | re.IGNORECASE)
