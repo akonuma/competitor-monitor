@@ -196,7 +196,7 @@ def send_teams_alert(changed_urls: list[dict]):
     sections = [{
         "activityTitle": "変更検知サマリー",
         "activitySubtitle": f"検知時刻: {now}",
-        "text": f"**{len(changed_urls)}件のサイトで実質的な内容変更を検知しました**"
+        "text": f"<at>everyone</at> **{len(changed_urls)}件のサイトで実質的な内容変更を検知しました**"
     }]
     
     for item in changed_urls:
