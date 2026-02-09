@@ -1,4 +1,6 @@
-<!DOCTYPE html><html lang="ja"><head prefix="og: http://ogp.me/ns#"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://j.wovn.io/1" async="true" data-wovnio="key=QLeFbd&amp;backend=true&amp;currentLang=ja&amp;defaultLang=ja&amp;urlPattern=path&amp;version=1.24.1&amp;backendVersion=WOVN.php_1.10.1&amp;langParamName=wovn" data-wovnio-cache-time="202602061721+0000"> </script>
+<!doctype html>
+<html lang="ja">
+<head prefix="og: http://ogp.me/ns#"><link rel="alternate" hreflang="en" href="https://www.sbpayment.jp/en/"><link rel="alternate" hreflang="ja" href="https://www.sbpayment.jp/"><script src="//j.wovn.io/1" data-wovnio="key=QLeFbd&amp;backend=true&amp;currentLang=ja&amp;defaultLang=ja&amp;urlPattern=path&amp;langCodeAliases=[]&amp;langParamName=wovn" data-wovnio-info="version=WOVN.php_1.10.1" data-wovnio-type="fallback_snippet" async></script>
 
 <meta charset="utf-8">
 <title>決済代行・オンライン決済サービス・システム導入ならSBペイメントサービス（ソフトバンクグループ）</title>
@@ -7,17 +9,17 @@
 <link rel="canonical" href="https://www.sbpayment.jp/">
 <meta name="description" content="SBペイメントサービス (SBPS) は、クレジットカード決済はもちろんPayPayやキャリア決済など様々な決済手段を一括導入可能な決済代行会社です。ソフトバンクグループの決済代行を担う当社の決済代行システムで、貴社サイトのオンラインショッピングをさらに快適に。">
 <meta name="keywords" content="決済代行,決済代行会社,キャッシュレス決済,Paypay決済,クレジットカード決済,クレジットカード,決済システム,SBペイメント,ソフトバンクペイメント">
-<meta property="og:title" content="決済代行・オンライン決済サービス・システム導入ならSBペイメントサービス（ソフトバンクグループ）">
+<meta property="og:title" content="決済代行・オンライン決済サービス・システム導入ならSBペイメントサービス（ソフトバンクグループ）" />
 <meta property="og:description" content="SBペイメントサービス (SBPS) は、クレジットカード決済はもちろんPayPayやキャリア決済など様々な決済手段を一括導入可能な決済代行会社です。ソフトバンクグループの決済代行を担う当社の決済代行システムで、貴社サイトのオンラインショッピングをさらに快適に。">
-<meta property="og:type" content="website">
-<meta property="og:image" content="https://www.sbpayment.jp/news/img_ogp.png">
-<meta property="og:url" content="https://www.sbpayment.jp/">
-<meta property="og:locale" content="ja_jp">
+<meta property="og:type" content="website" />
+<meta property="og:image" content="https://www.sbpayment.jp/news/img_ogp.png" />
+<meta property="og:url" content="https://www.sbpayment.jp/" />
+<meta property="og:locale" content="ja_jp" />
 
 <link rel="stylesheet" href="/assets/css/style.css">
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
-<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&amp;display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&display=swap" rel="stylesheet">
 <style>
   .topAlert{
     padding: 15px 0;
@@ -50,7 +52,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-MRQRDWV');</script>
 <!-- End Google Tag Manager -->
 
-<link rel="alternate" hreflang="en" href="https://www.sbpayment.jp/en/?_=1759283311597"><link rel="alternate" hreflang="ja" href="https://www.sbpayment.jp/?_=1759283311597"><link rel="alternate" hreflang="x-default" href="https://www.sbpayment.jp/?_=1759283311597"></head>
+</head>
 
 <body>
   <!-- Google Tag Manager (noscript) -->
@@ -62,8 +64,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <header class="header">
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
-  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&amp;display=swap" rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="/assets/css/header.css">
   <link rel="stylesheet" href="/assets/css/wovn.css">
   <div class="header__inner">
@@ -439,11 +441,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="head">
                   <h3 class="title">オンライン決済を<br>導入したい</h3>
                   <picture class="img">
-                    <source media="(max-width: 954px)" srcset="/assets/img/top/sp/img_service_01.jpg">
+                    <source media="(max-width: 954px)" srcset="/assets/img/top/sp/img_service_01.jpg" />
                     <img loading="eager" src="/assets/img/top/img_service_01.jpg" alt="オンライン決済を導入したい">
                   </picture>
                   <picture class="logo">
-                    <source media="(max-width: 954px)" srcset="/assets/img/top/img_service_01_01.png">
+                    <source media="(max-width: 954px)" srcset="/assets/img/top/img_service_01_01.png" />
                     <img loading="eager" src="/assets/img/top/img_service_01_01.png" alt="オンライン決済手段">
                   </picture>
                 </div>
@@ -453,7 +455,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <li class="creditcard">
                       <a href="/service/asp/creditcard/">
                         <picture class="img">
-                        <source media="(max-width: 954px)" srcset="/assets/img/top/sp/img_service_01_02.png">
+                        <source media="(max-width: 954px)" srcset="/assets/img/top/sp/img_service_01_02.png" />
                           <img loading="eager" src="/assets/img/top/img_service_01_02.png" alt="クレジットカード決済サービス">
                         </picture>
                         <p class="text">クレジット<br class="modBpSp">カード決済サービス</p>
@@ -462,7 +464,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <li class="convenience_store">
                       <a href="/service/asp/convenience_store/">
                         <picture class="img">
-                          <source media="(max-width: 954px)" srcset="/assets/img/top/sp/img_service_01_06.png">
+                          <source media="(max-width: 954px)" srcset="/assets/img/top/sp/img_service_01_06.png" />
                           <img loading="eager" src="/assets/img/top/img_service_01_06.png" alt="コンビニ決済">
                         </picture>
                         <p class="text">コンビニ決済</p>
@@ -471,7 +473,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <li class="paypay_online">
                       <a href="/service/asp/paypay_online/">
                         <picture class="img">
-                          <source media="(max-width: 954px)" srcset="/assets/img/top/img_service_01_03.png">
+                          <source media="(max-width: 954px)" srcset="/assets/img/top/img_service_01_03.png" />
                           <img loading="eager" src="/assets/img/top/img_service_01_03.png" alt="PayPay（オンライン決済）">
                         </picture>
                         <p class="text">PayPay<br class="modBpSp">（オンライン決済）</p>
@@ -480,7 +482,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <li class="mobile">
                       <a href="/service/asp/mobile/">
                         <picture class="img">
-                          <source media="(max-width: 954px)" srcset="/assets/img/top/sp/img_service_01_04.png">
+                          <source media="(max-width: 954px)" srcset="/assets/img/top/sp/img_service_01_04.png" />
                           <img loading="eager" src="/assets/img/top/img_service_01_04.png" alt="キャリア決済">
                         </picture>
                         <p class="text">キャリア決済</p>
@@ -489,7 +491,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <li class="google_pay">
                       <a href="/service/asp/google_pay/">
                         <picture class="img">
-                          <source media="(max-width: 954px)" srcset="/assets/img/top/img_service_01_07.png">
+                          <source media="(max-width: 954px)" srcset="/assets/img/top/img_service_01_07.png" />
                           <img loading="eager" src="/assets/img/top/img_service_01_07.png" alt="Google Pay">
                         </picture>
                         <p class="text">Google Pay</p>
@@ -498,7 +500,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <li class="rakuten">
                       <a href="/service/asp/rakuten/">
                         <picture class="img">
-                          <source media="(max-width: 954px)" srcset="/assets/img/top/img_service_01_08.png">
+                          <source media="(max-width: 954px)" srcset="/assets/img/top/img_service_01_08.png" />
                           <img loading="eager" src="/assets/img/top/img_service_01_08.png" alt="楽天ペイ（オンライン決済）">
                         </picture>
                         <p class="text">楽天ペイ<br class="modBpSp">（オンライン決済）</p>
@@ -512,7 +514,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                   <div class="plusInformation">
                     <p class="plusInformation__category">当社独自の<br class="modBpSp">セキュリティサービス</p>
                     <picture class="plusInformation__img">
-                      <source media="(max-width: 954px)" srcset="/assets/img/top/img_service_01_05.png">
+                      <source media="(max-width: 954px)" srcset="/assets/img/top/img_service_01_05.png" />
                       <img loading="eager" src="/assets/img/top/img_service_01_05.png" alt="AI不正検知">
                     </picture>
                     <p class="plusInformation__title">AI不正検知</p>
@@ -530,7 +532,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="head">
                   <h3 class="title">ECと店舗の決済を<br>連携させたい</h3>
                   <picture class="img">
-                    <source media="(max-width: 954px)" srcset="/assets/img/top/sp/img_service_02.jpg">
+                    <source media="(max-width: 954px)" srcset="/assets/img/top/sp/img_service_02.jpg" />
                     <img loading="eager" src="/assets/img/top/img_service_02.jpg" alt="ECと店舗の決済を連携させたい">
                   </picture>
                 </div>
@@ -548,11 +550,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="head">
                   <h3 class="title">ECカートを<br class="en">利用したい</h3>
                   <picture class="img">
-                    <source media="(max-width: 954px)" srcset="/assets/img/top/sp/img_service_03.jpg">
+                    <source media="(max-width: 954px)" srcset="/assets/img/top/sp/img_service_03.jpg" />
                     <img loading="eager" src="/assets/img/top/img_service_03.jpg" alt="ECカートを利用したい">
                   </picture>
                   <picture class="logo">
-                    <source media="(max-width: 954px)" srcset="/assets/img/top/img_service_03_01.png">
+                    <source media="(max-width: 954px)" srcset="/assets/img/top/img_service_03_01.png" />
                     <img loading="eager" src="/assets/img/top/img_service_03_01.png" alt="連携可能なECカートパッケージ">
                   </picture>
                 </div>
@@ -562,7 +564,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <li>
                       <a href="/service/partner/shopify/">
                         <picture class="img">
-                          <source media="(max-width: 954px)" srcset="/assets/img/top/img_service_03_02.png">
+                          <source media="(max-width: 954px)" srcset="/assets/img/top/img_service_03_02.png" />
                           <img loading="eager" src="/assets/img/top/img_service_03_02.png" alt="shopify">
                         </picture>
                       </a>
@@ -570,7 +572,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <li>
                       <a href="/service/partner/futureshop/">
                         <picture class="img">
-                          <source media="(max-width: 954px)" srcset="/assets/img/top/img_service_03_03.png">
+                          <source media="(max-width: 954px)" srcset="/assets/img/top/img_service_03_03.png" />
                           <img loading="eager" src="/assets/img/top/img_service_03_03.png" alt="futureshop">
                         </picture>
                       </a>
@@ -578,7 +580,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <li>
                       <a href="/service/partner/ec-force/">
                         <picture class="img">
-                          <source media="(max-width: 954px)" srcset="/assets/img/top/img_service_03_04.png">
+                          <source media="(max-width: 954px)" srcset="/assets/img/top/img_service_03_04.png" />
                           <img loading="eager" src="/assets/img/top/img_service_03_04.png" alt="ecforce">
                         </picture>
                       </a>
@@ -593,7 +595,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                   <div class="modBtnArea">
                     <a href="/purpose/ec_cart/introduction/" class="modBnr cta-banner">
                     <picture class="img">
-                      <source media="(max-width: 954px)" srcset="/assets/img/top/sp/bnr_service_03.jpg">
+                      <source media="(max-width: 954px)" srcset="/assets/img/top/sp/bnr_service_03.jpg" />
                       <img loading="eager" src="/assets/img/top/bnr_service_03.jpg" alt="あなたに合うECカートが見つかる！ECカート診断">
                     </picture>
                     </a>
@@ -607,11 +609,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="head">
                   <h3 class="title">店舗決済を<br class="en">導入したい</h3>
                   <picture class="img">
-                    <source media="(max-width: 954px)" srcset="/assets/img/top/sp/img_service_04.jpg">
+                    <source media="(max-width: 954px)" srcset="/assets/img/top/sp/img_service_04.jpg" />
                     <img loading="eager" src="/assets/img/top/img_service_04.jpg" alt="店舗決済を導入したい">
                   </picture>
                   <picture class="logo">
-                    <source media="(max-width: 954px)" srcset="/assets/img/top/img_service_04_01.png">
+                    <source media="(max-width: 954px)" srcset="/assets/img/top/img_service_04_01.png" />
                     <img loading="eager" src="/assets/img/top/img_service_04_01.png" alt="店舗向け決済手段">
                   </picture>
                 </div>
@@ -629,7 +631,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="head">
                   <h3 class="title">法人・<br class="en">個人への<br>支払いを<br class="en">代行して欲しい</h3>
                   <picture class="img">
-                    <source media="(max-width: 954px)" srcset="/assets/img/top/sp/img_service_05.jpg">
+                    <source media="(max-width: 954px)" srcset="/assets/img/top/sp/img_service_05.jpg" />
                     <img loading="eager" src="/assets/img/top/img_service_05.jpg" alt="法人・個人への支払いを代行して欲しい">
                   </picture>
                 </div>
@@ -840,7 +842,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                       <span class="status status--end"><span>開催終了</span></span>
                     </div>
                     <div class="title">
-                      Game Tools &amp; Middleware Forum 2025
+                      Game Tools & Middleware Forum 2025
                     </div>
                     <br>
                     <div class="title">
@@ -1064,7 +1066,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               <h2 class="modHeadingSection">EC事業者さま向け <br class="modBpSp">決済お役立ち情報</h2>
               <p class="modTextDescription">EC事業者のさまざまな課題解決・ビジネスを加速させるための情報を発信しています。</p>
               <picture class="img">
-                <source media="(max-width: 954px)" srcset="/assets/img/top/sp/img_useful.png">
+                <source media="(max-width: 954px)" srcset="/assets/img/top/sp/img_useful.png" />
                 <img loading="eager" src="/assets/img/top/img_useful.png" alt="お役立ち情報">
               </picture>
             </div>
@@ -1256,10 +1258,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </ul>
 
 
-<footer class="footer">
+<footer  class="footer">
   <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
-  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&amp;display=swap" rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="/assets/css/footer.css">
   <div class="footer__inner">
     <p class="footer__head">サービス</p>
@@ -1499,7 +1501,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <div class="footer__lower">
     <div class="footer__lower__inner">
       <div class="logo"><a href="/">SBペイメントサービス株式会社</a></div>
-      <p class="copyright">Copyright © SB Payment Service Corp. All right reserved.</p>
+      <p class="copyright">Copyright &copy; SB Payment Service Corp. All right reserved.</p>
     </div>
   </div>
 </footer>
@@ -1607,7 +1609,7 @@ var google_remarketing_only = true;
 </noscript>
 
   </div>
-
+</body>
 <script type="text/javascript" src="/js/jquery.cookie.js"></script>
 <script type="text/javascript" src="/js/sticky_display.js"></script>
 <script type="text/plain" src="/js/targeting_cookies.js" class="optanon-category-C0004"></script>
@@ -1626,4 +1628,4 @@ var google_remarketing_only = true;
     }
   });
 </script>
-</body></html>
+</html>

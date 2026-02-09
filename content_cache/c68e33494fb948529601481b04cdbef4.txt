@@ -518,6 +518,27 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
     <!--insideDGFT-->
     
+
+    <!--コラム-->
+    
+                        <div class="uni_cat_research">
+                            <a href="https://www.veritrans.co.jp/tips/column/nrf26-report02.html" class="el_news_col">
+                                <span class="el_cat el_cat_research">Column</span>
+                                <h3 class="el_news_heading">【イベントレポート】NRF’26レポート：エージェンティック・コマース時代にEC事業者が取り組むべきデータ整備</h3>
+                                <p class="el_news_date">2026年2月9日</p>
+                                <p class="el_news_datail"> グループ会社で、デジタルビジネス総合支援を手がけるDGビジネステクノロジーが、イベントレポート 『NRF’26レポート：エージェンティック・コマース時代にEC</p>
+                            </a>
+                        </div>
+    
+
+    <!--セミナー-->
+    
+
+    
+    
+
+    <!--insideDGFT-->
+    
                         <div class="uni_cat_insideDGFT">
         
             
@@ -596,27 +617,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 <h3 class="el_news_heading">複数決済を一本化するマルチ決済サービス</h3>
                                 <p class="el_news_date">2026年1月30日</p>
                                 <p class="el_news_datail"> マルチ決済サービスは、多様な決済手段をまとめて導入・一元管理できる総合決済プラットフォームで、開発コストの削減と顧客体験の向上を実現します。2024年のキャッ</p>
-                            </a>
-                        </div>
-    
-
-    <!--セミナー-->
-    
-
-    
-    
-
-    <!--insideDGFT-->
-    
-
-    <!--コラム-->
-    
-                        <div class="uni_cat_research">
-                            <a href="https://www.veritrans.co.jp/tips/column/nrf26-report.html" class="el_news_col">
-                                <span class="el_cat el_cat_research">Column</span>
-                                <h3 class="el_news_heading">【イベントレポート】NRF’26 速報：ChatGPT・Geminiが「新たな売場」になる。EC事業者が今すぐ備えるべきAgentic Commerce実践論</h3>
-                                <p class="el_news_date">2026年1月22日</p>
-                                <p class="el_news_datail"> グループ会社で、デジタルビジネス総合支援を手がけるDGビジネステクノロジーが、イベントレポート 『NRF’26 速報：ChatGPT・Geminiが「新たな売</p>
                             </a>
                         </div>
     
@@ -713,6 +713,16 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
                         <div class="uni_cat_research">
+                            <a href="https://www.veritrans.co.jp/tips/column/nrf26-report02.html" class="el_news_col">
+                                <span class="el_cat el_cat_research">Column</span>
+                                <h3 class="el_news_heading">【イベントレポート】NRF’26レポート：エージェンティック・コマース時代にEC事業者が取り組むべきデータ整備</h3>
+                                <p class="el_news_date">2026年2月9日</p>
+                                <p class="el_news_datail"> グループ会社で、デジタルビジネス総合支援を手がけるDGビジネステクノロジーが、イベントレポート 『NRF’26レポート：エージェンティック・コマース時代にEC</p>
+                            </a>
+                        </div>
+
+
+                        <div class="uni_cat_research">
                             <a href="https://www.veritrans.co.jp/tips/column/recolumn2.html" class="el_news_col">
                                 <span class="el_cat el_cat_research">Column</span>
                                 <h3 class="el_news_heading">法人EC決済選定「7つの視点」｜成長を阻む”負債”を作らない設計術</h3>
@@ -748,16 +758,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 <h3 class="el_news_heading">PayPayの手数料はいくら？加盟店のコストや導入のメリットを紹介</h3>
                                 <p class="el_news_date">2025年10月14日</p>
                                 <p class="el_news_datail">      --> キャッシュレス決済が浸透する中、PayPayは多くの事業者にとって欠かせない決済手段となっています。しかし気になるのが、PayPayの手数料</p>
-                            </a>
-                        </div>
-
-
-                        <div class="uni_cat_research">
-                            <a href="https://www.veritrans.co.jp/tips/column/mobile-payment.html" class="el_news_col">
-                                <span class="el_cat el_cat_research">Column</span>
-                                <h3 class="el_news_heading">スマホ決済とは？種類や支払方法、メリット・デメリットを解説</h3>
-                                <p class="el_news_date">2025年10月14日</p>
-                                <p class="el_news_datail">      --> 業務効率化、顧客満足度の向上、そしてセキュリティの強化。スマホ決済は単なる「便利な支払い手段」から、企業価値を高める戦略的なインフラへと進化</p>
                             </a>
                         </div>
 
