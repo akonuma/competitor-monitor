@@ -1,4 +1,4 @@
-<!DOCTYPE html><html lang="ja"><head prefix="og: http://ogp.me/ns#"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://j.wovn.io/1" async="true" data-wovnio="key=QLeFbd&amp;backend=true&amp;currentLang=ja&amp;defaultLang=ja&amp;urlPattern=path&amp;version=1.24.1&amp;backendVersion=WOVN.php_1.10.1&amp;langParamName=wovn" data-wovnio-cache-time="202602090118+0000"> </script>
+<!DOCTYPE html><html lang="ja"><head prefix="og: http://ogp.me/ns#"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://j.wovn.io/1" async="true" data-wovnio="key=QLeFbd&amp;backend=true&amp;currentLang=ja&amp;defaultLang=ja&amp;urlPattern=path&amp;version=1.24.1&amp;backendVersion=WOVN.php_1.10.1&amp;langParamName=wovn" data-wovnio-cache-time="202602100149+0000"> </script>
 
 <meta charset="utf-8">
 <title>決済代行・オンライン決済サービス・システム導入ならSBペイメントサービス（ソフトバンクグループ）</title>
@@ -50,7 +50,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-MRQRDWV');</script>
 <!-- End Google Tag Manager -->
 
-<link rel="alternate" hreflang="en" href="https://www.sbpayment.jp/en/"><link rel="alternate" hreflang="ja" href="https://www.sbpayment.jp/"><link rel="alternate" hreflang="x-default" href="https://www.sbpayment.jp/"></head>
+<link rel="alternate" hreflang="en" href="https://www.sbpayment.jp/en/?_=1770688192392"><link rel="alternate" hreflang="ja" href="https://www.sbpayment.jp/?_=1770688192392"><link rel="alternate" hreflang="x-default" href="https://www.sbpayment.jp/?_=1770688192392"></head>
 
 <body>
   <!-- Google Tag Manager (noscript) -->
@@ -1132,6 +1132,16 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             
             <li class="modListNews__item">
               
+              <a href="https://www.sbpayment.jp/news/press/2026/20260210_001523/">
+                <time class="time" datetime="2026-02-10">2026.02.10</time>
+                <span class="category"><span>プレスリリース</span></span>
+                <p class="title">自社ECサイトの立ち上げから運営までをワンストップで支援する<br>「Cafe24 PRO」とSBPSのオンライン決済サービスの連携を開始 <br><span style="font-size:70%;">～実店舗やECモール出店・出品者を対象に自社ECの「決済×運営環境」を一括整備～</span></p>
+              </a>
+              
+            </li>
+            
+            <li class="modListNews__item">
+              
               <a href="https://www.sbpayment.jp/news/info/2026/20260115_001514/">
                 <time class="time" datetime="2026-01-15">2026.01.15</time>
                 <span class="category"><span>お知らせ</span></span>
@@ -1146,16 +1156,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <time class="time" datetime="2025-12-24">2025.12.24</time>
                 <span class="category"><span>プレスリリース</span></span>
                 <p class="title">実店舗でのキャッシュレス決済に関する<br>第2回 利用実態調査結果を公開<br><span style="font-size:70%;">～キャッシュレス決済派は72.7％！ 20代の60.3％が「キャッシュレス決済非対応が原因で支払いをやめた経験あり」～ </span></p>
-              </a>
-              
-            </li>
-            
-            <li class="modListNews__item">
-              
-              <a href="https://www.sbpayment.jp/news/press/2025/20251209_001509/">
-                <time class="time" datetime="2025-12-09">2025.12.09</time>
-                <span class="category"><span>プレスリリース</span></span>
-                <p class="title"><span style="font-size:70%;">本キャンペーンは終了しました</span><br><br>「SBPS請求書カード払い」の対応ブランド拡大を記念し、<br> 「総額1,000万円！導入支援キャンペーン」を開始！<br><span style="font-size:70%;">～Visa、Mastercardに対応し、より利用しやすさが向上～</span></p>
               </a>
               
             </li>
