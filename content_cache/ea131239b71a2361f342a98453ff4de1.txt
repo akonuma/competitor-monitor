@@ -1,4 +1,4 @@
-<!DOCTYPE html><html lang="ja"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://j.wovn.io/1" async="true" data-wovnio='key=f1IRL-&amp;backend=true&amp;currentLang=ja&amp;defaultLang=ja&amp;urlPattern=path&amp;langCodeAliases={"en":"en"}&amp;version=1.24.1&amp;backendVersion=WOVN.php_1.12.0&amp;langParamName=wovn' data-wovnio-cache-time="202602050756+0000"> </script>
+<!DOCTYPE html><html lang="ja"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://j.wovn.io/1" async="true" data-wovnio='key=f1IRL-&amp;backend=true&amp;currentLang=ja&amp;defaultLang=ja&amp;urlPattern=path&amp;langCodeAliases={"en":"en"}&amp;version=1.24.1&amp;backendVersion=WOVN.php_1.12.0&amp;langParamName=wovn' data-wovnio-cache-time="202602121044+0000"> </script>
 <!-- GTM tag -->
 <script>
 	var dataLayer = dataLayer || [];
@@ -43,7 +43,7 @@
 	<link href="https://fonts.googleapis.com/css2?family=Marcellus&amp;display=swap" rel="stylesheet">
 	<script src="https://font.realtype.jp/api/script/v4" data-rt-user="tHs9xWEV7hTvkvU8xu7WYBNGIP0zfbG4" data-rt-input="true" data-rt-nofliker="true" data-rt-layout="true" data-rt-emulation="true" data-rt-cache="true"></script>
     <!-- css -->
-	<link rel="stylesheet" href="/common/css/style.css?ver=202602051606">
+	<link rel="stylesheet" href="/common/css/style.css?ver=202602121915">
 	<link rel="stylesheet" href="/common/css/lib/splide-core.min.css">
 	<link rel="stylesheet" href="/common/js/lib/swiper-bundle.min.css">
 	<!-- script -->
@@ -99,8 +99,8 @@
 
 
 <!-- TOP用CSS/JS -->
-<link rel="stylesheet" href="/top/css/style.css?ver=202602051606">
-<script src="/top/js/script.js?ver=202602051606"></script>
+<link rel="stylesheet" href="/top/css/style.css?ver=202602121915">
+<script src="/top/js/script.js?ver=202602121915"></script>
 <link rel="alternate" hreflang="en" href="https://www.gmo-pg.com/en/"><link rel="alternate" hreflang="ja" href="https://www.gmo-pg.com/"><link rel="alternate" hreflang="x-default" href="https://www.gmo-pg.com/"></head>
 <body>
 <canvas id="waveBg" aria-hidden="true"></canvas>
@@ -808,53 +808,73 @@
 							
 							<ul class="p-topNewsList">
 								
-									<li class="p-topNewsListItem hide_if_ja">
+									<li class="p-topNewsListItem hide_if_en">
 	<div class="p-topNewsListItem__head">
-		<time class="p-topNewsListItem__date" datetime="2026-02-05">2026.02.05</time>
+		<time class="p-topNewsListItem__date" datetime="2026-02-12">2026.02.12</time>
 		<ul class="p-topNewsListItem__tagList">
 		
 		<li class="p-topNewsListItem__tag">
 		
 		
-		<span class="c-tag c-tag--press">プレスリリース</span>
+		<span class="c-tag c-tag--ir">IRニュース</span>
 		
 		
 		</li>
 		
-		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">GMO RESERVE PLUS</span></li>
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">決算説明会資料</span></li>
 		</ul>
 		<!--  -->
 	</div>
 	<div class="p-topNewsListItem__body">
-		<p class="p-topNewsListItem__title"><a href="
-	/en/news/press/gmo-reserveplus/2026/0205.html
-	
-">【GMO Reserve Plus】Launched "Medical Referral &amp; Scheduling Platform" to digitize referrals and appointments between medical institutions</a></p>
+		<p class="p-topNewsListItem__title"><a href="https://www.irwebcasting.com/20260212/5/index.html" target="_blank">2026年9月期 第1四半期決算説明会動画</a></p>
 	</div>
 </li>
 
 
-
-	
-<li class="p-topNewsListItem hide_if_en">
+								
+									<li class="p-topNewsListItem hide_if_en">
 	<div class="p-topNewsListItem__head">
-		<time class="p-topNewsListItem__date" datetime="2026-02-05">2026.02.05</time>
+		<time class="p-topNewsListItem__date" datetime="2026-02-12">2026.02.12</time>
 		<ul class="p-topNewsListItem__tagList">
 		
 		<li class="p-topNewsListItem__tag">
 		
 		
-		<span class="c-tag c-tag--press">プレスリリース</span>
+		<span class="c-tag c-tag--ir">IRニュース</span>
 		
 		
 		</li>
 		
-		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">GMO RESERVE PLUS</span></li>
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">決算説明会資料</span></li>
 		</ul>
 		<!--  -->
 	</div>
 	<div class="p-topNewsListItem__body">
-		<p class="p-topNewsListItem__title"><a href="/news/press/gmo-reserveplus/2026/0205.html">【GMOリザーブプラス】医療機関間の紹介・予約をデジタル化する「医療連携機能」を提供開始</a></p>
+		<p class="p-topNewsListItem__title"><a href="/news/pdf/20260212_gmo-pg_kessan.pdf" target="_blank">2026年9月期 第1四半期決算説明会資料</a></p>
+	</div>
+</li>
+
+
+								
+									<li class="p-topNewsListItem hide_if_en">
+	<div class="p-topNewsListItem__head">
+		<time class="p-topNewsListItem__date" datetime="2026-02-12">2026.02.12</time>
+		<ul class="p-topNewsListItem__tagList">
+		
+		<li class="p-topNewsListItem__tag">
+		
+		
+		<span class="c-tag c-tag--ir">IRニュース</span>
+		
+		
+		</li>
+		
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">決算説明会資料</span></li>
+		</ul>
+		<!--  -->
+	</div>
+	<div class="p-topNewsListItem__body">
+		<p class="p-topNewsListItem__title"><a href="/news/pdf/20260212_gmo_pg_ir_introduction.pdf" target="_blank">IRイントロダクション　-事業概要とビジネスモデルについて-（2026年9月期 第1四半期）</a></p>
 	</div>
 </li>
 
@@ -862,26 +882,27 @@
 								
 									<li class="p-topNewsListItem hide_if_ja">
 	<div class="p-topNewsListItem__head">
-		<time class="p-topNewsListItem__date" datetime="2026-02-03">2026.02.03</time>
+		<time class="p-topNewsListItem__date" datetime="2026-02-12">2026.02.12</time>
 		<ul class="p-topNewsListItem__tagList">
 		
 		<li class="p-topNewsListItem__tag">
 		
 		
-		<span class="c-tag c-tag--press">プレスリリース</span>
+		<span class="c-tag c-tag--ir">IRニュース</span>
 		
 		
 		</li>
 		
-		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">GMO PAYMENT GATEWAY</span></li>
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">決算短信</span></li>
 		</ul>
 		<!--  -->
 	</div>
 	<div class="p-topNewsListItem__body">
 		<p class="p-topNewsListItem__title"><a href="
-	/en/news/press/gmo-paymentgateway/2026/0203.html
-	
-">GMO Payment Gateway, the first PSP in Japan, has developed payment development documentation with LLM search and AI search</a></p>
+	/news/pdf/20260212_gmo_pg_ir_consolidated_financial_en.pdf
+		
+		
+" target="_blank">Summary of Consolidated Financial Statements for the first Quarter, FY2026 (IFRS)</a></p>
 	</div>
 </li>
 
@@ -890,23 +911,23 @@
 	
 <li class="p-topNewsListItem hide_if_en">
 	<div class="p-topNewsListItem__head">
-		<time class="p-topNewsListItem__date" datetime="2026-02-03">2026.02.03</time>
+		<time class="p-topNewsListItem__date" datetime="2026-02-12">2026.02.12</time>
 		<ul class="p-topNewsListItem__tagList">
 		
 		<li class="p-topNewsListItem__tag">
 		
 		
-		<span class="c-tag c-tag--press">プレスリリース</span>
+		<span class="c-tag c-tag--ir">IRニュース</span>
 		
 		
 		</li>
 		
-		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">GMO PAYMENT GATEWAY</span></li>
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">決算短信</span></li>
 		</ul>
 		<!--  -->
 	</div>
 	<div class="p-topNewsListItem__body">
-		<p class="p-topNewsListItem__title"><a href="/news/press/gmo-paymentgateway/2026/0203.html">GMOペイメントゲートウェイ、国内PSP初、LLMによる探索とAI検索を備えた決済開発ドキュメントを整備</a></p>
+		<p class="p-topNewsListItem__title"><a href="/news/pdf/20260212_gmo_pg_ir_tanshin.pdf" target="_blank">2026年9月期 第1四半期 決算短信[IFRS]</a></p>
 	</div>
 </li>
 
@@ -914,26 +935,27 @@
 								
 									<li class="p-topNewsListItem hide_if_ja">
 	<div class="p-topNewsListItem__head">
-		<time class="p-topNewsListItem__date" datetime="2026-02-02">2026.02.02</time>
+		<time class="p-topNewsListItem__date" datetime="2026-02-12">2026.02.12</time>
 		<ul class="p-topNewsListItem__tagList">
 		
 		<li class="p-topNewsListItem__tag">
 		
 		
-		<span class="c-tag c-tag--press">プレスリリース</span>
+		<span class="c-tag c-tag--ir">IRニュース</span>
 		
 		
 		</li>
 		
-		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">GMO PAYMENT GATEWAY</span></li>
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">適時開示・任意開示</span></li>
 		</ul>
 		<!--  -->
 	</div>
 	<div class="p-topNewsListItem__body">
 		<p class="p-topNewsListItem__title"><a href="
-	/en/news/press/gmo-paymentgateway/2026/0202.html
-	
-">"GMO-PG Remittance Service" started offering "– Bank Transfer Instruction Option Combined with Electronic Payment Services " Remittances of over 1 million yen can be realized on the same interface</a></p>
+	/news/pdf/20260212_gmo_pg_ir_kaiji_en.pdf
+		
+		
+" target="_blank">Notice Regarding the Introduction of Shareholder Benefit Program</a></p>
 	</div>
 </li>
 
@@ -942,23 +964,23 @@
 	
 <li class="p-topNewsListItem hide_if_en">
 	<div class="p-topNewsListItem__head">
-		<time class="p-topNewsListItem__date" datetime="2026-02-02">2026.02.02</time>
+		<time class="p-topNewsListItem__date" datetime="2026-02-12">2026.02.12</time>
 		<ul class="p-topNewsListItem__tagList">
 		
 		<li class="p-topNewsListItem__tag">
 		
 		
-		<span class="c-tag c-tag--press">プレスリリース</span>
+		<span class="c-tag c-tag--ir">IRニュース</span>
 		
 		
 		</li>
 		
-		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">GMO PAYMENT GATEWAY</span></li>
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">適時開示・任意開示</span></li>
 		</ul>
 		<!--  -->
 	</div>
 	<div class="p-topNewsListItem__body">
-		<p class="p-topNewsListItem__title"><a href="/news/press/gmo-paymentgateway/2026/0202.html">「GMO-PG送金サービス」で「電代業併用オプション」を提供開始 同一インターフェースで100万円超の送金も実現</a></p>
+		<p class="p-topNewsListItem__title"><a href="/news/pdf/20260212_gmo_pg_ir_kaiji.pdf" target="_blank">株主優待制度の導入に関するお知らせ</a></p>
 	</div>
 </li>
 
@@ -966,26 +988,27 @@
 								
 									<li class="p-topNewsListItem hide_if_ja">
 	<div class="p-topNewsListItem__head">
-		<time class="p-topNewsListItem__date" datetime="2026-01-30">2026.01.30</time>
+		<time class="p-topNewsListItem__date" datetime="2026-02-12">2026.02.12</time>
 		<ul class="p-topNewsListItem__tagList">
 		
 		<li class="p-topNewsListItem__tag">
 		
 		
-		<span class="c-tag c-tag--press">プレスリリース</span>
+		<span class="c-tag c-tag--ir">IRニュース</span>
 		
 		
 		</li>
 		
-		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">GMO PAYMENT GATEWAY</span></li>
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">決算説明会資料</span></li>
 		</ul>
 		<!--  -->
 	</div>
 	<div class="p-topNewsListItem__body">
 		<p class="p-topNewsListItem__title"><a href="
-	/en/news/press/gmo-paymentgateway/2026/0130.html
-	
-">freee and GMO Payment Gateway Launch New Service to Improve Cash Flow with invoice Card Payments</a></p>
+	/news/pdf/20260212_gmo-pg_data_en.pdf
+		
+		
+" target="_blank">Data Book for Q1 of FY2026</a></p>
 	</div>
 </li>
 
@@ -994,23 +1017,23 @@
 	
 <li class="p-topNewsListItem hide_if_en">
 	<div class="p-topNewsListItem__head">
-		<time class="p-topNewsListItem__date" datetime="2026-01-30">2026.01.30</time>
+		<time class="p-topNewsListItem__date" datetime="2026-02-12">2026.02.12</time>
 		<ul class="p-topNewsListItem__tagList">
 		
 		<li class="p-topNewsListItem__tag">
 		
 		
-		<span class="c-tag c-tag--press">プレスリリース</span>
+		<span class="c-tag c-tag--ir">IRニュース</span>
 		
 		
 		</li>
 		
-		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">GMO PAYMENT GATEWAY</span></li>
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">決算説明会資料</span></li>
 		</ul>
 		<!--  -->
 	</div>
 	<div class="p-topNewsListItem__body">
-		<p class="p-topNewsListItem__title"><a href="/news/press/gmo-paymentgateway/2026/0130.html">freeeとGMOペイメントゲートウェイ、請求書のカード払いでキャッシュフローを改善する新サービスを開始</a></p>
+		<p class="p-topNewsListItem__title"><a href="/news/pdf/20260212_gmo-pg_data.pdf" target="_blank">データブック（2026年9月期 第1四半期）</a></p>
 	</div>
 </li>
 
@@ -1018,207 +1041,77 @@
 								
 									<li class="p-topNewsListItem hide_if_ja">
 	<div class="p-topNewsListItem__head">
-		<time class="p-topNewsListItem__date" datetime="2026-01-26">2026.01.26</time>
+		<time class="p-topNewsListItem__date" datetime="2026-02-12">2026.02.12</time>
 		<ul class="p-topNewsListItem__tagList">
 		
 		<li class="p-topNewsListItem__tag">
 		
 		
-		<span class="c-tag c-tag--press">プレスリリース</span>
+		<span class="c-tag c-tag--ir">IRニュース</span>
 		
 		
 		</li>
 		
-		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">GMO PAYMENT GATEWAY</span></li>
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">決算説明会資料</span></li>
 		</ul>
 		<!--  -->
 	</div>
 	<div class="p-topNewsListItem__body">
 		<p class="p-topNewsListItem__title"><a href="
-	/en/news/press/gmo-paymentgateway/2026/0126.html
-	
-">GMO Payment Gateway launches "PX+ by GMO", an owned media platform that supports the growth of businesses starting with payment</a></p>
+	/news/archive/20260212_gmo-pg_data_en.zip
+		
+		
+" target="_blank">Data Book for Q1 of FY2026 Excel ver</a></p>
 	</div>
 </li>
 
 
 
 	
+			
 <li class="p-topNewsListItem hide_if_en">
 	<div class="p-topNewsListItem__head">
-		<time class="p-topNewsListItem__date" datetime="2026-01-26">2026.01.26</time>
+		<time class="p-topNewsListItem__date" datetime="2026-02-12">2026.02.12</time>
 		<ul class="p-topNewsListItem__tagList">
 		
 		<li class="p-topNewsListItem__tag">
 		
 		
-		<span class="c-tag c-tag--press">プレスリリース</span>
+		<span class="c-tag c-tag--ir">IRニュース</span>
 		
 		
 		</li>
 		
-		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">GMO PAYMENT GATEWAY</span></li>
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">決算説明会資料</span></li>
 		</ul>
 		<!--  -->
 	</div>
 	<div class="p-topNewsListItem__body">
-		<p class="p-topNewsListItem__title"><a href="/news/press/gmo-paymentgateway/2026/0126.html">GMOペイメントゲートウェイ、決済を起点に事業者の成長を支援するオウンドメディア「PX＋ byGMO」開始</a></p>
+		<p class="p-topNewsListItem__title"><a href="/news/archive/20260212_gmo-pg_data.zip" target="_blank">データブック（2025年9月期 第1四半期）Excel</a></p>
 	</div>
 </li>
 
 
 								
-									<li class="p-topNewsListItem hide_if_ja">
+									<li class="p-topNewsListItem hide_if_en">
 	<div class="p-topNewsListItem__head">
-		<time class="p-topNewsListItem__date" datetime="2025-12-23">2025.12.23</time>
+		<time class="p-topNewsListItem__date" datetime="2026-02-12">2026.02.12</time>
 		<ul class="p-topNewsListItem__tagList">
 		
 		<li class="p-topNewsListItem__tag">
 		
 		
-		<span class="c-tag c-tag--press">プレスリリース</span>
+		<span class="c-tag c-tag--ir">IRニュース</span>
 		
 		
 		</li>
 		
-		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">GMO EPSILON</span></li>
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">統合報告書</span></li>
 		</ul>
 		<!--  -->
 	</div>
 	<div class="p-topNewsListItem__body">
-		<p class="p-topNewsListItem__title"><a href="
-	/en/news/press/gmo-epsilon/2025/1223.html
-	
-">【GMO Epsilon】CSS and GMO Epsilon Begin Collaboration to Launch Payment Management Service "TREE PAYMENT－nyuukin totsugou zero VAce －" in March 2026</a></p>
-	</div>
-</li>
-
-
-
-	
-<li class="p-topNewsListItem hide_if_en">
-	<div class="p-topNewsListItem__head">
-		<time class="p-topNewsListItem__date" datetime="2025-12-23">2025.12.23</time>
-		<ul class="p-topNewsListItem__tagList">
-		
-		<li class="p-topNewsListItem__tag">
-		
-		
-		<span class="c-tag c-tag--press">プレスリリース</span>
-		
-		
-		</li>
-		
-		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">GMO EPSILON</span></li>
-		</ul>
-		<!--  -->
-	</div>
-	<div class="p-topNewsListItem__body">
-		<p class="p-topNewsListItem__title"><a href="/news/press/gmo-epsilon/2025/1223.html">【GMOイプシロン】CSSとGMOイプシロンが協業開始 入金管理サービス「TREE PAYMENT－入金突合ゼロVAce(ベース)－」を2026年3月提供開始</a></p>
-	</div>
-</li>
-
-
-								
-									<li class="p-topNewsListItem hide_if_ja">
-	<div class="p-topNewsListItem__head">
-		<time class="p-topNewsListItem__date" datetime="2025-12-22">2025.12.22</time>
-		<ul class="p-topNewsListItem__tagList">
-		
-		<li class="p-topNewsListItem__tag">
-		
-		
-		<span class="c-tag c-tag--press">プレスリリース</span>
-		
-		
-		</li>
-		
-		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">GMO PAYMENT GATEWAY</span></li>
-		</ul>
-		<!--  -->
-	</div>
-	<div class="p-topNewsListItem__body">
-		<p class="p-topNewsListItem__title"><a href="
-	/en/news/press/gmo-paymentgateway/2025/1222.html
-	
-">J&amp;J Tax Free and GMO Payment Gateway Support for New Tax Exemption System Refunds strategic alliance</a></p>
-	</div>
-</li>
-
-
-
-	
-<li class="p-topNewsListItem hide_if_en">
-	<div class="p-topNewsListItem__head">
-		<time class="p-topNewsListItem__date" datetime="2025-12-22">2025.12.22</time>
-		<ul class="p-topNewsListItem__tagList">
-		
-		<li class="p-topNewsListItem__tag">
-		
-		
-		<span class="c-tag c-tag--press">プレスリリース</span>
-		
-		
-		</li>
-		
-		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">GMO PAYMENT GATEWAY</span></li>
-		</ul>
-		<!--  -->
-	</div>
-	<div class="p-topNewsListItem__body">
-		<p class="p-topNewsListItem__title"><a href="/news/press/gmo-paymentgateway/2025/1222.html">J&amp;J Tax FreeとGMOペイメントゲートウェイ、新免税制度のリファンド方式対応で戦略的提携</a></p>
-	</div>
-</li>
-
-
-								
-									<li class="p-topNewsListItem hide_if_ja">
-	<div class="p-topNewsListItem__head">
-		<time class="p-topNewsListItem__date" datetime="2025-12-19">2025.12.19</time>
-		<ul class="p-topNewsListItem__tagList">
-		
-		<li class="p-topNewsListItem__tag">
-		
-		
-		<span class="c-tag c-tag--press">プレスリリース</span>
-		
-		
-		</li>
-		
-		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">GMO PAYMENT GATEWAY</span></li>
-		</ul>
-		<!--  -->
-	</div>
-	<div class="p-topNewsListItem__body">
-		<p class="p-topNewsListItem__title"><a href="
-	/en/news/press/gmo-paymentgateway/2025/1219.html
-	
-">GMO Payment Gateway Launches Free Webinar to Explain Smartphone Act Compatible Apps payment Trends</a></p>
-	</div>
-</li>
-
-
-
-	
-<li class="p-topNewsListItem hide_if_en">
-	<div class="p-topNewsListItem__head">
-		<time class="p-topNewsListItem__date" datetime="2025-12-19">2025.12.19</time>
-		<ul class="p-topNewsListItem__tagList">
-		
-		<li class="p-topNewsListItem__tag">
-		
-		
-		<span class="c-tag c-tag--press">プレスリリース</span>
-		
-		
-		</li>
-		
-		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">GMO PAYMENT GATEWAY</span></li>
-		</ul>
-		<!--  -->
-	</div>
-	<div class="p-topNewsListItem__body">
-		<p class="p-topNewsListItem__title"><a href="/news/press/gmo-paymentgateway/2025/1219.html">GMOペイメントゲートウェイ、スマホ新法に対応したアプリ決済トレンドを解説する無料オンラインセミナーを開催</a></p>
+		<p class="p-topNewsListItem__title"><a href="/news/pdf/20260212_gmo_pg_ir_integrated_report.pdf" target="_blank">2025年9月期　統合報告書</a></p>
 	</div>
 </li>
 
@@ -1232,7 +1125,7 @@
 							
 								<li class="p-topNewsListItem hide_if_en">
 	<div class="p-topNewsListItem__head">
-		<time class="p-topNewsListItem__date" datetime="2025-12-15">2025.12.15</time>
+		<time class="p-topNewsListItem__date" datetime="2026-02-12">2026.02.12</time>
 		<ul class="p-topNewsListItem__tagList">
 		
 		<li class="p-topNewsListItem__tag">
@@ -1243,118 +1136,12 @@
 		
 		</li>
 		
-		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">適時開示・任意開示</span></li>
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">決算説明会資料</span></li>
 		</ul>
 		<!--  -->
 	</div>
 	<div class="p-topNewsListItem__body">
-		<p class="p-topNewsListItem__title"><a href="/news/pdf/20251215_CG.pdf" target="_blank">コーポレート・ガバナンス報告書</a></p>
-	</div>
-</li>
-
-
-							
-								<li class="p-topNewsListItem hide_if_ja">
-	<div class="p-topNewsListItem__head">
-		<time class="p-topNewsListItem__date" datetime="2025-12-15">2025.12.15</time>
-		<ul class="p-topNewsListItem__tagList">
-		
-		<li class="p-topNewsListItem__tag">
-		
-		
-		<span class="c-tag c-tag--ir">IRニュース</span>
-		
-		
-		</li>
-		
-		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">適時開示・任意開示</span></li>
-		</ul>
-		<!--  -->
-	</div>
-	<div class="p-topNewsListItem__body">
-		<p class="p-topNewsListItem__title"><a href="
-	/news/pdf/20251215_gmo_pg_ir_kaiji_01_en.pdf
-		
-		
-" target="_blank">Notice Concerning Conversion Price Adjustment of Zero Coupon Convertible Bonds Due 2026</a></p>
-	</div>
-</li>
-
-
-
-	
-<li class="p-topNewsListItem hide_if_en">
-	<div class="p-topNewsListItem__head">
-		<time class="p-topNewsListItem__date" datetime="2025-12-15">2025.12.15</time>
-		<ul class="p-topNewsListItem__tagList">
-		
-		<li class="p-topNewsListItem__tag">
-		
-		
-		<span class="c-tag c-tag--ir">IRニュース</span>
-		
-		
-		</li>
-		
-		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">適時開示・任意開示</span></li>
-		</ul>
-		<!--  -->
-	</div>
-	<div class="p-topNewsListItem__body">
-		<p class="p-topNewsListItem__title"><a href="/news/pdf/20251215_gmo_pg_ir_kaiji_01.pdf" target="_blank">2026年満期ユーロ円建転換社債型新株予約権付社債の転換価額の調整に関するお知らせ</a></p>
-	</div>
-</li>
-
-
-							
-								<li class="p-topNewsListItem hide_if_ja">
-	<div class="p-topNewsListItem__head">
-		<time class="p-topNewsListItem__date" datetime="2025-12-15">2025.12.15</time>
-		<ul class="p-topNewsListItem__tagList">
-		
-		<li class="p-topNewsListItem__tag">
-		
-		
-		<span class="c-tag c-tag--ir">IRニュース</span>
-		
-		
-		</li>
-		
-		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">適時開示・任意開示</span></li>
-		</ul>
-		<!--  -->
-	</div>
-	<div class="p-topNewsListItem__body">
-		<p class="p-topNewsListItem__title"><a href="
-	/news/pdf/20251215_gmo_pg_ir_kaiji_02_en.pdf
-		
-		
-" target="_blank">Notice Concerning Controlling Shareholders, etc.</a></p>
-	</div>
-</li>
-
-
-
-	
-<li class="p-topNewsListItem hide_if_en">
-	<div class="p-topNewsListItem__head">
-		<time class="p-topNewsListItem__date" datetime="2025-12-15">2025.12.15</time>
-		<ul class="p-topNewsListItem__tagList">
-		
-		<li class="p-topNewsListItem__tag">
-		
-		
-		<span class="c-tag c-tag--ir">IRニュース</span>
-		
-		
-		</li>
-		
-		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">適時開示・任意開示</span></li>
-		</ul>
-		<!--  -->
-	</div>
-	<div class="p-topNewsListItem__body">
-		<p class="p-topNewsListItem__title"><a href="/news/pdf/20251215_gmo_pg_ir_kaiji_02.pdf" target="_blank">支配株主等に関する事項について</a></p>
+		<p class="p-topNewsListItem__title"><a href="https://www.irwebcasting.com/20260212/5/index.html" target="_blank">2026年9月期 第1四半期決算説明会動画</a></p>
 	</div>
 </li>
 
@@ -1362,7 +1149,7 @@
 							
 								<li class="p-topNewsListItem hide_if_en">
 	<div class="p-topNewsListItem__head">
-		<time class="p-topNewsListItem__date" datetime="2025-12-12">2025.12.12</time>
+		<time class="p-topNewsListItem__date" datetime="2026-02-12">2026.02.12</time>
 		<ul class="p-topNewsListItem__tagList">
 		
 		<li class="p-topNewsListItem__tag">
@@ -1373,69 +1160,12 @@
 		
 		</li>
 		
-		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">有価証券報告書</span></li>
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">決算説明会資料</span></li>
 		</ul>
 		<!--  -->
 	</div>
 	<div class="p-topNewsListItem__body">
-		<p class="p-topNewsListItem__title"><a href="/news/pdf/20251212_gmo_pg_ir_yuho.pdf" target="_blank">2025年9月期 有価証券報告書</a></p>
-	</div>
-</li>
-
-
-							
-								<li class="p-topNewsListItem hide_if_ja">
-	<div class="p-topNewsListItem__head">
-		<time class="p-topNewsListItem__date" datetime="2025-11-28">2025.11.28</time>
-		<ul class="p-topNewsListItem__tagList">
-		
-		<li class="p-topNewsListItem__tag">
-		
-		
-		<span class="c-tag c-tag--ir">IRニュース</span>
-		
-		
-		</li>
-		
-		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">株主総会</span></li>
-		</ul>
-		<!--  -->
-	</div>
-	<div class="p-topNewsListItem__body">
-		<p class="p-topNewsListItem__title"><a href="
-	/news/pdf/20251128_gmo_pg_ir_shosyu_en.pdf
-		
-		
-" target="_blank">Notice of the FY2025 (32nd) Annual Meeting of Shareholders</a></p>
-	</div>
-</li>
-
-
-
-	
-<li class="p-topNewsListItem hide_if_en">
-	<div class="p-topNewsListItem__head">
-		<time class="p-topNewsListItem__date" datetime="2025-11-28">2025.11.28</time>
-		<ul class="p-topNewsListItem__tagList">
-		
-		<li class="p-topNewsListItem__tag">
-		
-		
-		<span class="c-tag c-tag--ir">IRニュース</span>
-		
-		
-		</li>
-		
-		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">株主総会</span></li>
-		</ul>
-		<!--  -->
-	</div>
-	<div class="p-topNewsListItem__body">
-		<p class="p-topNewsListItem__title"><a href="
-	/news/pdf/20251128_gmo_pg_ir_shosyu_en.pdf
-		
-		
-" target="_blank">2025年9月期定時株主総会招集ご通知（英）</a></p>
+		<p class="p-topNewsListItem__title"><a href="/news/pdf/20260212_gmo-pg_kessan.pdf" target="_blank">2026年9月期 第1四半期決算説明会資料</a></p>
 	</div>
 </li>
 
@@ -1443,7 +1173,7 @@
 							
 								<li class="p-topNewsListItem hide_if_en">
 	<div class="p-topNewsListItem__head">
-		<time class="p-topNewsListItem__date" datetime="2025-11-22">2025.11.22</time>
+		<time class="p-topNewsListItem__date" datetime="2026-02-12">2026.02.12</time>
 		<ul class="p-topNewsListItem__tagList">
 		
 		<li class="p-topNewsListItem__tag">
@@ -1454,12 +1184,12 @@
 		
 		</li>
 		
-		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">株主総会</span></li>
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">決算説明会資料</span></li>
 		</ul>
 		<!--  -->
 	</div>
 	<div class="p-topNewsListItem__body">
-		<p class="p-topNewsListItem__title"><a href="/news/pdf/20251122_gmo_pg_ir_shosyu.pdf" target="_blank">2025年9月期定時株主総会招集ご通知</a></p>
+		<p class="p-topNewsListItem__title"><a href="/news/pdf/20260212_gmo_pg_ir_introduction.pdf" target="_blank">IRイントロダクション　-事業概要とビジネスモデルについて-（2026年9月期 第1四半期）</a></p>
 	</div>
 </li>
 
@@ -1467,7 +1197,60 @@
 							
 								<li class="p-topNewsListItem hide_if_ja">
 	<div class="p-topNewsListItem__head">
-		<time class="p-topNewsListItem__date" datetime="2025-11-17">2025.11.17</time>
+		<time class="p-topNewsListItem__date" datetime="2026-02-12">2026.02.12</time>
+		<ul class="p-topNewsListItem__tagList">
+		
+		<li class="p-topNewsListItem__tag">
+		
+		
+		<span class="c-tag c-tag--ir">IRニュース</span>
+		
+		
+		</li>
+		
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">決算短信</span></li>
+		</ul>
+		<!--  -->
+	</div>
+	<div class="p-topNewsListItem__body">
+		<p class="p-topNewsListItem__title"><a href="
+	/news/pdf/20260212_gmo_pg_ir_consolidated_financial_en.pdf
+		
+		
+" target="_blank">Summary of Consolidated Financial Statements for the first Quarter, FY2026 (IFRS)</a></p>
+	</div>
+</li>
+
+
+
+	
+<li class="p-topNewsListItem hide_if_en">
+	<div class="p-topNewsListItem__head">
+		<time class="p-topNewsListItem__date" datetime="2026-02-12">2026.02.12</time>
+		<ul class="p-topNewsListItem__tagList">
+		
+		<li class="p-topNewsListItem__tag">
+		
+		
+		<span class="c-tag c-tag--ir">IRニュース</span>
+		
+		
+		</li>
+		
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">決算短信</span></li>
+		</ul>
+		<!--  -->
+	</div>
+	<div class="p-topNewsListItem__body">
+		<p class="p-topNewsListItem__title"><a href="/news/pdf/20260212_gmo_pg_ir_tanshin.pdf" target="_blank">2026年9月期 第1四半期 決算短信[IFRS]</a></p>
+	</div>
+</li>
+
+
+							
+								<li class="p-topNewsListItem hide_if_ja">
+	<div class="p-topNewsListItem__head">
+		<time class="p-topNewsListItem__date" datetime="2026-02-12">2026.02.12</time>
 		<ul class="p-topNewsListItem__tagList">
 		
 		<li class="p-topNewsListItem__tag">
@@ -1484,10 +1267,10 @@
 	</div>
 	<div class="p-topNewsListItem__body">
 		<p class="p-topNewsListItem__title"><a href="
-	/news/pdf/20251117_gmo_pg_ir_kaiji_01_en.pdf
+	/news/pdf/20260212_gmo_pg_ir_kaiji_en.pdf
 		
 		
-" target="_blank">Notice Regarding the Distribution of Dividends from Retained Earnings</a></p>
+" target="_blank">Notice Regarding the Introduction of Shareholder Benefit Program</a></p>
 	</div>
 </li>
 
@@ -1496,7 +1279,7 @@
 	
 <li class="p-topNewsListItem hide_if_en">
 	<div class="p-topNewsListItem__head">
-		<time class="p-topNewsListItem__date" datetime="2025-11-17">2025.11.17</time>
+		<time class="p-topNewsListItem__date" datetime="2026-02-12">2026.02.12</time>
 		<ul class="p-topNewsListItem__tagList">
 		
 		<li class="p-topNewsListItem__tag">
@@ -1512,7 +1295,7 @@
 		<!--  -->
 	</div>
 	<div class="p-topNewsListItem__body">
-		<p class="p-topNewsListItem__title"><a href="/news/pdf/20251117_gmo_pg_ir_kaiji_01.pdf" target="_blank">剰余金の配当に関するお知らせ</a></p>
+		<p class="p-topNewsListItem__title"><a href="/news/pdf/20260212_gmo_pg_ir_kaiji.pdf" target="_blank">株主優待制度の導入に関するお知らせ</a></p>
 	</div>
 </li>
 
@@ -1520,7 +1303,7 @@
 							
 								<li class="p-topNewsListItem hide_if_ja">
 	<div class="p-topNewsListItem__head">
-		<time class="p-topNewsListItem__date" datetime="2025-11-17">2025.11.17</time>
+		<time class="p-topNewsListItem__date" datetime="2026-02-12">2026.02.12</time>
 		<ul class="p-topNewsListItem__tagList">
 		
 		<li class="p-topNewsListItem__tag">
@@ -1531,16 +1314,16 @@
 		
 		</li>
 		
-		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">適時開示・任意開示</span></li>
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">決算説明会資料</span></li>
 		</ul>
 		<!--  -->
 	</div>
 	<div class="p-topNewsListItem__body">
 		<p class="p-topNewsListItem__title"><a href="
-	/news/pdf/20251117_gmo_pg_ir_kaiji_02_en.pdf
+	/news/pdf/20260212_gmo-pg_data_en.pdf
 		
 		
-" target="_blank">Notice on Reinstatement and Partial Revision of the Performance-Based Stock Compensation Plan</a></p>
+" target="_blank">Data Book for Q1 of FY2026</a></p>
 	</div>
 </li>
 
@@ -1549,7 +1332,7 @@
 	
 <li class="p-topNewsListItem hide_if_en">
 	<div class="p-topNewsListItem__head">
-		<time class="p-topNewsListItem__date" datetime="2025-11-17">2025.11.17</time>
+		<time class="p-topNewsListItem__date" datetime="2026-02-12">2026.02.12</time>
 		<ul class="p-topNewsListItem__tagList">
 		
 		<li class="p-topNewsListItem__tag">
@@ -1560,12 +1343,90 @@
 		
 		</li>
 		
-		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">適時開示・任意開示</span></li>
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">決算説明会資料</span></li>
 		</ul>
 		<!--  -->
 	</div>
 	<div class="p-topNewsListItem__body">
-		<p class="p-topNewsListItem__title"><a href="/news/pdf/20251117_gmo_pg_ir_kaiji_02.pdf" target="_blank">業績連動型株式報酬制度の再開および一部改定に関するお知らせ</a></p>
+		<p class="p-topNewsListItem__title"><a href="/news/pdf/20260212_gmo-pg_data.pdf" target="_blank">データブック（2026年9月期 第1四半期）</a></p>
+	</div>
+</li>
+
+
+							
+								<li class="p-topNewsListItem hide_if_ja">
+	<div class="p-topNewsListItem__head">
+		<time class="p-topNewsListItem__date" datetime="2026-02-12">2026.02.12</time>
+		<ul class="p-topNewsListItem__tagList">
+		
+		<li class="p-topNewsListItem__tag">
+		
+		
+		<span class="c-tag c-tag--ir">IRニュース</span>
+		
+		
+		</li>
+		
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">決算説明会資料</span></li>
+		</ul>
+		<!--  -->
+	</div>
+	<div class="p-topNewsListItem__body">
+		<p class="p-topNewsListItem__title"><a href="
+	/news/archive/20260212_gmo-pg_data_en.zip
+		
+		
+" target="_blank">Data Book for Q1 of FY2026 Excel ver</a></p>
+	</div>
+</li>
+
+
+
+	
+			
+<li class="p-topNewsListItem hide_if_en">
+	<div class="p-topNewsListItem__head">
+		<time class="p-topNewsListItem__date" datetime="2026-02-12">2026.02.12</time>
+		<ul class="p-topNewsListItem__tagList">
+		
+		<li class="p-topNewsListItem__tag">
+		
+		
+		<span class="c-tag c-tag--ir">IRニュース</span>
+		
+		
+		</li>
+		
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">決算説明会資料</span></li>
+		</ul>
+		<!--  -->
+	</div>
+	<div class="p-topNewsListItem__body">
+		<p class="p-topNewsListItem__title"><a href="/news/archive/20260212_gmo-pg_data.zip" target="_blank">データブック（2025年9月期 第1四半期）Excel</a></p>
+	</div>
+</li>
+
+
+							
+								<li class="p-topNewsListItem hide_if_en">
+	<div class="p-topNewsListItem__head">
+		<time class="p-topNewsListItem__date" datetime="2026-02-12">2026.02.12</time>
+		<ul class="p-topNewsListItem__tagList">
+		
+		<li class="p-topNewsListItem__tag">
+		
+		
+		<span class="c-tag c-tag--ir">IRニュース</span>
+		
+		
+		</li>
+		
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">統合報告書</span></li>
+		</ul>
+		<!--  -->
+	</div>
+	<div class="p-topNewsListItem__body">
+		<p class="p-topNewsListItem__title"><a href="/news/pdf/20260212_gmo_pg_ir_integrated_report.pdf" target="_blank">2025年9月期　統合報告書</a></p>
 	</div>
 </li>
 
@@ -3190,7 +3051,7 @@
 <script src="/common/js/lib/micromodal.min.js"></script>
 <script src="/common/js/lib/scroll-hint.min.js"></script>
 <link rel="stylesheet" href="/common/js/lib/scroll-hint.css">
-<script src="/common/js/script.js?ver=202602051606"></script>
+<script src="/common/js/script.js?ver=202602121915"></script>
 <!-- GMOグループヘッダー -->
 <script type="text/javascript" charset="UTF-8" src="https://cache.img.gmo.jp/gmo/header/script.min.js" id="gmoheadertag" async="async"></script>
 <!-- END GMOグループヘッダー -->

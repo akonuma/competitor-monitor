@@ -518,6 +518,30 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
     <!--insideDGFT-->
     
+                        <div class="uni_cat_insideDGFT">
+        
+            
+                            <a href="https://www.dgft.jp/company/info/2026/20260212-dgft-nesta.html" class="el_news_col">
+                                <span class="el_cat el_cat_insideDGFT">inside DGFT</span>
+                                <h3 class="el_news_heading">DGFTとauフィナンシャルサービスの共同開発による 次世代決済プラットフォーム「NESTA」、 au/UQ mobileの通信料金の決済処理へ提供開始</h3>
+                                <p class="el_news_date">2026年2月12日</p>
+                            </a>
+            
+        
+                        </div>
+    
+
+    <!--コラム-->
+    
+
+    <!--セミナー-->
+    
+
+    
+    
+
+    <!--insideDGFT-->
+    
 
     <!--コラム-->
     
@@ -532,6 +556,28 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     
 
     <!--セミナー-->
+    
+
+    
+    
+
+    <!--insideDGFT-->
+    
+
+    <!--コラム-->
+    
+
+    <!--セミナー-->
+    
+                        <div class="uni_cat_trends">
+                            <a href="https://www.veritrans.co.jp/webinar/2026/260305_cash_post.html" class="el_news_col">
+                             <span class="el_cat el_cat_trends">Webinar</span>
+                             <h3 class="el_news_heading">入社式・インターンシップの準備、追われてませんか？</h3>
+                             <p class="el_news_date">【LIVE】2026年3月5日(木) 12:00～13:00</p>
+                            <p class="el_news_datail"><p>入社式やインターンシップは、新しい仲間を迎え入れ、組織へのエンゲージメントを高める重要なイベントです。<br />しかし、その舞台裏では、膨大な数の雇用契約書の締結・回収や、全国から集まる参加者への交通費・宿泊費の精算といった「ノンコア業務」に、多くの人事が忙殺されているのが実情です。</p>
+<p>本ウェビナーでは、そんな「現場のバタバタ」を解消し、攻めの人事へと転換する内容について解説いたします。</p></p>
+                            </a>
+                        </div>
     
 
     
@@ -582,48 +628,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <!--セミナー-->
     
 
-    
-    
-
-    <!--insideDGFT-->
-    
-
-    <!--コラム-->
-    
-                        <div class="uni_cat_research">
-                            <a href="https://www.veritrans.co.jp/tips/column/recolumn2.html" class="el_news_col">
-                                <span class="el_cat el_cat_research">Column</span>
-                                <h3 class="el_news_heading">法人EC決済選定「7つの視点」｜成長を阻む”負債”を作らない設計術</h3>
-                                <p class="el_news_date">2026年1月30日</p>
-                                <p class="el_news_datail"> 法人ECの決済選定は、単なる機能導入ではなく、将来の運用負荷やセキュリティリスクを見据えた「経営設計」そのものです。本記事では、後戻りできないインフラ投資や、</p>
-                            </a>
-                        </div>
-    
-
-    <!--セミナー-->
-    
-
-    
-    
-
-    <!--insideDGFT-->
-    
-
-    <!--コラム-->
-    
-                        <div class="uni_cat_research">
-                            <a href="https://www.veritrans.co.jp/tips/column/recolumn1.html" class="el_news_col">
-                                <span class="el_cat el_cat_research">Column</span>
-                                <h3 class="el_news_heading">複数決済を一本化するマルチ決済サービス</h3>
-                                <p class="el_news_date">2026年1月30日</p>
-                                <p class="el_news_datail"> マルチ決済サービスは、多様な決済手段をまとめて導入・一元管理できる総合決済プラットフォームで、開発コストの削減と顧客体験の向上を実現します。2024年のキャッ</p>
-                            </a>
-                        </div>
-    
-
-    <!--セミナー-->
-    
-
                     </div>
                     <div class="ly_newsList_arrows_wrap">
                       <div class="bl_newsList_arrows"><div class="bl_link_circle"></div></div>
@@ -634,6 +638,19 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!--insideDGFTのみ表示-->
                 <div class="ly_news_cont_cat uni_cat_insideDGFT">
                     <div class="bl_newsList">
+
+
+                        <div class="uni_cat_insideDGFT">
+        
+            
+                            <a href="https://www.dgft.jp/company/info/2026/20260212-dgft-nesta.html" class="el_news_col">
+                                <span class="el_cat el_cat_insideDGFT">inside DGFT</span>
+                                <h3 class="el_news_heading">DGFTとauフィナンシャルサービスの共同開発による 次世代決済プラットフォーム「NESTA」、 au/UQ mobileの通信料金の決済処理へ提供開始</h3>
+                                <p class="el_news_date">2026年2月12日</p>
+                            </a>
+            
+        
+                        </div>
 
 
                         <div class="uni_cat_insideDGFT">
@@ -682,19 +699,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 <span class="el_cat el_cat_insideDGFT">inside DGFT</span>
                                 <h3 class="el_news_heading">デジタルガレージ、「請求書カード払い協会」に初期参画事業者として参画</h3>
                                 <p class="el_news_date">2025年12月26日</p>
-                            </a>
-            
-        
-                        </div>
-
-
-                        <div class="uni_cat_insideDGFT">
-        
-            
-                            <a href="https://www.dgft.jp/company/info/2025/dginvoice_epark.html" class="el_news_col">
-                                <span class="el_cat el_cat_insideDGFT">inside DGFT</span>
-                                <h3 class="el_news_heading">飲食業、医療、理美容サロンなどの事業成長をフィンテックサービスで支援〜オンライン予約サービス「EPARK」にDGFT請求書カード払いを提供～</h3>
-                                <p class="el_news_date">2025年12月5日</p>
                             </a>
             
         
@@ -774,6 +778,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                         <div class="uni_cat_trends">
 
+                            <a href="https://www.veritrans.co.jp/webinar/2026/260305_cash_post.html" class="el_news_col">
+                                <span class="el_cat el_cat_trends">Webinar</span>
+                                <h3 class="el_news_heading">入社式・インターンシップの準備、追われてませんか？</h3>
+                             　<p class="el_news_date">【LIVE】2026年3月5日(木) 12:00～13:00</p>
+                            　　<p class="el_news_datail"><p>入社式やインターンシップは、新しい仲間を迎え入れ、組織へのエンゲージメントを高める重要なイベントです。<br />しかし、その舞台裏では、膨大な数の雇用契約書の締結・回収や、全国から集まる参加者への交通費・宿泊費の精算といった「ノンコア業務」に、多くの人事が忙殺されているのが実情です。</p>
+<p>本ウェビナーでは、そんな「現場のバタバタ」を解消し、攻めの人事へと転換する内容について解説いたします。</p></p>
+                            </a>
+                        </div>
+
+                        <div class="uni_cat_trends">
+
                             <a href="https://www.veritrans.co.jp/webinar/2026/260216.html" class="el_news_col">
                                 <span class="el_cat el_cat_trends">Webinar</span>
                                 <h3 class="el_news_heading">集患・決済から始めるクリニックDX</h3>
@@ -849,16 +864,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             　　<p class="el_news_datail"><p>キャッシュレス化が加速する今、auPay・d払い・PayPay・メルペイ・楽天Payなどの主要ID決済の導入は、顧客体験を向上させ、競合他社との差別化につながります。</p>
 <p>本ウェビナーでは、業界を代表する5つのID決済事業者が一堂に登壇！5社の魅力をまとめて聞けるのはこのウェビナーだけです！今後のキャッシュレス戦略に活かせる最新情報・導入の裏側・成功事例を各社より解説。</p>
 <p>また、複数のID決済をまとめて導入できる「ユニファイドAPI」についても解説。複数の決済手段を1つのAPIで一括導入・管理できる革新的な仕組みです。<br />開発コストを抑えつつ、主要ID決済を一気に導入可能です。最小限の開発リソースで最大限の決済対応を実現したい企業様に必見の内容です。</p></p>
-                            </a>
-                        </div>
-
-                        <div class="uni_cat_trends">
-
-                            <a href="https://www.veritrans.co.jp/webinar/2025/250822.html" class="el_news_col">
-                                <span class="el_cat el_cat_trends">Webinar</span>
-                                <h3 class="el_news_heading">離脱で年間いくら損している？ カゴ落ち半減を実現する「決済 × EFO」</h3>
-                             　<p class="el_news_date">2025年8月22日(金) 11:00-12:00</p>
-                            　　<p class="el_news_datail"><p>年間で数百万、数千万もの機会損失を生み出している「カゴ落ち」「フォーム離脱」。<br />ECサイトのCVR改善において、購入・申込み直前の離脱率改善は喫緊の課題です。<br />決済とEFO（入力フォーム最適化）それぞれの専門家が、カゴ落ちを半減させるための実践的なノウハウを具体的な事例を交えてご紹介します。購入直前の離脱にお悩みの方は、ぜひご参加ください。</p></p>
                             </a>
                         </div>
 
