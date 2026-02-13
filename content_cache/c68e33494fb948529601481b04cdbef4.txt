@@ -518,6 +518,48 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
     <!--insideDGFT-->
     
+
+    <!--コラム-->
+    
+                        <div class="uni_cat_research">
+                            <a href="https://www.veritrans.co.jp/tips/column/recolumn4.html" class="el_news_col">
+                                <span class="el_cat el_cat_research">Column</span>
+                                <h3 class="el_news_heading">決済手数料の構造を知る。透明化時代の決済コスト最適化戦略</h3>
+                                <p class="el_news_date">2026年2月13日</p>
+                                <p class="el_news_datail"> ECサイトやオンラインサービスの収益性を左右する決済手数料。これまでは「決済代行会社から提示された料率を受け入れるしかない」という考え方が一般的でした。しかし</p>
+                            </a>
+                        </div>
+    
+
+    <!--セミナー-->
+    
+
+    
+    
+
+    <!--insideDGFT-->
+    
+
+    <!--コラム-->
+    
+                        <div class="uni_cat_research">
+                            <a href="https://www.veritrans.co.jp/tips/column/recolumn3.html" class="el_news_col">
+                                <span class="el_cat el_cat_research">Column</span>
+                                <h3 class="el_news_heading">事業規模別・決済代行選定ガイド：フェーズ毎のコストと優先順位</h3>
+                                <p class="el_news_date">2026年2月13日</p>
+                                <p class="el_news_datail"> オンライン決済の導入において、コスト構造の把握は収益性を左右する極めて重要なプロセスです。決済コストは単なる「手数料」だけでなく、初期費用、月額費用、決済手数</p>
+                            </a>
+                        </div>
+    
+
+    <!--セミナー-->
+    
+
+    
+    
+
+    <!--insideDGFT-->
+    
                         <div class="uni_cat_insideDGFT">
         
             
@@ -578,54 +620,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <p>本ウェビナーでは、そんな「現場のバタバタ」を解消し、攻めの人事へと転換する内容について解説いたします。</p></p>
                             </a>
                         </div>
-    
-
-    
-    
-
-    <!--insideDGFT-->
-    
-                        <div class="uni_cat_insideDGFT">
-        
-            
-                            <a href="https://www.dgft.jp/company/info/2026/cloudpay_aeonfantasy.html" class="el_news_col">
-                                <span class="el_cat el_cat_insideDGFT">inside DGFT</span>
-                                <h3 class="el_news_heading">DGFTの共通QRコード決済ソリューション「Cloud Pay」シリーズ、 イオンファンタジーの大型店舗の新システムに提供開始～多様な決済手段を一元化し、店舗運営の効率化とエンドユーザーの利便性向上を実現～</h3>
-                                <p class="el_news_date">2026年2月5日</p>
-                            </a>
-            
-        
-                        </div>
-    
-
-    <!--コラム-->
-    
-
-    <!--セミナー-->
-    
-
-    
-    
-
-    <!--insideDGFT-->
-    
-                        <div class="uni_cat_insideDGFT">
-        
-            
-                            <a href="https://www.dgft.jp/company/info/2026/cloudpay_aeonpay.html" class="el_news_col">
-                                <span class="el_cat el_cat_insideDGFT">inside DGFT</span>
-                                <h3 class="el_news_heading">DGFTの共通QRコード決済サービス「Cloud Pay」、「AEON Pay」に接続開始</h3>
-                                <p class="el_news_date">2026年2月4日</p>
-                            </a>
-            
-        
-                        </div>
-    
-
-    <!--コラム-->
-    
-
-    <!--セミナー-->
     
 
                     </div>
@@ -717,6 +711,26 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
                         <div class="uni_cat_research">
+                            <a href="https://www.veritrans.co.jp/tips/column/recolumn4.html" class="el_news_col">
+                                <span class="el_cat el_cat_research">Column</span>
+                                <h3 class="el_news_heading">決済手数料の構造を知る。透明化時代の決済コスト最適化戦略</h3>
+                                <p class="el_news_date">2026年2月13日</p>
+                                <p class="el_news_datail"> ECサイトやオンラインサービスの収益性を左右する決済手数料。これまでは「決済代行会社から提示された料率を受け入れるしかない」という考え方が一般的でした。しかし</p>
+                            </a>
+                        </div>
+
+
+                        <div class="uni_cat_research">
+                            <a href="https://www.veritrans.co.jp/tips/column/recolumn3.html" class="el_news_col">
+                                <span class="el_cat el_cat_research">Column</span>
+                                <h3 class="el_news_heading">事業規模別・決済代行選定ガイド：フェーズ毎のコストと優先順位</h3>
+                                <p class="el_news_date">2026年2月13日</p>
+                                <p class="el_news_datail"> オンライン決済の導入において、コスト構造の把握は収益性を左右する極めて重要なプロセスです。決済コストは単なる「手数料」だけでなく、初期費用、月額費用、決済手数</p>
+                            </a>
+                        </div>
+
+
+                        <div class="uni_cat_research">
                             <a href="https://www.veritrans.co.jp/tips/column/nrf26-report02.html" class="el_news_col">
                                 <span class="el_cat el_cat_research">Column</span>
                                 <h3 class="el_news_heading">【イベントレポート】NRF’26レポート：エージェンティック・コマース時代にEC事業者が取り組むべきデータ整備</h3>
@@ -742,26 +756,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 <h3 class="el_news_heading">複数決済を一本化するマルチ決済サービス</h3>
                                 <p class="el_news_date">2026年1月30日</p>
                                 <p class="el_news_datail"> マルチ決済サービスは、多様な決済手段をまとめて導入・一元管理できる総合決済プラットフォームで、開発コストの削減と顧客体験の向上を実現します。2024年のキャッ</p>
-                            </a>
-                        </div>
-
-
-                        <div class="uni_cat_research">
-                            <a href="https://www.veritrans.co.jp/tips/column/nrf26-report.html" class="el_news_col">
-                                <span class="el_cat el_cat_research">Column</span>
-                                <h3 class="el_news_heading">【イベントレポート】NRF’26 速報：ChatGPT・Geminiが「新たな売場」になる。EC事業者が今すぐ備えるべきAgentic Commerce実践論</h3>
-                                <p class="el_news_date">2026年1月22日</p>
-                                <p class="el_news_datail"> グループ会社で、デジタルビジネス総合支援を手がけるDGビジネステクノロジーが、イベントレポート 『NRF’26 速報：ChatGPT・Geminiが「新たな売</p>
-                            </a>
-                        </div>
-
-
-                        <div class="uni_cat_research">
-                            <a href="https://www.veritrans.co.jp/tips/column/paypay-fee.html" class="el_news_col">
-                                <span class="el_cat el_cat_research">Column</span>
-                                <h3 class="el_news_heading">PayPayの手数料はいくら？加盟店のコストや導入のメリットを紹介</h3>
-                                <p class="el_news_date">2025年10月14日</p>
-                                <p class="el_news_datail">      --> キャッシュレス決済が浸透する中、PayPayは多くの事業者にとって欠かせない決済手段となっています。しかし気になるのが、PayPayの手数料</p>
                             </a>
                         </div>
 

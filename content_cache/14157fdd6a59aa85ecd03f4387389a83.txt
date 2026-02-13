@@ -1,4 +1,4 @@
-<!DOCTYPE html><html lang="ja"><head prefix="og: http://ogp.me/ns#"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://j.wovn.io/1" async="true" data-wovnio="key=QLeFbd&amp;backend=true&amp;currentLang=ja&amp;defaultLang=ja&amp;urlPattern=path&amp;version=1.24.1&amp;backendVersion=WOVN.php_1.10.1&amp;langParamName=wovn" data-wovnio-cache-time="202602100149+0000"> </script>
+<!DOCTYPE html><html lang="ja"><head prefix="og: http://ogp.me/ns#"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://j.wovn.io/1" async="true" data-wovnio="key=QLeFbd&amp;backend=true&amp;currentLang=ja&amp;defaultLang=ja&amp;urlPattern=path&amp;version=1.24.1&amp;backendVersion=WOVN.php_1.10.1&amp;langParamName=wovn" data-wovnio-cache-time="202602130300+0000"> </script>
 
 <meta charset="utf-8">
 <title>決済代行・オンライン決済サービス・システム導入ならSBペイメントサービス（ソフトバンクグループ）</title>
@@ -50,7 +50,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-MRQRDWV');</script>
 <!-- End Google Tag Manager -->
 
-<link rel="alternate" hreflang="en" href="https://www.sbpayment.jp/en/?_=1770688192392"><link rel="alternate" hreflang="ja" href="https://www.sbpayment.jp/?_=1770688192392"><link rel="alternate" hreflang="x-default" href="https://www.sbpayment.jp/?_=1770688192392"></head>
+<link rel="alternate" hreflang="en" href="https://www.sbpayment.jp/en/?_=1770951612488"><link rel="alternate" hreflang="ja" href="https://www.sbpayment.jp/?_=1770951612488"><link rel="alternate" hreflang="x-default" href="https://www.sbpayment.jp/?_=1770951612488"></head>
 
 <body>
   <!-- Google Tag Manager (noscript) -->
@@ -1132,6 +1132,16 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             
             <li class="modListNews__item">
               
+              <a href="https://bizcan.jp/bips/" target="_blank" rel="noopener noreferrer">
+                <time class="time" datetime="2026-02-13">2026.02.13</time>
+                <span class="category"><span>お知らせ</span></span>
+                <p class="title">店舗ビジネスに特化した比較サイト「Bizcan（ビズカン）」の請求書カード払いカオスマップに「SBPS請求書カード払い」が掲載されました。</p>
+              </a>
+              
+            </li>
+            
+            <li class="modListNews__item">
+              
               <a href="https://www.sbpayment.jp/news/press/2026/20260210_001523/">
                 <time class="time" datetime="2026-02-10">2026.02.10</time>
                 <span class="category"><span>プレスリリース</span></span>
@@ -1146,16 +1156,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <time class="time" datetime="2026-01-15">2026.01.15</time>
                 <span class="category"><span>お知らせ</span></span>
                 <p class="title">【導入事例】「さとふる」において、<br>新たに24自治体のふるさと納税に決済サービスを導入</p>
-              </a>
-              
-            </li>
-            
-            <li class="modListNews__item">
-              
-              <a href="https://www.sbpayment.jp/news/press/2025/20251224_001512/">
-                <time class="time" datetime="2025-12-24">2025.12.24</time>
-                <span class="category"><span>プレスリリース</span></span>
-                <p class="title">実店舗でのキャッシュレス決済に関する<br>第2回 利用実態調査結果を公開<br><span style="font-size:70%;">～キャッシュレス決済派は72.7％！ 20代の60.3％が「キャッシュレス決済非対応が原因で支払いをやめた経験あり」～ </span></p>
               </a>
               
             </li>
