@@ -1,4 +1,4 @@
-<!DOCTYPE html><html lang="ja"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://j.wovn.io/1" async="true" data-wovnio='key=f1IRL-&amp;backend=true&amp;currentLang=ja&amp;defaultLang=ja&amp;urlPattern=path&amp;langCodeAliases={"en":"en"}&amp;version=1.24.1&amp;backendVersion=WOVN.php_1.12.0&amp;langParamName=wovn' data-wovnio-cache-time="202602160953+0000"> </script>
+<!DOCTYPE html><html lang="ja"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://j.wovn.io/1" async="true" data-wovnio='key=f1IRL-&amp;backend=true&amp;currentLang=ja&amp;defaultLang=ja&amp;urlPattern=path&amp;langCodeAliases={"en":"en"}&amp;version=1.24.1&amp;backendVersion=WOVN.php_1.12.0&amp;langParamName=wovn' data-wovnio-cache-time="202602170243+0000"> </script>
 <!-- GTM tag -->
 <script>
 	var dataLayer = dataLayer || [];
@@ -43,7 +43,7 @@
 	<link href="https://fonts.googleapis.com/css2?family=Marcellus&amp;display=swap" rel="stylesheet">
 	<script src="https://font.realtype.jp/api/script/v4" data-rt-user="tHs9xWEV7hTvkvU8xu7WYBNGIP0zfbG4" data-rt-input="true" data-rt-nofliker="true" data-rt-layout="true" data-rt-emulation="true" data-rt-cache="true"></script>
     <!-- css -->
-	<link rel="stylesheet" href="/common/css/style.css?ver=202602161849">
+	<link rel="stylesheet" href="/common/css/style.css?ver=202602171032">
 	<link rel="stylesheet" href="/common/css/lib/splide-core.min.css">
 	<link rel="stylesheet" href="/common/js/lib/swiper-bundle.min.css">
 	<!-- script -->
@@ -99,9 +99,9 @@
 
 
 <!-- TOP用CSS/JS -->
-<link rel="stylesheet" href="/top/css/style.css?ver=202602161849">
-<script src="/top/js/script.js?ver=202602161849"></script>
-<link rel="alternate" hreflang="en" href="https://www.gmo-pg.com/en/?XDEBUG_SESSION_START=phpstorm"><link rel="alternate" hreflang="ja" href="https://www.gmo-pg.com/?XDEBUG_SESSION_START=phpstorm"><link rel="alternate" hreflang="x-default" href="https://www.gmo-pg.com/?XDEBUG_SESSION_START=phpstorm"></head>
+<link rel="stylesheet" href="/top/css/style.css?ver=202602171032">
+<script src="/top/js/script.js?ver=202602171032"></script>
+<link rel="alternate" hreflang="en" href="https://www.gmo-pg.com/en/"><link rel="alternate" hreflang="ja" href="https://www.gmo-pg.com/"><link rel="alternate" hreflang="x-default" href="https://www.gmo-pg.com/"></head>
 <body>
 <canvas id="waveBg" aria-hidden="true"></canvas>
 <header class="c-header l-header">
@@ -860,7 +860,38 @@
 
 
 								
-									<li class="p-topNewsListItem hide_if_en">
+									<li class="p-topNewsListItem hide_if_ja">
+	<div class="p-topNewsListItem__head">
+		<time class="p-topNewsListItem__date" datetime="2026-02-12">2026.02.12</time>
+		<ul class="p-topNewsListItem__tagList">
+		
+		<li class="p-topNewsListItem__tag">
+		
+		
+		<span class="c-tag c-tag--ir">IRニュース</span>
+		
+		
+		</li>
+		
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">決算説明会資料</span></li>
+		</ul>
+		<!--  -->
+	</div>
+	<div class="p-topNewsListItem__body">
+		<p class="p-topNewsListItem__title"><a href="
+	
+		
+			/news/pdf/20260212_gmo-pg_transscript_en.pdf
+		
+		
+" target="_blank">Q1 of FY2026 Financial results briefing transcript</a></p>
+	</div>
+</li>
+
+
+
+	
+<li class="p-topNewsListItem hide_if_en">
 	<div class="p-topNewsListItem__head">
 		<time class="p-topNewsListItem__date" datetime="2026-02-12">2026.02.12</time>
 		<ul class="p-topNewsListItem__tagList">
@@ -1209,7 +1240,38 @@
                             <ul class="p-topNewsList">
 							
 							
-								<li class="p-topNewsListItem hide_if_en">
+								<li class="p-topNewsListItem hide_if_ja">
+	<div class="p-topNewsListItem__head">
+		<time class="p-topNewsListItem__date" datetime="2026-02-12">2026.02.12</time>
+		<ul class="p-topNewsListItem__tagList">
+		
+		<li class="p-topNewsListItem__tag">
+		
+		
+		<span class="c-tag c-tag--ir">IRニュース</span>
+		
+		
+		</li>
+		
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">決算説明会資料</span></li>
+		</ul>
+		<!--  -->
+	</div>
+	<div class="p-topNewsListItem__body">
+		<p class="p-topNewsListItem__title"><a href="
+	
+		
+			/news/pdf/20260212_gmo-pg_transscript_en.pdf
+		
+		
+" target="_blank">Q1 of FY2026 Financial results briefing transcript</a></p>
+	</div>
+</li>
+
+
+
+	
+<li class="p-topNewsListItem hide_if_en">
 	<div class="p-topNewsListItem__head">
 		<time class="p-topNewsListItem__date" datetime="2026-02-12">2026.02.12</time>
 		<ul class="p-topNewsListItem__tagList">
@@ -3195,7 +3257,7 @@
 <script src="/common/js/lib/micromodal.min.js"></script>
 <script src="/common/js/lib/scroll-hint.min.js"></script>
 <link rel="stylesheet" href="/common/js/lib/scroll-hint.css">
-<script src="/common/js/script.js?ver=202602161849"></script>
+<script src="/common/js/script.js?ver=202602171032"></script>
 <!-- GMOグループヘッダー -->
 <script type="text/javascript" charset="UTF-8" src="https://cache.img.gmo.jp/gmo/header/script.min.js" id="gmoheadertag" async="async"></script>
 <!-- END GMOグループヘッダー -->
