@@ -1,17 +1,5 @@
-<!DOCTYPE html><html lang="ja"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://j.wovn.io/1" async="true" data-wovnio='key=f1IRL-&amp;backend=true&amp;currentLang=ja&amp;defaultLang=ja&amp;urlPattern=path&amp;langCodeAliases={"en":"en"}&amp;version=1.24.2&amp;backendVersion=WOVN.php_1.12.0&amp;langParamName=wovn' data-wovnio-cache-time="202602190716+0000"> </script>
-<!-- GTM tag -->
-<script>
-	var dataLayer = dataLayer || [];
-	dataLayer.push({'gtmIp':'240f:3a:679:1:44a2:cac5:d12e:11a2'});
-	</script>
-	<script>
-	(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-	})(window,document,'script','dataLayer','GTM-M26SSP');
-	</script>
-	<meta charset="utf-8">
+<!DOCTYPE html><html lang="ja"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://j.wovn.io/1" async="true" data-wovnio='key=f1IRL-&amp;backend=true&amp;currentLang=ja&amp;defaultLang=ja&amp;urlPattern=path&amp;langCodeAliases={"en":"en"}&amp;version=1.24.2&amp;backendVersion=WOVN.php_1.12.0&amp;langParamName=wovn' data-wovnio-cache-time="202602240741+0000"> </script>
+<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="format-detection" content="telephone=no">
@@ -32,25 +20,39 @@
 	<meta name="twitter:card" content="summary">
 	<meta name="twitter:title" content="決済代行など多様なオンライン決済サービスの導入ならGMOペイメントゲートウェイ">
 	<meta name="twitter:description" content="GMOペイメントゲートウェイは、クレジットカード決済やコンビニ決済、キャリア決済、PCI DSS、トークンなどセキュリティ対応の決済手段など、多様な決済手段の導入が一括で可能な決済代行会社です。">
-	<meta property="og:image" content="https://www.gmo-pg.com/common/image/ogp.png">
+	<meta property="twitter:image" content="https://www.gmo-pg.com/common/image/ogp.png">
 	<meta name="twitter:url" content="https://www.gmo-pg.com/">
 
-	<!-- for IE11(Old Browser) -->
-	<script src="/common/js/polyfill/ie11CustomProperties.js"></script>
+    <!-- css -->
+
+<link rel="stylesheet" href="/common/css/core.css?ver=202602241539">
+
+
+<link rel="preload" href="/common/css/common.css?ver=202602241539" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="/common/css/common.css?ver=202602241539"></noscript>
+
+
+<link rel="preload" href="/common/css/footer.css?ver=202602241539" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="/common/css/footer.css?ver=202602241539"></noscript>
+<link rel="preload" href="/common/css/lib/splide-core.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="/common/css/lib/splide-core.min.css"></noscript>
+
 	<!-- web font -->
 	<link rel="preconnect" href="https://fonts.googleapis.com">
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
 	<link href="https://fonts.googleapis.com/css2?family=Marcellus&amp;display=swap" rel="stylesheet">
-	<script src="https://font.realtype.jp/api/script/v4" data-rt-user="tHs9xWEV7hTvkvU8xu7WYBNGIP0zfbG4" data-rt-input="true" data-rt-nofliker="true" data-rt-layout="true" data-rt-emulation="true" data-rt-cache="true"></script>
-    <!-- css -->
-	<link rel="stylesheet" href="/common/css/style.css?ver=202602191304">
-	<link rel="stylesheet" href="/common/css/lib/splide-core.min.css">
-	<link rel="stylesheet" href="/common/js/lib/swiper-bundle.min.css">
-	<!-- script -->
-	<script src="/common/js/lib/jquery.min.js"></script>
-	<script src="/common/js/lib/swiper-bundle.min.js"></script>
-	
-	
+	<script src="https://font.realtype.jp/api/script/v4" data-rt-user="tHs9xWEV7hTvkvU8xu7WYBNGIP0zfbG4" data-rt-input="true"></script>
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    if (window.RT && RT.start) {
+      RT.start(
+        function(e){ console.log('RT error', e); },
+        function(){ console.log('RT ready'); }
+      );
+    }
+  });
+</script>
+
 	<script type="application/ld+json">
 {
   "@context":"https://schema.org",
@@ -98,9 +100,25 @@
   
 
 
+
+	<!-- GTM tag -->
+<script>
+	var dataLayer = dataLayer || [];
+	dataLayer.push({'gtmIp':'240f:3a:679:1:44a2:cac5:d12e:11a2'});
+	</script>
+	<script>
+	(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-M26SSP');
+</script>
+
 <!-- TOP用CSS/JS -->
-<link rel="stylesheet" href="/top/css/style.css?ver=202602191304">
-<script src="/top/js/script.js?ver=202602191304"></script>
+<link rel="stylesheet" href="/top/css/style.css?ver=202602241539">
+<link rel="preload" href="/common/js/lib/swiper-bundle.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="/common/js/lib/swiper-bundle.min.css"></noscript>
+<script src="/top/js/script.js?ver=202602241539"></script>
 <link rel="alternate" hreflang="en" href="https://www.gmo-pg.com/en/"><link rel="alternate" hreflang="ja" href="https://www.gmo-pg.com/"><link rel="alternate" hreflang="x-default" href="https://www.gmo-pg.com/"></head>
 <body>
 <canvas id="waveBg" aria-hidden="true"></canvas>
@@ -620,24 +638,24 @@
 							<div class="p-topKeyVisualAnimeSlider__item swiper-slide">
                             	<div class="animate">
 								<picture>
-									<source srcset="/top/image/img_top_kv01_sp.png" media="(max-width: 767px)">
-									<img src="/top/image/img_top_kv01.png" alt="決済で、次をつくる。イメージビジュアル1">
+									<source srcset="/top/image/img_top_kv01_sp.webp" media="(max-width: 767px)">
+									<img src="/top/image/img_top_kv01.webp" alt="決済で、次をつくる。イメージビジュアル1" loading="eager" fetchpriority="high" decoding="async">
 								</picture>
                                 </div>
 							</div>
 							<div class="p-topKeyVisualAnimeSlider__item swiper-slide">
                             	<div class="animate">
 								<picture>
-									<source srcset="/top/image/img_top_kv03_sp.jpg" media="(max-width: 767px)">
-									<img src="/top/image/img_top_kv03.jpg" alt="決済で、次をつくる。イメージビジュアル3">
+									<source srcset="/top/image/img_top_kv03_sp.webp" media="(max-width: 767px)">
+									<img src="/top/image/img_top_kv03.webp" alt="決済で、次をつくる。イメージビジュアル3" loading="lazy" fetchpriority="low" decoding="async">
 								</picture>
                                 </div>
 							</div>
 							<div class="p-topKeyVisualAnimeSlider__item swiper-slide">
                             	<div class="animate">
 								<picture>
-									<source srcset="/top/image/img_top_kv02_sp.png" media="(max-width: 767px)">
-									<img src="/top/image/img_top_kv02.png" alt="決済で、次をつくる。イメージビジュアル2">
+									<source srcset="/top/image/img_top_kv02_sp.webp" media="(max-width: 767px)">
+									<img src="/top/image/img_top_kv02.webp" alt="決済で、次をつくる。イメージビジュアル2" loading="lazy" fetchpriority="low" decoding="async">
 								</picture>
                                 </div>
 							</div>
@@ -687,7 +705,7 @@
 					<li class="p-topServiceList__item">
                     <a href="/service/issue/onlinepayment/" class="p-topServiceCard">
 							<figure class="p-topServiceCard__image">
-								<img src="/top/image/img_top_service01.png" alt="オンライン決済サービス">
+								<img src="/top/image/img_top_service01.webp" alt="オンライン決済サービス">
 							</figure>
 							<div class="p-topServiceCard__content">
 								<p class="p-topServiceCard__title">オンライン<br class="u-sp-only">決済サービス</p>
@@ -697,7 +715,7 @@
 					<li class="p-topServiceList__item">
 						<a href="/service/issue/ecreal/" class="p-topServiceCard">
 							<figure class="p-topServiceCard__image">
-								<img src="/top/image/img_top_service02.png" alt="ECサイト・実店舗での決済">
+								<img src="/top/image/img_top_service02.webp" alt="ECサイト・実店舗での決済">
 							</figure>
 							<div class="p-topServiceCard__content">
 								<p class="p-topServiceCard__title">ECサイト・<br>実店舗での決済</p>
@@ -707,7 +725,7 @@
 					<li class="p-topServiceList__item">
 						<a href="/service/issue/finance/" class="p-topServiceCard">
 							<figure class="p-topServiceCard__image">
-								<img src="/top/image/img_top_service03.png" alt="事業会社向けファイナンス・送金・給与">
+								<img src="/top/image/img_top_service03.webp" alt="事業会社向けファイナンス・送金・給与">
 							</figure>
 							<div class="p-topServiceCard__content">
 								<p class="p-topServiceCard__title">事業会社向け<br class="u-sp-only">ファイナンス<br>・送金・給与</p>
@@ -717,7 +735,7 @@
 					<li class="p-topServiceList__item">
 						<a href="/service/issue/BaaS/" class="p-topServiceCard">
 							<figure class="p-topServiceCard__image">
-								<img src="/top/image/img_top_service04.png" alt="金融機関向けBaaS支援">
+								<img src="/top/image/img_top_service04.webp" alt="金融機関向けBaaS支援">
 							</figure>
 							<div class="p-topServiceCard__content">
 								<p class="p-topServiceCard__title">金融機関向け<br class="u-sp-only">BaaS支援</p>
@@ -768,12 +786,12 @@
 			</div>
 			<div style="display: flex; margin-top: 20px;align-items: center;">
 				<figure style="width: 150px;">
-					<img src="/news/img/20250519press_ogp.png" style="border-radius: 10px;" alt="国内PSP初、「fincode byGMO」がMCP対応">
+                <img src="/news/img/20250519press_ogp.png" style="border-radius: 10px;width:150px;height:auto;" alt="国内PSP初、「fincode byGMO」がMCP対応">
 				</figure>
 				<div style="margin-left: 12px;">
 					<div class="new_business">新しい取り組み</div>
 					<div>
-						<a href="https://www.epsilon.jp/news/20250619.html" target="_blank">【GMO-EP】国内PSP初、「fincode byGMO」がMCP対応、AI時代における最適な決済プラットフォームへ</a>
+                    <a href="https://www.epsilon.jp/news/20250619.html" target="_blank">【GMO-EP】国内PSP初、「fincode byGMO」がMCP対応、AI時代における最適な決済プラットフォームへ</a>
 					</div>
 				</div>
 			</div>
@@ -807,6 +825,58 @@
 						<div class="p-topNewsTabContent__item is-active">
 							
 							<ul class="p-topNewsList">
+								
+									<li class="p-topNewsListItem hide_if_ja">
+	<div class="p-topNewsListItem__head">
+		<time class="p-topNewsListItem__date" datetime="2026-02-24">2026.02.24</time>
+		<ul class="p-topNewsListItem__tagList">
+		
+		<li class="p-topNewsListItem__tag">
+		
+		
+		<span class="c-tag c-tag--press">プレスリリース</span>
+		
+		
+		</li>
+		
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">GMO FINANCIAL GATE</span></li>
+		</ul>
+		<!--  -->
+	</div>
+	<div class="p-topNewsListItem__body">
+		<p class="p-topNewsListItem__title"><a href="
+	/en/news/press/gmo-financialgate/2026/0224.html
+	
+">【GMO-FG】GMO Financial Gate's payment Platform Selected as payment Foundation for JR EAST MECHATRONICS Station Building Facilities</a></p>
+	</div>
+</li>
+
+
+
+	
+<li class="p-topNewsListItem hide_if_en">
+	<div class="p-topNewsListItem__head">
+		<time class="p-topNewsListItem__date" datetime="2026-02-24">2026.02.24</time>
+		<ul class="p-topNewsListItem__tagList">
+		
+		<li class="p-topNewsListItem__tag">
+		
+		
+		<span class="c-tag c-tag--press">プレスリリース</span>
+		
+		
+		</li>
+		
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">GMO FINANCIAL GATE</span></li>
+		</ul>
+		<!--  -->
+	</div>
+	<div class="p-topNewsListItem__body">
+		<p class="p-topNewsListItem__title"><a href="/news/press/gmo-financialgate/2026/0224.html">【GMO-FG】GMOフィナンシャルゲートの決済プラットフォームがJR東日本メカトロニクスの駅ビル施設向け決済基盤として採用</a></p>
+	</div>
+</li>
+
+
 								
 									<li class="p-topNewsListItem hide_if_ja">
 	<div class="p-topNewsListItem__head">
@@ -1174,59 +1244,6 @@
 	</div>
 	<div class="p-topNewsListItem__body">
 		<p class="p-topNewsListItem__title"><a href="/news/pdf/20260212_gmo_pg_ir_kaiji.pdf" target="_blank">株主優待制度の導入に関するお知らせ</a></p>
-	</div>
-</li>
-
-
-								
-									<li class="p-topNewsListItem hide_if_ja">
-	<div class="p-topNewsListItem__head">
-		<time class="p-topNewsListItem__date" datetime="2026-02-12">2026.02.12</time>
-		<ul class="p-topNewsListItem__tagList">
-		
-		<li class="p-topNewsListItem__tag">
-		
-		
-		<span class="c-tag c-tag--ir">IRニュース</span>
-		
-		
-		</li>
-		
-		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">決算説明会資料</span></li>
-		</ul>
-		<!--  -->
-	</div>
-	<div class="p-topNewsListItem__body">
-		<p class="p-topNewsListItem__title"><a href="
-	/news/pdf/20260212_gmo-pg_data_en.pdf
-		
-		
-" target="_blank">Data Book for Q1 of FY2026</a></p>
-	</div>
-</li>
-
-
-
-	
-<li class="p-topNewsListItem hide_if_en">
-	<div class="p-topNewsListItem__head">
-		<time class="p-topNewsListItem__date" datetime="2026-02-12">2026.02.12</time>
-		<ul class="p-topNewsListItem__tagList">
-		
-		<li class="p-topNewsListItem__tag">
-		
-		
-		<span class="c-tag c-tag--ir">IRニュース</span>
-		
-		
-		</li>
-		
-		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">決算説明会資料</span></li>
-		</ul>
-		<!--  -->
-	</div>
-	<div class="p-topNewsListItem__body">
-		<p class="p-topNewsListItem__title"><a href="/news/pdf/20260212_gmo-pg_data.pdf" target="_blank">データブック（2026年9月期 第1四半期）</a></p>
 	</div>
 </li>
 
@@ -1627,7 +1644,7 @@
 		
 		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">統合報告書</span></li>
 		</ul>
-		<!--  -->
+		<!-- <span class="p-topNewsListItem__new">NEW</span> -->
 	</div>
 	<div class="p-topNewsListItem__body">
 		<p class="p-topNewsListItem__title"><a href="/news/pdf/20260212_gmo_pg_ir_integrated_report.pdf" target="_blank">2025年9月期　統合報告書</a></p>
@@ -1641,6 +1658,58 @@
 						<div class="p-topNewsTabContent__item">
                             <ul class="p-topNewsList">
 							
+							
+								<li class="p-topNewsListItem hide_if_ja">
+	<div class="p-topNewsListItem__head">
+		<time class="p-topNewsListItem__date" datetime="2026-02-24">2026.02.24</time>
+		<ul class="p-topNewsListItem__tagList">
+		
+		<li class="p-topNewsListItem__tag">
+		
+		
+		<span class="c-tag c-tag--press">プレスリリース</span>
+		
+		
+		</li>
+		
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">GMO FINANCIAL GATE</span></li>
+		</ul>
+		<!--  -->
+	</div>
+	<div class="p-topNewsListItem__body">
+		<p class="p-topNewsListItem__title"><a href="
+	/en/news/press/gmo-financialgate/2026/0224.html
+	
+">【GMO-FG】GMO Financial Gate's payment Platform Selected as payment Foundation for JR EAST MECHATRONICS Station Building Facilities</a></p>
+	</div>
+</li>
+
+
+
+	
+<li class="p-topNewsListItem hide_if_en">
+	<div class="p-topNewsListItem__head">
+		<time class="p-topNewsListItem__date" datetime="2026-02-24">2026.02.24</time>
+		<ul class="p-topNewsListItem__tagList">
+		
+		<li class="p-topNewsListItem__tag">
+		
+		
+		<span class="c-tag c-tag--press">プレスリリース</span>
+		
+		
+		</li>
+		
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">GMO FINANCIAL GATE</span></li>
+		</ul>
+		<!--  -->
+	</div>
+	<div class="p-topNewsListItem__body">
+		<p class="p-topNewsListItem__title"><a href="/news/press/gmo-financialgate/2026/0224.html">【GMO-FG】GMOフィナンシャルゲートの決済プラットフォームがJR東日本メカトロニクスの駅ビル施設向け決済基盤として採用</a></p>
+	</div>
+</li>
+
+
 							
 								<li class="p-topNewsListItem hide_if_ja">
 	<div class="p-topNewsListItem__head">
@@ -2001,58 +2070,6 @@
 	</div>
 	<div class="p-topNewsListItem__body">
 		<p class="p-topNewsListItem__title"><a href="/news/press/gmo-paymentgateway/2026/0126.html">GMOペイメントゲートウェイ、決済を起点に事業者の成長を支援するオウンドメディア「PX＋ byGMO」開始</a></p>
-	</div>
-</li>
-
-
-							
-								<li class="p-topNewsListItem hide_if_ja">
-	<div class="p-topNewsListItem__head">
-		<time class="p-topNewsListItem__date" datetime="2025-12-23">2025.12.23</time>
-		<ul class="p-topNewsListItem__tagList">
-		
-		<li class="p-topNewsListItem__tag">
-		
-		
-		<span class="c-tag c-tag--press">プレスリリース</span>
-		
-		
-		</li>
-		
-		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">GMO EPSILON</span></li>
-		</ul>
-		<!--  -->
-	</div>
-	<div class="p-topNewsListItem__body">
-		<p class="p-topNewsListItem__title"><a href="
-	/en/news/press/gmo-epsilon/2025/1223.html
-	
-">【GMO Epsilon】CSS and GMO Epsilon Begin Collaboration to Launch Payment Management Service "TREE PAYMENT－nyuukin totsugou zero VAce －" in March 2026</a></p>
-	</div>
-</li>
-
-
-
-	
-<li class="p-topNewsListItem hide_if_en">
-	<div class="p-topNewsListItem__head">
-		<time class="p-topNewsListItem__date" datetime="2025-12-23">2025.12.23</time>
-		<ul class="p-topNewsListItem__tagList">
-		
-		<li class="p-topNewsListItem__tag">
-		
-		
-		<span class="c-tag c-tag--press">プレスリリース</span>
-		
-		
-		</li>
-		
-		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">GMO EPSILON</span></li>
-		</ul>
-		<!--  -->
-	</div>
-	<div class="p-topNewsListItem__body">
-		<p class="p-topNewsListItem__title"><a href="/news/press/gmo-epsilon/2025/1223.html">【GMOイプシロン】CSSとGMOイプシロンが協業開始 入金管理サービス「TREE PAYMENT－入金突合ゼロVAce(ベース)－」を2026年3月提供開始</a></p>
 	</div>
 </li>
 
@@ -2511,7 +2528,9 @@
 							<li class="p-topOwnedMediaList__item splide__slide">
 								<a class="p-topOwnedMediaCard" href="/blog/articles/article-0174/">
 									<figure class="p-topOwnedMediaCard__thumbnail">
-										<img src="/blog/articles/images/article-0174_top.jpg" loading="lazy" alt="年間20兆円の決済システムを支えるGMOペイメントゲートウェイが内製開発で蓄積したクラウド活用の極意 【AWS Summit Japan  2025】">
+										
+											<img src="/blog/articles/assets_c/2025/11/article-0174_top-thumb-320xauto-12214.jpg" loading="lazy" alt="年間20兆円の決済システムを支えるGMOペイメントゲートウェイが内製開発で蓄積したクラウド活用の極意 【AWS Summit Japan  2025】">
+											
 									</figure>
 									<div class="p-topOwnedMediaCard__content">
 										<div class="p-topOwnedMediaCard__headline">
@@ -2542,7 +2561,9 @@
 							<li class="p-topOwnedMediaList__item splide__slide">
 								<a class="p-topOwnedMediaCard" href="/blog/articles/article-0164/">
 									<figure class="p-topOwnedMediaCard__thumbnail">
-										<img src="/blog/articles/images/article-0164_top.jpg" loading="lazy" alt="決済サービスの土台をつくる──25%営業利益成長を支えるインフラエンジニアの視点">
+										
+											<img src="/blog/articles/assets_c/2025/09/article-0164_top-thumb-320xauto-12117.jpg" loading="lazy" alt="決済サービスの土台をつくる──25%営業利益成長を支えるインフラエンジニアの視点">
+											
 									</figure>
 									<div class="p-topOwnedMediaCard__content">
 										<div class="p-topOwnedMediaCard__headline">
@@ -2569,7 +2590,9 @@
 							<li class="p-topOwnedMediaList__item splide__slide">
 								<a class="p-topOwnedMediaCard" href="/blog/articles/article-0159/">
 									<figure class="p-topOwnedMediaCard__thumbnail">
-										<img src="/blog/articles/images/article-0159_top.jpg" loading="lazy" alt="企業間決済に新たな選択肢を。「請求書カード払い byGMO」が描く BtoBキャッシュフローの新常識">
+										
+											<img src="/blog/articles/assets_c/2025/08/article-0159_top-thumb-320xauto-12088.jpg" loading="lazy" alt="企業間決済に新たな選択肢を。「請求書カード払い byGMO」が描く BtoBキャッシュフローの新常識">
+											
 									</figure>
 									<div class="p-topOwnedMediaCard__content">
 										<div class="p-topOwnedMediaCard__headline">
@@ -2596,7 +2619,9 @@
 							<li class="p-topOwnedMediaList__item splide__slide">
 								<a class="p-topOwnedMediaCard" href="/blog/articles/article-0154/">
 									<figure class="p-topOwnedMediaCard__thumbnail">
-										<img src="/blog/articles/images/article-0154_top.jpg" loading="lazy" alt="「いつでも給与が受け取れる時代」へ──GMO-PGが変える" 給与の常識"と企業経営の未来"="">
+										
+											<img src="/blog/articles/assets_c/2025/07/article-0154_top-thumb-320xauto-12028.jpg" loading="lazy" alt='「いつでも給与が受け取れる時代」へ──GMO-PGが変える"給与の常識"と企業経営の未来'>
+											
 									</figure>
 									<div class="p-topOwnedMediaCard__content">
 										<div class="p-topOwnedMediaCard__headline">
@@ -2625,7 +2650,9 @@
 							<li class="p-topOwnedMediaList__item splide__slide">
 								<a class="p-topOwnedMediaCard" href="/blog/articles/article-0158/">
 									<figure class="p-topOwnedMediaCard__thumbnail">
-										<img src="/blog/articles/images/article-0158_top.jpg" loading="lazy" alt="公式MCP対応で示すAIに任せる" 決済領域"―決済サービスプロバイダーが果たすべきai時代の役割―"="">
+										
+											<img src="/blog/articles/assets_c/2025/07/article-0158_top-thumb-320xauto-12055.jpg" loading="lazy" alt='公式MCP対応で示すAIに任せる"決済領域"―決済サービスプロバイダーが果たすべきAI時代の役割―'>
+											
 									</figure>
 									<div class="p-topOwnedMediaCard__content">
 										<div class="p-topOwnedMediaCard__headline">
@@ -3184,7 +3211,7 @@
 				</div>
 			</div>
 		</div>
-		<button id="js-anchorPageTop" class="c-footerPageTop" type="button" aria-label="ページ先頭までスクロールする"><img src="/common/image/btn/btn_footer_to_top.png" width="56" height="128" alt="ページ先頭までスクロールする"></button>
+		<button id="js-anchorPageTop" class="c-footerPageTop" type="button" aria-label="ページ先頭までスクロールする"><img src="/common/image/btn/btn_footer_to_top.png" width="56" height="128" alt="" aria-hidden="true"></button>
 	</div>
 	<div class="c-footer__middle">
 		<div class="c-footerLogoArea" style="text-align: center;">
@@ -3248,14 +3275,21 @@
 	<!-- GMOグループフッター -->
 	<script type="text/javascript" charset="UTF-8" src="https://cache.img.gmo.jp/gmo/footer/script.min.js" id="gmofootertag" data-gmofooter-listed="true" async="async"></script>
 </footer>
-
 <!-- script -->
+	<script src="/common/js/lib/jquery.min.js"></script>
+
+	<!-- for IE11(Old Browser) -->
+	<script src="/common/js/polyfill/ie11CustomProperties.js"></script>
+	
+	
+
 <script src="/common/js/lib/splide.min.js"></script>
 <script src="/common/js/lib/splide-extension-intersection.min.js"></script>
 <script src="/common/js/lib/micromodal.min.js"></script>
 <script src="/common/js/lib/scroll-hint.min.js"></script>
 <link rel="stylesheet" href="/common/js/lib/scroll-hint.css">
-<script src="/common/js/script.js?ver=202602191304"></script>
+<script src="/common/js/script.js?ver=202602241539"></script>
+	<script src="/common/js/lib/swiper-bundle.min.js" defer=""></script>
 <!-- GMOグループヘッダー -->
 <script type="text/javascript" charset="UTF-8" src="https://cache.img.gmo.jp/gmo/header/script.min.js" id="gmoheadertag" async="async"></script>
 <!-- END GMOグループヘッダー -->
