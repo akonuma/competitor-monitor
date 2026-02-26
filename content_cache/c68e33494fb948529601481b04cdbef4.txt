@@ -521,6 +521,33 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
     <!--コラム-->
     
+
+    <!--セミナー-->
+    
+                        <div class="uni_cat_trends">
+                            <a href="https://www.veritrans.co.jp/webinar/2026/260312.html" class="el_news_col">
+                             <span class="el_cat el_cat_trends">Webinar</span>
+                             <h3 class="el_news_heading">来園者数60万人の那須ハイランドパークを支える、レジャーDXの舞台裏</h3>
+                             <p class="el_news_date">2026年3月12日(木) 11:00～12:00</p>
+                            <p class="el_news_datail"><h3>来園者数60万人の那須ハイランドパークを支える、レジャーDXの舞台裏<br />〜北関東No.1施設×システム開発のプロが明かす「自社EC移行」と「決済戦略」の全貌〜</h3>
+<p>多くのレジャー施設において、DX（デジタルトランスフォーメーション）は避けて通れない命題となっています。</p>
+<p>しかし、「外部予約サイトへの依存による手数料負担」や、「複雑化する現場オペレーションとシステムとの乖離」に頭を悩ませている方も多くいらっしゃるのではないでしょうか。</p>
+<p>本ウェビナーでは、北関東No.1の来園者数を誇る「那須ハイランドパーク」の運営を担う藤和那須リゾート株式会社様と、そのシステム基盤を支えるサイバーウェーブ株式会社様をゲストにお迎えします。</p>
+<p>「なぜ、既成のプラットフォームではなく自社ECサイトの構築が必要だったのか？」<br />「数ある開発手法の中から、なぜサイバーウェーブの提供する基盤が選ばれたのか？」</p>
+<p>当日は、プロジェクトを共にした両社だからこそ語れる「制作プロセスのこだわり」から、移行時に直面した「実は大変だったリニューアルの落とし穴」、さらには導入後の「運用負荷とコスト削減のリアル」まで、徹底的に深掘りします。</p>
+<p>モデレーターにはDGFTが立ち、システム・決済・運用の観点から、次世代の顧客体験（CX）をどう設計すべきかを解き明かします。</p></p>
+                            </a>
+                        </div>
+    
+
+    
+    
+
+    <!--insideDGFT-->
+    
+
+    <!--コラム-->
+    
                         <div class="uni_cat_research">
                             <a href="https://www.veritrans.co.jp/tips/column/recolumn4.html" class="el_news_col">
                                 <span class="el_cat el_cat_research">Column</span>
@@ -598,28 +625,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     
 
     <!--セミナー-->
-    
-
-    
-    
-
-    <!--insideDGFT-->
-    
-
-    <!--コラム-->
-    
-
-    <!--セミナー-->
-    
-                        <div class="uni_cat_trends">
-                            <a href="https://www.veritrans.co.jp/webinar/2026/260305_cash_post.html" class="el_news_col">
-                             <span class="el_cat el_cat_trends">Webinar</span>
-                             <h3 class="el_news_heading">入社式・インターンシップの準備、追われてませんか？</h3>
-                             <p class="el_news_date">【LIVE】2026年3月5日(木) 12:00～13:00</p>
-                            <p class="el_news_datail"><p>入社式やインターンシップは、新しい仲間を迎え入れ、組織へのエンゲージメントを高める重要なイベントです。<br />しかし、その舞台裏では、膨大な数の雇用契約書の締結・回収や、全国から集まる参加者への交通費・宿泊費の精算といった「ノンコア業務」に、多くの人事が忙殺されているのが実情です。</p>
-<p>本ウェビナーでは、そんな「現場のバタバタ」を解消し、攻めの人事へと転換する内容について解説いたします。</p></p>
-                            </a>
-                        </div>
     
 
                     </div>
@@ -772,6 +777,22 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                         <div class="uni_cat_trends">
 
+                            <a href="https://www.veritrans.co.jp/webinar/2026/260312.html" class="el_news_col">
+                                <span class="el_cat el_cat_trends">Webinar</span>
+                                <h3 class="el_news_heading">来園者数60万人の那須ハイランドパークを支える、レジャーDXの舞台裏</h3>
+                             　<p class="el_news_date">2026年3月12日(木) 11:00～12:00</p>
+                            　　<p class="el_news_datail"><h3>来園者数60万人の那須ハイランドパークを支える、レジャーDXの舞台裏<br />〜北関東No.1施設×システム開発のプロが明かす「自社EC移行」と「決済戦略」の全貌〜</h3>
+<p>多くのレジャー施設において、DX（デジタルトランスフォーメーション）は避けて通れない命題となっています。</p>
+<p>しかし、「外部予約サイトへの依存による手数料負担」や、「複雑化する現場オペレーションとシステムとの乖離」に頭を悩ませている方も多くいらっしゃるのではないでしょうか。</p>
+<p>本ウェビナーでは、北関東No.1の来園者数を誇る「那須ハイランドパーク」の運営を担う藤和那須リゾート株式会社様と、そのシステム基盤を支えるサイバーウェーブ株式会社様をゲストにお迎えします。</p>
+<p>「なぜ、既成のプラットフォームではなく自社ECサイトの構築が必要だったのか？」<br />「数ある開発手法の中から、なぜサイバーウェーブの提供する基盤が選ばれたのか？」</p>
+<p>当日は、プロジェクトを共にした両社だからこそ語れる「制作プロセスのこだわり」から、移行時に直面した「実は大変だったリニューアルの落とし穴」、さらには導入後の「運用負荷とコスト削減のリアル」まで、徹底的に深掘りします。</p>
+<p>モデレーターにはDGFTが立ち、システム・決済・運用の観点から、次世代の顧客体験（CX）をどう設計すべきかを解き明かします。</p></p>
+                            </a>
+                        </div>
+
+                        <div class="uni_cat_trends">
+
                             <a href="https://www.veritrans.co.jp/webinar/2026/260305_cash_post.html" class="el_news_col">
                                 <span class="el_cat el_cat_trends">Webinar</span>
                                 <h3 class="el_news_heading">入社式・インターンシップの準備、追われてませんか？</h3>
@@ -846,18 +867,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <p>～本セミナーで得られること～</p>
 <p>未来予測: 激変する決済市場の最新トレンドを読み解き、次なる一手を見据える 。<br />収益最大化: 機会損失を根絶し、売上を最大化させる決済承認率向上の技術と3Dセキュアの核心に迫る 。<br />顧客育成: 購買データをLTV（顧客生涯価値）向上に繋げる、データドリブンなリピート戦略を学ぶ 。<br />事業防衛: 巧妙化する不正アクセスから事業と顧客を堅守する、最先端のセキュリティ対策を知る 。</p>
 <p>EC事業の成長にコミットする全ての責任者様、担当者様にとって、本セミナーが未来の戦略を描くための指針となるはずです。<br />皆様のご参加を心よりお待ちしております。</p></p>
-                            </a>
-                        </div>
-
-                        <div class="uni_cat_trends">
-
-                            <a href="https://www.veritrans.co.jp/webinar/2025/250909.html" class="el_news_col">
-                                <span class="el_cat el_cat_trends">Webinar</span>
-                                <h3 class="el_news_heading">主要5大ID決済事業者が一挙に登壇！ユニファイドAPIで広がるキャッシュレスの可能性とは？</h3>
-                             　<p class="el_news_date">2025年9月9日(火)12:00-13:20</p>
-                            　　<p class="el_news_datail"><p>キャッシュレス化が加速する今、auPay・d払い・PayPay・メルペイ・楽天Payなどの主要ID決済の導入は、顧客体験を向上させ、競合他社との差別化につながります。</p>
-<p>本ウェビナーでは、業界を代表する5つのID決済事業者が一堂に登壇！5社の魅力をまとめて聞けるのはこのウェビナーだけです！今後のキャッシュレス戦略に活かせる最新情報・導入の裏側・成功事例を各社より解説。</p>
-<p>また、複数のID決済をまとめて導入できる「ユニファイドAPI」についても解説。複数の決済手段を1つのAPIで一括導入・管理できる革新的な仕組みです。<br />開発コストを抑えつつ、主要ID決済を一気に導入可能です。最小限の開発リソースで最大限の決済対応を実現したい企業様に必見の内容です。</p></p>
                             </a>
                         </div>
 
