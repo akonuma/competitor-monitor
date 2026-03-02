@@ -1,4 +1,4 @@
-<!DOCTYPE html><html lang="ja"><head prefix="og: http://ogp.me/ns#"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://j.wovn.io/1" async="true" data-wovnio="key=QLeFbd&amp;backend=true&amp;currentLang=ja&amp;defaultLang=ja&amp;urlPattern=path&amp;version=1.24.2&amp;backendVersion=WOVN.php_1.10.1&amp;langParamName=wovn" data-wovnio-cache-time="202602260153+0000"> </script>
+<!DOCTYPE html><html lang="ja"><head prefix="og: http://ogp.me/ns#"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://j.wovn.io/1" async="true" data-wovnio="key=QLeFbd&amp;backend=true&amp;currentLang=ja&amp;defaultLang=ja&amp;urlPattern=path&amp;version=1.24.2&amp;backendVersion=WOVN.php_1.10.1&amp;langParamName=wovn" data-wovnio-cache-time="202603020219+0000"> </script>
 
 <meta charset="utf-8">
 <title>決済代行・オンライン決済サービス・システム導入ならSBペイメントサービス（ソフトバンクグループ）</title>
@@ -50,7 +50,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-MRQRDWV');</script>
 <!-- End Google Tag Manager -->
 
-<link rel="alternate" hreflang="en" href="https://www.sbpayment.jp/en/?_=1772070814231"><link rel="alternate" hreflang="ja" href="https://www.sbpayment.jp/?_=1772070814231"><link rel="alternate" hreflang="x-default" href="https://www.sbpayment.jp/?_=1772070814231"></head>
+<link rel="alternate" hreflang="en" href="https://www.sbpayment.jp/en/"><link rel="alternate" hreflang="ja" href="https://www.sbpayment.jp/"><link rel="alternate" hreflang="x-default" href="https://www.sbpayment.jp/"></head>
 
 <body>
   <!-- Google Tag Manager (noscript) -->
@@ -1149,6 +1149,16 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             
             <li class="modListNews__item">
               
+              <a href="https://www.sbpayment.jp/news/press/2026/20260302_001531/">
+                <time class="time" datetime="2026-03-02">2026.03.02</time>
+                <span class="category"><span>プレスリリース</span></span>
+                <p class="title">ウイングアークNEXの公共施設予約システム「ラクリザ」と<br>SBペイメントサービスのオンライン決済サービスが連携<br><span style="font-size:70%;">～公共施設利用者の利便性向上と自治体・施設管理事業者のキャッシュレス化を加速～</span></p>
+              </a>
+              
+            </li>
+            
+            <li class="modListNews__item">
+              
               <a href="https://www.sbpayment.jp/news/press/2026/20260226_001530/">
                 <time class="time" datetime="2026-02-26">2026.02.26</time>
                 <span class="category"><span>プレスリリース</span></span>
@@ -1163,16 +1173,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <time class="time" datetime="2026-02-24">2026.02.24</time>
                 <span class="category"><span>セミナー</span></span>
                 <p class="title">「Elastic{ON} Tokyo 2026」でSBペイメントサービスが登壇</p>
-              </a>
-              
-            </li>
-            
-            <li class="modListNews__item">
-              
-              <a href="https://bizcan.jp/bips/" target="_blank" rel="noopener noreferrer">
-                <time class="time" datetime="2026-02-13">2026.02.13</time>
-                <span class="category"><span>お知らせ</span></span>
-                <p class="title">店舗ビジネスに特化した比較サイト「Bizcan（ビズカン）」の請求書カード払いカオスマップに「SBPS請求書カード払い」が掲載されました。</p>
               </a>
               
             </li>
