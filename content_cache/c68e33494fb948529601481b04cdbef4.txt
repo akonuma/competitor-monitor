@@ -907,6 +907,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <ul class="bl_caseList">
 
                             <li>
+                                <a href="https://www.veritrans.co.jp/case/case25.html" class="el_case_col">
+                                    <p class="el_case_datail el_txt_normal">名古屋市消防局、「現金のみ」の慣習を破り手数料キャッシュレス化を実現</p>
+                                    <h3 class="el_case_heading">
+                                        <p class="el_case_name">名古屋市消防局 様</p>
+                                    </h3>
+                                </a>
+                            </li>
+
+                            <li>
                                 <a href="https://www.veritrans.co.jp/case/case_24.html" class="el_case_col">
                                     <p class="el_case_datail el_txt_normal">那須ハイランドパークのチケット販売のリードタイムを1週間から”即時”へ。データ活用とコスト削減を実現</p>
                                     <h3 class="el_case_heading">
@@ -920,15 +929,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     <p class="el_case_datail el_txt_normal">「手ぶら」で広がる決済体験ー日立製作所と東武鉄道が進める「生体認証サービス」を支えるDGFTの決済ソリューション</p>
                                     <h3 class="el_case_heading">
                                         <p class="el_case_name">株式会社日立製作所 様 東武鉄道株式会社 様</p>
-                                    </h3>
-                                </a>
-                            </li>
-
-                            <li>
-                                <a href="https://www.veritrans.co.jp/case/case23.html" class="el_case_col">
-                                    <p class="el_case_datail el_txt_normal">マルチ決済サービスVeriTrans4Gで「集金業務負担の軽減」と「利用者の利便性向上」を実現</p>
-                                    <h3 class="el_case_heading">
-                                        <p class="el_case_name">極東開発パーキング株式会社 様</p>
                                     </h3>
                                 </a>
                             </li>
