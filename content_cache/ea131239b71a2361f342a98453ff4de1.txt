@@ -1,4 +1,4 @@
-<!DOCTYPE html><html lang="ja"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://j.wovn.io/1" async="true" data-wovnio='key=f1IRL-&amp;backend=true&amp;currentLang=ja&amp;defaultLang=ja&amp;urlPattern=path&amp;langCodeAliases={"en":"en"}&amp;version=1.24.2&amp;backendVersion=WOVN.php_1.12.0&amp;langParamName=wovn' data-wovnio-cache-time="202602240741+0000"> </script>
+<!DOCTYPE html><html lang="ja"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://j.wovn.io/1" async="true" data-wovnio='key=f1IRL-&amp;backend=true&amp;currentLang=ja&amp;defaultLang=ja&amp;urlPattern=path&amp;langCodeAliases={"en":"en"}&amp;version=1.24.2&amp;backendVersion=WOVN.php_1.12.0&amp;langParamName=wovn' data-wovnio-cache-time="202603100806+0000"> </script>
 <meta charset="utf-8">
 	<meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -25,15 +25,15 @@
 
     <!-- css -->
 
-<link rel="stylesheet" href="/common/css/core.css?ver=202602241539">
+<link rel="stylesheet" href="/common/css/core.css?ver=202603101701">
 
 
-<link rel="preload" href="/common/css/common.css?ver=202602241539" as="style" onload="this.onload=null;this.rel='stylesheet'">
-<noscript><link rel="stylesheet" href="/common/css/common.css?ver=202602241539"></noscript>
+<link rel="preload" href="/common/css/common.css?ver=202603101701" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="/common/css/common.css?ver=202603101701"></noscript>
 
 
-<link rel="preload" href="/common/css/footer.css?ver=202602241539" as="style" onload="this.onload=null;this.rel='stylesheet'">
-<noscript><link rel="stylesheet" href="/common/css/footer.css?ver=202602241539"></noscript>
+<link rel="preload" href="/common/css/footer.css?ver=202603101701" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="/common/css/footer.css?ver=202603101701"></noscript>
 <link rel="preload" href="/common/css/lib/splide-core.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
 <noscript><link rel="stylesheet" href="/common/css/lib/splide-core.min.css"></noscript>
 
@@ -41,7 +41,8 @@
 	<link rel="preconnect" href="https://fonts.googleapis.com">
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
 	<link href="https://fonts.googleapis.com/css2?family=Marcellus&amp;display=swap" rel="stylesheet">
-	<script src="https://font.realtype.jp/api/script/v4" data-rt-user="tHs9xWEV7hTvkvU8xu7WYBNGIP0zfbG4" data-rt-input="true"></script>
+	<script src="https://font.realtype.jp/api/script/v4" data-rt-user="tHs9xWEV7hTvkvU8xu7WYBNGIP0zfbG4" data-rt-input="true" data-rt-nofliker="true" data-rt-layout="true" data-rt-emulation="true" data-rt-cache="true"></script>
+
 <script>
   document.addEventListener('DOMContentLoaded', function () {
     if (window.RT && RT.start) {
@@ -115,10 +116,10 @@
 </script>
 
 <!-- TOP用CSS/JS -->
-<link rel="stylesheet" href="/top/css/style.css?ver=202602241539">
+<link rel="stylesheet" href="/top/css/style.css?ver=202603101701">
 <link rel="preload" href="/common/js/lib/swiper-bundle.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
 <noscript><link rel="stylesheet" href="/common/js/lib/swiper-bundle.min.css"></noscript>
-<script src="/top/js/script.js?ver=202602241539"></script>
+<script src="/top/js/script.js?ver=202603101701"></script>
 <link rel="alternate" hreflang="en" href="https://www.gmo-pg.com/en/"><link rel="alternate" hreflang="ja" href="https://www.gmo-pg.com/"><link rel="alternate" hreflang="x-default" href="https://www.gmo-pg.com/"></head>
 <body>
 <canvas id="waveBg" aria-hidden="true"></canvas>
@@ -2526,6 +2527,66 @@
 							
 							
 							<li class="p-topOwnedMediaList__item splide__slide">
+								<a class="p-topOwnedMediaCard" href="/blog/articles/article-0181/">
+									<figure class="p-topOwnedMediaCard__thumbnail">
+										
+											<img src="/blog/articles/assets_c/2026/02/article-0181_top-thumb-320xauto-12830.jpg" loading="lazy" alt="GMO-PGの脱炭素への取組み-農業由来クレジット創出の現場を訪問-">
+											
+									</figure>
+									<div class="p-topOwnedMediaCard__content">
+										<div class="p-topOwnedMediaCard__headline">
+											<time class="p-topOwnedMediaCard__date" datetime="2026-03-10">2026.03.10</time>
+											
+											<div class="p-topOwnedMediaCard__category">
+												
+												<span>ESG</span>
+												
+												<span>インタビュー</span>
+												
+												<span>カーボンクレジット</span>
+												
+											</div>
+											
+										</div>
+										<p class="p-topOwnedMediaCard__title">GMO-PGの脱炭素への取組み-農業由来クレジット創出の現場を訪問-</p>
+									</div>
+								</a>
+							</li>
+							
+							
+							
+							<li class="p-topOwnedMediaList__item splide__slide">
+								<a class="p-topOwnedMediaCard" href="/blog/articles/article-0179/">
+									<figure class="p-topOwnedMediaCard__thumbnail">
+										
+											<img src="/blog/articles/assets_c/2026/02/article-0179_top-thumb-320xauto-12777.jpg" loading="lazy" alt="現地で見えたインド金融市場の実像―GMOペイメントゲートウェイの取り組みとこれから">
+											
+									</figure>
+									<div class="p-topOwnedMediaCard__content">
+										<div class="p-topOwnedMediaCard__headline">
+											<time class="p-topOwnedMediaCard__date" datetime="2026-02-25">2026.02.25</time>
+											
+											<div class="p-topOwnedMediaCard__category">
+												
+												<span>FinTech</span>
+												
+												<span>インタビュー</span>
+												
+												<span>インド</span>
+												
+												<span>投融資</span>
+												
+											</div>
+											
+										</div>
+										<p class="p-topOwnedMediaCard__title">現地で見えたインド金融市場の実像―GMOペイメントゲートウェイの取り組みとこれから</p>
+									</div>
+								</a>
+							</li>
+							
+							
+							
+							<li class="p-topOwnedMediaList__item splide__slide">
 								<a class="p-topOwnedMediaCard" href="/blog/articles/article-0174/">
 									<figure class="p-topOwnedMediaCard__thumbnail">
 										
@@ -2610,68 +2671,6 @@
 											
 										</div>
 										<p class="p-topOwnedMediaCard__title">企業間決済に新たな選択肢を。「請求書カード払い byGMO」が描く BtoBキャッシュフローの新常識</p>
-									</div>
-								</a>
-							</li>
-							
-							
-							
-							<li class="p-topOwnedMediaList__item splide__slide">
-								<a class="p-topOwnedMediaCard" href="/blog/articles/article-0154/">
-									<figure class="p-topOwnedMediaCard__thumbnail">
-										
-											<img src="/blog/articles/assets_c/2025/07/article-0154_top-thumb-320xauto-12028.jpg" loading="lazy" alt='「いつでも給与が受け取れる時代」へ──GMO-PGが変える"給与の常識"と企業経営の未来'>
-											
-									</figure>
-									<div class="p-topOwnedMediaCard__content">
-										<div class="p-topOwnedMediaCard__headline">
-											<time class="p-topOwnedMediaCard__date" datetime="2025-08-07">2025.08.07</time>
-											
-											<div class="p-topOwnedMediaCard__category">
-												
-												<span>インタビュー</span>
-												
-												<span>プロダクト紹介</span>
-												
-												<span>即給 byGMO</span>
-												
-												<span>給与前払い</span>
-												
-											</div>
-											
-										</div>
-										<p class="p-topOwnedMediaCard__title">「いつでも給与が受け取れる時代」へ──GMO-PGが変える"給与の常識"と企業経営の未来</p>
-									</div>
-								</a>
-							</li>
-							
-							
-							
-							<li class="p-topOwnedMediaList__item splide__slide">
-								<a class="p-topOwnedMediaCard" href="/blog/articles/article-0158/">
-									<figure class="p-topOwnedMediaCard__thumbnail">
-										
-											<img src="/blog/articles/assets_c/2025/07/article-0158_top-thumb-320xauto-12055.jpg" loading="lazy" alt='公式MCP対応で示すAIに任せる"決済領域"―決済サービスプロバイダーが果たすべきAI時代の役割―'>
-											
-									</figure>
-									<div class="p-topOwnedMediaCard__content">
-										<div class="p-topOwnedMediaCard__headline">
-											<time class="p-topOwnedMediaCard__date" datetime="2025-08-01">2025.08.01</time>
-											
-											<div class="p-topOwnedMediaCard__category">
-												
-												<span>AI</span>
-												
-												<span>fincode byGMO</span>
-												
-												<span>インタビュー</span>
-												
-												<span>プロダクト紹介</span>
-												
-											</div>
-											
-										</div>
-										<p class="p-topOwnedMediaCard__title">公式MCP対応で示すAIに任せる"決済領域"―決済サービスプロバイダーが果たすべきAI時代の役割―</p>
 									</div>
 								</a>
 							</li>
@@ -2806,50 +2805,50 @@
 				<ul class="splide__pagination"></ul>
 				<button class="splide__arrow splide__arrow--next"><span>NEXT</span></button>
 				<button class="splide__toggle" type="button">
-					<span class="splide__toggle__play"><span class="splide__toggle__text">Play</span></span>
-					<span class="splide__toggle__pause"><span class="splide__toggle__text">Pause</span></span>
+					<span class="splide__toggle__play"><span class="splide__toggle__text visually-hidden">Play</span></span>
+					<span class="splide__toggle__pause"><span class="splide__toggle__text visually-hidden">Pause</span></span>
 				</button>
 			</div>
 			<div class="splide__track">
 				<ul class="c-footerGroupBanner splide__list">
 					<li class="c-footerGroupBanner__item splide__slide">
-						<span><img src="/common/image/bnr/footer/companies_logo_01.png" alt="GMO PAYMENT GATEWAY"></span>
+						<span><img src="/common/image/bnr/footer/companies_logo_01.png" alt="GMO PAYMENT GATEWAY" width="996" height="160" class="footerLogo"></span>
 					</li>
 					<li class="c-footerGroupBanner__item splide__slide">
-						<a href="https://www.epsilon.jp/" target="_blank"><img src="/common/image/bnr/footer/companies_logo_02.png" alt="GMO EPSILON"></a>
+						<a href="https://www.epsilon.jp/" target="_blank"><img src="/common/image/bnr/footer/companies_logo_02.png" alt="GMO EPSILON" width="608" height="160" class="footerLogo"></a>
 					</li>
 					<li class="c-footerGroupBanner__item splide__slide">
-						<a href="https://www.gmo-ps.com/" target="_blank"><img src="/common/image/bnr/footer/companies_logo_03.png" alt="GMO PAYMENT SERVISE"></a>
+						<a href="https://www.gmo-ps.com/" target="_blank"><img src="/common/image/bnr/footer/companies_logo_03.png" alt="GMO PAYMENT SERVISE" width="920" height="160" class="footerLogo"></a>
 					</li>
 					<li class="c-footerGroupBanner__item splide__slide">
-						<a href="https://gmo-fg.com/" target="_blank"><img src="/common/image/bnr/footer/companies_logo_04.png" alt="GMO FINANCIAL GATE"></a>
+						<a href="https://gmo-fg.com/" target="_blank"><img src="/common/image/bnr/footer/companies_logo_04.png" alt="GMO FINANCIAL GATE" width="870" height="160" class="footerLogo"></a>
 					</li>
 					<li class="c-footerGroupBanner__item splide__slide">
-						<a href="https://www.gmo-cas.com/" target="_blank"><img src="/common/image/bnr/footer/companies_logo_05.png" alt="GMO CARD SYSTEM"></a>
+						<a href="https://www.gmo-cas.com/" target="_blank"><img src="/common/image/bnr/footer/companies_logo_05.png" alt="GMO CARD SYSTEM" width="808" height="160" class="footerLogo"></a>
 					</li>
 					<li class="c-footerGroupBanner__item splide__slide">
-						<a href="https://gmo-reserve.plus/" target="_blank"><img src="/common/image/bnr/footer/companies_logo_06.png" alt="GMO RESERVE PLUS"></a>
+						<a href="https://gmo-reserve.plus/" target="_blank"><img src="/common/image/bnr/footer/companies_logo_06.png" alt="GMO RESERVE PLUS" width="743" height="160" class="footerLogo"></a>
 					</li>
 					<li class="c-footerGroupBanner__item splide__slide">
-						<a href="https://www.enpay.co.jp/corporation/" target="_blank"><img src="/common/image/bnr/footer/companies_logo_14.png" alt="GMO ENPAY"></a>
+						<a href="https://www.enpay.co.jp/corporation/" target="_blank"><img src="/common/image/bnr/footer/companies_logo_14.png" alt="GMO ENPAY" width="546" height="160" class="footerLogo"></a>
 					</li>
 					<li class="c-footerGroupBanner__item splide__slide">
-						<span><img src="/common/image/bnr/footer/companies_logo_08.png" alt="GMO-Z.com Payment Gateway Pte. Ltd."></span>
+						<span><img src="/common/image/bnr/footer/companies_logo_08.png" alt="GMO-Z.com Payment Gateway Pte. Ltd." width="1440" height="160" class="footerLogo"></span>
 					</li>
 					<li class="c-footerGroupBanner__item splide__slide">
-						<span><img src="/common/image/bnr/footer/companies_logo_09.png" alt="GMO-Z.com Payment Gateway HK Ltd."></span>
+						<span><img src="/common/image/bnr/footer/companies_logo_09.png" alt="GMO-Z.com Payment Gateway HK Ltd." width="1452" height="160" class="footerLogo"></span>
 					</li>
 					<li class="c-footerGroupBanner__item splide__slide">
-						<span><img src="/common/image/bnr/footer/companies_logo_11.png" alt="GMO-Z.com Payment Gateway Malaysia Sdn. Bhd."></span>
+						<span><img src="/common/image/bnr/footer/companies_logo_11.png" alt="GMO-Z.com Payment Gateway Malaysia Sdn. Bhd." width="1736" height="160" class="footerLogo"></span>
 					</li>
 					<li class="c-footerGroupBanner__item splide__slide">
-						<span><img src="/common/image/bnr/footer/companies_logo_10.png" alt="GMO-Z.com Payment Gateway Thailand Co., Ltd."></span>
+						<span><img src="/common/image/bnr/footer/companies_logo_10.png" alt="GMO-Z.com Payment Gateway Thailand Co., Ltd." width="1734" height="160" class="footerLogo"></span>
 					</li>
 					<li class="c-footerGroupBanner__item splide__slide">
-						<a href="https://www.gmo-pg.com/us/" target="_blank"><img src="/common/image/bnr/footer/companies_logo_12.png" alt="GMO-Z.com Payment Gateway USA, Inc."></a>
+						<a href="https://www.gmo-pg.com/us/" target="_blank"><img src="/common/image/bnr/footer/companies_logo_12.png" alt="GMO-Z.com Payment Gateway USA, Inc." width="1472" height="160" class="footerLogo"></a>
 					</li>
 					<li class="c-footerGroupBanner__item splide__slide">
-						<span><img src="/common/image/bnr/footer/companies_logo_13.png" alt="GMO-Z.com Payment Gateway India Pvt. Ltd."></span>
+						<span><img src="/common/image/bnr/footer/companies_logo_13.png" alt="GMO-Z.com Payment Gateway India Pvt. Ltd." width="1594" height="160" class="footerLogo"></span>
 					</li>
 				</ul>
 			</div>
@@ -3288,7 +3287,7 @@
 <script src="/common/js/lib/micromodal.min.js"></script>
 <script src="/common/js/lib/scroll-hint.min.js"></script>
 <link rel="stylesheet" href="/common/js/lib/scroll-hint.css">
-<script src="/common/js/script.js?ver=202602241539"></script>
+<script src="/common/js/script.js?ver=202603101701"></script>
 	<script src="/common/js/lib/swiper-bundle.min.js" defer=""></script>
 <!-- GMOグループヘッダー -->
 <script type="text/javascript" charset="UTF-8" src="https://cache.img.gmo.jp/gmo/header/script.min.js" id="gmoheadertag" async="async"></script>
