@@ -1,4 +1,4 @@
-<!DOCTYPE html><html lang="ja"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://j.wovn.io/1" async="true" data-wovnio='key=f1IRL-&amp;backend=true&amp;currentLang=ja&amp;defaultLang=ja&amp;urlPattern=path&amp;langCodeAliases={"en":"en"}&amp;version=1.24.2&amp;backendVersion=WOVN.php_1.12.0&amp;langParamName=wovn' data-wovnio-cache-time="202603100806+0000"> </script>
+<!DOCTYPE html><html lang="ja"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://j.wovn.io/1" async="true" data-wovnio='key=f1IRL-&amp;backend=true&amp;currentLang=ja&amp;defaultLang=ja&amp;urlPattern=path&amp;langCodeAliases={"en":"en"}&amp;version=1.24.2&amp;backendVersion=WOVN.php_1.12.0&amp;langParamName=wovn' data-wovnio-cache-time="202603120707+0000"> </script>
 <meta charset="utf-8">
 	<meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -25,15 +25,15 @@
 
     <!-- css -->
 
-<link rel="stylesheet" href="/common/css/core.css?ver=202603101701">
+<link rel="stylesheet" href="/common/css/core.css?ver=202603121606">
 
 
-<link rel="preload" href="/common/css/common.css?ver=202603101701" as="style" onload="this.onload=null;this.rel='stylesheet'">
-<noscript><link rel="stylesheet" href="/common/css/common.css?ver=202603101701"></noscript>
+<link rel="preload" href="/common/css/common.css?ver=202603121606" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="/common/css/common.css?ver=202603121606"></noscript>
 
 
-<link rel="preload" href="/common/css/footer.css?ver=202603101701" as="style" onload="this.onload=null;this.rel='stylesheet'">
-<noscript><link rel="stylesheet" href="/common/css/footer.css?ver=202603101701"></noscript>
+<link rel="preload" href="/common/css/footer.css?ver=202603121606" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="/common/css/footer.css?ver=202603121606"></noscript>
 <link rel="preload" href="/common/css/lib/splide-core.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
 <noscript><link rel="stylesheet" href="/common/css/lib/splide-core.min.css"></noscript>
 
@@ -116,10 +116,10 @@
 </script>
 
 <!-- TOP用CSS/JS -->
-<link rel="stylesheet" href="/top/css/style.css?ver=202603101701">
+<link rel="stylesheet" href="/top/css/style.css?ver=202603121606">
 <link rel="preload" href="/common/js/lib/swiper-bundle.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
 <noscript><link rel="stylesheet" href="/common/js/lib/swiper-bundle.min.css"></noscript>
-<script src="/top/js/script.js?ver=202603101701"></script>
+<script src="/top/js/script.js?ver=202603121606"></script>
 <link rel="alternate" hreflang="en" href="https://www.gmo-pg.com/en/"><link rel="alternate" hreflang="ja" href="https://www.gmo-pg.com/"><link rel="alternate" hreflang="x-default" href="https://www.gmo-pg.com/"></head>
 <body>
 <canvas id="waveBg" aria-hidden="true"></canvas>
@@ -829,6 +829,58 @@
 								
 									<li class="p-topNewsListItem hide_if_ja">
 	<div class="p-topNewsListItem__head">
+		<time class="p-topNewsListItem__date" datetime="2026-03-12">2026.03.12</time>
+		<ul class="p-topNewsListItem__tagList">
+		
+		<li class="p-topNewsListItem__tag">
+		
+		
+		<span class="c-tag c-tag--press">プレスリリース</span>
+		
+		
+		</li>
+		
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">GMO PAYMENT GATEWAY</span></li>
+		</ul>
+		<!--  -->
+	</div>
+	<div class="p-topNewsListItem__body">
+		<p class="p-topNewsListItem__title"><a href="
+	/en/news/press/gmo-paymentgateway/2026/0312.html
+	
+">GMO Payment Gateway Implements Visa's "Click to Pay" on payment platform</a></p>
+	</div>
+</li>
+
+
+
+	
+<li class="p-topNewsListItem hide_if_en">
+	<div class="p-topNewsListItem__head">
+		<time class="p-topNewsListItem__date" datetime="2026-03-12">2026.03.12</time>
+		<ul class="p-topNewsListItem__tagList">
+		
+		<li class="p-topNewsListItem__tag">
+		
+		
+		<span class="c-tag c-tag--press">プレスリリース</span>
+		
+		
+		</li>
+		
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">GMO PAYMENT GATEWAY</span></li>
+		</ul>
+		<!--  -->
+	</div>
+	<div class="p-topNewsListItem__body">
+		<p class="p-topNewsListItem__title"><a href="/news/press/gmo-paymentgateway/2026/0312.html">GMOペイメントゲートウェイ、Visaの「クリック決済」を決済基盤に実装</a></p>
+	</div>
+</li>
+
+
+								
+									<li class="p-topNewsListItem hide_if_ja">
+	<div class="p-topNewsListItem__head">
 		<time class="p-topNewsListItem__date" datetime="2026-02-24">2026.02.24</time>
 		<ul class="p-topNewsListItem__tagList">
 		
@@ -1192,59 +1244,6 @@
 	</div>
 	<div class="p-topNewsListItem__body">
 		<p class="p-topNewsListItem__title"><a href="/news/pdf/20260212_gmo_pg_ir_tanshin.pdf" target="_blank">2026年9月期 第1四半期 決算短信[IFRS]</a></p>
-	</div>
-</li>
-
-
-								
-									<li class="p-topNewsListItem hide_if_ja">
-	<div class="p-topNewsListItem__head">
-		<time class="p-topNewsListItem__date" datetime="2026-02-12">2026.02.12</time>
-		<ul class="p-topNewsListItem__tagList">
-		
-		<li class="p-topNewsListItem__tag">
-		
-		
-		<span class="c-tag c-tag--ir">IRニュース</span>
-		
-		
-		</li>
-		
-		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">適時開示・任意開示</span></li>
-		</ul>
-		<!--  -->
-	</div>
-	<div class="p-topNewsListItem__body">
-		<p class="p-topNewsListItem__title"><a href="
-	/news/pdf/20260212_gmo_pg_ir_kaiji_en.pdf
-		
-		
-" target="_blank">Notice Regarding the Introduction of Shareholder Benefit Program</a></p>
-	</div>
-</li>
-
-
-
-	
-<li class="p-topNewsListItem hide_if_en">
-	<div class="p-topNewsListItem__head">
-		<time class="p-topNewsListItem__date" datetime="2026-02-12">2026.02.12</time>
-		<ul class="p-topNewsListItem__tagList">
-		
-		<li class="p-topNewsListItem__tag">
-		
-		
-		<span class="c-tag c-tag--ir">IRニュース</span>
-		
-		
-		</li>
-		
-		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">適時開示・任意開示</span></li>
-		</ul>
-		<!--  -->
-	</div>
-	<div class="p-topNewsListItem__body">
-		<p class="p-topNewsListItem__title"><a href="/news/pdf/20260212_gmo_pg_ir_kaiji.pdf" target="_blank">株主優待制度の導入に関するお知らせ</a></p>
 	</div>
 </li>
 
@@ -1662,6 +1661,58 @@
 							
 								<li class="p-topNewsListItem hide_if_ja">
 	<div class="p-topNewsListItem__head">
+		<time class="p-topNewsListItem__date" datetime="2026-03-12">2026.03.12</time>
+		<ul class="p-topNewsListItem__tagList">
+		
+		<li class="p-topNewsListItem__tag">
+		
+		
+		<span class="c-tag c-tag--press">プレスリリース</span>
+		
+		
+		</li>
+		
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">GMO PAYMENT GATEWAY</span></li>
+		</ul>
+		<!--  -->
+	</div>
+	<div class="p-topNewsListItem__body">
+		<p class="p-topNewsListItem__title"><a href="
+	/en/news/press/gmo-paymentgateway/2026/0312.html
+	
+">GMO Payment Gateway Implements Visa's "Click to Pay" on payment platform</a></p>
+	</div>
+</li>
+
+
+
+	
+<li class="p-topNewsListItem hide_if_en">
+	<div class="p-topNewsListItem__head">
+		<time class="p-topNewsListItem__date" datetime="2026-03-12">2026.03.12</time>
+		<ul class="p-topNewsListItem__tagList">
+		
+		<li class="p-topNewsListItem__tag">
+		
+		
+		<span class="c-tag c-tag--press">プレスリリース</span>
+		
+		
+		</li>
+		
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">GMO PAYMENT GATEWAY</span></li>
+		</ul>
+		<!--  -->
+	</div>
+	<div class="p-topNewsListItem__body">
+		<p class="p-topNewsListItem__title"><a href="/news/press/gmo-paymentgateway/2026/0312.html">GMOペイメントゲートウェイ、Visaの「クリック決済」を決済基盤に実装</a></p>
+	</div>
+</li>
+
+
+							
+								<li class="p-topNewsListItem hide_if_ja">
+	<div class="p-topNewsListItem__head">
 		<time class="p-topNewsListItem__date" datetime="2026-02-24">2026.02.24</time>
 		<ul class="p-topNewsListItem__tagList">
 		
@@ -2019,58 +2070,6 @@
 	</div>
 	<div class="p-topNewsListItem__body">
 		<p class="p-topNewsListItem__title"><a href="/news/press/gmo-paymentgateway/2026/0130.html">freeeとGMOペイメントゲートウェイ、請求書のカード払いでキャッシュフローを改善する新サービスを開始</a></p>
-	</div>
-</li>
-
-
-							
-								<li class="p-topNewsListItem hide_if_ja">
-	<div class="p-topNewsListItem__head">
-		<time class="p-topNewsListItem__date" datetime="2026-01-26">2026.01.26</time>
-		<ul class="p-topNewsListItem__tagList">
-		
-		<li class="p-topNewsListItem__tag">
-		
-		
-		<span class="c-tag c-tag--press">プレスリリース</span>
-		
-		
-		</li>
-		
-		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">GMO PAYMENT GATEWAY</span></li>
-		</ul>
-		<!--  -->
-	</div>
-	<div class="p-topNewsListItem__body">
-		<p class="p-topNewsListItem__title"><a href="
-	/en/news/press/gmo-paymentgateway/2026/0126.html
-	
-">GMO Payment Gateway launches "PX+ by GMO", an owned media platform that supports the growth of businesses starting with payment</a></p>
-	</div>
-</li>
-
-
-
-	
-<li class="p-topNewsListItem hide_if_en">
-	<div class="p-topNewsListItem__head">
-		<time class="p-topNewsListItem__date" datetime="2026-01-26">2026.01.26</time>
-		<ul class="p-topNewsListItem__tagList">
-		
-		<li class="p-topNewsListItem__tag">
-		
-		
-		<span class="c-tag c-tag--press">プレスリリース</span>
-		
-		
-		</li>
-		
-		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">GMO PAYMENT GATEWAY</span></li>
-		</ul>
-		<!--  -->
-	</div>
-	<div class="p-topNewsListItem__body">
-		<p class="p-topNewsListItem__title"><a href="/news/press/gmo-paymentgateway/2026/0126.html">GMOペイメントゲートウェイ、決済を起点に事業者の成長を支援するオウンドメディア「PX＋ byGMO」開始</a></p>
 	</div>
 </li>
 
@@ -3287,7 +3286,7 @@
 <script src="/common/js/lib/micromodal.min.js"></script>
 <script src="/common/js/lib/scroll-hint.min.js"></script>
 <link rel="stylesheet" href="/common/js/lib/scroll-hint.css">
-<script src="/common/js/script.js?ver=202603101701"></script>
+<script src="/common/js/script.js?ver=202603121606"></script>
 	<script src="/common/js/lib/swiper-bundle.min.js" defer=""></script>
 <!-- GMOグループヘッダー -->
 <script type="text/javascript" charset="UTF-8" src="https://cache.img.gmo.jp/gmo/header/script.min.js" id="gmoheadertag" async="async"></script>
