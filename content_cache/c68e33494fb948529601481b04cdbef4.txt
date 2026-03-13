@@ -523,7 +523,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             
                             <a href="https://www.dgft.jp/company/info/2026/20260312.html" class="el_news_col">
                                 <span class="el_cat el_cat_insideDGFT">inside DGFT</span>
-                                <h3 class="el_news_heading">DGFTが特許を有する「Cloud Pay / QRコード決済」× AIを融合させた 次世代DXソリューション「Cloud  Pay ビジネス」、 アミューズメント業界から展開開始～現金使用率の高い無人決済領域の決済ソリューションに最適化し、AI活用による業務管理機能も提供〜</h3>
+                                <h3 class="el_news_heading">DGFTが特許を有する「Cloud Pay / QRコード決済」× AIを融合させた 次世代DXソリューション「Cloud  Pay ビジネス」、 アミューズメント業界から展開開始</h3>
                                 <p class="el_news_date">2026年3月12日</p>
                             </a>
             
@@ -650,7 +650,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             
                             <a href="https://www.dgft.jp/company/info/2026/20260312.html" class="el_news_col">
                                 <span class="el_cat el_cat_insideDGFT">inside DGFT</span>
-                                <h3 class="el_news_heading">DGFTが特許を有する「Cloud Pay / QRコード決済」× AIを融合させた 次世代DXソリューション「Cloud  Pay ビジネス」、 アミューズメント業界から展開開始～現金使用率の高い無人決済領域の決済ソリューションに最適化し、AI活用による業務管理機能も提供〜</h3>
+                                <h3 class="el_news_heading">DGFTが特許を有する「Cloud Pay / QRコード決済」× AIを融合させた 次世代DXソリューション「Cloud  Pay ビジネス」、 アミューズメント業界から展開開始</h3>
                                 <p class="el_news_date">2026年3月12日</p>
                             </a>
             
