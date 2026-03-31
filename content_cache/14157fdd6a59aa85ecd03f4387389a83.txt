@@ -1,4 +1,4 @@
-<!DOCTYPE html><html lang="ja"><head prefix="og: http://ogp.me/ns#"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://j.wovn.io/1" async="true" data-wovnio="key=QLeFbd&amp;backend=true&amp;currentLang=ja&amp;defaultLang=ja&amp;urlPattern=path&amp;version=1.25.1&amp;backendVersion=WOVN.php_1.10.1&amp;langParamName=wovn" data-wovnio-cache-time="202603240339+0000"> </script>
+<!DOCTYPE html><html lang="ja"><head prefix="og: http://ogp.me/ns#"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://j.wovn.io/1" async="true" data-wovnio="key=QLeFbd&amp;backend=true&amp;currentLang=ja&amp;defaultLang=ja&amp;urlPattern=path&amp;version=1.25.1&amp;backendVersion=WOVN.php_1.10.1&amp;langParamName=wovn" data-wovnio-cache-time="202603310148+0000"> </script>
 
 <meta charset="utf-8">
 <title>決済代行・オンライン決済サービス・システム導入ならSBペイメントサービス（ソフトバンクグループ）</title>
@@ -50,7 +50,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-MRQRDWV');</script>
 <!-- End Google Tag Manager -->
 
-<link rel="alternate" hreflang="en" href="https://www.sbpayment.jp/en/?_=1697523701433"><link rel="alternate" hreflang="ja" href="https://www.sbpayment.jp/?_=1697523701433"><link rel="alternate" hreflang="x-default" href="https://www.sbpayment.jp/?_=1697523701433"></head>
+<link rel="alternate" hreflang="en" href="https://www.sbpayment.jp/en/?_=1774921711614"><link rel="alternate" hreflang="ja" href="https://www.sbpayment.jp/?_=1774921711614"><link rel="alternate" hreflang="x-default" href="https://www.sbpayment.jp/?_=1774921711614"></head>
 
 <body>
   <!-- Google Tag Manager (noscript) -->
@@ -836,7 +836,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <img src="/image/top/seminar/img_seminar20260219.png" width="700" height="364" alt="" loading="lazy">
                   </figure>
                   <div class="cont">
-                    <div class="status__wrapper"><span class="status"><span>開催予定</span></span></div>
+                    <div class="status__wrapper">
+                      <span class="status status--end"><span>開催終了</span></span>
+                    </div>
                     <div class="title">
                       Elastic{ON} Tokyo 2026
                     </div>
@@ -1149,6 +1151,16 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             
             <li class="modListNews__item">
               
+              <a href="https://www.sbpayment.jp/news/info/2026/20260331_001538/">
+                <time class="time" datetime="2026-03-31">2026.03.31</time>
+                <span class="category"><span>お知らせ</span></span>
+                <p class="title">【導入事例】「さとふる」において、<br>新たに13自治体のふるさと納税に決済サービスを導入</p>
+              </a>
+              
+            </li>
+            
+            <li class="modListNews__item">
+              
               <a href="https://www.sbpayment.jp/news/press/2026/20260324_001536/">
                 <time class="time" datetime="2026-03-24">2026.03.24</time>
                 <span class="category"><span>プレスリリース</span></span>
@@ -1163,16 +1175,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <time class="time" datetime="2026-03-02">2026.03.02</time>
                 <span class="category"><span>プレスリリース</span></span>
                 <p class="title">ウイングアークNEXの公共施設予約システム「ラクリザ」と<br>SBペイメントサービスのオンライン決済サービスが連携<br><span style="font-size:70%;">～公共施設利用者の利便性向上と自治体・施設管理事業者のキャッシュレス化を加速～</span></p>
-              </a>
-              
-            </li>
-            
-            <li class="modListNews__item">
-              
-              <a href="https://www.sbpayment.jp/news/press/2026/20260226_001530/">
-                <time class="time" datetime="2026-02-26">2026.02.26</time>
-                <span class="category"><span>プレスリリース</span></span>
-                <p class="title">3年連続で最高ランク！加盟店サポートが<br>HDI格付けベンチマークで「三つ星」を獲得<br><span style="font-size:70%;">～加盟店に寄り添う迅速・的確な信頼性の高いサポートが高評価～</span></p>
               </a>
               
             </li>
@@ -1305,7 +1307,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <li><a href="/service/asp/google_pay/">Google Pay</a></li>
           <li><a href="/service/asp/pay-easy/">Pay-easy決済</a></li>
           <li><a href="/service/asp/electronic_money/">電子マネー決済</a></li>
-          <li><a href="/service/asp/recruit_kantan/">リクルートかんたん支払い</a></li>
           <li><a href="/service/asp/bill/">総合振込決済</a></li>
           <li><a href="/service/asp/netmile/">ネットマイル決済</a></li>
         </ul>
