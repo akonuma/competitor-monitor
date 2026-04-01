@@ -1,4 +1,4 @@
-<!DOCTYPE html><html lang="ja"><head prefix="og: http://ogp.me/ns#"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://j.wovn.io/1" async="true" data-wovnio="key=QLeFbd&amp;backend=true&amp;currentLang=ja&amp;defaultLang=ja&amp;urlPattern=path&amp;version=1.25.1&amp;backendVersion=WOVN.php_1.10.1&amp;langParamName=wovn" data-wovnio-cache-time="202603310148+0000"> </script>
+<!DOCTYPE html><html lang="ja"><head prefix="og: http://ogp.me/ns#"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://j.wovn.io/1" async="true" data-wovnio="key=QLeFbd&amp;backend=true&amp;currentLang=ja&amp;defaultLang=ja&amp;urlPattern=path&amp;version=1.25.1&amp;backendVersion=WOVN.php_1.10.1&amp;langParamName=wovn" data-wovnio-cache-time="202604010858+0000"> </script>
 
 <meta charset="utf-8">
 <title>決済代行・オンライン決済サービス・システム導入ならSBペイメントサービス（ソフトバンクグループ）</title>
@@ -50,7 +50,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-MRQRDWV');</script>
 <!-- End Google Tag Manager -->
 
-<link rel="alternate" hreflang="en" href="https://www.sbpayment.jp/en/?_=1774921711614"><link rel="alternate" hreflang="ja" href="https://www.sbpayment.jp/?_=1774921711614"><link rel="alternate" hreflang="x-default" href="https://www.sbpayment.jp/?_=1774921711614"></head>
+<link rel="alternate" hreflang="en" href="https://www.sbpayment.jp/en/"><link rel="alternate" hreflang="ja" href="https://www.sbpayment.jp/"><link rel="alternate" hreflang="x-default" href="https://www.sbpayment.jp/"></head>
 
 <body>
   <!-- Google Tag Manager (noscript) -->
@@ -984,7 +984,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                   <div class="cont">
                     <div class="status__wrapper">
                       <span class="status status--end"><span>開催終了</span></span>
-                      <span class="status"><span>アーカイブ提供中</span></span>
                     </div>
                     <div class="title">
                       2025年のスタートダッシュを決める！不正転売対策・脆弱性診断・EMV 3-Dセキュア完全攻略セミナー
