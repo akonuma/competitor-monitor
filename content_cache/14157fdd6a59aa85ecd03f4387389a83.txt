@@ -1,4 +1,4 @@
-<!DOCTYPE html><html lang="ja"><head prefix="og: http://ogp.me/ns#"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://j.wovn.io/1" async="true" data-wovnio="key=QLeFbd&amp;backend=true&amp;currentLang=ja&amp;defaultLang=ja&amp;urlPattern=path&amp;version=1.25.1&amp;backendVersion=WOVN.php_1.10.1&amp;langParamName=wovn" data-wovnio-cache-time="202604010858+0000"> </script>
+<!DOCTYPE html><html lang="ja"><head prefix="og: http://ogp.me/ns#"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://j.wovn.io/1" async="true" data-wovnio="key=QLeFbd&amp;backend=true&amp;currentLang=ja&amp;defaultLang=ja&amp;urlPattern=path&amp;version=1.25.1&amp;backendVersion=WOVN.php_1.10.1&amp;langParamName=wovn" data-wovnio-cache-time="202604030451+0000"> </script>
 
 <meta charset="utf-8">
 <title>決済代行・オンライン決済サービス・システム導入ならSBペイメントサービス（ソフトバンクグループ）</title>
@@ -144,7 +144,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         </ul>
                         <ul class="cont__list cont__list--3rd">  
                           <li><a href="/service/device/scan/">コード決済サービス</a></li>
-                          <li><a href="/service/mpp/">加盟店ポータル ポケット</a></li>
+                          <li><a href="/service/mpp/">加盟店ポータルポケット</a></li>
                         </ul>
                       </li>
                     </ul>
@@ -830,6 +830,25 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <p class="modTextDescription">事業者さまのビジネスに役立つセミナーを実施しています。</p>
           <div class="modListCompany__wrapper modListCompany__wrapper02 swiper-container">
             <ul class="modListCompany swiper-wrapper">
+            <li class="modListPost__item swiper-slide" style="max-width: 350px;">
+                <a href="https://atouch.jp/event/043?organizationId=496" target="_blank">
+                  <figure class="img">
+                    <img src="/image/top/seminar/img_seminar20260422.png" width="700" height="364" alt="" loading="lazy">
+                  </figure>
+                  <div class="cont">
+                    <div class="status__wrapper">
+                      <span class="status"><span>開催予定</span></span>
+                    </div>
+                    <div class="title">
+                      EC立ち上げ1年目の教科書：LP・決済・LINEで構築する「売れる仕組み」の作り方
+                    </div>
+                    <ul class="info">
+                      <li class="info__time">2026年4月23日(木) 12:00〜13:00<br>2026年4月24日(金) 11:00～12:00<br>2026年4月27日(月) 11:00～12:00</li>
+                      <li class="info__online">オンライン</li>
+                    </ul>
+                  </div>
+                </a>
+              </li>
               <li class="modListPost__item swiper-slide" style="max-width: 350px;">
                 <a href="https://www.elastic.co/events/elasticon/tokyo" target="_blank">
                   <figure class="img">
@@ -1150,6 +1169,16 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             
             <li class="modListNews__item">
               
+              <a href="https://atouch.jp/event/043?organizationId=496" target="_blank" rel="noopener noreferrer">
+                <time class="time" datetime="2026-04-03">2026.04.03</time>
+                <span class="category"><span>セミナー</span></span>
+                <p class="title">「EC立ち上げ1年目の教科書：LP・決済・LINEで構築する「売れる仕組み」の作り方」でSBペイメントサービスが登壇</p>
+              </a>
+              
+            </li>
+            
+            <li class="modListNews__item">
+              
               <a href="https://www.sbpayment.jp/news/info/2026/20260331_001538/">
                 <time class="time" datetime="2026-03-31">2026.03.31</time>
                 <span class="category"><span>お知らせ</span></span>
@@ -1164,16 +1193,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <time class="time" datetime="2026-03-24">2026.03.24</time>
                 <span class="category"><span>プレスリリース</span></span>
                 <p class="title">代表取締役および役員の異動に関するお知らせ</p>
-              </a>
-              
-            </li>
-            
-            <li class="modListNews__item">
-              
-              <a href="https://www.sbpayment.jp/news/press/2026/20260302_001531/">
-                <time class="time" datetime="2026-03-02">2026.03.02</time>
-                <span class="category"><span>プレスリリース</span></span>
-                <p class="title">ウイングアークNEXの公共施設予約システム「ラクリザ」と<br>SBペイメントサービスのオンライン決済サービスが連携<br><span style="font-size:70%;">～公共施設利用者の利便性向上と自治体・施設管理事業者のキャッシュレス化を加速～</span></p>
               </a>
               
             </li>
@@ -1321,7 +1340,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <li><a href="/service/method/token_system/">ワンタイムトークンシステム</a></li>
           <li><a href="/service/method/tools/">決済管理ツール</a></li>
           <li><a href="/service/method/domain/">独自ドメイン・画面カスタマイズ</a></li>
-          <li><a href="/service/mpp/">加盟店ポータル ポケット</a></li>
+          <li><a href="/service/mpp/">加盟店ポータルポケット</a></li>
           <li><a href="/service/method/laundering/">クレジットカード洗替サービス</a></li>
           <li><a href="/service/method/accounting/">課金方式（都度課金、継続課金）</a></li>
           <li><a href="/service/method/mail_link/">メールリンク型サービス</a></li>
@@ -1345,7 +1364,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           </li>
           <li><a href="/service/device/anywhere/">モバイル型端末</a></li>
           <li><a href="/service/device/scan/">コード決済サービス</a></li>
-          <li><a href="/service/mpp/">加盟店ポータル ポケット</a></li>
+          <li><a href="/service/mpp/">加盟店ポータルポケット</a></li>
         </ul>
       </div>
       <div class="footer__block">
