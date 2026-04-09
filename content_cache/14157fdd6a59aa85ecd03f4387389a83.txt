@@ -1,4 +1,4 @@
-<!DOCTYPE html><html lang="ja"><head prefix="og: http://ogp.me/ns#"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://j.wovn.io/1" async="true" data-wovnio="key=QLeFbd&amp;backend=true&amp;currentLang=ja&amp;defaultLang=ja&amp;urlPattern=path&amp;version=1.25.1&amp;backendVersion=WOVN.php_1.10.1&amp;langParamName=wovn" data-wovnio-cache-time="202604030451+0000"> </script>
+<!DOCTYPE html><html lang="ja"><head prefix="og: http://ogp.me/ns#"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://j.wovn.io/1" async="true" data-wovnio="key=QLeFbd&amp;backend=true&amp;currentLang=ja&amp;defaultLang=ja&amp;urlPattern=path&amp;version=1.25.1&amp;backendVersion=WOVN.php_1.10.1&amp;langParamName=wovn" data-wovnio-cache-time="202604090214+0000"> </script>
 
 <meta charset="utf-8">
 <title>決済代行・オンライン決済サービス・システム導入ならSBペイメントサービス（ソフトバンクグループ）</title>
@@ -50,7 +50,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-MRQRDWV');</script>
 <!-- End Google Tag Manager -->
 
-<link rel="alternate" hreflang="en" href="https://www.sbpayment.jp/en/"><link rel="alternate" hreflang="ja" href="https://www.sbpayment.jp/"><link rel="alternate" hreflang="x-default" href="https://www.sbpayment.jp/"></head>
+<link rel="alternate" hreflang="en" href="https://www.sbpayment.jp/en/?_=1775700862833"><link rel="alternate" hreflang="ja" href="https://www.sbpayment.jp/?_=1775700862833"><link rel="alternate" hreflang="x-default" href="https://www.sbpayment.jp/?_=1775700862833"></head>
 
 <body>
   <!-- Google Tag Manager (noscript) -->
@@ -831,9 +831,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <div class="modListCompany__wrapper modListCompany__wrapper02 swiper-container">
             <ul class="modListCompany swiper-wrapper">
             <li class="modListPost__item swiper-slide" style="max-width: 350px;">
-                <a href="https://atouch.jp/event/043?organizationId=496" target="_blank">
+                <a href="https://atouch.jp/event/043?organizationId=1692" target="_blank">
                   <figure class="img">
-                    <img src="/image/top/seminar/img_seminar20260422.png" width="700" height="364" alt="" loading="lazy">
+                    <img src="/image/top/seminar/img_seminar20260423.png" width="700" height="364" alt="" loading="lazy">
                   </figure>
                   <div class="cont">
                     <div class="status__wrapper">
@@ -844,6 +844,25 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     </div>
                     <ul class="info">
                       <li class="info__time">2026年4月23日(木) 12:00〜13:00<br>2026年4月24日(金) 11:00～12:00<br>2026年4月27日(月) 11:00～12:00</li>
+                      <li class="info__online">オンライン</li>
+                    </ul>
+                  </div>
+                </a>
+              </li>
+              <li class="modListPost__item swiper-slide" style="max-width: 350px;">
+                <a href="https://service.openlogi.com/seminar/20260422/?organizationId=1692" target="_blank">
+                  <figure class="img">
+                    <img src="/image/top/seminar/img_seminar20260422.png" width="700" height="364" alt="" loading="lazy">
+                  </figure>
+                  <div class="cont">
+                    <div class="status__wrapper">
+                      <span class="status"><span>開催予定</span></span>
+                    </div>
+                    <div class="title">
+                      売れ続けるECは、何が違うのか：成長フェーズで詰まらない4つのポイント
+                    </div>
+                    <ul class="info">
+                      <li class="info__time">2026年4月22日(水) 16:00〜17:00<br>2026年4月23日(木) 16:00〜17:00<br>2026年4月24日(金) 16:00〜17:00</li>
                       <li class="info__online">オンライン</li>
                     </ul>
                   </div>
@@ -1169,7 +1188,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             
             <li class="modListNews__item">
               
-              <a href="https://atouch.jp/event/043?organizationId=496" target="_blank" rel="noopener noreferrer">
+              <a href="https://service.openlogi.com/seminar/20260422/?organizationId=1692" target="_blank" rel="noopener noreferrer">
+                <time class="time" datetime="2026-04-09">2026.04.09</time>
+                <span class="category"><span>セミナー</span></span>
+                <p class="title">「売れ続けるECは、何が違うのか：成長フェーズで詰まらない4つのポイント」でSBペイメントサービスが登壇</p>
+              </a>
+              
+            </li>
+            
+            <li class="modListNews__item">
+              
+              <a href="https://atouch.jp/event/043?organizationId=1692" target="_blank" rel="noopener noreferrer">
                 <time class="time" datetime="2026-04-03">2026.04.03</time>
                 <span class="category"><span>セミナー</span></span>
                 <p class="title">「EC立ち上げ1年目の教科書：LP・決済・LINEで構築する「売れる仕組み」の作り方」でSBペイメントサービスが登壇</p>
@@ -1183,16 +1212,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <time class="time" datetime="2026-03-31">2026.03.31</time>
                 <span class="category"><span>お知らせ</span></span>
                 <p class="title">【導入事例】「さとふる」において、<br>新たに13自治体のふるさと納税に決済サービスを導入</p>
-              </a>
-              
-            </li>
-            
-            <li class="modListNews__item">
-              
-              <a href="https://www.sbpayment.jp/news/press/2026/20260324_001536/">
-                <time class="time" datetime="2026-03-24">2026.03.24</time>
-                <span class="category"><span>プレスリリース</span></span>
-                <p class="title">代表取締役および役員の異動に関するお知らせ</p>
               </a>
               
             </li>
