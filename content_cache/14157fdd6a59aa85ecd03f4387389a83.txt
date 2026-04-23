@@ -1,4 +1,4 @@
-<!DOCTYPE html><html lang="ja"><head prefix="og: http://ogp.me/ns#"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://j.wovn.io/1" async="true" data-wovnio="key=QLeFbd&amp;backend=true&amp;currentLang=ja&amp;defaultLang=ja&amp;urlPattern=path&amp;version=1.25.1&amp;backendVersion=WOVN.php_1.10.1&amp;langParamName=wovn" data-wovnio-cache-time="202604090214+0000"> </script>
+<!DOCTYPE html><html lang="ja"><head prefix="og: http://ogp.me/ns#"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://j.wovn.io/1" async="true" data-wovnio="key=QLeFbd&amp;backend=true&amp;currentLang=ja&amp;defaultLang=ja&amp;urlPattern=path&amp;version=1.25.1&amp;backendVersion=WOVN.php_1.10.1&amp;langParamName=wovn" data-wovnio-cache-time="202604231435+0000"> </script>
 
 <meta charset="utf-8">
 <title>決済代行・オンライン決済サービス・システム導入ならSBペイメントサービス（ソフトバンクグループ）</title>
@@ -50,7 +50,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-MRQRDWV');</script>
 <!-- End Google Tag Manager -->
 
-<link rel="alternate" hreflang="en" href="https://www.sbpayment.jp/en/?_=1775700862833"><link rel="alternate" hreflang="ja" href="https://www.sbpayment.jp/?_=1775700862833"><link rel="alternate" hreflang="x-default" href="https://www.sbpayment.jp/?_=1775700862833"></head>
+<link rel="alternate" hreflang="en" href="https://www.sbpayment.jp/en/?_=1769131192295"><link rel="alternate" hreflang="ja" href="https://www.sbpayment.jp/?_=1769131192295"><link rel="alternate" hreflang="x-default" href="https://www.sbpayment.jp/?_=1769131192295"></head>
 
 <body>
   <!-- Google Tag Manager (noscript) -->
@@ -60,319 +60,345 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
   <div id="container" class="top">
     <header class="header">
-
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
-  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&amp;display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="/assets/css/header.css">
-  <link rel="stylesheet" href="/assets/css/wovn.css">
-  <div class="header__inner">
-    <div class="header__top">
-      <div class="header__top__logo"><a href="/">SB Payment Service</a></div>
-      <div class="header__top__btn">
-        <a class="switch jsOpen" href="javascript:void(0);"><span></span><span></span><span></span></a>
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&amp;display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/assets/css/header.css">
+    <link rel="stylesheet" href="/assets/css/wovn.css">
+    <div class="header__inner">
+      <div class="header__top">
+        <div class="header__top__logo"><a href="/">SB Payment Service</a></div>
+        <div class="header__top__btn">
+          <a class="switch jsOpen" href="javascript:void(0);"><span></span><span></span><span></span></a>
+        </div>
       </div>
-    </div>
-    <div class="header__menu">
-      <div class="header__menu__page">
-        <ul class="header__menu__cat">
-          <li class="item"><a href="/advantage/">当社の強み</a></li>
-          <li class="item jsHeaderSubmenu">
-            <div class="submenuLink jsSubmenuLink">サービス</div>
-            <div class="submenu">
-              <div class="submenu__inner">
-                <div class="cont">
-                  <p class="cont__title"><a href="/service/asp/"><i class="icon icon--service"></i>オンライン決済サービス</a></p>
-                  <div class="cont__row cont__row--column3 service">
-                    <ul class="cont__list cont__list--1st">
-                      <li>
-                        <a href="/service/asp/payment-method/" class="cont__list__title">決済手段一覧（40ブランド以上を提供）</a>
-                        <div class="inner">
+      <div class="header__menu">
+        <div class="header__menu__page">
+          <ul class="header__menu__cat">
+            <li class="item"><a href="/advantage/">当社の強み</a></li>
+            <li class="item jsHeaderSubmenu">
+              <div class="submenuLink jsSubmenuLink">サービス</div>
+              <div class="submenu">
+                <div class="submenu__inner">
+                  <div class="cont">
+                    <p class="cont__title"><a href="/service/asp/"><i class="icon icon--service"></i>オンライン決済サービス</a></p>
+                    <div class="cont__row cont__row--column3 service">
+                      <ul class="cont__list cont__list--1st">
+                        <li>
+                          <a href="/service/asp/payment-method/" class="cont__list__title">決済手段一覧（40ブランド以上を提供）</a>
+                          <div class="inner">
+                            <ul class="cont__list">
+                              <li><a href="/service/asp/creditcard/">クレジットカード決済サービス</a></li>
+                              <li><a href="/service/asp/paypay_online/">PayPay（オンライン決済）</a></li>
+                              <li><a href="/service/asp/mobile/">キャリア決済</a></li>
+                            </ul>
+                            <ul class="cont__list">
+                              <li><a href="/service/asp/convenience_store/">コンビニ決済</a></li>
+                              <li><a href="/service/asp/rakuten/">楽天ペイ（オンライン決済）</a></li>
+                              <li><a href="/service/method/mail_link/">メールリンク型決済</a></li>
+                            </ul>
+                          </div>
+                        </li>
+                      </ul>
+                      <ul class="cont__list cont__list--2nd">
+                        <li>
+                          <a href="/purpose/security/" class="cont__list__title">セキュリティ一覧</a>
                           <ul class="cont__list">
-                            <li><a href="/service/asp/creditcard/">クレジットカード決済サービス</a></li>
-                            <li><a href="/service/asp/paypay_online/">PayPay（オンライン決済）</a></li>
-                            <li><a href="/service/asp/mobile/">キャリア決済</a></li>
+                            <li><a href="/solution/security/ai_fraud_detection/">AI不正検知</a></li>
+                            <li><a href="/service/method/3d/">3Dセキュア</a></li>
+                            <li><a href="/service/method/card_info_storage/">クレジットカード情報お預かりサービス</a></li>
                           </ul>
+                        </li>
+                      </ul>
+                      <ul class="cont__list cont__list--3nd">
+                        <li>
+                          <a href="/purpose/connect/" class="cont__list__title">オプション一覧</a>
                           <ul class="cont__list">
-                            <li><a href="/service/asp/convenience_store/">コンビニ決済</a></li>
-                            <li><a href="/service/asp/rakuten/">楽天ペイ（オンライン決済）</a></li>
-                            <li><a href="/service/method/mail_link/">メールリンク型決済</a></li>
+                            <li><a href="/service/method/accounting/">課金方式（都度課金・継続課金）</a></li>
+                            <li><a href="/service/connection/api_system/">API型</a></li>
+                            <li><a href="/service/connection/link_system/">リンク型</a></li>
+                            <li><a href="/support/dashboard/">加盟店さま向けダッシュボード</a></li>
                           </ul>
-                        </div>
-                      </li>
-                    </ul>
-                    <ul class="cont__list cont__list--2nd">
-                      <li>
-                        <a href="/purpose/security/" class="cont__list__title">セキュリティ一覧</a>
-                        <ul class="cont__list">
-                          <li><a href="/solution/security/ai_fraud_detection/">AI不正検知</a></li>
-                          <li><a href="/service/method/3d/">3Dセキュア</a></li>
-                          <li><a href="/service/method/card_info_storage/">クレジットカード情報お預かりサービス</a></li>
-                        </ul>
-                      </li>
-                    </ul>
-                    <ul class="cont__list cont__list--3nd">
-                      <li>
-                        <a href="/purpose/connect/" class="cont__list__title">オプション一覧</a>
-                        <ul class="cont__list">
-                          <li><a href="/service/method/accounting/">課金方式（都度課金・継続課金）</a></li>
-                          <li><a href="/service/connection/api_system/">API型</a></li>
-                          <li><a href="/service/connection/link_system/">リンク型</a></li>
-                          <li><a href="/support/dashboard/">加盟店さま向けダッシュボード</a></li>
-                        </ul>
-                      </li>
-                    </ul>
-                  </div>
-                  <div class="cont__row cont__row--column3">
-                    <ul class="cont__list cont__list--3rd">
-                      <li>
-                        <p class="cont__title"><a href="/service/device/"><i class="icon icon--shop"></i>店舗向け決済サービス</a></p>
-                      </li>
-                      <li class="cont__row cont__row--column3">
-                        <ul class="cont__list cont__list--3rd">
-                          <li>
-                            <a href="/service/device/omo/lp/" class="cont__list__title">モバイル型マルチ決済端末</a>
-                            <div class="inner">
-                              <ul class="cont__list">
-                                <li><a href="/service/device/omo/lp/">端末のご購入</a></li>
-                                <li><a href="/service/device/omo/lp-rental/">端末のレンタル</a></li>
-                                <li><a href="/service/device/psregi/lp/">SBPSかんたんレジ</a></li>
-                              </ul>
-                            </div>
-                          </li>
-                          <li><a href="/service/device/paycas/">POS連動型マルチ決済端末</a></li>
-                        </ul>
-                        <ul class="cont__list cont__list--3rd">  
-                          <li><a href="/service/device/scan/">コード決済サービス</a></li>
-                          <li><a href="/service/mpp/">加盟店ポータルポケット</a></li>
-                        </ul>
-                      </li>
-                    </ul>
-                    <ul class="cont__list cont__list--3rd">
-                      <li>
-                        <p class="cont__title">
-                          <a href="/service/b2b/invoice-creditcard/"><i class="icon icon--company"></i>企業間サービス</a>
-                        </p>
-                      </li>
-                      <li><a href="/service/b2b/invoice-creditcard/">SBPS請求書カード払い</a></li>
-                      <li><a href="https://www.web-furi.com/campaign/sbpayment/" target="_blank">ウェブフリコム</a></li>
-                    </ul>
-                  </div>
-                  <p class="note"><i class="icon icon--blank"></i>：提携企業のサイトに遷移します。</p>                        
-                </div>
-              </div>
-            </div>
-          </li>
-          <li class="item jsHeaderSubmenu">
-            <div class="submenuLink jsSubmenuLink">事例</div>
-            <div class="submenu">
-              <div class="submenu__inner">
-                <div class="cont">
-                  <div class="cont__row cont__row--column3">
-                    <ul class="cont__list cont__list--case">
-                      <li><p class="cont__title"><a href="/case/">導入事例</a></p></li>
-                      <li><a href="/case/scogroup/">株式会社SCOグループ</a></li>
-                      <li><a href="/case/cosmos/">株式会社COSMOS</a></li>
-                      <li><a href="/case/sanyo-shokai/">株式会社 三陽商会</a></li>
-                      <li><a href="/case/golfdo/">株式会社ゴルフ・ドゥ</a></li>
-                      <li><a href="/case/gongcha/">株式会社ゴンチャ ジャパン</a></li>
-                      <li><a href="/case/mitsuhakai/">社会福祉法人　みつは会</a></li>
-                      <li><a href="/case/satohull/">株式会社さとふる</a></li>
-                      <li><a href="/case/kankyosho/">環境省</a></li>
-                      <li><a href="/case/bookoff/">ブックオフコーポレーション株式会社</a></li>
-                    </ul>
-                    <ul class="cont__list cont__list--usecase">
-                      <li><p class="cont__title"><a href="/purpose/needs/">ユースケース</a></p></li>
-                      <li><a href="/purpose/needs/usecase/enterprise/">大企業向け</a></li>
-                      <li><a href="/purpose/needs/usecase/game/">ゲーム事業者向け</a></li>
-                      <li><a href="/purpose/needs/usecase/e-commerce/">物販（ネット通販／ECサイト）</a></li>
-                      <li><a href="/purpose/needs/usecase/dental/">歯科医院向け</a></li>
-                      <li><a href="/purpose/needs/usecase/digitalcontent/">デジタルコンテンツ</a></li>
-                      <li></li>
-                      <li><a href="/purpose/needs/usecase/hotel/">ホテル／宿泊業</a></li>
-                      <li></li>
-                      <li><a href="/purpose/needs/usecase/fitness/">フィットネス</a></li>
-                    </ul>
+                        </li>
+                      </ul>
+                    </div>
+                    <div class="cont__row cont__row--column3">
+                      <ul class="cont__list cont__list--3rd">
+                        <li>
+                          <p class="cont__title"><a href="/service/device/"><i class="icon icon--shop"></i>店舗向け決済サービス</a></p>
+                        </li>
+                        <li class="cont__row cont__row--column3">
+                          <ul class="cont__list cont__list--3rd">
+                            <li>
+                              <a href="/service/device/omo/lp/" class="cont__list__title">モバイル型マルチ決済端末</a>
+                              <div class="inner">
+                                <ul class="cont__list">
+                                  <li><a href="/service/device/omo/lp/">端末のご購入</a></li>
+                                  <li><a href="/service/device/omo/lp-rental/">端末のレンタル</a></li>
+                                  <li><a href="/service/device/psregi/lp/">SBPSかんたんレジ</a></li>
+                                </ul>
+                              </div>
+                            </li>
+                            <li><a href="/service/device/paycas/">POS連動型マルチ決済端末</a></li>
+                          </ul>
+                          <ul class="cont__list cont__list--3rd">
+                            <li><a href="/service/device/scan/">コード決済サービス</a></li>
+                            <li><a href="/service/mpp/">加盟店ポータルポケット</a></li>
+                          </ul>
+                        </li>
+                      </ul>
+                      <ul class="cont__list cont__list--3rd">
+                        <li>
+                          <p class="cont__title">
+                            <a href="/service/b2b/invoice-creditcard/"><i class="icon icon--company"></i>企業間サービス</a>
+                          </p>
+                        </li>
+                        <li><a href="/service/b2b/invoice-creditcard/">SBPS請求書カード払い</a></li>
+                        <li><a href="https://www.web-furi.com/campaign/sbpayment/" target="_blank">ウェブフリコム</a></li>
+                      </ul>
+                    </div>
+                    <p class="note"><i class="icon icon--blank"></i>：提携企業のサイトに遷移します。</p>
                   </div>
                 </div>
               </div>
-            </div>
-          </li>
-          <li class="item"><a href="/support/pricing/">料金・手数料</a></li>
-          <li class="item jsHeaderSubmenu">
-            <div class="submenuLink jsSubmenuLink">導入について</div>
-            <div class="submenu">
-              <div class="submenu__inner">
-                <div class="cont">
-                  <div class="cont__row cont__row--column3">
-                    <ul class="cont__list">
-                      <li><p class="cont__title"><a href="/support/flow/">導入までの流れ</a></p></li>
-                    </ul>
-                    <ul class="cont__list">
-                      <li><p class="cont__title"><a href="/support/how_to_pay/">ご利用イメージ</a></p></li>
-                    </ul>
-                  </div>
-                  <div class="cont__row cont__row--column3">
-                    <ul class="cont__list">
-                      <li><p class="cont__title"><a href="/support/faq/">よくある質問</a></p></li>
-                    </ul>
-                    <ul class="cont__list">
-                      <li><p class="cont__title"><a href="/support/developerworks/">開発者向けコンテンツ</a></p></li>
-                    </ul>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </li>
-          <li class="item jsHeaderSubmenu">
-            <div class="submenuLink jsSubmenuLink">お役立ち情報</div>
-            <div class="submenu">
-              <div class="submenu__inner">
-                <div class="cont">
-                  <div class="cont__row cont__row--column3">
-                    <ul class="cont__list cont__list--3rd cont__list--only">
-                      <li><p class="cont__title"><a href="/seminar/">イベント・セミナー</a></p></li>
-                      <li><p class="cont__title"><a href="/support/ec/">お役立ちコラム</a></p></li>
-                      <li><p class="cont__title"><a href="/whitepapers/download/">お役立ち資料一覧</a></p></li>
-                      <li><p class="cont__title"><a href="/support/glossary/">用語集</a></p></li>
-                    </ul>
-                    <ul class="cont__list cont__list--3rd">
-                      <li><p class="cont__title"><a href="/purpose/ec_cart/">ECカートパッケージ</a></p></li>
-                      <li><a href="/purpose/ec_cart/cartchoice/introduction/">あなたに合うECカートが見つかる！ECカート診断</a></li>
-                      <li><a href="/service/partner/shopify/">Shopify</a></li>
-                      <li><a href="/service/partner/futureshop/">futureshop</a></li>
-                      <li><a href="/service/partner/ec-force/">ecforce</a></li>
-                      <li><a href="/service/partner/eccube/">EC-CUBE</a></li>
-                      <li><a href="/service/partner/welcart/">welcart</a></li>
-                      <li><a href="/service/partner/cafe24/">Cafe24</a></li>
-                      <li><a href="/service/partner/ochanokonet/lp01/">おちゃのこネット</a></li>
-                      <li><a href="/service/partner/w2/lp01/">W2 Unified・Repeat・BtoB</a></li>
-                    </ul>
-                    <ul class="cont__list cont__list--3rd">
-                      <li><p class="cont__title"><a href="/service/partner/">提携サービス</a></p></li>
-                      <li><a href="/service/partner/liquid/">LIQUID eKYC</a></li>
-                      <li><a href="/service/partner/akuru/">チャージバック保証サービス</a></li>
-                      <li><a href="/service/partner/o-plux/">不正検知サービス O-PLUX（オープラックス）</a></li>
-                      <li><a href="/service/partner/paidy/">Paidy</a></li>
-                      <li><a href="/service/partner/atone/">atone</a></li>
-                    </ul>
+            </li>
+            <li class="item jsHeaderSubmenu">
+              <div class="submenuLink jsSubmenuLink">事例</div>
+              <div class="submenu">
+                <div class="submenu__inner">
+                  <div class="cont">
+                    <div class="cont__row cont__row--column3">
+                      <ul class="cont__list cont__list--case">
+                        <li>
+                          <p class="cont__title"><a href="/case/">導入事例</a></p>
+                        </li>
+                        <li><a href="/case/scogroup/">株式会社SCOグループ</a></li>
+                        <li><a href="/case/cosmos/">株式会社COSMOS</a></li>
+                        <li><a href="/case/sanyo-shokai/">株式会社 三陽商会</a></li>
+                        <li><a href="/case/golfdo/">株式会社ゴルフ・ドゥ</a></li>
+                        <li><a href="/case/gongcha/">株式会社ゴンチャ ジャパン</a></li>
+                        <li><a href="/case/mitsuhakai/">社会福祉法人　みつは会</a></li>
+                        <li><a href="/case/satohull/">株式会社さとふる</a></li>
+                        <li><a href="/case/kankyosho/">環境省</a></li>
+                        <li><a href="/case/bookoff/">ブックオフコーポレーション株式会社</a></li>
+                      </ul>
+                      <ul class="cont__list cont__list--usecase">
+                        <li>
+                          <p class="cont__title"><a href="/purpose/needs/">ユースケース</a></p>
+                        </li>
+                        <li><a href="/purpose/needs/usecase/enterprise/">大企業向け</a></li>
+                        <li><a href="/purpose/needs/usecase/game/">ゲーム事業者向け</a></li>
+                        <li><a href="/purpose/needs/usecase/e-commerce/">物販（ネット通販／ECサイト）</a></li>
+                        <li><a href="/purpose/needs/usecase/dental/">歯科医院向け</a></li>
+                        <li><a href="/purpose/needs/usecase/digitalcontent/">デジタルコンテンツ</a></li>
+                        <li></li>
+                        <li><a href="/purpose/needs/usecase/hotel/">ホテル／宿泊業</a></li>
+                        <li></li>
+                        <li><a href="/purpose/needs/usecase/fitness/">フィットネス</a></li>
+                      </ul>
+                    </div>
                   </div>
                 </div>
               </div>
-            </div>
-          </li>
-        </ul>
-        <ul class="listBtn">
-          <li class="listBtn__download ja">
-            <div class="btn">
+            </li>
+            <li class="item"><a href="/support/pricing/">料金・手数料</a></li>
+            <li class="item jsHeaderSubmenu">
+              <div class="submenuLink jsSubmenuLink">導入について</div>
+              <div class="submenu">
+                <div class="submenu__inner">
+                  <div class="cont">
+                    <div class="cont__row cont__row--column3">
+                      <ul class="cont__list">
+                        <li>
+                          <p class="cont__title"><a href="/support/flow/">導入までの流れ</a></p>
+                        </li>
+                      </ul>
+                      <ul class="cont__list">
+                        <li>
+                          <p class="cont__title"><a href="/support/how_to_pay/">ご利用イメージ</a></p>
+                        </li>
+                      </ul>
+                    </div>
+                    <div class="cont__row cont__row--column3">
+                      <ul class="cont__list">
+                        <li>
+                          <p class="cont__title"><a href="/support/faq/">よくある質問</a></p>
+                        </li>
+                      </ul>
+                      <ul class="cont__list">
+                        <li>
+                          <p class="cont__title"><a href="/support/developerworks/">開発者向けコンテンツ</a></p>
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </li>
+            <li class="item jsHeaderSubmenu">
+              <div class="submenuLink jsSubmenuLink">お役立ち情報</div>
+              <div class="submenu">
+                <div class="submenu__inner">
+                  <div class="cont">
+                    <div class="cont__row cont__row--column3">
+                      <ul class="cont__list cont__list--3rd cont__list--only">
+                        <li>
+                          <p class="cont__title"><a href="/seminar/">イベント・セミナー</a></p>
+                        </li>
+                        <li>
+                          <p class="cont__title"><a href="/support/ec/">お役立ちコラム</a></p>
+                        </li>
+                        <li>
+                          <p class="cont__title"><a href="/whitepapers/download/">お役立ち資料一覧</a></p>
+                        </li>
+                        <li>
+                          <p class="cont__title"><a href="/support/glossary/">用語集</a></p>
+                        </li>
+                      </ul>
+                      <ul class="cont__list cont__list--3rd">
+                        <li>
+                          <p class="cont__title"><a href="/purpose/ec_cart/">ECカートパッケージ</a></p>
+                        </li>
+                        <li><a href="/purpose/ec_cart/cartchoice/introduction/">あなたに合うECカートが見つかる！ECカート診断</a></li>
+                        <li><a href="/service/partner/shopify/">Shopify</a></li>
+                        <li><a href="/service/partner/futureshop/">futureshop</a></li>
+                        <li><a href="/service/partner/ec-force/">ecforce</a></li>
+                        <li><a href="/service/partner/eccube/">EC-CUBE</a></li>
+                        <li><a href="/service/partner/welcart/">welcart</a></li>
+                        <li><a href="/service/partner/cafe24/">Cafe24</a></li>
+                        <li><a href="/service/partner/ochanokonet/lp01/">おちゃのこネット</a></li>
+                        <li><a href="/service/partner/w2/lp01/">W2 Unified・Repeat・BtoB</a></li>
+                      </ul>
+                      <ul class="cont__list cont__list--3rd">
+                        <li>
+                          <p class="cont__title"><a href="/service/partner/">提携サービス</a></p>
+                        </li>
+                        <li><a href="/service/partner/liquid/">LIQUID eKYC</a></li>
+                        <li><a href="/service/partner/akuru/">チャージバック保証サービス</a></li>
+                        <li><a href="/service/partner/o-plux/">不正検知サービス O-PLUX（オープラックス）</a></li>
+                        <li><a href="/service/partner/paidy/">Paidy</a></li>
+                        <li><a href="/service/partner/atone/">atone</a></li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </li>
+          </ul>
+          <ul class="listBtn">
             
             
-              <a href="https://service.sbpayment.jp/document/download/" class="btn__inner modBpPc ja headcta-dl-Pc" target="_blank">資料をダウンロード</a>
-              <a href="https://service.sbpayment.jp/document/download/sp" class="btn__inner modBpSp ja menucta-dl-Sp" target="_blank">サービス資料ダウンロード</a>
+              <li class="listBtn__download ja">
+                <div class="btn">
+                  
+                        <a href="https://service.sbpayment.jp/document/download/" class="btn__inner modBpPc ja headcta-dl-Pc" target="_blank">資料をダウンロード</a>
+                        <a href="https://service.sbpayment.jp/document/download/sp" class="btn__inner modBpSp ja menucta-dl-Sp" target="_blank">サービス資料ダウンロード</a>
+                  
+                </div>
+              </li>
             
-            </div>
-          </li>
-          <li class="listBtn__download modBpSp ja">
-            <a href="/whitepapers/download/" class="menucta-wp-Sp">お役立ち資料ダウンロード</a>
-          </li>
-          
-          
-          <li class="listBtn__contact modBpPc ja">
-            <a href="https://service.sbpayment.jp/contact/" target="_blank" class="headcta-info-Pc">
-              お問い合わせ
-              <div class="caption">
-                <div class="caption__inner">お問い合わせ</div>
+            <li class="listBtn__download modBpSp ja">
+              <a href="/whitepapers/download/" class="menucta-wp-Sp">お役立ち資料ダウンロード</a>
+            </li>
+            
+            
+                  <li class="listBtn__contact modBpPc ja">
+                    <a href="https://service.sbpayment.jp/contact/" target="_blank" class="headcta-info-Pc">
+                      お問い合わせ
+                      <div class="caption">
+                        <div class="caption__inner">お問い合わせ</div>
+                      </div>
+                    </a>
+                  </li>
+                  <li class="listBtn__contact modBpSp ja">
+                    <a href="https://service.sbpayment.jp/contact/sp/" target="_blank" class="menucta-info-Sp">
+                      お問い合わせ
+                      <div class="caption">
+                        <div class="caption__inner">お問い合わせ</div>
+                      </div>
+                    </a>
+                  </li>
+                  <li class="listBtn__contact modBpPc en">
+                    <a href="https://service.sbpayment.jp/contact/" class="headcta-info">
+                      お問い合わせ
+                      <div class="caption">
+                        <div class="caption__inner">お問い合わせ</div>
+                      </div>
+                    </a>
+                  </li>
+                  <li class="listBtn__contact modBpSp en">
+                    <a href="https://service.sbpayment.jp/contact/sp/" class="menucta-info">
+                      お問い合わせ
+                      <div class="caption">
+                        <div class="caption__inner">お問い合わせ</div>
+                      </div>
+                    </a>
+                  </li>
+            
+          </ul>
+          <ul class="otherLinks">
+            <li>
+              <a href="https://www.sbpayment.co.jp/" target="_blank">コーポレートサイト</a>
+            </li>
+            <li>
+              <a href="https://support.sbpayment.jp" target="_blank">サポート</a>
+            </li>
+            <li>
+              <a href="https://developer.sbpayment.jp" target="_blank">Developer</a>
+            </li>
+            <li class="merchant">
+              <a href="https://www.sbpayment.jp/mrp/login/" target="_blank">加盟店ポータルへログイン</a>
+            </li>
+            <li class="search ja">
+              <div class="box">
+                <form action="https://www.sbpayment.jp/dynamic/search.html" method="get">
+                    <div class="box__inner">
+                      <p class="box__label">検索</p>
+                      <input type="hidden" name="sort_by" value="modified_on">
+                      <input type="text" name="query" class="box__input">
+                      <button type="submit" class="box__btn">検索</button>
+                    </div>
+                </form>
               </div>
-            </a>
-          </li>
-          <li class="listBtn__contact modBpSp ja">
-            <a href="https://service.sbpayment.jp/contact/sp/" target="_blank" class="menucta-info-Sp">
-              お問い合わせ
-              <div class="caption">
-                <div class="caption__inner">お問い合わせ</div>
-              </div>
-            </a>
-          </li>
-          <li class="listBtn__contact modBpPc en">
-            <a href="https://service.sbpayment.jp/contact/" class="headcta-info">
-              お問い合わせ
-              <div class="caption">
-                <div class="caption__inner">お問い合わせ</div>
-              </div>
-            </a>
-          </li>
-          <li class="listBtn__contact modBpSp en">
-            <a href="https://service.sbpayment.jp/contact/sp/" class="menucta-info">
-              お問い合わせ
-              <div class="caption">
-                <div class="caption__inner">お問い合わせ</div>
-              </div>
-            </a>
-          </li>
-          
-        </ul>       
-        <ul class="otherLinks">
-          <li>
-            <a href="https://www.sbpayment.co.jp/" target="_blank">コーポレートサイト</a>
-          </li>
-          <li>
-            <a href="https://support.sbpayment.jp" target="_blank">サポート</a>
-          </li>
-          <li>
-            <a href="https://developer.sbpayment.jp" target="_blank">Developer</a>
-          </li>
-          <li class="merchant">
-            <a href="https://www.sbpayment.jp/mrp/login/" target="_blank">加盟店ポータルへログイン</a>
-          </li>
-          <li class="search ja">
+            </li>
+          </ul>
+        </div>
+      </div>
+      <ul class="header__other">
+        <li>
+          <a href="https://www.sbpayment.co.jp/" target="_blank">コーポレートサイト</a>
+        </li>
+        <li>
+          <a href="https://support.sbpayment.jp" target="_blank">サポート</a>
+        </li>
+        <li>
+          <a href="https://developer.sbpayment.jp" target="_blank">Developer</a>
+        </li>
+        <li class="merchant">
+          <a href="https://www.sbpayment.jp/mrp/login/" target="_blank">加盟店ポータルへログイン</a>
+        </li>
+        <li class="search ja">
+          <a href="" class="search__btn modBpSp">検索</a>
+          <div class="search__inner modBpPc">
+            <input type="checkbox" id="search" name="menuOpen" class="search__check">
+            <label class="search__btn" for="search">検索</label>
             <div class="box">
-              <form action="https://www.sbpayment.jp/dynamic/search.html" method="get"> 
-                <div class="box__inner">
-                  <p class="box__label">検索</p>
-                  <input type="hidden" name="sort_by" value="modified_on"> 
-                  <input type="text" name="query" class="box__input">
-                  <button type="submit" class="box__btn">検索</button>
-                </div>
+              <form action="https://www.sbpayment.jp/dynamic/search.html" method="get">
+                  <div class="box__inner">
+                    <p class="box__label">検索</p>
+                    <input type="hidden" name="sort_by" value="modified_on">
+                    <input type="text" name="query" class="box__input">
+                    <button type="submit" class="box__btn">検索</button>
+                  </div>
               </form>
             </div>
-          </li>
-        </ul>
-      </div>
-    </div>
-    <ul class="header__other">
-      <li>
-        <a href="https://www.sbpayment.co.jp/" target="_blank">コーポレートサイト</a>
-      </li>
-      <li>
-        <a href="https://support.sbpayment.jp" target="_blank">サポート</a>
-      </li>
-      <li>
-        <a href="https://developer.sbpayment.jp" target="_blank">Developer</a>
-      </li>
-      <li class="merchant">
-        <a href="https://www.sbpayment.jp/mrp/login/" target="_blank">加盟店ポータルへログイン</a>
-      </li>
-      <li class="search ja">
-        <a href="" class="search__btn modBpSp">検索</a>
-        <div class="search__inner modBpPc">
-          <input type="checkbox" id="search" name="menuOpen" class="search__check">
-          <label class="search__btn" for="search">検索</label>
-          <div class="box">
-            <form action="https://www.sbpayment.jp/dynamic/search.html" method="get"> 
-              <div class="box__inner">
-                <p class="box__label">検索</p>
-                <input type="hidden" name="sort_by" value="modified_on">
-                <input type="text" name="query" class="box__input">
-                <button type="submit" class="box__btn">検索</button>
-              </div>
-            </form>
           </div>
-        </div>
-      </li>
-    </ul>
-  </div>
-</header>
-
+        </li>
+      </ul>
+    </div>
+    </header>
+    
 
     <main class="main">
       
@@ -1188,30 +1214,30 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             
             <li class="modListNews__item">
               
+              <a href="https://www.sbpayment.jp/news/press/2026/20260423_001545/">
+                <time class="time" datetime="2026-04-23">2026.04.23</time>
+                <span class="category"><span>プレスリリース</span></span>
+                <p class="title">海外販売についての検討・実施状況や決済手段に関する調査結果を公開<br><span style="font-size:70%;">～海外販売を行う企業の64.4％が、国・地域ごとのオペレーションの違いによる負担を実感～</span></p>
+              </a>
+              
+            </li>
+            
+            <li class="modListNews__item">
+              
+              <a href="https://www.sbpayment.jp/service/partner/cafe24-pro/" target="_blank" rel="noopener noreferrer">
+                <time class="time" datetime="2026-04-23">2026.04.23</time>
+                <span class="category"><span>お知らせ</span></span>
+                <p class="title">提携サービスページに「Cafe24 PRO」が追加されました</p>
+              </a>
+              
+            </li>
+            
+            <li class="modListNews__item">
+              
               <a href="https://service.openlogi.com/seminar/20260422/?organizationId=1692" target="_blank" rel="noopener noreferrer">
                 <time class="time" datetime="2026-04-09">2026.04.09</time>
                 <span class="category"><span>セミナー</span></span>
                 <p class="title">「売れ続けるECは、何が違うのか：成長フェーズで詰まらない4つのポイント」でSBペイメントサービスが登壇</p>
-              </a>
-              
-            </li>
-            
-            <li class="modListNews__item">
-              
-              <a href="https://atouch.jp/event/043?organizationId=1692" target="_blank" rel="noopener noreferrer">
-                <time class="time" datetime="2026-04-03">2026.04.03</time>
-                <span class="category"><span>セミナー</span></span>
-                <p class="title">「EC立ち上げ1年目の教科書：LP・決済・LINEで構築する「売れる仕組み」の作り方」でSBペイメントサービスが登壇</p>
-              </a>
-              
-            </li>
-            
-            <li class="modListNews__item">
-              
-              <a href="https://www.sbpayment.jp/news/info/2026/20260331_001538/">
-                <time class="time" datetime="2026-03-31">2026.03.31</time>
-                <span class="category"><span>お知らせ</span></span>
-                <p class="title">【導入事例】「さとふる」において、<br>新たに13自治体のふるさと納税に決済サービスを導入</p>
               </a>
               
             </li>
