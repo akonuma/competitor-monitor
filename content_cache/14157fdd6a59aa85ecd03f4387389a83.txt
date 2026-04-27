@@ -1,4 +1,4 @@
-<!DOCTYPE html><html lang="ja"><head prefix="og: http://ogp.me/ns#"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://j.wovn.io/1" async="true" data-wovnio="key=QLeFbd&amp;backend=true&amp;currentLang=ja&amp;defaultLang=ja&amp;urlPattern=path&amp;version=1.25.1&amp;backendVersion=WOVN.php_1.10.1&amp;langParamName=wovn" data-wovnio-cache-time="202604231435+0000"> </script>
+<!DOCTYPE html><html lang="ja"><head prefix="og: http://ogp.me/ns#"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://j.wovn.io/1" async="true" data-wovnio="key=QLeFbd&amp;backend=true&amp;currentLang=ja&amp;defaultLang=ja&amp;urlPattern=path&amp;version=1.25.2&amp;backendVersion=WOVN.php_1.10.1&amp;langParamName=wovn" data-wovnio-cache-time="202604272119+0000"> </script>
 
 <meta charset="utf-8">
 <title>決済代行・オンライン決済サービス・システム導入ならSBペイメントサービス（ソフトバンクグループ）</title>
@@ -50,7 +50,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-MRQRDWV');</script>
 <!-- End Google Tag Manager -->
 
-<link rel="alternate" hreflang="en" href="https://www.sbpayment.jp/en/?_=1769131192295"><link rel="alternate" hreflang="ja" href="https://www.sbpayment.jp/?_=1769131192295"><link rel="alternate" hreflang="x-default" href="https://www.sbpayment.jp/?_=1769131192295"></head>
+<link rel="alternate" hreflang="en" href="https://www.sbpayment.jp/en/?&amp;_=1777324781100"><link rel="alternate" hreflang="ja" href="https://www.sbpayment.jp/?&amp;_=1777324781100"><link rel="alternate" hreflang="x-default" href="https://www.sbpayment.jp/?&amp;_=1777324781100"></head>
 
 <body>
   <!-- Google Tag Manager (noscript) -->
@@ -292,8 +292,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               <li class="listBtn__download ja">
                 <div class="btn">
                   
-                        <a href="https://service.sbpayment.jp/document/download/" class="btn__inner modBpPc ja headcta-dl-Pc" target="_blank">資料をダウンロード</a>
-                        <a href="https://service.sbpayment.jp/document/download/sp" class="btn__inner modBpSp ja menucta-dl-Sp" target="_blank">サービス資料ダウンロード</a>
+                    <a href="https://service.sbpayment.jp/document/download/" class="btn__inner modBpPc ja headcta-dl-Pc" target="_blank">資料をダウンロード</a>
+                    <a href="https://service.sbpayment.jp/document/download/sp" class="btn__inner modBpSp ja menucta-dl-Sp" target="_blank">サービス資料ダウンロード</a>
                   
                 </div>
               </li>
@@ -302,39 +302,38 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               <a href="/whitepapers/download/" class="menucta-wp-Sp">お役立ち資料ダウンロード</a>
             </li>
             
-            
-                  <li class="listBtn__contact modBpPc ja">
-                    <a href="https://service.sbpayment.jp/contact/" target="_blank" class="headcta-info-Pc">
-                      お問い合わせ
-                      <div class="caption">
-                        <div class="caption__inner">お問い合わせ</div>
-                      </div>
-                    </a>
-                  </li>
-                  <li class="listBtn__contact modBpSp ja">
-                    <a href="https://service.sbpayment.jp/contact/sp/" target="_blank" class="menucta-info-Sp">
-                      お問い合わせ
-                      <div class="caption">
-                        <div class="caption__inner">お問い合わせ</div>
-                      </div>
-                    </a>
-                  </li>
-                  <li class="listBtn__contact modBpPc en">
-                    <a href="https://service.sbpayment.jp/contact/" class="headcta-info">
-                      お問い合わせ
-                      <div class="caption">
-                        <div class="caption__inner">お問い合わせ</div>
-                      </div>
-                    </a>
-                  </li>
-                  <li class="listBtn__contact modBpSp en">
-                    <a href="https://service.sbpayment.jp/contact/sp/" class="menucta-info">
-                      お問い合わせ
-                      <div class="caption">
-                        <div class="caption__inner">お問い合わせ</div>
-                      </div>
-                    </a>
-                  </li>
+              <li class="listBtn__contact modBpPc ja">
+                <a href="https://service.sbpayment.jp/contact/" target="_blank" class="headcta-info-Pc">
+                  お問い合わせ
+                  <div class="caption">
+                    <div class="caption__inner">お問い合わせ</div>
+                  </div>
+                </a>
+              </li>
+              <li class="listBtn__contact modBpSp ja">
+                <a href="https://service.sbpayment.jp/contact/sp/" target="_blank" class="menucta-info-Sp">
+                  お問い合わせ
+                  <div class="caption">
+                    <div class="caption__inner">お問い合わせ</div>
+                  </div>
+                </a>
+              </li>
+              <li class="listBtn__contact modBpPc en">
+                <a href="https://service.sbpayment.jp/contact/" class="headcta-info">
+                  お問い合わせ
+                  <div class="caption">
+                    <div class="caption__inner">お問い合わせ</div>
+                  </div>
+                </a>
+              </li>
+              <li class="listBtn__contact modBpSp en">
+                <a href="https://service.sbpayment.jp/contact/sp/" class="menucta-info">
+                  お問い合わせ
+                  <div class="caption">
+                    <div class="caption__inner">お問い合わせ</div>
+                  </div>
+                </a>
+              </li>
             
           </ul>
           <ul class="otherLinks">
@@ -882,7 +881,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                   </figure>
                   <div class="cont">
                     <div class="status__wrapper">
-                      <span class="status"><span>開催予定</span></span>
+                      <span class="status status--end"><span>開催終了</span></span>
                     </div>
                     <div class="title">
                       売れ続けるECは、何が違うのか：成長フェーズで詰まらない4つのポイント
