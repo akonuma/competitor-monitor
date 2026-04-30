@@ -1,4 +1,4 @@
-<!DOCTYPE html><html lang="ja"><head prefix="og: http://ogp.me/ns#"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://j.wovn.io/1" async="true" data-wovnio="key=QLeFbd&amp;backend=true&amp;currentLang=ja&amp;defaultLang=ja&amp;urlPattern=path&amp;version=1.25.2&amp;backendVersion=WOVN.php_1.10.1&amp;langParamName=wovn" data-wovnio-cache-time="202604272119+0000"> </script>
+<!DOCTYPE html><html lang="ja"><head prefix="og: http://ogp.me/ns#"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://j.wovn.io/1" async="true" data-wovnio="key=QLeFbd&amp;backend=true&amp;currentLang=ja&amp;defaultLang=ja&amp;urlPattern=path&amp;version=1.25.2&amp;backendVersion=WOVN.php_1.10.1&amp;langParamName=wovn" data-wovnio-cache-time="202604300210+0000"> </script>
 
 <meta charset="utf-8">
 <title>決済代行・オンライン決済サービス・システム導入ならSBペイメントサービス（ソフトバンクグループ）</title>
@@ -50,7 +50,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-MRQRDWV');</script>
 <!-- End Google Tag Manager -->
 
-<link rel="alternate" hreflang="en" href="https://www.sbpayment.jp/en/?&amp;_=1777324781100"><link rel="alternate" hreflang="ja" href="https://www.sbpayment.jp/?&amp;_=1777324781100"><link rel="alternate" hreflang="x-default" href="https://www.sbpayment.jp/?&amp;_=1777324781100"></head>
+<link rel="alternate" hreflang="en" href="https://www.sbpayment.jp/en/?_=1777515027924"><link rel="alternate" hreflang="ja" href="https://www.sbpayment.jp/?_=1777515027924"><link rel="alternate" hreflang="x-default" href="https://www.sbpayment.jp/?_=1777515027924"></head>
 
 <body>
   <!-- Google Tag Manager (noscript) -->
@@ -862,7 +862,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                   </figure>
                   <div class="cont">
                     <div class="status__wrapper">
-                      <span class="status"><span>開催予定</span></span>
+                      <span class="status status--end"><span>開催終了</span></span>
                     </div>
                     <div class="title">
                       EC立ち上げ1年目の教科書：LP・決済・LINEで構築する「売れる仕組み」の作り方
