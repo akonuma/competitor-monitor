@@ -27,6 +27,9 @@
 <link rel="stylesheet" href="/assets/css/style.css">
 <script src="/assets/js/2026_renew.js"></script>
 
+<script>
+var user_segment = "awareness";
+</script>
 <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -479,7 +482,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
        <img class="h-auto w-84 lg:w-103" src="/assets/images/logos/DGFT_logo.svg" alt="DGFT" width="103" height="20">
        </a>
        <div class="hidden h-full gap-[calc(var(--grid-pc)*3.5)] justify-self-center lg:flex">
-         <a class="js-header-menu-trigger js-hover-gradient-opacity js-shift-text group flex h-full cursor-pointer items-center text-[min(calc(var(--grid-sp)*1.5),0.9375rem)] lg:text-[min(calc(var(--grid-pc)*1.5),0.9375rem)] lg:tracking-[0.04em] [--gradient-opacity: 0]" href="/purpose/" target="_self">
+         <a class="js-header-menu-trigger js-hover-gradient-opacity js-shift-text group flex h-full cursor-pointer items-center text-[min(calc(var(--grid-sp)*1.5),0.9375rem)] lg:text-[min(calc(var(--grid-pc)*1.5),0.9375rem)] lg:tracking-[0.04em] [--gradient-opacity: 0]" href="/purpose/" target="_self" data-gtm-click="nav_click" data-gtm-category="header_nav" data-gtm-label="目的から探す">
    <span class="relative grid overflow-clip leading-[1] transition-colors duration-600 ease-main group-hover:text-transparent *:col-[1/-1] *:row-[1/-1] *:inline-block *:py-3">
      <span class="gradient-bg bg-clip-text" data-target>
        目的から探す
@@ -490,7 +493,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
    </span>
    
  </a>
-         <button class="js-header-menu-trigger js-hover-gradient-opacity js-shift-text group flex h-full cursor-pointer items-center text-[min(calc(var(--grid-sp)*1.5),0.9375rem)] lg:text-[min(calc(var(--grid-pc)*1.5),0.9375rem)] lg:tracking-[0.04em] min-[100rem]:text-15" data-id="solution" aria-expanded="false" aria-controls="submenu-solution" aria-haspopup="true">
+         <button class="js-header-menu-trigger js-hover-gradient-opacity js-shift-text group flex h-full cursor-pointer items-center text-[min(calc(var(--grid-sp)*1.5),0.9375rem)] lg:text-[min(calc(var(--grid-pc)*1.5),0.9375rem)] lg:tracking-[0.04em] min-[100rem]:text-15" data-id="solution" aria-expanded="false" aria-controls="submenu-solution" aria-haspopup="true" data-gtm-click="nav_click" data-gtm-category="header_nav" data-gtm-label="業種別の使い方">
    <span class="js-animate-bg flex items-center gap-6">
      <span class="relative grid overflow-clip leading-[1] transition-colors duration-600 ease-main group-hover:text-transparent *:col-[1/-1] *:row-[1/-1] *:inline-block *:py-3">
        <span class="gradient-bg bg-clip-text" data-target>業種別の使い方</span>
@@ -501,7 +504,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
        <span class="absolute top-0 right-0 bottom-0 left-0 m-auto block h-9 w-1 min-w-[1px]"></span>
      </span>
    </span>
- </button><button class="js-header-menu-trigger js-hover-gradient-opacity js-shift-text group flex h-full cursor-pointer items-center text-[min(calc(var(--grid-sp)*1.5),0.9375rem)] lg:text-[min(calc(var(--grid-pc)*1.5),0.9375rem)] lg:tracking-[0.04em] min-[100rem]:text-15" data-id="service" aria-expanded="false" aria-controls="submenu-service" aria-haspopup="true">
+ </button><button class="js-header-menu-trigger js-hover-gradient-opacity js-shift-text group flex h-full cursor-pointer items-center text-[min(calc(var(--grid-sp)*1.5),0.9375rem)] lg:text-[min(calc(var(--grid-pc)*1.5),0.9375rem)] lg:tracking-[0.04em] min-[100rem]:text-15" data-id="service" aria-expanded="false" aria-controls="submenu-service" aria-haspopup="true" data-gtm-click="nav_click" data-gtm-category="header_nav" data-gtm-label="サービス一覧">
    <span class="js-animate-bg flex items-center gap-6">
      <span class="relative grid overflow-clip leading-[1] transition-colors duration-600 ease-main group-hover:text-transparent *:col-[1/-1] *:row-[1/-1] *:inline-block *:py-3">
        <span class="gradient-bg bg-clip-text" data-target>サービス一覧</span>
@@ -512,7 +515,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
        <span class="absolute top-0 right-0 bottom-0 left-0 m-auto block h-9 w-1 min-w-[1px]"></span>
      </span>
    </span>
- </button><button class="js-header-menu-trigger js-hover-gradient-opacity js-shift-text group flex h-full cursor-pointer items-center text-[min(calc(var(--grid-sp)*1.5),0.9375rem)] lg:text-[min(calc(var(--grid-pc)*1.5),0.9375rem)] lg:tracking-[0.04em] min-[100rem]:text-15" data-id="guide" aria-expanded="false" aria-controls="submenu-guide" aria-haspopup="true">
+ </button><button class="js-header-menu-trigger js-hover-gradient-opacity js-shift-text group flex h-full cursor-pointer items-center text-[min(calc(var(--grid-sp)*1.5),0.9375rem)] lg:text-[min(calc(var(--grid-pc)*1.5),0.9375rem)] lg:tracking-[0.04em] min-[100rem]:text-15" data-id="guide" aria-expanded="false" aria-controls="submenu-guide" aria-haspopup="true" data-gtm-click="nav_click" data-gtm-category="header_nav" data-gtm-label="導入ご検討中の方へ">
    <span class="js-animate-bg flex items-center gap-6">
      <span class="relative grid overflow-clip leading-[1] transition-colors duration-600 ease-main group-hover:text-transparent *:col-[1/-1] *:row-[1/-1] *:inline-block *:py-3">
        <span class="gradient-bg bg-clip-text" data-target>導入ご検討中の方へ</span>
@@ -524,7 +527,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
      </span>
    </span>
  </button>
-         <a class="js-header-menu-trigger js-hover-gradient-opacity js-shift-text group flex h-full cursor-pointer items-center text-[min(calc(var(--grid-sp)*1.5),0.9375rem)] lg:text-[min(calc(var(--grid-pc)*1.5),0.9375rem)] lg:tracking-[0.04em] [--gradient-opacity: 0]" href="https://faqfa.dgft.jp/" target="_blank">
+         <a class="js-header-menu-trigger js-hover-gradient-opacity js-shift-text group flex h-full cursor-pointer items-center text-[min(calc(var(--grid-sp)*1.5),0.9375rem)] lg:text-[min(calc(var(--grid-pc)*1.5),0.9375rem)] lg:tracking-[0.04em] [--gradient-opacity: 0]" href="https://faqfa.dgft.jp/" target="_blank" data-gtm-click="nav_click" data-gtm-category="header_nav" data-gtm-label="ご契約中のお客さまへ">
    <span class="relative grid overflow-clip leading-[1] transition-colors duration-600 ease-main group-hover:text-transparent *:col-[1/-1] *:row-[1/-1] *:inline-block *:py-3">
      <span class="gradient-bg bg-clip-text" data-target>
        ご契約中のお客さまへ
@@ -542,7 +545,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
  </a>
        </div>
        <div class="flex h-58 items-center gap-10 justify-self-end lg:h-66">
-         <a href="/download/" class="group js-split-text-trigger relative min-h-35 w-fit cursor-pointer items-center justify-center gap-x-7 rounded-full px-18 py-10 text-[min(calc(var(--grid-sp)*1.2),0.75rem)] leading-[1.2] tracking-[0.04em] !no-underline lg:text-[min(calc(var(--grid-pc)*1.4),0.875rem)] lg:min-h-35 lg:px-22 lg:py-9 [--gradient-opacity:1] [--gradient-position:0] hidden border border-brand text-brand lg:flex lg:tracking-[0.04em]" target="_self" data-delay="0">
+         <a href="/download/" class="group js-split-text-trigger relative min-h-35 w-fit cursor-pointer items-center justify-center gap-x-7 rounded-full px-18 py-10 text-[min(calc(var(--grid-sp)*1.2),0.75rem)] leading-[1.2] tracking-[0.04em] !no-underline lg:text-[min(calc(var(--grid-pc)*1.4),0.875rem)] lg:min-h-35 lg:px-22 lg:py-9 [--gradient-opacity:1] [--gradient-position:0] hidden border border-brand text-brand lg:flex lg:tracking-[0.04em]" target="_self" data-delay="0" data-gtm-click="nav_click" data-gtm-category="header_cta" data-gtm-label="資料DL">
          
          
          
@@ -555,7 +558,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
          </span>
          
        </a>
-         <a href="/contact/" class="group js-split-text-trigger flex min-h-35 w-fit cursor-pointer items-center justify-center gap-x-7 rounded-full border py-10 text-[min(calc(var(--grid-sp)*1.2),0.75rem)] leading-[1.2] tracking-[0.04em] !no-underline lg:text-[min(calc(var(--grid-pc)*1.4),0.875rem)] lg:min-h-35 lg:px-22 lg:py-9 [--gradient-opacity:1] [--gradient-position:0] js-animate-bg relative border-transparent gradient-bg px-15 text-white lg:tracking-[0.04em]" target="_self" data-delay="0">
+         <a href="/contact/" class="group js-split-text-trigger flex min-h-35 w-fit cursor-pointer items-center justify-center gap-x-7 rounded-full border py-10 text-[min(calc(var(--grid-sp)*1.2),0.75rem)] leading-[1.2] tracking-[0.04em] !no-underline lg:text-[min(calc(var(--grid-pc)*1.4),0.875rem)] lg:min-h-35 lg:px-22 lg:py-9 [--gradient-opacity:1] [--gradient-position:0] js-animate-bg relative border-transparent gradient-bg px-15 text-white lg:tracking-[0.04em]" target="_self" data-delay="0" data-gtm-click="nav_click" data-gtm-category="header_cta" data-gtm-label="お問い合わせ">
          
          
          <span class="pointer-events-none absolute -inset-1 overflow-clip rounded-full opacity-50 mix-blend-overlay">
@@ -607,7 +610,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
  </div>
            <ul class="grid w-[calc(var(--grid-pc)*90)] grid-cols-3 items-start gap-x-30">
              <li class="border-b border-border border-t">
-                   <a class="group/link js-hover-gradient-opacity js-animate-bg js-shift-text flex min-h-70 items-center justify-between gap-x-10 py-20 text-[min(calc(var(--grid-sp)*1.4),0.875rem)] lg:text-[min(calc(var(--grid-pc)*1.8),0.875rem)]" href="/solutions/real-estate.html" target="_self">
+                   <a class="group/link js-hover-gradient-opacity js-animate-bg js-shift-text flex min-h-70 items-center justify-between gap-x-10 py-20 text-[min(calc(var(--grid-sp)*1.4),0.875rem)] lg:text-[min(calc(var(--grid-pc)*1.8),0.875rem)]" href="/solutions/real-estate.html" target="_self" data-gtm-click="nav_click" data-gtm-category="header_nav" data-gtm-label="不動産">
    <div class="leading-trim flex items-center gap-x-20">
      <span class="size-30">
            <img src="/assets/images/icons/building.svg" alt="">
@@ -625,7 +628,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
    </div>
  </a>
                  </li><li class="border-b border-border border-t">
-                   <a class="group/link js-hover-gradient-opacity js-animate-bg js-shift-text flex min-h-70 items-center justify-between gap-x-10 py-20 text-[min(calc(var(--grid-sp)*1.4),0.875rem)] lg:text-[min(calc(var(--grid-pc)*1.8),0.875rem)]" href="/solutions/beauty.html" target="_self">
+                   <a class="group/link js-hover-gradient-opacity js-animate-bg js-shift-text flex min-h-70 items-center justify-between gap-x-10 py-20 text-[min(calc(var(--grid-sp)*1.4),0.875rem)] lg:text-[min(calc(var(--grid-pc)*1.8),0.875rem)]" href="/solutions/beauty.html" target="_self" data-gtm-click="nav_click" data-gtm-category="header_nav" data-gtm-label="サロン・美容">
    <div class="leading-trim flex items-center gap-x-20">
      <span class="size-30">
            <img src="/assets/images/icons/heart.svg" alt="">
@@ -643,7 +646,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
    </div>
  </a>
                  </li><li class="border-b border-border border-t">
-                   <a class="group/link js-hover-gradient-opacity js-animate-bg js-shift-text flex min-h-70 items-center justify-between gap-x-10 py-20 text-[min(calc(var(--grid-sp)*1.4),0.875rem)] lg:text-[min(calc(var(--grid-pc)*1.8),0.875rem)]" href="/solutions/education.html" target="_self">
+                   <a class="group/link js-hover-gradient-opacity js-animate-bg js-shift-text flex min-h-70 items-center justify-between gap-x-10 py-20 text-[min(calc(var(--grid-sp)*1.4),0.875rem)] lg:text-[min(calc(var(--grid-pc)*1.8),0.875rem)]" href="/solutions/education.html" target="_self" data-gtm-click="nav_click" data-gtm-category="header_nav" data-gtm-label="教育・スクール">
    <div class="leading-trim flex items-center gap-x-20">
      <span class="size-30">
            <img src="/assets/images/icons/time.svg" alt="">
@@ -661,7 +664,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
    </div>
  </a>
                  </li><li class="border-b border-border">
-                   <a class="group/link js-hover-gradient-opacity js-animate-bg js-shift-text flex min-h-70 items-center justify-between gap-x-10 py-20 text-[min(calc(var(--grid-sp)*1.4),0.875rem)] lg:text-[min(calc(var(--grid-pc)*1.8),0.875rem)]" href="/solutions/mobility.html" target="_self">
+                   <a class="group/link js-hover-gradient-opacity js-animate-bg js-shift-text flex min-h-70 items-center justify-between gap-x-10 py-20 text-[min(calc(var(--grid-sp)*1.4),0.875rem)] lg:text-[min(calc(var(--grid-pc)*1.8),0.875rem)]" href="/solutions/mobility.html" target="_self" data-gtm-click="nav_click" data-gtm-category="header_nav" data-gtm-label="交通・MaaS">
    <div class="leading-trim flex items-center gap-x-20">
      <span class="size-30">
            <img src="/assets/images/icons/train.svg" alt="">
@@ -679,7 +682,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
    </div>
  </a>
                  </li><li class="border-b border-border">
-                   <a class="group/link js-hover-gradient-opacity js-animate-bg js-shift-text flex min-h-70 items-center justify-between gap-x-10 py-20 text-[min(calc(var(--grid-sp)*1.4),0.875rem)] lg:text-[min(calc(var(--grid-pc)*1.8),0.875rem)]" href="/solutions/utilities.html" target="_self">
+                   <a class="group/link js-hover-gradient-opacity js-animate-bg js-shift-text flex min-h-70 items-center justify-between gap-x-10 py-20 text-[min(calc(var(--grid-sp)*1.4),0.875rem)] lg:text-[min(calc(var(--grid-pc)*1.8),0.875rem)]" href="/solutions/utilities.html" target="_self" data-gtm-click="nav_click" data-gtm-category="header_nav" data-gtm-label="公共料金">
    <div class="leading-trim flex items-center gap-x-20">
      <span class="size-30">
            <img src="/assets/images/icons/yen.svg" alt="">
@@ -697,7 +700,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
    </div>
  </a>
                  </li><li class="border-b border-border">
-                   <a class="group/link js-hover-gradient-opacity js-animate-bg js-shift-text flex min-h-70 items-center justify-between gap-x-10 py-20 text-[min(calc(var(--grid-sp)*1.4),0.875rem)] lg:text-[min(calc(var(--grid-pc)*1.8),0.875rem)]" href="/solutions/prepaid.html" target="_self">
+                   <a class="group/link js-hover-gradient-opacity js-animate-bg js-shift-text flex min-h-70 items-center justify-between gap-x-10 py-20 text-[min(calc(var(--grid-sp)*1.4),0.875rem)] lg:text-[min(calc(var(--grid-pc)*1.8),0.875rem)]" href="/solutions/prepaid.html" target="_self" data-gtm-click="nav_click" data-gtm-category="header_nav" data-gtm-label="ハウスプリペイド">
    <div class="leading-trim flex items-center gap-x-20">
      <span class="size-30">
            <img src="/assets/images/icons/credit-card.svg" alt="">
@@ -715,7 +718,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
    </div>
  </a>
                  </li><li class="border-b border-border">
-                   <a class="group/link js-hover-gradient-opacity js-animate-bg js-shift-text flex min-h-70 items-center justify-between gap-x-10 py-20 text-[min(calc(var(--grid-sp)*1.4),0.875rem)] lg:text-[min(calc(var(--grid-pc)*1.8),0.875rem)]" href="/solutions/field-service.html" target="_self">
+                   <a class="group/link js-hover-gradient-opacity js-animate-bg js-shift-text flex min-h-70 items-center justify-between gap-x-10 py-20 text-[min(calc(var(--grid-sp)*1.4),0.875rem)] lg:text-[min(calc(var(--grid-pc)*1.8),0.875rem)]" href="/solutions/field-service.html" target="_self" data-gtm-click="nav_click" data-gtm-category="header_nav" data-gtm-label="訪問販売・修理サービス">
    <div class="leading-trim flex items-center gap-x-20">
      <span class="size-30">
            <img src="/assets/images/icons/gear.svg" alt="">
@@ -733,7 +736,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
    </div>
  </a>
                  </li><li class="border-b border-border">
-                   <a class="group/link js-hover-gradient-opacity js-animate-bg js-shift-text flex min-h-70 items-center justify-between gap-x-10 py-20 text-[min(calc(var(--grid-sp)*1.4),0.875rem)] lg:text-[min(calc(var(--grid-pc)*1.8),0.875rem)]" href="/solutions/b2b.html" target="_self">
+                   <a class="group/link js-hover-gradient-opacity js-animate-bg js-shift-text flex min-h-70 items-center justify-between gap-x-10 py-20 text-[min(calc(var(--grid-sp)*1.4),0.875rem)] lg:text-[min(calc(var(--grid-pc)*1.8),0.875rem)]" href="/solutions/b2b.html" target="_self" data-gtm-click="nav_click" data-gtm-category="header_nav" data-gtm-label="企業間取引サービス">
    <div class="leading-trim flex items-center gap-x-20">
      <span class="size-30">
            <img src="/assets/images/icons/cycle.svg" alt="">
@@ -751,7 +754,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
    </div>
  </a>
                  </li><li class="border-b border-border">
-                   <a class="group/link js-hover-gradient-opacity js-animate-bg js-shift-text flex min-h-70 items-center justify-between gap-x-10 py-20 text-[min(calc(var(--grid-sp)*1.4),0.875rem)] lg:text-[min(calc(var(--grid-pc)*1.8),0.875rem)]" href="/solutions/" target="_self">
+                   <a class="group/link js-hover-gradient-opacity js-animate-bg js-shift-text flex min-h-70 items-center justify-between gap-x-10 py-20 text-[min(calc(var(--grid-sp)*1.4),0.875rem)] lg:text-[min(calc(var(--grid-pc)*1.8),0.875rem)]" href="/solutions/" target="_self" data-gtm-click="nav_click" data-gtm-category="header_nav" data-gtm-label="その他の業種別一覧">
    <div class="leading-trim flex items-center gap-x-20">
      
      <span class="relative grid overflow-clip leading-[1.2] transition-colors duration-600 ease-main *:col-[1/-1] *:row-[1/-1] *:inline-block *:gradient-bg *:bg-clip-text *:bg-position-[inherit] *:py-3 group-hover/link:text-transparent">
@@ -955,7 +958,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
    </div>
  </a>
                    </li><li class="border-t border-border last:border-b">
-                     <a class="group/link js-hover-gradient-opacity js-animate-bg js-shift-text flex min-h-70 items-center justify-between gap-x-10 py-20 text-[min(calc(var(--grid-sp)*1.4),0.875rem)] lg:text-[min(calc(var(--grid-pc)*1.8),0.875rem)]" href="/payment/atobarai.html" target="_self">
+                     <a class="group/link js-hover-gradient-opacity js-animate-bg js-shift-text flex min-h-70 items-center justify-between gap-x-10 py-20 text-[min(calc(var(--grid-sp)*1.4),0.875rem)] lg:text-[min(calc(var(--grid-pc)*1.8),0.875rem)]" href="/payment/atobarai.html">
    <div class="leading-trim flex items-center gap-x-20">
      
      <span class="relative grid overflow-clip leading-[1.2] transition-colors duration-600 ease-main *:col-[1/-1] *:row-[1/-1] *:inline-block *:gradient-bg *:bg-clip-text *:bg-position-[inherit] *:py-3 group-hover/link:text-transparent">
@@ -1188,7 +1191,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
        <!-- /Desktop Submenu -->
      </div>
    </header>
- 
+
  </div>
  <div class="js-header-fix-trigger absolute top-[calc(var(--top-bar-height)+1px)] left-0 z-50">
  </div>
@@ -3769,6 +3772,398 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <div class="js-augmented-container relative grid h-full content-end gap-x-[calc(var(--grid-pc)*6)] p-20 lg:px-40 lg:py-30 aspect-square w-[var(--card-width)] lg:aspect-square lg:!w-[var(--card-lg-width)]">
       <div class="absolute inset-0 aspect-[360/202] size-full">
         <div class="dgft-aug-img-tr">
+          <a href="https://www.dgft.jp/tips/column/recolumn18.html" tabindex="-1" data-aug-image >
+            <div>
+              <img class="transition-transform duration-600 ease-main [.is-hovering_&]:scale-[1.2]" src="https://www.dgft.jp/tips/column/assets/recolumn18_kv.jpeg" alt="訪日外国人9.5兆円市場を逃さない決済設計" width="360" height="202">
+            </div>
+          </a>
+          <a href="https://www.dgft.jp/tips/column/recolumn18.html" tabindex="-1" data-aug-image >
+            <div>
+              <img class="transition-transform duration-600 ease-main [.is-hovering_&]:scale-[1.2]" src="https://www.dgft.jp/tips/column/assets/recolumn18_kv.jpeg" alt="訪日外国人9.5兆円市場を逃さない決済設計" width="360" height="202">
+            </div>
+          </a>
+        
+    <a href="/tips/column/?category=store
+&page_no=1#list"class="js-hover-gradient-opacity js-animate-bg group/link relative z-10 max-w-200 text-gray-2 lg:max-w-300">
+        <span class="absolute inset-0 rounded-10 bg-bg" style="touch-action: pan-y;"></span>
+        <span
+            class="block rounded-10 gradient-bg bg-clip-text pt-2 pr-3 pb-2 pl-10 text-11 leading-[1.6] lg:pr-4 lg:pb-2 lg:text-14"
+            style="touch-action: pan-y;">
+            <span
+                class="block -translate-y-4 rounded-10 gradient-bg bg-clip-text text-gray-2 transition-colors duration-400 ease-main group-hover/link:text-transparent">
+                対面決済・店舗DX
+            </span>
+        </span>
+    </a>
+
+        </div>
+      </div>
+      <div class="pointer-events-none absolute inset-0 size-full rounded-10 bg-gradient-to-b from-transparent from-30% to-black-1/70 to-70%">
+      </div>
+     <div>
+        <div class="pointer-events-none relative mt-30 flex h-full pr-[calc(var(--grid-pc)*4)] text-white">
+          <div class="flex w-full flex-col gap-y-20 lg:gap-y-25">
+            <ul class="flex flex-wrap gap-x-15 gap-y-7 lg:gap-y-10">
+            
+              
+                <li class="leading-trim flex text-11 lg:text-14">
+                <a href="/tips/column/?tag=store
+&page_no=1#list" class="pointer-events-auto transition-opacity ease-main hover:opacity-80" data-aug-image="">
+                    <span class="w-14 text-center">#</span>
+                    店舗向け決済
+                </a>
+                </li>
+              
+                <li class="leading-trim flex text-11 lg:text-14">
+                <a href="/tips/column/?tag=cashless
+&page_no=1#list" class="pointer-events-auto transition-opacity ease-main hover:opacity-80" data-aug-image="">
+                    <span class="w-14 text-center">#</span>
+                    キャッシュレス決済
+                </a>
+                </li>
+              
+                <li class="leading-trim flex text-11 lg:text-14">
+                <a href="/tips/column/?tag=increase_sales
+&page_no=1#list" class="pointer-events-auto transition-opacity ease-main hover:opacity-80" data-aug-image="">
+                    <span class="w-14 text-center">#</span>
+                    売上向上・カゴ落ち対策
+                </a>
+                </li>
+              
+                <li class="leading-trim flex text-11 lg:text-14">
+                <a href="/tips/column/?tag=inbound
+&page_no=1#list" class="pointer-events-auto transition-opacity ease-main hover:opacity-80" data-aug-image="">
+                    <span class="w-14 text-center">#</span>
+                    インバウンド対策
+                </a>
+                </li>
+              
+            
+            </ul>
+           <a href="https://www.dgft.jp/tips/column/recolumn18.html" data-aug-image class="pointer-events-auto leading-trim line-clamp-2 text-16 leading-[1.6] transition-opacity ease-main hover:opacity-80 lg:text-18">
+                      訪日外国人9.5兆円市場を逃さない決済設計
+                  </a>
+            <div class="flex items-center gap-x-10 text-12 leading-[1] lg:text-14">
+              <span class="flex items-center gap-x-10 after:block after:h-10 after:w-1 after:bg-current">
+                更新日
+              </span>
+              <time datetime="2026-05-21" class="leading-trim leading-[1.5]">
+                2026.05.21
+              </time>
+            </div>
+          </div>
+        </div>
+      </div>
+    
+   <div class="pointer-events-none grid size-30 rounded-full bg-bg/50 p-9 lg:size-35 lg:p-11 group-hover:bg-bg/70 [.is-hovering_&#38;]:bg-bg/70 transition-colors duration-300 ease-main *:col-span-full *:row-span-full *:block *:size-13 *:[clip-path:url(#s-arrowRightIconClip)] *:transition-opacity *:duration-300 *:ease-main absolute right-10 bottom-10 lg:right-20 lg:bottom-20">
+  <span class="bg-current opacity-100 group-hover:opacity-0 [.is-hovering_&#38;]:opacity-0">
+  </span>
+  <span class="js-animate-bg gradient-bg-fixed-opacity opacity-0 group-hover:opacity-100 [.is-hovering_&#38;]:opacity-100">
+  </span>
+</div>
+      
+    </div>
+  </div>
+  </li>
+  
+  
+  <li class="js-horizontal-list-item js-card w-full translate-x-[10%] scale-105 opacity-0 lg:translate-x-[15%]" style="--card-width: 17.5rem; --card-lg-width: 25.625rem">
+  <div class="relative block h-full w-full">
+    <div class="js-augmented-container relative grid h-full content-end gap-x-[calc(var(--grid-pc)*6)] p-20 lg:px-40 lg:py-30 aspect-square w-[var(--card-width)] lg:aspect-square lg:!w-[var(--card-lg-width)]">
+      <div class="absolute inset-0 aspect-[360/202] size-full">
+        <div class="dgft-aug-img-tr">
+          <a href="https://www.dgft.jp/tips/column/3.html" tabindex="-1" data-aug-image >
+            <div>
+              <img class="transition-transform duration-600 ease-main [.is-hovering_&]:scale-[1.2]" src="https://www.dgft.jp/tips/column/assets/recolumn17_kv.jpeg" alt="サブスク解約の3割は決済失敗──非意図的チャーンを防ぐ定期課金設計術" width="360" height="202">
+            </div>
+          </a>
+          <a href="https://www.dgft.jp/tips/column/3.html" tabindex="-1" data-aug-image >
+            <div>
+              <img class="transition-transform duration-600 ease-main [.is-hovering_&]:scale-[1.2]" src="https://www.dgft.jp/tips/column/assets/recolumn17_kv.jpeg" alt="サブスク解約の3割は決済失敗──非意図的チャーンを防ぐ定期課金設計術" width="360" height="202">
+            </div>
+          </a>
+        
+    <a href="/tips/column/?category=online
+&page_no=1#list"class="js-hover-gradient-opacity js-animate-bg group/link relative z-10 max-w-200 text-gray-2 lg:max-w-300">
+        <span class="absolute inset-0 rounded-10 bg-bg" style="touch-action: pan-y;"></span>
+        <span
+            class="block rounded-10 gradient-bg bg-clip-text pt-2 pr-3 pb-2 pl-10 text-11 leading-[1.6] lg:pr-4 lg:pb-2 lg:text-14"
+            style="touch-action: pan-y;">
+            <span
+                class="block -translate-y-4 rounded-10 gradient-bg bg-clip-text text-gray-2 transition-colors duration-400 ease-main group-hover/link:text-transparent">
+                オンライン決済・EC
+            </span>
+        </span>
+    </a>
+
+        </div>
+      </div>
+      <div class="pointer-events-none absolute inset-0 size-full rounded-10 bg-gradient-to-b from-transparent from-30% to-black-1/70 to-70%">
+      </div>
+     <div>
+        <div class="pointer-events-none relative mt-30 flex h-full pr-[calc(var(--grid-pc)*4)] text-white">
+          <div class="flex w-full flex-col gap-y-20 lg:gap-y-25">
+            <ul class="flex flex-wrap gap-x-15 gap-y-7 lg:gap-y-10">
+            
+              
+                <li class="leading-trim flex text-11 lg:text-14">
+                <a href="/tips/column/?tag=online
+&page_no=1#list" class="pointer-events-auto transition-opacity ease-main hover:opacity-80" data-aug-image="">
+                    <span class="w-14 text-center">#</span>
+                    オンライン決済
+                </a>
+                </li>
+              
+                <li class="leading-trim flex text-11 lg:text-14">
+                <a href="/tips/column/?tag=subscription
+&page_no=1#list" class="pointer-events-auto transition-opacity ease-main hover:opacity-80" data-aug-image="">
+                    <span class="w-14 text-center">#</span>
+                    サブスクリプション
+                </a>
+                </li>
+              
+                <li class="leading-trim flex text-11 lg:text-14">
+                <a href="/tips/column/?tag=efficiency
+&page_no=1#list" class="pointer-events-auto transition-opacity ease-main hover:opacity-80" data-aug-image="">
+                    <span class="w-14 text-center">#</span>
+                    業務効率化
+                </a>
+                </li>
+              
+                <li class="leading-trim flex text-11 lg:text-14">
+                <a href="/tips/column/?tag=increase_sales
+&page_no=1#list" class="pointer-events-auto transition-opacity ease-main hover:opacity-80" data-aug-image="">
+                    <span class="w-14 text-center">#</span>
+                    売上向上・カゴ落ち対策
+                </a>
+                </li>
+              
+            
+            </ul>
+           <a href="https://www.dgft.jp/tips/column/3.html" data-aug-image class="pointer-events-auto leading-trim line-clamp-2 text-16 leading-[1.6] transition-opacity ease-main hover:opacity-80 lg:text-18">
+                      サブスク解約の3割は決済失敗──非意図的チャーンを防ぐ定期課金設計術
+                  </a>
+            <div class="flex items-center gap-x-10 text-12 leading-[1] lg:text-14">
+              <span class="flex items-center gap-x-10 after:block after:h-10 after:w-1 after:bg-current">
+                更新日
+              </span>
+              <time datetime="2026-05-20" class="leading-trim leading-[1.5]">
+                2026.05.20
+              </time>
+            </div>
+          </div>
+        </div>
+      </div>
+    
+   <div class="pointer-events-none grid size-30 rounded-full bg-bg/50 p-9 lg:size-35 lg:p-11 group-hover:bg-bg/70 [.is-hovering_&#38;]:bg-bg/70 transition-colors duration-300 ease-main *:col-span-full *:row-span-full *:block *:size-13 *:[clip-path:url(#s-arrowRightIconClip)] *:transition-opacity *:duration-300 *:ease-main absolute right-10 bottom-10 lg:right-20 lg:bottom-20">
+  <span class="bg-current opacity-100 group-hover:opacity-0 [.is-hovering_&#38;]:opacity-0">
+  </span>
+  <span class="js-animate-bg gradient-bg-fixed-opacity opacity-0 group-hover:opacity-100 [.is-hovering_&#38;]:opacity-100">
+  </span>
+</div>
+      
+    </div>
+  </div>
+  </li>
+  
+  
+  <li class="js-horizontal-list-item js-card w-full translate-x-[10%] scale-105 opacity-0 lg:translate-x-[15%]" style="--card-width: 17.5rem; --card-lg-width: 25.625rem">
+  <div class="relative block h-full w-full">
+    <div class="js-augmented-container relative grid h-full content-end gap-x-[calc(var(--grid-pc)*6)] p-20 lg:px-40 lg:py-30 aspect-square w-[var(--card-width)] lg:aspect-square lg:!w-[var(--card-lg-width)]">
+      <div class="absolute inset-0 aspect-[360/202] size-full">
+        <div class="dgft-aug-img-tr">
+          <a href="https://www.dgft.jp/tips/column/recolumn16.html" tabindex="-1" data-aug-image >
+            <div>
+              <img class="transition-transform duration-600 ease-main [.is-hovering_&]:scale-[1.2]" src="https://www.dgft.jp/tips/column/assets/recolumn16_kv.jpeg" alt="決済ログは重要なデータ資産 ─取引データで顧客行動を読み解く実践手法" width="360" height="202">
+            </div>
+          </a>
+          <a href="https://www.dgft.jp/tips/column/recolumn16.html" tabindex="-1" data-aug-image >
+            <div>
+              <img class="transition-transform duration-600 ease-main [.is-hovering_&]:scale-[1.2]" src="https://www.dgft.jp/tips/column/assets/recolumn16_kv.jpeg" alt="決済ログは重要なデータ資産 ─取引データで顧客行動を読み解く実践手法" width="360" height="202">
+            </div>
+          </a>
+        
+    <a href="/tips/column/?category=online
+&page_no=1#list"class="js-hover-gradient-opacity js-animate-bg group/link relative z-10 max-w-200 text-gray-2 lg:max-w-300">
+        <span class="absolute inset-0 rounded-10 bg-bg" style="touch-action: pan-y;"></span>
+        <span
+            class="block rounded-10 gradient-bg bg-clip-text pt-2 pr-3 pb-2 pl-10 text-11 leading-[1.6] lg:pr-4 lg:pb-2 lg:text-14"
+            style="touch-action: pan-y;">
+            <span
+                class="block -translate-y-4 rounded-10 gradient-bg bg-clip-text text-gray-2 transition-colors duration-400 ease-main group-hover/link:text-transparent">
+                オンライン決済・EC
+            </span>
+        </span>
+    </a>
+
+        </div>
+      </div>
+      <div class="pointer-events-none absolute inset-0 size-full rounded-10 bg-gradient-to-b from-transparent from-30% to-black-1/70 to-70%">
+      </div>
+     <div>
+        <div class="pointer-events-none relative mt-30 flex h-full pr-[calc(var(--grid-pc)*4)] text-white">
+          <div class="flex w-full flex-col gap-y-20 lg:gap-y-25">
+            <ul class="flex flex-wrap gap-x-15 gap-y-7 lg:gap-y-10">
+            
+              
+                <li class="leading-trim flex text-11 lg:text-14">
+                <a href="/tips/column/?tag=online
+&page_no=1#list" class="pointer-events-auto transition-opacity ease-main hover:opacity-80" data-aug-image="">
+                    <span class="w-14 text-center">#</span>
+                    オンライン決済
+                </a>
+                </li>
+              
+                <li class="leading-trim flex text-11 lg:text-14">
+                <a href="/tips/column/?tag=efficiency
+&page_no=1#list" class="pointer-events-auto transition-opacity ease-main hover:opacity-80" data-aug-image="">
+                    <span class="w-14 text-center">#</span>
+                    業務効率化
+                </a>
+                </li>
+              
+                <li class="leading-trim flex text-11 lg:text-14">
+                <a href="/tips/column/?tag=increase_sales
+&page_no=1#list" class="pointer-events-auto transition-opacity ease-main hover:opacity-80" data-aug-image="">
+                    <span class="w-14 text-center">#</span>
+                    売上向上・カゴ落ち対策
+                </a>
+                </li>
+              
+            
+            </ul>
+           <a href="https://www.dgft.jp/tips/column/recolumn16.html" data-aug-image class="pointer-events-auto leading-trim line-clamp-2 text-16 leading-[1.6] transition-opacity ease-main hover:opacity-80 lg:text-18">
+                      決済ログは重要なデータ資産 ─取引データで顧客行動を読み解く実践手法
+                  </a>
+            <div class="flex items-center gap-x-10 text-12 leading-[1] lg:text-14">
+              <span class="flex items-center gap-x-10 after:block after:h-10 after:w-1 after:bg-current">
+                更新日
+              </span>
+              <time datetime="2026-05-19" class="leading-trim leading-[1.5]">
+                2026.05.19
+              </time>
+            </div>
+          </div>
+        </div>
+      </div>
+    
+   <div class="pointer-events-none grid size-30 rounded-full bg-bg/50 p-9 lg:size-35 lg:p-11 group-hover:bg-bg/70 [.is-hovering_&#38;]:bg-bg/70 transition-colors duration-300 ease-main *:col-span-full *:row-span-full *:block *:size-13 *:[clip-path:url(#s-arrowRightIconClip)] *:transition-opacity *:duration-300 *:ease-main absolute right-10 bottom-10 lg:right-20 lg:bottom-20">
+  <span class="bg-current opacity-100 group-hover:opacity-0 [.is-hovering_&#38;]:opacity-0">
+  </span>
+  <span class="js-animate-bg gradient-bg-fixed-opacity opacity-0 group-hover:opacity-100 [.is-hovering_&#38;]:opacity-100">
+  </span>
+</div>
+      
+    </div>
+  </div>
+  </li>
+  
+  
+  <li class="js-horizontal-list-item js-card w-full translate-x-[10%] scale-105 opacity-0 lg:translate-x-[15%]" style="--card-width: 17.5rem; --card-lg-width: 25.625rem">
+  <div class="relative block h-full w-full">
+    <div class="js-augmented-container relative grid h-full content-end gap-x-[calc(var(--grid-pc)*6)] p-20 lg:px-40 lg:py-30 aspect-square w-[var(--card-width)] lg:aspect-square lg:!w-[var(--card-lg-width)]">
+      <div class="absolute inset-0 aspect-[360/202] size-full">
+        <div class="dgft-aug-img-tr">
+          <a href="https://www.dgft.jp/tips/column/recolumn15.html" tabindex="-1" data-aug-image >
+            <div>
+              <img class="transition-transform duration-600 ease-main [.is-hovering_&]:scale-[1.2]" src="https://www.dgft.jp/tips/column/assets/recolumn15_kv.jpeg" alt="越境ECの決済リスクと通貨設計──チャージバックを防ぐ実践ガイド" width="360" height="202">
+            </div>
+          </a>
+          <a href="https://www.dgft.jp/tips/column/recolumn15.html" tabindex="-1" data-aug-image >
+            <div>
+              <img class="transition-transform duration-600 ease-main [.is-hovering_&]:scale-[1.2]" src="https://www.dgft.jp/tips/column/assets/recolumn15_kv.jpeg" alt="越境ECの決済リスクと通貨設計──チャージバックを防ぐ実践ガイド" width="360" height="202">
+            </div>
+          </a>
+        
+    <a href="/tips/column/?category=online
+&page_no=1#list"class="js-hover-gradient-opacity js-animate-bg group/link relative z-10 max-w-200 text-gray-2 lg:max-w-300">
+        <span class="absolute inset-0 rounded-10 bg-bg" style="touch-action: pan-y;"></span>
+        <span
+            class="block rounded-10 gradient-bg bg-clip-text pt-2 pr-3 pb-2 pl-10 text-11 leading-[1.6] lg:pr-4 lg:pb-2 lg:text-14"
+            style="touch-action: pan-y;">
+            <span
+                class="block -translate-y-4 rounded-10 gradient-bg bg-clip-text text-gray-2 transition-colors duration-400 ease-main group-hover/link:text-transparent">
+                オンライン決済・EC
+            </span>
+        </span>
+    </a>
+
+        </div>
+      </div>
+      <div class="pointer-events-none absolute inset-0 size-full rounded-10 bg-gradient-to-b from-transparent from-30% to-black-1/70 to-70%">
+      </div>
+     <div>
+        <div class="pointer-events-none relative mt-30 flex h-full pr-[calc(var(--grid-pc)*4)] text-white">
+          <div class="flex w-full flex-col gap-y-20 lg:gap-y-25">
+            <ul class="flex flex-wrap gap-x-15 gap-y-7 lg:gap-y-10">
+            
+              
+                <li class="leading-trim flex text-11 lg:text-14">
+                <a href="/tips/column/?tag=credit
+&page_no=1#list" class="pointer-events-auto transition-opacity ease-main hover:opacity-80" data-aug-image="">
+                    <span class="w-14 text-center">#</span>
+                    クレジットカード決済
+                </a>
+                </li>
+              
+                <li class="leading-trim flex text-11 lg:text-14">
+                <a href="/tips/column/?tag=international
+&page_no=1#list" class="pointer-events-auto transition-opacity ease-main hover:opacity-80" data-aug-image="">
+                    <span class="w-14 text-center">#</span>
+                    国際決済
+                </a>
+                </li>
+              
+                <li class="leading-trim flex text-11 lg:text-14">
+                <a href="/tips/column/?tag=cross_border_EC
+&page_no=1#list" class="pointer-events-auto transition-opacity ease-main hover:opacity-80" data-aug-image="">
+                    <span class="w-14 text-center">#</span>
+                    越境EC
+                </a>
+                </li>
+              
+                <li class="leading-trim flex text-11 lg:text-14">
+                <a href="/tips/column/?tag=security
+&page_no=1#list" class="pointer-events-auto transition-opacity ease-main hover:opacity-80" data-aug-image="">
+                    <span class="w-14 text-center">#</span>
+                    セキュリティ対策
+                </a>
+                </li>
+              
+            
+            </ul>
+           <a href="https://www.dgft.jp/tips/column/recolumn15.html" data-aug-image class="pointer-events-auto leading-trim line-clamp-2 text-16 leading-[1.6] transition-opacity ease-main hover:opacity-80 lg:text-18">
+                      越境ECの決済リスクと通貨設計──チャージバックを防ぐ実践ガイド
+                  </a>
+            <div class="flex items-center gap-x-10 text-12 leading-[1] lg:text-14">
+              <span class="flex items-center gap-x-10 after:block after:h-10 after:w-1 after:bg-current">
+                更新日
+              </span>
+              <time datetime="2026-05-20" class="leading-trim leading-[1.5]">
+                2026.05.20
+              </time>
+            </div>
+          </div>
+        </div>
+      </div>
+    
+   <div class="pointer-events-none grid size-30 rounded-full bg-bg/50 p-9 lg:size-35 lg:p-11 group-hover:bg-bg/70 [.is-hovering_&#38;]:bg-bg/70 transition-colors duration-300 ease-main *:col-span-full *:row-span-full *:block *:size-13 *:[clip-path:url(#s-arrowRightIconClip)] *:transition-opacity *:duration-300 *:ease-main absolute right-10 bottom-10 lg:right-20 lg:bottom-20">
+  <span class="bg-current opacity-100 group-hover:opacity-0 [.is-hovering_&#38;]:opacity-0">
+  </span>
+  <span class="js-animate-bg gradient-bg-fixed-opacity opacity-0 group-hover:opacity-100 [.is-hovering_&#38;]:opacity-100">
+  </span>
+</div>
+      
+    </div>
+  </div>
+  </li>
+  
+  
+  <li class="js-horizontal-list-item js-card w-full translate-x-[10%] scale-105 opacity-0 lg:translate-x-[15%]" style="--card-width: 17.5rem; --card-lg-width: 25.625rem">
+  <div class="relative block h-full w-full">
+    <div class="js-augmented-container relative grid h-full content-end gap-x-[calc(var(--grid-pc)*6)] p-20 lg:px-40 lg:py-30 aspect-square w-[var(--card-width)] lg:aspect-square lg:!w-[var(--card-lg-width)]">
+      <div class="absolute inset-0 aspect-[360/202] size-full">
+        <div class="dgft-aug-img-tr">
           <a href="https://www.dgft.jp/tips/column/dx.html" tabindex="-1" data-aug-image >
             <div>
               <img class="transition-transform duration-600 ease-main [.is-hovering_&]:scale-[1.2]" src="https://www.dgft.jp/tips/column/assets/recolumn14_kv_1.jpeg" alt="家族葬時代の「薄利・未収」リスクを回避する―葬儀経営を安定させる決済DXの重要性" width="360" height="202">
@@ -4004,18 +4399,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             
               
                 <li class="leading-trim flex text-11 lg:text-14">
-                <a href="/tips/column/?tag=cashless
+                <a href="/tips/column/?tag=biometric
 &page_no=1#list" class="pointer-events-auto transition-opacity ease-main hover:opacity-80" data-aug-image="">
                     <span class="w-14 text-center">#</span>
-                    キャッシュレス決済
-                </a>
-                </li>
-              
-                <li class="leading-trim flex text-11 lg:text-14">
-                <a href="/tips/column/?tag=improve_CX
-&page_no=1#list" class="pointer-events-auto transition-opacity ease-main hover:opacity-80" data-aug-image="">
-                    <span class="w-14 text-center">#</span>
-                    CX向上
+                    生体認証決済
                 </a>
                 </li>
               
@@ -4036,8 +4423,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               <span class="flex items-center gap-x-10 after:block after:h-10 after:w-1 after:bg-current">
                 更新日
               </span>
-              <time datetime="2026-04-28" class="leading-trim leading-[1.5]">
-                2026.04.28
+              <time datetime="2026-05-15" class="leading-trim leading-[1.5]">
+                2026.05.15
               </time>
             </div>
           </div>
@@ -4139,342 +4526,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   </div>
   </li>
   
-  
-  <li class="js-horizontal-list-item js-card w-full translate-x-[10%] scale-105 opacity-0 lg:translate-x-[15%]" style="--card-width: 17.5rem; --card-lg-width: 25.625rem">
-  <div class="relative block h-full w-full">
-    <div class="js-augmented-container relative grid h-full content-end gap-x-[calc(var(--grid-pc)*6)] p-20 lg:px-40 lg:py-30 aspect-square w-[var(--card-width)] lg:aspect-square lg:!w-[var(--card-lg-width)]">
-      <div class="absolute inset-0 aspect-[360/202] size-full">
-        <div class="dgft-aug-img-tr">
-          <a href="https://www.garage.co.jp/portal/46077/" tabindex="-1" data-aug-image target="_blank">
-            <div>
-              <img class="transition-transform duration-600 ease-main [.is-hovering_&]:scale-[1.2]" src="https://www.dgft.jp/tips/column/assets/1127potal.png" alt="web3と暗号資産、世界の最新事情と日本の法規制のゆくえは" width="360" height="202">
-            </div>
-          </a>
-          <a href="https://www.garage.co.jp/portal/46077/" tabindex="-1" data-aug-image target="_blank">
-            <div>
-              <img class="transition-transform duration-600 ease-main [.is-hovering_&]:scale-[1.2]" src="https://www.dgft.jp/tips/column/assets/1127potal.png" alt="web3と暗号資産、世界の最新事情と日本の法規制のゆくえは" width="360" height="202">
-            </div>
-          </a>
-        
-    <a href="/tips/column/?category=other
-&page_no=1#list"class="js-hover-gradient-opacity js-animate-bg group/link relative z-10 max-w-200 text-gray-2 lg:max-w-300">
-        <span class="absolute inset-0 rounded-10 bg-bg" style="touch-action: pan-y;"></span>
-        <span
-            class="block rounded-10 gradient-bg bg-clip-text pt-2 pr-3 pb-2 pl-10 text-11 leading-[1.6] lg:pr-4 lg:pb-2 lg:text-14"
-            style="touch-action: pan-y;">
-            <span
-                class="block -translate-y-4 rounded-10 gradient-bg bg-clip-text text-gray-2 transition-colors duration-400 ease-main group-hover/link:text-transparent">
-                基礎知識・トレンド等
-            </span>
-        </span>
-    </a>
-
-        </div>
-      </div>
-      <div class="pointer-events-none absolute inset-0 size-full rounded-10 bg-gradient-to-b from-transparent from-30% to-black-1/70 to-70%">
-      </div>
-     <div>
-        <div class="pointer-events-none relative mt-30 flex h-full pr-[calc(var(--grid-pc)*4)] text-white">
-          <div class="flex w-full flex-col gap-y-20 lg:gap-y-25">
-            <ul class="flex flex-wrap gap-x-15 gap-y-7 lg:gap-y-10">
-            
-              
-                <li class="leading-trim flex text-11 lg:text-14">
-                <a href="/tips/column/?tag=digital_content
-&page_no=1#list" class="pointer-events-auto transition-opacity ease-main hover:opacity-80" data-aug-image="">
-                    <span class="w-14 text-center">#</span>
-                    デジタルコンテンツ
-                </a>
-                </li>
-              
-            
-            </ul>
-           <a href="https://www.garage.co.jp/portal/46077/" data-aug-image class="pointer-events-auto leading-trim line-clamp-2 text-16 leading-[1.6] transition-opacity ease-main hover:opacity-80 lg:text-18">
-                      web3と暗号資産、世界の最新事情と日本の法規制のゆくえは
-                  </a>
-            <div class="flex items-center gap-x-10 text-12 leading-[1] lg:text-14">
-              <span class="flex items-center gap-x-10 after:block after:h-10 after:w-1 after:bg-current">
-                更新日
-              </span>
-              <time datetime="2026-04-28" class="leading-trim leading-[1.5]">
-                2026.04.28
-              </time>
-            </div>
-          </div>
-        </div>
-      </div>
-    
-   <div class="pointer-events-none grid size-30 rounded-full bg-bg/50 p-9 lg:size-35 lg:p-11 group-hover:bg-bg/70 [.is-hovering_&#38;]:bg-bg/70 transition-colors duration-300 ease-main *:col-span-full *:row-span-full *:block *:size-13 *:transition-opacity *:duration-300 *:ease-main absolute right-10 bottom-10 lg:right-20 lg:bottom-20">
-  <span class="bg-current opacity-100 group-hover:opacity-0 [.is-hovering_&#38;]:opacity-0" style="clip-path: url(#s-blankClip)">
-  </span>
-  <span class="js-animate-bg gradient-bg-fixed-opacity opacity-0 group-hover:opacity-100 [.is-hovering_&#38;]:opacity-100" style="clip-path: url(#s-blankClip)">
-  </span>
-</div>
-    
-    </div>
-  </div>
-  </li>
-  
-  
-  <li class="js-horizontal-list-item js-card w-full translate-x-[10%] scale-105 opacity-0 lg:translate-x-[15%]" style="--card-width: 17.5rem; --card-lg-width: 25.625rem">
-  <div class="relative block h-full w-full">
-    <div class="js-augmented-container relative grid h-full content-end gap-x-[calc(var(--grid-pc)*6)] p-20 lg:px-40 lg:py-30 aspect-square w-[var(--card-width)] lg:aspect-square lg:!w-[var(--card-lg-width)]">
-      <div class="absolute inset-0 aspect-[360/202] size-full">
-        <div class="dgft-aug-img-tr">
-          <a href="https://www.garage.co.jp/portal/46030/" tabindex="-1" data-aug-image target="_blank">
-            <div>
-              <img class="transition-transform duration-600 ease-main [.is-hovering_&]:scale-[1.2]" src="https://www.dgft.jp/tips/column/assets/1111potal.png" alt="12月施行の「スマホ法」でアプリ外決済はどう変わる？公正取引委員会とアプリ外課金サービス事業者が展望を語る" width="360" height="202">
-            </div>
-          </a>
-          <a href="https://www.garage.co.jp/portal/46030/" tabindex="-1" data-aug-image target="_blank">
-            <div>
-              <img class="transition-transform duration-600 ease-main [.is-hovering_&]:scale-[1.2]" src="https://www.dgft.jp/tips/column/assets/1111potal.png" alt="12月施行の「スマホ法」でアプリ外決済はどう変わる？公正取引委員会とアプリ外課金サービス事業者が展望を語る" width="360" height="202">
-            </div>
-          </a>
-        
-    <a href="/tips/column/?category=online
-&page_no=1#list"class="js-hover-gradient-opacity js-animate-bg group/link relative z-10 max-w-200 text-gray-2 lg:max-w-300">
-        <span class="absolute inset-0 rounded-10 bg-bg" style="touch-action: pan-y;"></span>
-        <span
-            class="block rounded-10 gradient-bg bg-clip-text pt-2 pr-3 pb-2 pl-10 text-11 leading-[1.6] lg:pr-4 lg:pb-2 lg:text-14"
-            style="touch-action: pan-y;">
-            <span
-                class="block -translate-y-4 rounded-10 gradient-bg bg-clip-text text-gray-2 transition-colors duration-400 ease-main group-hover/link:text-transparent">
-                オンライン決済・EC
-            </span>
-        </span>
-    </a>
-
-        </div>
-      </div>
-      <div class="pointer-events-none absolute inset-0 size-full rounded-10 bg-gradient-to-b from-transparent from-30% to-black-1/70 to-70%">
-      </div>
-     <div>
-        <div class="pointer-events-none relative mt-30 flex h-full pr-[calc(var(--grid-pc)*4)] text-white">
-          <div class="flex w-full flex-col gap-y-20 lg:gap-y-25">
-            <ul class="flex flex-wrap gap-x-15 gap-y-7 lg:gap-y-10">
-            
-              
-                <li class="leading-trim flex text-11 lg:text-14">
-                <a href="/tips/column/?tag=online
-&page_no=1#list" class="pointer-events-auto transition-opacity ease-main hover:opacity-80" data-aug-image="">
-                    <span class="w-14 text-center">#</span>
-                    オンライン決済
-                </a>
-                </li>
-              
-                <li class="leading-trim flex text-11 lg:text-14">
-                <a href="/tips/column/?tag=digital_content
-&page_no=1#list" class="pointer-events-auto transition-opacity ease-main hover:opacity-80" data-aug-image="">
-                    <span class="w-14 text-center">#</span>
-                    デジタルコンテンツ
-                </a>
-                </li>
-              
-            
-            </ul>
-           <a href="https://www.garage.co.jp/portal/46030/" data-aug-image class="pointer-events-auto leading-trim line-clamp-2 text-16 leading-[1.6] transition-opacity ease-main hover:opacity-80 lg:text-18">
-                      12月施行の「スマホ法」でアプリ外決済はどう変わる？公正取引委員会とアプリ外課金サービス事業者が展望を語る
-                  </a>
-            <div class="flex items-center gap-x-10 text-12 leading-[1] lg:text-14">
-              <span class="flex items-center gap-x-10 after:block after:h-10 after:w-1 after:bg-current">
-                更新日
-              </span>
-              <time datetime="2026-04-28" class="leading-trim leading-[1.5]">
-                2026.04.28
-              </time>
-            </div>
-          </div>
-        </div>
-      </div>
-    
-   <div class="pointer-events-none grid size-30 rounded-full bg-bg/50 p-9 lg:size-35 lg:p-11 group-hover:bg-bg/70 [.is-hovering_&#38;]:bg-bg/70 transition-colors duration-300 ease-main *:col-span-full *:row-span-full *:block *:size-13 *:transition-opacity *:duration-300 *:ease-main absolute right-10 bottom-10 lg:right-20 lg:bottom-20">
-  <span class="bg-current opacity-100 group-hover:opacity-0 [.is-hovering_&#38;]:opacity-0" style="clip-path: url(#s-blankClip)">
-  </span>
-  <span class="js-animate-bg gradient-bg-fixed-opacity opacity-0 group-hover:opacity-100 [.is-hovering_&#38;]:opacity-100" style="clip-path: url(#s-blankClip)">
-  </span>
-</div>
-    
-    </div>
-  </div>
-  </li>
-  
-  
-  <li class="js-horizontal-list-item js-card w-full translate-x-[10%] scale-105 opacity-0 lg:translate-x-[15%]" style="--card-width: 17.5rem; --card-lg-width: 25.625rem">
-  <div class="relative block h-full w-full">
-    <div class="js-augmented-container relative grid h-full content-end gap-x-[calc(var(--grid-pc)*6)] p-20 lg:px-40 lg:py-30 aspect-square w-[var(--card-width)] lg:aspect-square lg:!w-[var(--card-lg-width)]">
-      <div class="absolute inset-0 aspect-[360/202] size-full">
-        <div class="dgft-aug-img-tr">
-          <a href="https://www.garage.co.jp/portal/44874/" tabindex="-1" data-aug-image target="_blank">
-            <div>
-              <img class="transition-transform duration-600 ease-main [.is-hovering_&]:scale-[1.2]" src="https://www.dgft.jp/tips/column/assets/0716potal.png" alt="指をかざすだけで決済完了「生体認証決済」で進化する買い物体験" width="360" height="202">
-            </div>
-          </a>
-          <a href="https://www.garage.co.jp/portal/44874/" tabindex="-1" data-aug-image target="_blank">
-            <div>
-              <img class="transition-transform duration-600 ease-main [.is-hovering_&]:scale-[1.2]" src="https://www.dgft.jp/tips/column/assets/0716potal.png" alt="指をかざすだけで決済完了「生体認証決済」で進化する買い物体験" width="360" height="202">
-            </div>
-          </a>
-        
-    <a href="/tips/column/?category=store
-&page_no=1#list"class="js-hover-gradient-opacity js-animate-bg group/link relative z-10 max-w-200 text-gray-2 lg:max-w-300">
-        <span class="absolute inset-0 rounded-10 bg-bg" style="touch-action: pan-y;"></span>
-        <span
-            class="block rounded-10 gradient-bg bg-clip-text pt-2 pr-3 pb-2 pl-10 text-11 leading-[1.6] lg:pr-4 lg:pb-2 lg:text-14"
-            style="touch-action: pan-y;">
-            <span
-                class="block -translate-y-4 rounded-10 gradient-bg bg-clip-text text-gray-2 transition-colors duration-400 ease-main group-hover/link:text-transparent">
-                対面決済・店舗DX
-            </span>
-        </span>
-    </a>
-
-        </div>
-      </div>
-      <div class="pointer-events-none absolute inset-0 size-full rounded-10 bg-gradient-to-b from-transparent from-30% to-black-1/70 to-70%">
-      </div>
-     <div>
-        <div class="pointer-events-none relative mt-30 flex h-full pr-[calc(var(--grid-pc)*4)] text-white">
-          <div class="flex w-full flex-col gap-y-20 lg:gap-y-25">
-            <ul class="flex flex-wrap gap-x-15 gap-y-7 lg:gap-y-10">
-            
-              
-                <li class="leading-trim flex text-11 lg:text-14">
-                <a href="/tips/column/?tag=biometric
-&page_no=1#list" class="pointer-events-auto transition-opacity ease-main hover:opacity-80" data-aug-image="">
-                    <span class="w-14 text-center">#</span>
-                    生体認証決済
-                </a>
-                </li>
-              
-                <li class="leading-trim flex text-11 lg:text-14">
-                <a href="/tips/column/?tag=retail
-&page_no=1#list" class="pointer-events-auto transition-opacity ease-main hover:opacity-80" data-aug-image="">
-                    <span class="w-14 text-center">#</span>
-                    小売業
-                </a>
-                </li>
-              
-            
-            </ul>
-           <a href="https://www.garage.co.jp/portal/44874/" data-aug-image class="pointer-events-auto leading-trim line-clamp-2 text-16 leading-[1.6] transition-opacity ease-main hover:opacity-80 lg:text-18">
-                      指をかざすだけで決済完了「生体認証決済」で進化する買い物体験
-                  </a>
-            <div class="flex items-center gap-x-10 text-12 leading-[1] lg:text-14">
-              <span class="flex items-center gap-x-10 after:block after:h-10 after:w-1 after:bg-current">
-                更新日
-              </span>
-              <time datetime="2026-04-28" class="leading-trim leading-[1.5]">
-                2026.04.28
-              </time>
-            </div>
-          </div>
-        </div>
-      </div>
-    
-   <div class="pointer-events-none grid size-30 rounded-full bg-bg/50 p-9 lg:size-35 lg:p-11 group-hover:bg-bg/70 [.is-hovering_&#38;]:bg-bg/70 transition-colors duration-300 ease-main *:col-span-full *:row-span-full *:block *:size-13 *:transition-opacity *:duration-300 *:ease-main absolute right-10 bottom-10 lg:right-20 lg:bottom-20">
-  <span class="bg-current opacity-100 group-hover:opacity-0 [.is-hovering_&#38;]:opacity-0" style="clip-path: url(#s-blankClip)">
-  </span>
-  <span class="js-animate-bg gradient-bg-fixed-opacity opacity-0 group-hover:opacity-100 [.is-hovering_&#38;]:opacity-100" style="clip-path: url(#s-blankClip)">
-  </span>
-</div>
-    
-    </div>
-  </div>
-  </li>
-  
-  
-  <li class="js-horizontal-list-item js-card w-full translate-x-[10%] scale-105 opacity-0 lg:translate-x-[15%]" style="--card-width: 17.5rem; --card-lg-width: 25.625rem">
-  <div class="relative block h-full w-full">
-    <div class="js-augmented-container relative grid h-full content-end gap-x-[calc(var(--grid-pc)*6)] p-20 lg:px-40 lg:py-30 aspect-square w-[var(--card-width)] lg:aspect-square lg:!w-[var(--card-lg-width)]">
-      <div class="absolute inset-0 aspect-[360/202] size-full">
-        <div class="dgft-aug-img-tr">
-          <a href="https://www.garage.co.jp/portal/44568/" tabindex="-1" data-aug-image target="_blank">
-            <div>
-              <img class="transition-transform duration-600 ease-main [.is-hovering_&]:scale-[1.2]" src="https://www.dgft.jp/tips/column/assets/0627potal.png" alt="キャッシュレスは「支払い」から「顧客育成」へ ゲームセンターで進むマーケ活用" width="360" height="202">
-            </div>
-          </a>
-          <a href="https://www.garage.co.jp/portal/44568/" tabindex="-1" data-aug-image target="_blank">
-            <div>
-              <img class="transition-transform duration-600 ease-main [.is-hovering_&]:scale-[1.2]" src="https://www.dgft.jp/tips/column/assets/0627potal.png" alt="キャッシュレスは「支払い」から「顧客育成」へ ゲームセンターで進むマーケ活用" width="360" height="202">
-            </div>
-          </a>
-        
-    <a href="/tips/column/?category=store
-&page_no=1#list"class="js-hover-gradient-opacity js-animate-bg group/link relative z-10 max-w-200 text-gray-2 lg:max-w-300">
-        <span class="absolute inset-0 rounded-10 bg-bg" style="touch-action: pan-y;"></span>
-        <span
-            class="block rounded-10 gradient-bg bg-clip-text pt-2 pr-3 pb-2 pl-10 text-11 leading-[1.6] lg:pr-4 lg:pb-2 lg:text-14"
-            style="touch-action: pan-y;">
-            <span
-                class="block -translate-y-4 rounded-10 gradient-bg bg-clip-text text-gray-2 transition-colors duration-400 ease-main group-hover/link:text-transparent">
-                対面決済・店舗DX
-            </span>
-        </span>
-    </a>
-
-        </div>
-      </div>
-      <div class="pointer-events-none absolute inset-0 size-full rounded-10 bg-gradient-to-b from-transparent from-30% to-black-1/70 to-70%">
-      </div>
-     <div>
-        <div class="pointer-events-none relative mt-30 flex h-full pr-[calc(var(--grid-pc)*4)] text-white">
-          <div class="flex w-full flex-col gap-y-20 lg:gap-y-25">
-            <ul class="flex flex-wrap gap-x-15 gap-y-7 lg:gap-y-10">
-            
-              
-                <li class="leading-trim flex text-11 lg:text-14">
-                <a href="/tips/column/?tag=store
-&page_no=1#list" class="pointer-events-auto transition-opacity ease-main hover:opacity-80" data-aug-image="">
-                    <span class="w-14 text-center">#</span>
-                    店舗向け決済
-                </a>
-                </li>
-              
-                <li class="leading-trim flex text-11 lg:text-14">
-                <a href="/tips/column/?tag=QR
-&page_no=1#list" class="pointer-events-auto transition-opacity ease-main hover:opacity-80" data-aug-image="">
-                    <span class="w-14 text-center">#</span>
-                    QRコード決済
-                </a>
-                </li>
-              
-                <li class="leading-trim flex text-11 lg:text-14">
-                <a href="/tips/column/?tag=omnichannel
-&page_no=1#list" class="pointer-events-auto transition-opacity ease-main hover:opacity-80" data-aug-image="">
-                    <span class="w-14 text-center">#</span>
-                    オムニチャネル
-                </a>
-                </li>
-              
-            
-            </ul>
-           <a href="https://www.garage.co.jp/portal/44568/" data-aug-image class="pointer-events-auto leading-trim line-clamp-2 text-16 leading-[1.6] transition-opacity ease-main hover:opacity-80 lg:text-18">
-                      キャッシュレスは「支払い」から「顧客育成」へ ゲームセンターで進むマーケ活用
-                  </a>
-            <div class="flex items-center gap-x-10 text-12 leading-[1] lg:text-14">
-              <span class="flex items-center gap-x-10 after:block after:h-10 after:w-1 after:bg-current">
-                更新日
-              </span>
-              <time datetime="2026-04-28" class="leading-trim leading-[1.5]">
-                2026.04.28
-              </time>
-            </div>
-          </div>
-        </div>
-      </div>
-    
-   <div class="pointer-events-none grid size-30 rounded-full bg-bg/50 p-9 lg:size-35 lg:p-11 group-hover:bg-bg/70 [.is-hovering_&#38;]:bg-bg/70 transition-colors duration-300 ease-main *:col-span-full *:row-span-full *:block *:size-13 *:transition-opacity *:duration-300 *:ease-main absolute right-10 bottom-10 lg:right-20 lg:bottom-20">
-  <span class="bg-current opacity-100 group-hover:opacity-0 [.is-hovering_&#38;]:opacity-0" style="clip-path: url(#s-blankClip)">
-  </span>
-  <span class="js-animate-bg gradient-bg-fixed-opacity opacity-0 group-hover:opacity-100 [.is-hovering_&#38;]:opacity-100" style="clip-path: url(#s-blankClip)">
-  </span>
-</div>
-    
-    </div>
-  </div>
-  </li>
-  
   <!-- /Column card -->
   </ul>
      
@@ -4505,7 +4556,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <p class="leading-trim text-14 lg:text-16">各種サービスに関しては資料ダウンロードから、費用や導入に関するご相談はお問い合わせにてご連絡ください。</p>
           <div class="mt-32 w-full text-center lg:mt-29 lg:text-left">
             <div class="flex flex-wrap gap-10 lg:gap-20">
-            <a href="/download/" class="group js-split-text-trigger relative flex min-h-35 cursor-pointer items-center gap-x-7 rounded-full border text-[min(calc(var(--grid-sp)*1.2),0.75rem)] leading-[1.2] tracking-[0.04em] !no-underline lg:text-[min(calc(var(--grid-pc)*1.4),0.875rem)] lg:min-h-35 lg:px-22 [--gradient-opacity:1] [--gradient-position:0] w-full justify-center border-white px-[calc(var(--grid-sp)*1.8)] py-12 text-white lg:w-auto lg:min-w-236 lg:py-16 lg:!text-16 [&#38;_span:last-child>span>span]:bg-white" target="_self" data-delay="0">
+            <a href="/download/" class="group js-split-text-trigger relative flex min-h-35 cursor-pointer items-center gap-x-7 rounded-full border text-[min(calc(var(--grid-sp)*1.2),0.75rem)] leading-[1.2] tracking-[0.04em] !no-underline lg:text-[min(calc(var(--grid-pc)*1.4),0.875rem)] lg:min-h-35 lg:px-22 [--gradient-opacity:1] [--gradient-position:0] w-full justify-center border-white px-[calc(var(--grid-sp)*1.8)] py-12 text-white lg:w-auto lg:min-w-236 lg:py-16 lg:!text-16 [&#38;_span:last-child>span>span]:bg-white" target="_self" data-delay="0" data-gtm-click="nav_click" data-gtm-category="body_cta" data-gtm-label="導入をご検討中の方は
+お気軽にお問い合わせください 資料をダウンロードするボタン">
         
         
         
@@ -4518,7 +4570,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </span>
             
       </a>
-              <a href="/contact/inquiry.html" class="group js-split-text-trigger relative flex min-h-35 cursor-pointer items-center gap-x-7 rounded-full border-black-1 text-[min(calc(var(--grid-sp)*1.2),0.75rem)] leading-[1.2] tracking-[0.04em] !no-underline lg:text-[min(calc(var(--grid-pc)*1.4),0.875rem)] lg:min-h-35 lg:px-22 [--gradient-opacity:1] [--gradient-position:0] w-full justify-center border-0 bg-white px-[calc(var(--grid-sp)*1.8)] py-12 text-brand lg:w-auto lg:min-w-236 lg:py-16 lg:!text-16" target="_self" data-delay="0">
+              <a href="/contact/inquiry.html" class="group js-split-text-trigger relative flex min-h-35 cursor-pointer items-center gap-x-7 rounded-full border-black-1 text-[min(calc(var(--grid-sp)*1.2),0.75rem)] leading-[1.2] tracking-[0.04em] !no-underline lg:text-[min(calc(var(--grid-pc)*1.4),0.875rem)] lg:min-h-35 lg:px-22 [--gradient-opacity:1] [--gradient-position:0] w-full justify-center border-0 bg-white px-[calc(var(--grid-sp)*1.8)] py-12 text-brand lg:w-auto lg:min-w-236 lg:py-16 lg:!text-16" target="_self" data-delay="0" data-gtm-click="nav_click" data-gtm-category="body_cta" data-gtm-label="導入をご検討中の方は
+お気軽にお問い合わせください お問い合わせするボタン">
         
         
         
@@ -4565,7 +4618,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               </div>
             </div>
             <div class="mt-30 grid justify-center lg:mt-0">
-              <a href="/contact/" class="group js-split-text-trigger relative flex min-h-35 w-fit cursor-pointer items-center justify-center gap-x-7 rounded-full border border-black-1 text-[min(calc(var(--grid-sp)*1.2),0.75rem)] leading-[1.2] tracking-[0.04em] text-[color:var(--color-black-1)] !no-underline lg:text-[min(calc(var(--grid-pc)*1.4),0.875rem)] lg:min-h-35 [--gradient-opacity:1] [--gradient-position:0] px-62 py-15 lg:px-22 lg:py-12" target="_self" data-delay="0">
+              <a href="/contact/" class="group js-split-text-trigger relative flex min-h-35 w-fit cursor-pointer items-center justify-center gap-x-7 rounded-full border border-black-1 text-[min(calc(var(--grid-sp)*1.2),0.75rem)] leading-[1.2] tracking-[0.04em] text-[color:var(--color-black-1)] !no-underline lg:text-[min(calc(var(--grid-pc)*1.4),0.875rem)] lg:min-h-35 [--gradient-opacity:1] [--gradient-position:0] px-62 py-15 lg:px-22 lg:py-12" target="_self" data-delay="0" data-gtm-click="nav_click" data-gtm-category="footer_cta" data-gtm-label="お問い合わせ">
         
         
         
