@@ -3,14 +3,14 @@
   <head>
     <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1.0,viewport-fit=cover">
-<meta name="description" content="クレジットカード決済、コンビニ決済、キャリア決済やAlipay等の国際決済まで、EC・店舗、国内・海外など各チャネルに応じた決済代行サービスから越境EC、EC支援など、決済代行会社DGフィナンシャルテクノロジー（DGFT）がeコマース事業者の成長を支えるサービスを提供" />
+<meta name="description" content="クレジットカード決済、コンビニ決済、キャリア決済やAlipay等の国際決済まで、EC・店舗、国内・海外など各チャネルに応じた決済代行サービスから越境EC、EC支援など、決済代行会社DGフィナンシャルテクノロジー（旧：ベリトランス）がeコマース事業者の成長を支えるサービスを提供" />
 <title>DGFT｜オンライン・店舗向けの決済代行なら株式会社DGフィナンシャルテクノロジー（旧ベリトランス）</title>
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="icon" href="/favicon.ico">
 <link rel="apple-touch-icon" href="/apple-touch-icon.png">
 <meta property="og:type" content="website">
 <meta property="og:title" content="DGFT｜オンライン・店舗向けの決済代行なら株式会社DGフィナンシャルテクノロジー（旧ベリトランス）">
-<meta property="og:description" content="クレジットカード決済、コンビニ決済、キャリア決済やAlipay等の国際決済まで、EC・店舗、国内・海外など各チャネルに応じた決済代行サービスから越境EC、EC支援など、決済代行会社DGフィナンシャルテクノロジー（DGFT）がeコマース事業者の成長を支えるサービスを提供">
+<meta property="og:description" content="クレジットカード決済、コンビニ決済、キャリア決済やAlipay等の国際決済まで、EC・店舗、国内・海外など各チャネルに応じた決済代行サービスから越境EC、EC支援など、決済代行会社DGフィナンシャルテクノロジー（旧：ベリトランス）がeコマース事業者の成長を支えるサービスを提供">
 <meta property="og:url" content="https://www.dgft.jp/">
 <meta property="og:site_name" content="DGFT">
 <meta property="og:image" content="https://www.dgft.jp/assets/images/ogp.png">
@@ -1825,6 +1825,45 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <li class="js-horizontal-list-item w-full translate-x-[10%] scale-105 opacity-0 lg:translate-x-[15%]">
                 <div class="group relative block h-full w-full rounded-10 bg-white hover:scale-[1.02] hover:rounded-15 hover:shadow transition-all duration-300 ease-main">
                   <div class="relative grid h-full w-full grid-cols-1 grid-rows-[1fr_auto] content-start gap-x-[calc(var(--grid-pc)*6)] gap-y-0">
+                    <a class="col-span-full row-[1/3] grid grid-rows-subgrid gap-y-40 p-20 pt-30 pb-0 lg:p-30" href="https://corp.scoring.jp/news-marketingweek2026sum/" target="_blank">
+                      <div class="grid content-start">
+                        <div class="flex h-full">
+                          <div class="grid w-full flex-col gap-y-25">
+                            <div class="grid gap-y-20">
+                              <time datetime="2026.06.02" class="leading-trim text-12 leading-[1.5] text-gray-4">
+                                2026.06.02
+                              </time>
+                            </div>
+                            <div class="leading-trim text-14 leading-[1.8] lg:text-15 lg:leading-[1.9]">
+                              ＜グループ会社からのお知らせ＞「マーケティングWeek（MaS マズ）-夏展-」SCORE出展のお知らせ
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </a>
+                    <ul class="pointer-events-none col-span-full row-[2/3] mt-auto flex flex-wrap gap-x-8 gap-y-8 self-end p-20 pr-50 pb-20 text-11 lg:gap-x-16 lg:pr-70 lg:pb-30 lg:pl-30 lg:text-14">
+                      <li class="-mr-2 -ml-6 text-11/15 lg:text-13/19">
+                        
+  <a class="js-animate-bg group/tag pointer-events-auto gradient-border-fixed-opacity relative flex overflow-clip rounded-4 gradient-bg-fixed-opacity bg-clip-text py-2 pr-6 pl-4 text-transparent transition-colors duration-400 ease-main hover:text-white" href="https://company.dgft.jp/news/?category=news" target="_blank">
+    お知らせ
+    <span class="absolute inset-0 -z-10 gradient-bg-fixed-opacity bg-position-[inherit] opacity-0 transition-opacity duration-600 ease-main group-hover/tag:opacity-100"></span>
+  </a>
+  
+</li>
+                    </ul>
+                    <div class="pointer-events-none grid size-30 rounded-full p-9 lg:size-35 lg:p-11 [.is-hovering_&#38;]:bg-bg/70 transition-colors duration-300 ease-main *:col-span-full *:row-span-full *:block *:size-13 *:transition-opacity *:duration-300 *:ease-main absolute right-10 bottom-10 bg-bg group-hover:bg-brand-light-3 group-hover:opacity-100 lg:right-20 lg:bottom-20">
+  <span class="bg-current opacity-100 [.is-hovering_&#38;]:opacity-0" style="clip-path: url(#s-blankClip)">
+  </span>
+  <span class="js-animate-bg gradient-bg-fixed-opacity opacity-0 [.is-hovering_&#38;]:opacity-100" style="clip-path: url(#s-blankClip)">
+  </span>
+</div>
+                  </div>
+                </div>
+              </li>
+              
+          <li class="js-horizontal-list-item w-full translate-x-[10%] scale-105 opacity-0 lg:translate-x-[15%]">
+                <div class="group relative block h-full w-full rounded-10 bg-white hover:scale-[1.02] hover:rounded-15 hover:shadow transition-all duration-300 ease-main">
+                  <div class="relative grid h-full w-full grid-cols-1 grid-rows-[1fr_auto] content-start gap-x-[calc(var(--grid-pc)*6)] gap-y-0">
                     <a class="col-span-full row-[1/3] grid grid-rows-subgrid gap-y-40 p-20 pt-30 pb-0 lg:p-30" href="https://www.garage.co.jp/pr/release/20260427/" target="_blank">
                       <div class="grid content-start">
                         <div class="flex h-full">
@@ -1914,45 +1953,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </div>
                             <div class="leading-trim text-14 leading-[1.8] lg:text-15 lg:leading-[1.9]">
                               ＜グループ会社からのお知らせ＞【国内初】エバー航空とマイレージプログラムの国内提携パートナー契約を締結
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </a>
-                    <ul class="pointer-events-none col-span-full row-[2/3] mt-auto flex flex-wrap gap-x-8 gap-y-8 self-end p-20 pr-50 pb-20 text-11 lg:gap-x-16 lg:pr-70 lg:pb-30 lg:pl-30 lg:text-14">
-                      <li class="-mr-2 -ml-6 text-11/15 lg:text-13/19">
-                        
-  <a class="js-animate-bg group/tag pointer-events-auto gradient-border-fixed-opacity relative flex overflow-clip rounded-4 gradient-bg-fixed-opacity bg-clip-text py-2 pr-6 pl-4 text-transparent transition-colors duration-400 ease-main hover:text-white" href="https://company.dgft.jp/news/?category=news" target="_blank">
-    お知らせ
-    <span class="absolute inset-0 -z-10 gradient-bg-fixed-opacity bg-position-[inherit] opacity-0 transition-opacity duration-600 ease-main group-hover/tag:opacity-100"></span>
-  </a>
-  
-</li>
-                    </ul>
-                    <div class="pointer-events-none grid size-30 rounded-full p-9 lg:size-35 lg:p-11 [.is-hovering_&#38;]:bg-bg/70 transition-colors duration-300 ease-main *:col-span-full *:row-span-full *:block *:size-13 *:transition-opacity *:duration-300 *:ease-main absolute right-10 bottom-10 bg-bg group-hover:bg-brand-light-3 group-hover:opacity-100 lg:right-20 lg:bottom-20">
-  <span class="bg-current opacity-100 [.is-hovering_&#38;]:opacity-0" style="clip-path: url(#s-blankClip)">
-  </span>
-  <span class="js-animate-bg gradient-bg-fixed-opacity opacity-0 [.is-hovering_&#38;]:opacity-100" style="clip-path: url(#s-blankClip)">
-  </span>
-</div>
-                  </div>
-                </div>
-              </li>
-              
-          <li class="js-horizontal-list-item w-full translate-x-[10%] scale-105 opacity-0 lg:translate-x-[15%]">
-                <div class="group relative block h-full w-full rounded-10 bg-white hover:scale-[1.02] hover:rounded-15 hover:shadow transition-all duration-300 ease-main">
-                  <div class="relative grid h-full w-full grid-cols-1 grid-rows-[1fr_auto] content-start gap-x-[calc(var(--grid-pc)*6)] gap-y-0">
-                    <a class="col-span-full row-[1/3] grid grid-rows-subgrid gap-y-40 p-20 pt-30 pb-0 lg:p-30" href="https://company.dgft.jp/news/20260421.html" target="_blank">
-                      <div class="grid content-start">
-                        <div class="flex h-full">
-                          <div class="grid w-full flex-col gap-y-25">
-                            <div class="grid gap-y-20">
-                              <time datetime="2026.04.21" class="leading-trim text-12 leading-[1.5] text-gray-4">
-                                2026.04.21
-                              </time>
-                            </div>
-                            <div class="leading-trim text-14 leading-[1.8] lg:text-15 lg:leading-[1.9]">
-                              ウェブサイトリニューアルのお知らせ
                             </div>
                           </div>
                         </div>
@@ -4648,7 +4648,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         
       </span>
     </button>
-<a class="group/link js-hover-gradient-opacity js-shift-text hidden text-17 leading-20 text-black-1 lg:block" href="/services/">
+<a class="group/link js-hover-gradient-opacity js-shift-text hidden text-17 leading-20 text-black-1 lg:block" href="/services/" data-gtm-click="nav_click" data-gtm-category="footer_nav" data-gtm-label="提供サービス">
   <span class="text-17/none relative inline-block overflow-hidden *:transition-colors *:duration-400 *:ease-main *:group-hover/link:text-transparent lg:whitespace-nowrap">
     <span class="js-animate-bg block w-full gradient-bg bg-clip-text py-4" data-target>
       提供サービス
@@ -4662,7 +4662,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <dd class="js-accordion-content grid h-0 w-full overflow-hidden lg:!visible lg:mt-26 lg:!h-auto lg:grid-rows-none lg:overflow-visible lg:!opacity-100" aria-hidden="true">
                   <ul class="flex min-h-0 w-full min-w-180 flex-col lg:flex-col lg:gap-x-[calc(var(--grid-pc)*4)] lg:gap-y-30 lg:py-0">
                     <li class="mt-16 grid w-full items-start gap-y-14 last:mb-30 lg:mt-0 lg:gap-y-15 lg:last:mb-0 lg:hidden">
-                            <a class="group/link js-hover-gradient-opacity js-shift-text flex w-full items-center text-gray-2 lg:py-3 lg:text-black-1" href="/services/" target="_self">
+                            <a class="group/link js-hover-gradient-opacity js-shift-text flex w-full items-center text-gray-2 lg:py-3 lg:text-black-1" href="/services/" target="_self" data-gtm-click="nav_click" data-gtm-category="footer_nav" data-gtm-label="提供サービス一覧">
   <span class="relative inline-block overflow-hidden text-14 leading-14 *:transition-colors *:duration-400 *:ease-main *:group-hover/link:text-transparent lg:whitespace-nowrap">
     
       <span class="js-animate-bg block w-full gradient-bg bg-clip-text py-4" data-target>
@@ -4677,7 +4677,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </a>
                             
                           </li><li class="mt-16 grid w-full items-start gap-y-14 last:mb-30 lg:mt-0 lg:gap-y-15 lg:last:mb-0">
-                            <a class="group/link js-hover-gradient-opacity js-shift-text flex w-full items-center text-gray-2 lg:py-3 lg:text-black-1" href="/services/online/" target="_self">
+                            <a class="group/link js-hover-gradient-opacity js-shift-text flex w-full items-center text-gray-2 lg:py-3 lg:text-black-1" href="/services/online/" target="_self" data-gtm-click="nav_click" data-gtm-category="footer_nav" data-gtm-label="オンライン決済サービス">
   <span class="relative inline-block overflow-hidden text-14 leading-14 *:transition-colors *:duration-400 *:ease-main *:group-hover/link:text-transparent lg:whitespace-nowrap">
     
       <span class="js-animate-bg block w-full gradient-bg bg-clip-text py-4" data-target>
@@ -4692,7 +4692,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </a>
                             <ul class="leading-trim grid gap-y-4 pl-20 text-13 lg:gap-y-2 lg:pl-0">
                                 <li>
-                                    <a class="group/link js-hover-gradient-opacity js-shift-text flex w-full items-center leading-[2.2] text-gray-2" href="/services/online/maillink.html" target="_self">
+                                    <a class="group/link js-hover-gradient-opacity js-shift-text flex w-full items-center leading-[2.2] text-gray-2" href="/services/online/maillink.html" target="_self" data-gtm-click="nav_click" data-gtm-category="footer_nav" data-gtm-label="メールリンク">
   <span class="relative inline-block overflow-hidden text-13 *:transition-colors *:duration-400 *:ease-main *:group-hover/link:text-transparent lg:whitespace-nowrap">
     <span class="js-animate-bg block w-full gradient-bg bg-clip-text" data-target>
       メールリンク
@@ -4704,7 +4704,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   
 </a>
                                   </li><li>
-                                    <a class="group/link js-hover-gradient-opacity js-shift-text flex w-full items-center leading-[2.2] text-gray-2" href="/services/online/card-save.html" target="_self">
+                                    <a class="group/link js-hover-gradient-opacity js-shift-text flex w-full items-center leading-[2.2] text-gray-2" href="/services/online/card-save.html" target="_self" data-gtm-click="nav_click" data-gtm-category="footer_nav" data-gtm-label="カード番号保存機能">
   <span class="relative inline-block overflow-hidden text-13 *:transition-colors *:duration-400 *:ease-main *:group-hover/link:text-transparent lg:whitespace-nowrap">
     <span class="js-animate-bg block w-full gradient-bg bg-clip-text" data-target>
       カード番号保存機能
@@ -4716,7 +4716,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   
 </a>
                                   </li><li>
-                                    <a class="group/link js-hover-gradient-opacity js-shift-text flex w-full items-center leading-[2.2] text-gray-2" href="/services/online/ivr.html" target="_self">
+                                    <a class="group/link js-hover-gradient-opacity js-shift-text flex w-full items-center leading-[2.2] text-gray-2" href="/services/online/ivr.html" target="_self" data-gtm-click="nav_click" data-gtm-category="footer_nav" data-gtm-label="IVR決済（音声自動応答）">
   <span class="relative inline-block overflow-hidden text-13 *:transition-colors *:duration-400 *:ease-main *:group-hover/link:text-transparent lg:whitespace-nowrap">
     <span class="js-animate-bg block w-full gradient-bg bg-clip-text" data-target>
       IVR決済（音声自動応答）
@@ -4728,7 +4728,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   
 </a>
                                   </li><li>
-                                    <a class="group/link js-hover-gradient-opacity js-shift-text flex w-full items-center leading-[2.2] text-gray-2" href="https://www.sumapay.jp/" target="_blank">
+                                    <a class="group/link js-hover-gradient-opacity js-shift-text flex w-full items-center leading-[2.2] text-gray-2" href="https://www.sumapay.jp/" target="_blank" data-gtm-click="nav_click" data-gtm-category="footer_nav" data-gtm-label="不動産業界向け決済サービス">
   <span class="relative inline-block overflow-hidden text-13 *:transition-colors *:duration-400 *:ease-main *:group-hover/link:text-transparent lg:whitespace-nowrap">
     <span class="js-animate-bg block w-full gradient-bg bg-clip-text" data-target>
       不動産業界向け決済サービス
@@ -4745,7 +4745,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </span>                          
 </a>
                                   </li><li>
-                                    <a class="group/link js-hover-gradient-opacity js-shift-text flex w-full items-center leading-[2.2] text-gray-2" href="/services/online/ceremonypay.html" target="_self">
+                                    <a class="group/link js-hover-gradient-opacity js-shift-text flex w-full items-center leading-[2.2] text-gray-2" href="/services/online/ceremonypay.html" target="_self" data-gtm-click="nav_click" data-gtm-category="footer_nav" data-gtm-label="葬祭向け決済サービス">
   <span class="relative inline-block overflow-hidden text-13 *:transition-colors *:duration-400 *:ease-main *:group-hover/link:text-transparent lg:whitespace-nowrap">
     <span class="js-animate-bg block w-full gradient-bg bg-clip-text" data-target>
       葬祭向け決済サービス
@@ -4757,7 +4757,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   
 </a>
                                   </li><li>
-                                    <a class="group/link js-hover-gradient-opacity js-shift-text flex w-full items-center leading-[2.2] text-gray-2" href="https://cureport.jp/" target="_blank">
+                                    <a class="group/link js-hover-gradient-opacity js-shift-text flex w-full items-center leading-[2.2] text-gray-2" href="https://cureport.jp/" target="_blank" data-gtm-click="nav_click" data-gtm-category="footer_nav" data-gtm-label="医療機関向け決済サービス">
   <span class="relative inline-block overflow-hidden text-13 *:transition-colors *:duration-400 *:ease-main *:group-hover/link:text-transparent lg:whitespace-nowrap">
     <span class="js-animate-bg block w-full gradient-bg bg-clip-text" data-target>
       医療機関向け決済サービス
@@ -4774,7 +4774,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       </span>
 </a>
                                   </li><li>
-                                    <a class="group/link js-hover-gradient-opacity js-shift-text flex w-full items-center leading-[2.2] text-gray-2" href="https://service.app-pay.jp/" target="_blank">
+                                    <a class="group/link js-hover-gradient-opacity js-shift-text flex w-full items-center leading-[2.2] text-gray-2" href="https://service.app-pay.jp/" target="_blank" data-gtm-click="nav_click" data-gtm-category="footer_nav" data-gtm-label="アプリ外課金サービス">
   <span class="relative inline-block overflow-hidden text-13 *:transition-colors *:duration-400 *:ease-main *:group-hover/link:text-transparent lg:whitespace-nowrap">
     <span class="js-animate-bg block w-full gradient-bg bg-clip-text" data-target>
       アプリ外課金サービス
@@ -4791,7 +4791,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       </span>
 </a>
                                   </li><li>
-                                    <a class="group/link js-hover-gradient-opacity js-shift-text flex w-full items-center leading-[2.2] text-gray-2" href="/services/online/partner.html" target="_self">
+                                    <a class="group/link js-hover-gradient-opacity js-shift-text flex w-full items-center leading-[2.2] text-gray-2" href="/services/online/partner.html" target="_self" data-gtm-click="nav_click" data-gtm-category="footer_nav" data-gtm-label="オンライン提携パートナー">
   <span class="relative inline-block overflow-hidden text-13 *:transition-colors *:duration-400 *:ease-main *:group-hover/link:text-transparent lg:whitespace-nowrap">
     <span class="js-animate-bg block w-full gradient-bg bg-clip-text" data-target>
       オンライン提携パートナー
@@ -4805,7 +4805,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                   </li>
                               </ul>
                           </li><li class="mt-16 grid w-full items-start gap-y-14 last:mb-30 lg:mt-0 lg:gap-y-15 lg:last:mb-0">
-                            <a class="group/link js-hover-gradient-opacity js-shift-text flex w-full items-center text-gray-2 lg:py-3 lg:text-black-1" href="/services/offline/" target="_self">
+                            <a class="group/link js-hover-gradient-opacity js-shift-text flex w-full items-center text-gray-2 lg:py-3 lg:text-black-1" href="/services/offline/" target="_self" data-gtm-click="nav_click" data-gtm-category="footer_nav" data-gtm-label="店舗向け決済サービス">
   <span class="relative inline-block overflow-hidden text-14 leading-14 *:transition-colors *:duration-400 *:ease-main *:group-hover/link:text-transparent lg:whitespace-nowrap">
     
       <span class="js-animate-bg block w-full gradient-bg bg-clip-text py-4" data-target>
@@ -4820,7 +4820,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </a>
                             <ul class="leading-trim grid gap-y-4 pl-20 text-13 lg:gap-y-2 lg:pl-0">
                                 <li>
-                                    <a class="group/link js-hover-gradient-opacity js-shift-text flex w-full items-center leading-[2.2] text-gray-2" href="/services/offline/cloudpayneo.html" target="_self">
+                                    <a class="group/link js-hover-gradient-opacity js-shift-text flex w-full items-center leading-[2.2] text-gray-2" href="/services/offline/cloudpayneo.html" target="_self" data-gtm-click="nav_click" data-gtm-category="footer_nav" data-gtm-label="端末レス決済サービス">
   <span class="relative inline-block overflow-hidden text-13 *:transition-colors *:duration-400 *:ease-main *:group-hover/link:text-transparent lg:whitespace-nowrap">
     <span class="js-animate-bg block w-full gradient-bg bg-clip-text" data-target>
       端末レス決済サービス
@@ -4832,7 +4832,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   
 </a>
                                   </li><li>
-                                    <a class="group/link js-hover-gradient-opacity js-shift-text flex w-full items-center leading-[2.2] text-gray-2" href="/services/offline/pos_payment.html" target="_self">
+                                    <a class="group/link js-hover-gradient-opacity js-shift-text flex w-full items-center leading-[2.2] text-gray-2" href="/services/offline/pos_payment.html" target="_self" data-gtm-click="nav_click" data-gtm-category="footer_nav" data-gtm-label="POS向けQRコード決済ソリューション">
   <span class="relative inline-block overflow-hidden text-13 *:transition-colors *:duration-400 *:ease-main *:group-hover/link:text-transparent lg:whitespace-nowrap">
     <span class="js-animate-bg block w-full gradient-bg bg-clip-text" data-target>
       POS向けQRコード決済ソリューション
@@ -4844,7 +4844,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   
 </a>
                                   </li><li>
-                                    <a class="group/link js-hover-gradient-opacity js-shift-text flex w-full items-center leading-[2.2] text-gray-2" href="/services/offline/omnipay.html" target="_self">
+                                    <a class="group/link js-hover-gradient-opacity js-shift-text flex w-full items-center leading-[2.2] text-gray-2" href="/services/offline/omnipay.html" target="_self" data-gtm-click="nav_click" data-gtm-category="footer_nav" data-gtm-label="オムニチャネル決済サービス">
   <span class="relative inline-block overflow-hidden text-13 *:transition-colors *:duration-400 *:ease-main *:group-hover/link:text-transparent lg:whitespace-nowrap">
     <span class="js-animate-bg block w-full gradient-bg bg-clip-text" data-target>
       オムニチャネル決済サービス
@@ -4856,7 +4856,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   
 </a>
                                   </li><li>
-                                    <a class="group/link js-hover-gradient-opacity js-shift-text flex w-full items-center leading-[2.2] text-gray-2" href="/services/offline/biometrics.html" target="_self">
+                                    <a class="group/link js-hover-gradient-opacity js-shift-text flex w-full items-center leading-[2.2] text-gray-2" href="/services/offline/biometrics.html" target="_self" data-gtm-click="nav_click" data-gtm-category="footer_nav" data-gtm-label="生体認証決済">
   <span class="relative inline-block overflow-hidden text-13 *:transition-colors *:duration-400 *:ease-main *:group-hover/link:text-transparent lg:whitespace-nowrap">
     <span class="js-animate-bg block w-full gradient-bg bg-clip-text" data-target>
       生体認証決済
@@ -4868,7 +4868,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   
 </a>
                                   </li><li>
-                                    <a class="group/link js-hover-gradient-opacity js-shift-text flex w-full items-center leading-[2.2] text-gray-2" href="/services/offline/partner.html" target="_self">
+                                    <a class="group/link js-hover-gradient-opacity js-shift-text flex w-full items-center leading-[2.2] text-gray-2" href="/services/offline/partner.html" target="_self" data-gtm-click="nav_click" data-gtm-category="footer_nav" data-gtm-label="店舗向け（対面決済）提携パートナー">
   <span class="relative inline-block overflow-hidden text-13 *:transition-colors *:duration-400 *:ease-main *:group-hover/link:text-transparent lg:whitespace-nowrap">
     <span class="js-animate-bg block w-full gradient-bg bg-clip-text" data-target>
       店舗向け（対面決済）提携パートナー
@@ -4882,7 +4882,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                   </li>
                               </ul>
                           </li><li class="mt-16 grid w-full items-start gap-y-14 last:mb-30 lg:mt-0 lg:gap-y-15 lg:last:mb-0">
-                            <a class="group/link js-hover-gradient-opacity js-shift-text flex w-full items-center text-gray-2 lg:py-3 lg:text-black-1" href="https://www.dgbt.jp/solutions/" target="_blank">
+                            <a class="group/link js-hover-gradient-opacity js-shift-text flex w-full items-center text-gray-2 lg:py-3 lg:text-black-1" href="https://www.dgbt.jp/solutions/" target="_blank" data-gtm-click="nav_click" data-gtm-category="footer_nav" data-gtm-label="EC総合支援サービス">
   <span class="relative inline-block overflow-hidden text-14 leading-14 *:transition-colors *:duration-400 *:ease-main *:group-hover/link:text-transparent lg:whitespace-nowrap">
     
       <span class="js-animate-bg block w-full gradient-bg bg-clip-text py-4" data-target>
@@ -4918,7 +4918,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         
       </span>
     </button>
-<a class="group/link js-hover-gradient-opacity js-shift-text hidden text-17 leading-20 text-black-1 lg:block" href="/payment/">
+<a class="group/link js-hover-gradient-opacity js-shift-text hidden text-17 leading-20 text-black-1 lg:block" href="/payment/" data-gtm-click="nav_click" data-gtm-category="footer_nav" data-gtm-label="決済手段一覧">
   <span class="text-17/none relative inline-block overflow-hidden *:transition-colors *:duration-400 *:ease-main *:group-hover/link:text-transparent lg:whitespace-nowrap">
     <span class="js-animate-bg block w-full gradient-bg bg-clip-text py-4" data-target>
       決済手段一覧
@@ -4932,7 +4932,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <dd class="js-accordion-content grid h-0 w-full overflow-hidden lg:!visible lg:mt-26 lg:!h-auto lg:grid-rows-none lg:overflow-visible lg:!opacity-100" aria-hidden="true">
                   <ul class="flex min-h-0 w-full min-w-180 flex-col lg:flex-col lg:gap-x-[calc(var(--grid-pc)*4)] lg:gap-y-7 lg:py-0">
                     <li class="mt-12 grid w-full items-start gap-y-14 last:mb-30 lg:mt-0 lg:gap-y-15 lg:last:mb-0 lg:hidden">
-                            <a class="group/link js-hover-gradient-opacity js-shift-text flex w-full items-center text-gray-2 lg:py-3 lg:text-black-1" href="/payment/" target="_self">
+                            <a class="group/link js-hover-gradient-opacity js-shift-text flex w-full items-center text-gray-2 lg:py-3 lg:text-black-1" href="/payment/" target="_self" data-gtm-click="nav_click" data-gtm-category="footer_nav" data-gtm-label="決済手段一覧">
   <span class="relative inline-block overflow-hidden text-14 leading-14 *:transition-colors *:duration-400 *:ease-main *:group-hover/link:text-transparent lg:whitespace-nowrap">
     
       <span class="js-animate-bg block w-full gradient-bg bg-clip-text py-4" data-target>
@@ -4946,7 +4946,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   
 </a>
                           </li><li class="mt-12 grid w-full items-start gap-y-14 last:mb-30 lg:mt-0 lg:gap-y-15 lg:last:mb-0">
-                            <a class="group/link js-hover-gradient-opacity js-shift-text flex w-full items-center text-gray-2 lg:py-3 lg:text-black-1" href="/payment/card.html" target="_self">
+                            <a class="group/link js-hover-gradient-opacity js-shift-text flex w-full items-center text-gray-2 lg:py-3 lg:text-black-1" href="/payment/card.html" target="_self" data-gtm-click="nav_click" data-gtm-category="footer_nav" data-gtm-label="クレジットカード決済">
   <span class="relative inline-block overflow-hidden text-14 leading-14 *:transition-colors *:duration-400 *:ease-main *:group-hover/link:text-transparent lg:whitespace-nowrap">
     
       <span class="js-animate-bg block w-full gradient-bg bg-clip-text py-4" data-target>
@@ -4960,7 +4960,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   
 </a>
                           </li><li class="mt-12 grid w-full items-start gap-y-14 last:mb-30 lg:mt-0 lg:gap-y-15 lg:last:mb-0">
-                            <a class="group/link js-hover-gradient-opacity js-shift-text flex w-full items-center text-gray-2 lg:py-3 lg:text-black-1" href="/payment/mobile-carrier.html" target="_self">
+                            <a class="group/link js-hover-gradient-opacity js-shift-text flex w-full items-center text-gray-2 lg:py-3 lg:text-black-1" href="/payment/mobile-carrier.html" target="_self" data-gtm-click="nav_click" data-gtm-category="footer_nav" data-gtm-label="キャリア決済">
   <span class="relative inline-block overflow-hidden text-14 leading-14 *:transition-colors *:duration-400 *:ease-main *:group-hover/link:text-transparent lg:whitespace-nowrap">
     
       <span class="js-animate-bg block w-full gradient-bg bg-clip-text py-4" data-target>
@@ -4974,7 +4974,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   
 </a>
                           </li><li class="mt-12 grid w-full items-start gap-y-14 last:mb-30 lg:mt-0 lg:gap-y-15 lg:last:mb-0">
-                            <a class="group/link js-hover-gradient-opacity js-shift-text flex w-full items-center text-gray-2 lg:py-3 lg:text-black-1" href="/payment/cvs.html" target="_self">
+                            <a class="group/link js-hover-gradient-opacity js-shift-text flex w-full items-center text-gray-2 lg:py-3 lg:text-black-1" href="/payment/cvs.html" target="_self" data-gtm-click="nav_click" data-gtm-category="footer_nav" data-gtm-label="コンビニ決済">
   <span class="relative inline-block overflow-hidden text-14 leading-14 *:transition-colors *:duration-400 *:ease-main *:group-hover/link:text-transparent lg:whitespace-nowrap">
     
       <span class="js-animate-bg block w-full gradient-bg bg-clip-text py-4" data-target>
@@ -4988,7 +4988,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   
 </a>
                           </li><li class="mt-12 grid w-full items-start gap-y-14 last:mb-30 lg:mt-0 lg:gap-y-15 lg:last:mb-0">
-                            <a class="group/link js-hover-gradient-opacity js-shift-text flex w-full items-center text-gray-2 lg:py-3 lg:text-black-1" href="/payment/emoney.html" target="_self">
+                            <a class="group/link js-hover-gradient-opacity js-shift-text flex w-full items-center text-gray-2 lg:py-3 lg:text-black-1" href="/payment/emoney.html" target="_self" data-gtm-click="nav_click" data-gtm-category="footer_nav" data-gtm-label="電子マネー決済">
   <span class="relative inline-block overflow-hidden text-14 leading-14 *:transition-colors *:duration-400 *:ease-main *:group-hover/link:text-transparent lg:whitespace-nowrap">
     
       <span class="js-animate-bg block w-full gradient-bg bg-clip-text py-4" data-target>
@@ -5002,7 +5002,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   
 </a>
                           </li><li class="mt-12 grid w-full items-start gap-y-14 last:mb-30 lg:mt-0 lg:gap-y-15 lg:last:mb-0">
-                            <a class="group/link js-hover-gradient-opacity js-shift-text flex w-full items-center text-gray-2 lg:py-3 lg:text-black-1" href="/payment/id.html" target="_self">
+                            <a class="group/link js-hover-gradient-opacity js-shift-text flex w-full items-center text-gray-2 lg:py-3 lg:text-black-1" href="/payment/id.html" target="_self" data-gtm-click="nav_click" data-gtm-category="footer_nav" data-gtm-label="ID決済">
   <span class="relative inline-block overflow-hidden text-14 leading-14 *:transition-colors *:duration-400 *:ease-main *:group-hover/link:text-transparent lg:whitespace-nowrap">
     
       <span class="js-animate-bg block w-full gradient-bg bg-clip-text py-4" data-target>
@@ -5016,7 +5016,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   
 </a>
                           </li><li class="mt-12 grid w-full items-start gap-y-14 last:mb-30 lg:mt-0 lg:gap-y-15 lg:last:mb-0">
-                            <a class="group/link js-hover-gradient-opacity js-shift-text flex w-full items-center text-gray-2 lg:py-3 lg:text-black-1" href="/payment/applepay.html" target="_self">
+                            <a class="group/link js-hover-gradient-opacity js-shift-text flex w-full items-center text-gray-2 lg:py-3 lg:text-black-1" href="/payment/applepay.html" target="_self" data-gtm-click="nav_click" data-gtm-category="footer_nav" data-gtm-label="Apple Pay決済">
   <span class="relative inline-block overflow-hidden text-14 leading-14 *:transition-colors *:duration-400 *:ease-main *:group-hover/link:text-transparent lg:whitespace-nowrap">
     
       <span class="js-animate-bg block w-full gradient-bg bg-clip-text py-4" data-target>
@@ -5030,7 +5030,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   
 </a>
                           </li><li class="mt-12 grid w-full items-start gap-y-14 last:mb-30 lg:mt-0 lg:gap-y-15 lg:last:mb-0">
-                            <a class="group/link js-hover-gradient-opacity js-shift-text flex w-full items-center text-gray-2 lg:py-3 lg:text-black-1" href="/payment/googlepay.html" target="_self">
+                            <a class="group/link js-hover-gradient-opacity js-shift-text flex w-full items-center text-gray-2 lg:py-3 lg:text-black-1" href="/payment/googlepay.html" target="_self" data-gtm-click="nav_click" data-gtm-category="footer_nav" data-gtm-label="Google Pay決済">
   <span class="relative inline-block overflow-hidden text-14 leading-14 *:transition-colors *:duration-400 *:ease-main *:group-hover/link:text-transparent lg:whitespace-nowrap">
     
       <span class="js-animate-bg block w-full gradient-bg bg-clip-text py-4" data-target>
@@ -5044,7 +5044,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   
 </a>
                           </li><li class="mt-12 grid w-full items-start gap-y-14 last:mb-30 lg:mt-0 lg:gap-y-15 lg:last:mb-0">
-                            <a class="group/link js-hover-gradient-opacity js-shift-text flex w-full items-center text-gray-2 lg:py-3 lg:text-black-1" href="/payment/atobarai.html" target="_self">
+                            <a class="group/link js-hover-gradient-opacity js-shift-text flex w-full items-center text-gray-2 lg:py-3 lg:text-black-1" href="/payment/atobarai.html" target="_self" data-gtm-click="nav_click" data-gtm-category="footer_nav" data-gtm-label="後払い決済">
   <span class="relative inline-block overflow-hidden text-14 leading-14 *:transition-colors *:duration-400 *:ease-main *:group-hover/link:text-transparent lg:whitespace-nowrap">
     
       <span class="js-animate-bg block w-full gradient-bg bg-clip-text py-4" data-target>
@@ -5057,7 +5057,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 </a>
                           </li><li class="mt-12 grid w-full items-start gap-y-14 last:mb-30 lg:mt-0 lg:gap-y-15 lg:last:mb-0">
-                            <a class="group/link js-hover-gradient-opacity js-shift-text flex w-full items-center text-gray-2 lg:py-3 lg:text-black-1" href="/payment/bank.html" target="__self">
+                            <a class="group/link js-hover-gradient-opacity js-shift-text flex w-full items-center text-gray-2 lg:py-3 lg:text-black-1" href="/payment/bank.html" target="__self" data-gtm-click="nav_click" data-gtm-category="footer_nav" data-gtm-label="銀行決済">
   <span class="relative inline-block overflow-hidden text-14 leading-14 *:transition-colors *:duration-400 *:ease-main *:group-hover/link:text-transparent lg:whitespace-nowrap">
     
       <span class="js-animate-bg block w-full gradient-bg bg-clip-text py-4" data-target>
@@ -5071,7 +5071,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   
 </a>
                           </li><li class="mt-12 grid w-full items-start gap-y-14 last:mb-30 lg:mt-0 lg:gap-y-15 lg:last:mb-0">
-                            <a class="group/link js-hover-gradient-opacity js-shift-text flex w-full items-center text-gray-2 lg:py-3 lg:text-black-1" href="/payment/web-transfer.html" target="_self">
+                            <a class="group/link js-hover-gradient-opacity js-shift-text flex w-full items-center text-gray-2 lg:py-3 lg:text-black-1" href="/payment/web-transfer.html" target="_self" data-gtm-click="nav_click" data-gtm-category="footer_nav" data-gtm-label="Web口座振替">
   <span class="relative inline-block overflow-hidden text-14 leading-14 *:transition-colors *:duration-400 *:ease-main *:group-hover/link:text-transparent lg:whitespace-nowrap">
     
       <span class="js-animate-bg block w-full gradient-bg bg-clip-text py-4" data-target>
@@ -5085,7 +5085,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   
 </a>
                           </li><li class="mt-12 grid w-full items-start gap-y-14 last:mb-30 lg:mt-0 lg:gap-y-15 lg:last:mb-0">
-                            <a class="group/link js-hover-gradient-opacity js-shift-text flex w-full items-center text-gray-2 lg:py-3 lg:text-black-1" href="/payment/multi-currency.html" target="_self">
+                            <a class="group/link js-hover-gradient-opacity js-shift-text flex w-full items-center text-gray-2 lg:py-3 lg:text-black-1" href="/payment/multi-currency.html" target="_self" data-gtm-click="nav_click" data-gtm-category="footer_nav" data-gtm-label="多通貨クレジットカード決済">
   <span class="relative inline-block overflow-hidden text-14 leading-14 *:transition-colors *:duration-400 *:ease-main *:group-hover/link:text-transparent lg:whitespace-nowrap">
     
       <span class="js-animate-bg block w-full gradient-bg bg-clip-text py-4" data-target>
@@ -5099,7 +5099,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   
 </a>
                           </li><li class="mt-12 grid w-full items-start gap-y-14 last:mb-30 lg:mt-0 lg:gap-y-15 lg:last:mb-0">
-                            <a class="group/link js-hover-gradient-opacity js-shift-text flex w-full items-center text-gray-2 lg:py-3 lg:text-black-1" href="/payment/paypal.html" target="_self">
+                            <a class="group/link js-hover-gradient-opacity js-shift-text flex w-full items-center text-gray-2 lg:py-3 lg:text-black-1" href="/payment/paypal.html" target="_self" data-gtm-click="nav_click" data-gtm-category="footer_nav" data-gtm-label="PayPal決済">
   <span class="relative inline-block overflow-hidden text-14 leading-14 *:transition-colors *:duration-400 *:ease-main *:group-hover/link:text-transparent lg:whitespace-nowrap">
     
       <span class="js-animate-bg block w-full gradient-bg bg-clip-text py-4" data-target>
@@ -5113,7 +5113,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   
 </a>
                           </li><li class="mt-12 grid w-full items-start gap-y-14 last:mb-30 lg:mt-0 lg:gap-y-15 lg:last:mb-0">
-                            <a class="group/link js-hover-gradient-opacity js-shift-text flex w-full items-center text-gray-2 lg:py-3 lg:text-black-1" href="/payment/chinaunionpay.html" target="_self">
+                            <a class="group/link js-hover-gradient-opacity js-shift-text flex w-full items-center text-gray-2 lg:py-3 lg:text-black-1" href="/payment/chinaunionpay.html" target="_self" data-gtm-click="nav_click" data-gtm-category="footer_nav" data-gtm-label="銀聯ネット決済">
   <span class="relative inline-block overflow-hidden text-14 leading-14 *:transition-colors *:duration-400 *:ease-main *:group-hover/link:text-transparent lg:whitespace-nowrap">
     
       <span class="js-animate-bg block w-full gradient-bg bg-clip-text py-4" data-target>
@@ -5127,7 +5127,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   
 </a>
                           </li><li class="mt-12 grid w-full items-start gap-y-14 last:mb-30 lg:mt-0 lg:gap-y-15 lg:last:mb-0">
-                            <a class="group/link js-hover-gradient-opacity js-shift-text flex w-full items-center text-gray-2 lg:py-3 lg:text-black-1" href="/payment/alipay-plus.html" target="_self">
+                            <a class="group/link js-hover-gradient-opacity js-shift-text flex w-full items-center text-gray-2 lg:py-3 lg:text-black-1" href="/payment/alipay-plus.html" target="_self" data-gtm-click="nav_click" data-gtm-category="footer_nav" data-gtm-label="Alipay＋決済">
   <span class="relative inline-block overflow-hidden text-14 leading-14 *:transition-colors *:duration-400 *:ease-main *:group-hover/link:text-transparent lg:whitespace-nowrap">
     
       <span class="js-animate-bg block w-full gradient-bg bg-clip-text py-4" data-target>
@@ -5158,7 +5158,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         
       </span>
     </button>
-<a class="group/link js-hover-gradient-opacity js-shift-text hidden text-17 leading-20 text-black-1 lg:block" href="/security/">
+<a class="group/link js-hover-gradient-opacity js-shift-text hidden text-17 leading-20 text-black-1 lg:block" href="/security/" data-gtm-click="nav_click" data-gtm-category="footer_nav" data-gtm-label="セキュリティ対策">
   <span class="text-17/none relative inline-block overflow-hidden *:transition-colors *:duration-400 *:ease-main *:group-hover/link:text-transparent lg:whitespace-nowrap">
     <span class="js-animate-bg block w-full gradient-bg bg-clip-text py-4" data-target>
       セキュリティ対策
@@ -5172,7 +5172,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                   <dd class="js-accordion-content grid h-0 w-full overflow-hidden lg:!visible lg:mt-26 lg:!h-auto lg:grid-rows-none lg:overflow-visible lg:!opacity-100" aria-hidden="true">
                     <ul class="flex min-h-0 w-full min-w-180 flex-col lg:flex-col lg:gap-x-[calc(var(--grid-pc)*4)] lg:gap-y-10 lg:py-0">
                       <li class="mt-12 grid w-full items-start gap-y-14 last:mb-30 lg:mt-0 lg:gap-y-15 lg:last:mb-0 lg:hidden">
-                              <a class="group/link js-hover-gradient-opacity js-shift-text flex w-full items-center text-gray-2 lg:py-3 lg:text-black-1" href="/security/" target="_self">
+                              <a class="group/link js-hover-gradient-opacity js-shift-text flex w-full items-center text-gray-2 lg:py-3 lg:text-black-1" href="/security/" target="_self" data-gtm-click="nav_click" data-gtm-category="footer_nav" data-gtm-label="セキュリティ対策について">
   <span class="relative inline-block overflow-hidden text-14 leading-14 *:transition-colors *:duration-400 *:ease-main *:group-hover/link:text-transparent lg:whitespace-nowrap">
     
       <span class="js-animate-bg block w-full gradient-bg bg-clip-text py-4" data-target>
@@ -5186,7 +5186,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   
 </a>
                             </li><li class="mt-12 grid w-full items-start gap-y-14 last:mb-30 lg:mt-0 lg:gap-y-15 lg:last:mb-0">
-                              <a class="group/link js-hover-gradient-opacity js-shift-text flex w-full items-center text-gray-2 lg:py-3 lg:text-black-1" href="/security/3d-secure.html" target="_self">
+                              <a class="group/link js-hover-gradient-opacity js-shift-text flex w-full items-center text-gray-2 lg:py-3 lg:text-black-1" href="/security/3d-secure.html" target="_self" data-gtm-click="nav_click" data-gtm-category="footer_nav" data-gtm-label="EMV3-Dセキュア">
   <span class="relative inline-block overflow-hidden text-14 leading-14 *:transition-colors *:duration-400 *:ease-main *:group-hover/link:text-transparent lg:whitespace-nowrap">
     
       <span class="js-animate-bg block w-full gradient-bg bg-clip-text py-4" data-target>
@@ -5200,7 +5200,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   
 </a>
                             </li><li class="mt-12 grid w-full items-start gap-y-14 last:mb-30 lg:mt-0 lg:gap-y-15 lg:last:mb-0">
-                              <a class="group/link js-hover-gradient-opacity js-shift-text flex w-full items-center text-gray-2 lg:py-3 lg:text-black-1" href="/security/credit-master.html" target="_self">
+                              <a class="group/link js-hover-gradient-opacity js-shift-text flex w-full items-center text-gray-2 lg:py-3 lg:text-black-1" href="/security/credit-master.html" target="_self" data-gtm-click="nav_click" data-gtm-category="footer_nav" data-gtm-label="クレジットマスター対策">
   <span class="relative inline-block overflow-hidden text-14 leading-14 *:transition-colors *:duration-400 *:ease-main *:group-hover/link:text-transparent lg:whitespace-nowrap">
     
       <span class="js-animate-bg block w-full gradient-bg bg-clip-text py-4" data-target>
@@ -5214,7 +5214,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   
 </a>
                             </li><li class="mt-12 grid w-full items-start gap-y-14 last:mb-30 lg:mt-0 lg:gap-y-15 lg:last:mb-0">
-                              <a class="group/link js-hover-gradient-opacity js-shift-text flex w-full items-center text-gray-2 lg:py-3 lg:text-black-1" href="/security/fraud-detection.html" target="_self">
+                              <a class="group/link js-hover-gradient-opacity js-shift-text flex w-full items-center text-gray-2 lg:py-3 lg:text-black-1" href="/security/fraud-detection.html" target="_self" data-gtm-click="nav_click" data-gtm-category="footer_nav" data-gtm-label="不正検知ソリューション">
   <span class="relative inline-block overflow-hidden text-14 leading-14 *:transition-colors *:duration-400 *:ease-main *:group-hover/link:text-transparent lg:whitespace-nowrap">
     
       <span class="js-animate-bg block w-full gradient-bg bg-clip-text py-4" data-target>
@@ -5232,7 +5232,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                   </dd>
                 </dl>
                 <div class="group border-t border-t-border px-10 lg:border-none lg:px-0">
-                      <a class="group/link js-hover-gradient-opacity js-shift-text flex w-full items-center py-16 text-black-1 lg:hidden lg:py-3" href="/features/" target="_self">
+                      <a class="group/link js-hover-gradient-opacity js-shift-text flex w-full items-center py-16 text-black-1 lg:hidden lg:py-3" href="/features/" target="_self" data-gtm-click="nav_click" data-gtm-category="footer_nav" data-gtm-label="DGFTの強み">
       <span class="relative inline-block overflow-hidden text-15 leading-14 *:transition-colors *:duration-400 *:ease-main *:group-hover/link:text-transparent lg:text-16 lg:whitespace-nowrap">
         
           <span class="js-animate-bg block w-full gradient-bg bg-clip-text py-4" data-target>
@@ -5245,7 +5245,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       </span>
       
     </a>
-<a class="group/link js-hover-gradient-opacity js-shift-text hidden text-17 leading-20 text-black-1 lg:block" href="/features/">
+<a class="group/link js-hover-gradient-opacity js-shift-text hidden text-17 leading-20 text-black-1 lg:block" href="/features/" data-gtm-click="nav_click" data-gtm-category="footer_nav" data-gtm-label="DGFTの強み">
   <span class="text-17/none relative inline-block overflow-hidden *:transition-colors *:duration-400 *:ease-main *:group-hover/link:text-transparent lg:whitespace-nowrap">
     <span class="js-animate-bg block w-full gradient-bg bg-clip-text py-4" data-target>
       DGFTの強み
@@ -5256,7 +5256,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   </span>
 </a>
                     </div><div class="group border-t border-t-border px-10 lg:border-none lg:px-0">
-                      <a class="group/link js-hover-gradient-opacity js-shift-text flex w-full items-center py-16 text-black-1 lg:hidden lg:py-3" href="/solutions/" target="_self">
+                      <a class="group/link js-hover-gradient-opacity js-shift-text flex w-full items-center py-16 text-black-1 lg:hidden lg:py-3" href="/solutions/" target="_self" data-gtm-click="nav_click" data-gtm-category="footer_nav" data-gtm-label="業種別の使い方">
       <span class="relative inline-block overflow-hidden text-15 leading-14 *:transition-colors *:duration-400 *:ease-main *:group-hover/link:text-transparent lg:text-16 lg:whitespace-nowrap">
         
           <span class="js-animate-bg block w-full gradient-bg bg-clip-text py-4" data-target>
@@ -5269,7 +5269,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       </span>
       
     </a>
-<a class="group/link js-hover-gradient-opacity js-shift-text hidden text-17 leading-20 text-black-1 lg:block" href="/solutions/">
+<a class="group/link js-hover-gradient-opacity js-shift-text hidden text-17 leading-20 text-black-1 lg:block" href="/solutions/" data-gtm-click="nav_click" data-gtm-category="footer_nav" data-gtm-label="業種別の使い方">
   <span class="text-17/none relative inline-block overflow-hidden *:transition-colors *:duration-400 *:ease-main *:group-hover/link:text-transparent lg:whitespace-nowrap">
     <span class="js-animate-bg block w-full gradient-bg bg-clip-text py-4" data-target>
       業種別の使い方
@@ -5280,7 +5280,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   </span>
 </a>
                     </div><div class="group border-t border-t-border px-10 lg:border-none lg:px-0">
-                      <a class="group/link js-hover-gradient-opacity js-shift-text flex w-full items-center py-16 text-black-1 lg:hidden lg:py-3" href="/purpose/" target="_self">
+                      <a class="group/link js-hover-gradient-opacity js-shift-text flex w-full items-center py-16 text-black-1 lg:hidden lg:py-3" href="/purpose/" target="_self" data-gtm-click="nav_click" data-gtm-category="footer_nav" data-gtm-label="目的からサービスを探す">
       <span class="relative inline-block overflow-hidden text-15 leading-14 *:transition-colors *:duration-400 *:ease-main *:group-hover/link:text-transparent lg:text-16 lg:whitespace-nowrap">
         
           <span class="js-animate-bg block w-full gradient-bg bg-clip-text py-4" data-target>
@@ -5293,7 +5293,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       </span>
       
     </a>
-<a class="group/link js-hover-gradient-opacity js-shift-text hidden text-17 leading-20 text-black-1 lg:block" href="/purpose/">
+<a class="group/link js-hover-gradient-opacity js-shift-text hidden text-17 leading-20 text-black-1 lg:block" href="/purpose/" data-gtm-click="nav_click" data-gtm-category="footer_nav" data-gtm-label="目的からサービスを探す">
   <span class="text-17/none relative inline-block overflow-hidden *:transition-colors *:duration-400 *:ease-main *:group-hover/link:text-transparent lg:whitespace-nowrap">
     <span class="js-animate-bg block w-full gradient-bg bg-clip-text py-4" data-target>
       目的からサービスを探す
@@ -5319,7 +5319,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         
       </span>
     </button>
-<a class="group/link js-hover-gradient-opacity js-shift-text hidden text-17 leading-20 text-black-1 lg:block" href="/tips/">
+<a class="group/link js-hover-gradient-opacity js-shift-text hidden text-17 leading-20 text-black-1 lg:block" href="/tips/" data-gtm-click="nav_click" data-gtm-category="footer_nav" data-gtm-label="お役立ち情報">
   <span class="text-17/none relative inline-block overflow-hidden *:transition-colors *:duration-400 *:ease-main *:group-hover/link:text-transparent lg:whitespace-nowrap">
     <span class="js-animate-bg block w-full gradient-bg bg-clip-text py-4" data-target>
       お役立ち情報
@@ -5333,7 +5333,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                   <dd class="js-accordion-content grid h-0 w-full overflow-hidden lg:!visible lg:mt-26 lg:!h-auto lg:grid-rows-none lg:overflow-visible lg:!opacity-100" aria-hidden="true">
                     <ul class="flex min-h-0 w-full min-w-180 flex-col lg:flex-col lg:gap-x-[calc(var(--grid-pc)*4)] lg:gap-y-10 lg:py-0">
                       <li class="mt-12 grid w-full items-start gap-y-14 last:mb-30 lg:mt-0 lg:gap-y-15 lg:last:mb-0 lg:hidden">
-                            <a class="group/link js-hover-gradient-opacity js-shift-text flex w-full items-center text-gray-2 lg:py-3 lg:text-black-1" href="/tips/" target="_self">
+                            <a class="group/link js-hover-gradient-opacity js-shift-text flex w-full items-center text-gray-2 lg:py-3 lg:text-black-1" href="/tips/" target="_self" data-gtm-click="nav_click" data-gtm-category="footer_nav" data-gtm-label="お役立ち情報一覧">
   <span class="relative inline-block overflow-hidden text-14 leading-14 *:transition-colors *:duration-400 *:ease-main *:group-hover/link:text-transparent lg:whitespace-nowrap">
     
       <span class="js-animate-bg block w-full gradient-bg bg-clip-text py-4" data-target>
@@ -5347,7 +5347,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   
 </a>
                           </li><li class="mt-12 grid w-full items-start gap-y-14 last:mb-30 lg:mt-0 lg:gap-y-15 lg:last:mb-0">
-                            <a class="group/link js-hover-gradient-opacity js-shift-text flex w-full items-center text-gray-2 lg:py-3 lg:text-black-1" href="/tips/column/" target="_self">
+                            <a class="group/link js-hover-gradient-opacity js-shift-text flex w-full items-center text-gray-2 lg:py-3 lg:text-black-1" href="/tips/column/" target="_self" data-gtm-click="nav_click" data-gtm-category="footer_nav" data-gtm-label="お役立ちコラム">
   <span class="relative inline-block overflow-hidden text-14 leading-14 *:transition-colors *:duration-400 *:ease-main *:group-hover/link:text-transparent lg:whitespace-nowrap">
     
       <span class="js-animate-bg block w-full gradient-bg bg-clip-text py-4" data-target>
@@ -5361,7 +5361,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   
 </a>
                           </li><li class="mt-12 grid w-full items-start gap-y-14 last:mb-30 lg:mt-0 lg:gap-y-15 lg:last:mb-0">
-                            <a class="group/link js-hover-gradient-opacity js-shift-text flex w-full items-center text-gray-2 lg:py-3 lg:text-black-1" href="/tips/webinar/" target="_self">
+                            <a class="group/link js-hover-gradient-opacity js-shift-text flex w-full items-center text-gray-2 lg:py-3 lg:text-black-1" href="/tips/webinar/" target="_self" data-gtm-click="nav_click" data-gtm-category="footer_nav" data-gtm-label="イベント・セミナー情報">
   <span class="relative inline-block overflow-hidden text-14 leading-14 *:transition-colors *:duration-400 *:ease-main *:group-hover/link:text-transparent lg:whitespace-nowrap">
     
       <span class="js-animate-bg block w-full gradient-bg bg-clip-text py-4" data-target>
@@ -5375,7 +5375,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   
 </a>
                           </li><li class="mt-12 grid w-full items-start gap-y-14 last:mb-30 lg:mt-0 lg:gap-y-15 lg:last:mb-0">
-                            <a class="group/link js-hover-gradient-opacity js-shift-text flex w-full items-center text-gray-2 lg:py-3 lg:text-black-1" href="/case/" target="_self">
+                            <a class="group/link js-hover-gradient-opacity js-shift-text flex w-full items-center text-gray-2 lg:py-3 lg:text-black-1" href="/case/" target="_self" data-gtm-click="nav_click" data-gtm-category="footer_nav" data-gtm-label="活用事例">
   <span class="relative inline-block overflow-hidden text-14 leading-14 *:transition-colors *:duration-400 *:ease-main *:group-hover/link:text-transparent lg:whitespace-nowrap">
     
       <span class="js-animate-bg block w-full gradient-bg bg-clip-text py-4" data-target>
@@ -5405,7 +5405,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         
       </span>
     </button>
-<a class="group/link js-hover-gradient-opacity js-shift-text hidden text-17 leading-20 text-black-1 lg:block" href="/guide/">
+<a class="group/link js-hover-gradient-opacity js-shift-text hidden text-17 leading-20 text-black-1 lg:block" href="/guide/" data-gtm-click="nav_click" data-gtm-category="footer_nav" data-gtm-label="導入ご検討中の方へ">
   <span class="text-17/none relative inline-block overflow-hidden *:transition-colors *:duration-400 *:ease-main *:group-hover/link:text-transparent lg:whitespace-nowrap">
     <span class="js-animate-bg block w-full gradient-bg bg-clip-text py-4" data-target>
       導入ご検討中の方へ
@@ -5419,7 +5419,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                   <dd class="js-accordion-content grid h-0 w-full overflow-hidden lg:!visible lg:mt-26 lg:!h-auto lg:grid-rows-none lg:overflow-visible lg:!opacity-100" aria-hidden="true">
                     <ul class="flex min-h-0 w-full min-w-180 flex-col lg:flex-col lg:gap-x-[calc(var(--grid-pc)*4)] lg:gap-y-10 lg:py-0">
                       <li class="mt-12 grid w-full items-start gap-y-14 last:mb-30 lg:mt-0 lg:gap-y-15 lg:last:mb-0">
-                            <a class="group/link js-hover-gradient-opacity js-shift-text flex w-full items-center text-gray-2 lg:py-3 lg:text-black-1" href="/guide/flow.html" target="_self">
+                            <a class="group/link js-hover-gradient-opacity js-shift-text flex w-full items-center text-gray-2 lg:py-3 lg:text-black-1" href="/guide/flow.html" target="_self" data-gtm-click="nav_click" data-gtm-category="footer_nav" data-gtm-label="導入までの流れ">
   <span class="relative inline-block overflow-hidden text-14 leading-14 *:transition-colors *:duration-400 *:ease-main *:group-hover/link:text-transparent lg:whitespace-nowrap">
     
       <span class="js-animate-bg block w-full gradient-bg bg-clip-text py-4" data-target>
@@ -5433,7 +5433,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   
 </a>
                           </li><li class="mt-12 grid w-full items-start gap-y-14 last:mb-30 lg:mt-0 lg:gap-y-15 lg:last:mb-0">
-                            <a class="group/link js-hover-gradient-opacity js-shift-text flex w-full items-center text-gray-2 lg:py-3 lg:text-black-1" href="/guide/pricing.html" target="_self">
+                            <a class="group/link js-hover-gradient-opacity js-shift-text flex w-full items-center text-gray-2 lg:py-3 lg:text-black-1" href="/guide/pricing.html" target="_self" data-gtm-click="nav_click" data-gtm-category="footer_nav" data-gtm-label="導入料金・手数料の考え方">
   <span class="relative inline-block overflow-hidden text-14 leading-14 *:transition-colors *:duration-400 *:ease-main *:group-hover/link:text-transparent lg:whitespace-nowrap">
     
       <span class="js-animate-bg block w-full gradient-bg bg-clip-text py-4" data-target>
@@ -5447,7 +5447,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   
 </a>
                           </li><li class="mt-12 grid w-full items-start gap-y-14 last:mb-30 lg:mt-0 lg:gap-y-15 lg:last:mb-0">
-                            <a class="group/link js-hover-gradient-opacity js-shift-text flex w-full items-center text-gray-2 lg:py-3 lg:text-black-1" href="/guide/integration.html" target="_self">
+                            <a class="group/link js-hover-gradient-opacity js-shift-text flex w-full items-center text-gray-2 lg:py-3 lg:text-black-1" href="/guide/integration.html" target="_self" data-gtm-click="nav_click" data-gtm-category="footer_nav" data-gtm-label="決済ゲートウェイとの接続方式">
   <span class="relative inline-block overflow-hidden text-14 leading-14 *:transition-colors *:duration-400 *:ease-main *:group-hover/link:text-transparent lg:whitespace-nowrap">
     
       <span class="js-animate-bg block w-full gradient-bg bg-clip-text py-4" data-target>
@@ -5461,7 +5461,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   
 </a>
                           </li><li class="mt-12 grid w-full items-start gap-y-14 last:mb-30 lg:mt-0 lg:gap-y-15 lg:last:mb-0">
-                            <a class="group/link js-hover-gradient-opacity js-shift-text flex w-full items-center text-gray-2 lg:py-3 lg:text-black-1" href="/guide/faq.html" target="_self">
+                            <a class="group/link js-hover-gradient-opacity js-shift-text flex w-full items-center text-gray-2 lg:py-3 lg:text-black-1" href="/guide/faq.html" target="_self" data-gtm-click="nav_click" data-gtm-category="footer_nav" data-gtm-label="導入前のよくある質問">
   <span class="relative inline-block overflow-hidden text-14 leading-14 *:transition-colors *:duration-400 *:ease-main *:group-hover/link:text-transparent lg:whitespace-nowrap">
     
       <span class="js-animate-bg block w-full gradient-bg bg-clip-text py-4" data-target>
@@ -5479,7 +5479,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                   </dd>
                 </dl>
                 <div class="group border-t border-border px-10 last:border-b lg:hidden lg:border-none lg:px-0">
-                      <a class="group/link js-hover-gradient-opacity js-shift-text flex w-full items-center py-16 text-black-1 lg:hidden lg:py-3" href="https://faqfa.dgft.jp/" target="_blank">
+                      <a class="group/link js-hover-gradient-opacity js-shift-text flex w-full items-center py-16 text-black-1 lg:hidden lg:py-3" href="https://faqfa.dgft.jp/" target="_blank" data-gtm-click="nav_click" data-gtm-category="footer_nav" data-gtm-label="ご契約中のお客様へ">
       <span class="relative inline-block overflow-hidden text-15 leading-14 *:transition-colors *:duration-400 *:ease-main *:group-hover/link:text-transparent lg:text-16 lg:whitespace-nowrap">
         
           <span class="js-animate-bg block w-full gradient-bg bg-clip-text py-4" data-target>
@@ -5497,7 +5497,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           </span>
         </span>
     </a>
-<a class="group/link js-hover-gradient-opacity js-shift-text hidden text-17 leading-20 text-black-1 lg:block" href="https://faqfa.dgft.jp/">
+<a class="group/link js-hover-gradient-opacity js-shift-text hidden text-17 leading-20 text-black-1 lg:block" href="https://faqfa.dgft.jp/" data-gtm-click="nav_click" data-gtm-category="footer_nav" data-gtm-label="ご契約中のお客様へ">
   <span class="text-17/none relative inline-block overflow-hidden *:transition-colors *:duration-400 *:ease-main *:group-hover/link:text-transparent lg:whitespace-nowrap">
     <span class="js-animate-bg block w-full gradient-bg bg-clip-text py-4" data-target>
       ご契約中のお客様へ
@@ -5508,7 +5508,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   </span>
 </a>
                     </div><div class="group border-t border-border px-10 last:border-b lg:hidden lg:border-none lg:px-0">
-                      <a class="group/link js-hover-gradient-opacity js-shift-text flex w-full items-center py-16 text-black-1 lg:hidden lg:py-3" href="/developer/" target="_self">
+                      <a class="group/link js-hover-gradient-opacity js-shift-text flex w-full items-center py-16 text-black-1 lg:hidden lg:py-3" href="/developer/" target="_self" data-gtm-click="nav_click" data-gtm-category="footer_nav" data-gtm-label="開発者向け情報">
       <span class="relative inline-block overflow-hidden text-15 leading-14 *:transition-colors *:duration-400 *:ease-main *:group-hover/link:text-transparent lg:text-16 lg:whitespace-nowrap">
         
           <span class="js-animate-bg block w-full gradient-bg bg-clip-text py-4" data-target>
@@ -5521,7 +5521,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       </span>
       
     </a>
-<a class="group/link js-hover-gradient-opacity js-shift-text hidden text-17 leading-20 text-black-1 lg:block" href="/developer/">
+<a class="group/link js-hover-gradient-opacity js-shift-text hidden text-17 leading-20 text-black-1 lg:block" href="/developer/" data-gtm-click="nav_click" data-gtm-category="footer_nav" data-gtm-label="開発者向け情報">
   <span class="text-17/none relative inline-block overflow-hidden *:transition-colors *:duration-400 *:ease-main *:group-hover/link:text-transparent lg:whitespace-nowrap">
     <span class="js-animate-bg block w-full gradient-bg bg-clip-text py-4" data-target>
       開発者向け情報
@@ -5532,7 +5532,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   </span>
 </a>
                     </div><div class="group border-t border-border px-10 last:border-b lg:hidden lg:border-none lg:px-0">
-                      <a class="group/link js-hover-gradient-opacity js-shift-text flex w-full items-center py-16 text-black-1 lg:hidden lg:py-3" href="https://company.dgft.jp/" target="_blank">
+                      <a class="group/link js-hover-gradient-opacity js-shift-text flex w-full items-center py-16 text-black-1 lg:hidden lg:py-3" href="https://company.dgft.jp/" target="_blank" data-gtm-click="nav_click" data-gtm-category="footer_nav" data-gtm-label="企業情報">
       <span class="relative inline-block overflow-hidden text-15 leading-14 *:transition-colors *:duration-400 *:ease-main *:group-hover/link:text-transparent lg:text-16 lg:whitespace-nowrap">
         
           <span class="js-animate-bg block w-full gradient-bg bg-clip-text py-4" data-target>
@@ -5550,7 +5550,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           </span>
         </span>
     </a>
-<a class="group/link js-hover-gradient-opacity js-shift-text hidden text-17 leading-20 text-black-1 lg:block" href="https://company.dgft.jp/">
+<a class="group/link js-hover-gradient-opacity js-shift-text hidden text-17 leading-20 text-black-1 lg:block" href="https://company.dgft.jp/" data-gtm-click="nav_click" data-gtm-category="footer_nav" data-gtm-label="企業情報">
   <span class="text-17/none relative inline-block overflow-hidden *:transition-colors *:duration-400 *:ease-main *:group-hover/link:text-transparent lg:whitespace-nowrap">
     <span class="js-animate-bg block w-full gradient-bg bg-clip-text py-4" data-target>
       企業情報
@@ -5568,7 +5568,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="mt-18 w-full pb-10 lg:mt-0 lg:py-0">
                   <ul class="w-full">
                     <li class="mt-6 w-full first:mt-0 lg:mt-6">
-                          <a class="js-shift-text js-hover-gradient-opacity flex w-full items-center bg-clip-text text-gray-2 transition-colors duration-400 ease-main hover:text-transparent lg:py-3 lg:text-black-1" href="https://faqfa.dgft.jp/" target="_blank">
+                          <a class="js-shift-text js-hover-gradient-opacity flex w-full items-center bg-clip-text text-gray-2 transition-colors duration-400 ease-main hover:text-transparent lg:py-3 lg:text-black-1" href="https://faqfa.dgft.jp/" target="_blank" data-gtm-click="nav_click" data-gtm-category="footer_nav" data-gtm-label="ご契約中のお客様へ">
                             
                               <span class="f--en relative inline-block overflow-hidden text-14 leading-14 lg:whitespace-nowrap">
                                 <span class="js-animate-bg block w-full gradient-bg bg-clip-text py-4" data-target>
@@ -5586,7 +5586,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 </span>
                           </a>
                         </li><li class="mt-6 w-full first:mt-0 lg:mt-6">
-                          <a class="js-shift-text js-hover-gradient-opacity flex w-full items-center bg-clip-text text-gray-2 transition-colors duration-400 ease-main hover:text-transparent lg:py-3 lg:text-black-1" href="/developer/" target="_self">
+                          <a class="js-shift-text js-hover-gradient-opacity flex w-full items-center bg-clip-text text-gray-2 transition-colors duration-400 ease-main hover:text-transparent lg:py-3 lg:text-black-1" href="/developer/" target="_self" data-gtm-click="nav_click" data-gtm-category="footer_nav" data-gtm-label="ご契約中のお客様へ">
                             
                               <span class="f--en relative inline-block overflow-hidden text-14 leading-14 lg:whitespace-nowrap">
                                 <span class="js-animate-bg block w-full gradient-bg bg-clip-text py-4" data-target>
@@ -5599,7 +5599,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                               
                           </a>
                         </li><li class="mt-6 w-full first:mt-0 lg:mt-6">
-                          <a class="js-shift-text js-hover-gradient-opacity flex w-full items-center bg-clip-text text-gray-2 transition-colors duration-400 ease-main hover:text-transparent lg:py-3 lg:text-black-1" href="https://company.dgft.jp/" target="_blank">
+                          <a class="js-shift-text js-hover-gradient-opacity flex w-full items-center bg-clip-text text-gray-2 transition-colors duration-400 ease-main hover:text-transparent lg:py-3 lg:text-black-1" href="https://company.dgft.jp/" target="_blank" data-gtm-click="nav_click" data-gtm-category="footer_nav" data-gtm-label="企業情報">
                             
                               <span class="f--en relative inline-block overflow-hidden text-14 leading-14 lg:whitespace-nowrap">
                                 <span class="js-animate-bg block w-full gradient-bg bg-clip-text py-4" data-target>
@@ -5638,7 +5638,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="mt-33 w-full px-10 lg:mt-0 lg:w-auto lg:px-0">
               <ul class="w-full lg:flex lg:w-auto lg:items-start lg:border-t-0 lg:border-none">
                 <li class="[&:nth-of-type(n+2)]:mt-11 lg:[&:nth-of-type(n+2)]:mt-0 lg:[&:nth-of-type(n+2)]:ml-29">
-                      <a class="group/link js-hover-gradient-opacity block" href="https://company.dgft.jp/news/" target="_blank">
+                      <a class="group/link js-hover-gradient-opacity block" href="https://company.dgft.jp/news/" target="_blank" data-gtm-click="nav_click" data-gtm-category="footer_nav" data-gtm-label="ニュース">
                         <span class="laeding-[1.8] js-animate-bg lg:laeding-16 gradient-bg bg-clip-text text-13 text-gray-2 transition-colors duration-400 ease-main group-hover/link:text-transparent lg:text-12">
                           ニュース
                         </span>
@@ -5650,7 +5650,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                           </span>
                       </a>
                     </li><li class="[&:nth-of-type(n+2)]:mt-11 lg:[&:nth-of-type(n+2)]:mt-0 lg:[&:nth-of-type(n+2)]:ml-29">
-                      <a class="group/link js-hover-gradient-opacity block" href="https://recruit.garage.co.jp/" target="_blank">
+                      <a class="group/link js-hover-gradient-opacity block" href="https://recruit.garage.co.jp/" target="_blank" data-gtm-click="nav_click" data-gtm-category="footer_nav" data-gtm-label="採用情報">
                         <span class="laeding-[1.8] js-animate-bg lg:laeding-16 gradient-bg bg-clip-text text-13 text-gray-2 transition-colors duration-400 ease-main group-hover/link:text-transparent lg:text-12">
                           採用情報
                         </span>
@@ -5662,7 +5662,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                           </span>
                       </a>
                     </li><li class="[&:nth-of-type(n+2)]:mt-11 lg:[&:nth-of-type(n+2)]:mt-0 lg:[&:nth-of-type(n+2)]:ml-29">
-              <a class="group/link js-hover-gradient-opacity block" href="https://company.dgft.jp/privacy.html" target="_blank">
+              <a class="group/link js-hover-gradient-opacity block" href="https://company.dgft.jp/privacy.html" target="_blank" data-gtm-click="nav_click" data-gtm-category="footer_nav" data-gtm-label="個人情報保護方針">
                         <span class="laeding-[1.8] js-animate-bg lg:laeding-16 gradient-bg bg-clip-text text-13 text-gray-2 transition-colors duration-400 ease-main group-hover/link:text-transparent lg:text-12">
                           個人情報保護方針
                         </span>
@@ -5674,7 +5674,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                           </span>
                       </a>
                     </li><li class="[&:nth-of-type(n+2)]:mt-11 lg:[&:nth-of-type(n+2)]:mt-0 lg:[&:nth-of-type(n+2)]:ml-29">
-                      <a class="group/link js-hover-gradient-opacity block" href="https://company.dgft.jp/privacy-operation.html" target="_blank">
+                      <a class="group/link js-hover-gradient-opacity block" href="https://company.dgft.jp/privacy-operation.html" target="_blank" data-gtm-click="nav_click" data-gtm-category="footer_nav" data-gtm-label="個人情報の取扱いについて">
                         <span class="laeding-[1.8] js-animate-bg lg:laeding-16 gradient-bg bg-clip-text text-13 text-gray-2 transition-colors duration-400 ease-main group-hover/link:text-transparent lg:text-12">
                           個人情報の取扱いについて
                         </span>
@@ -5686,7 +5686,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                           </span>
                       </a>
                     </li><li class="[&:nth-of-type(n+2)]:mt-11 lg:[&:nth-of-type(n+2)]:mt-0 lg:[&:nth-of-type(n+2)]:ml-29">
-                      <a class="group/link js-hover-gradient-opacity block" href="https://www.veritrans.co.jp/tos/contract.html" target="_blank">
+                      <a class="group/link js-hover-gradient-opacity block" href="https://www.veritrans.co.jp/tos/contract.html" target="_blank" data-gtm-click="nav_click" data-gtm-category="footer_nav" data-gtm-label="決済サービスに係る利用規約">
                         <span class="laeding-[1.8] js-animate-bg lg:laeding-16 gradient-bg bg-clip-text text-13 text-gray-2 transition-colors duration-400 ease-main group-hover/link:text-transparent lg:text-12">
                           決済サービスに係る利用規約
                         </span>
@@ -5698,7 +5698,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                           </span>
                       </a>
                     </li><li class="[&:nth-of-type(n+2)]:mt-11 lg:[&:nth-of-type(n+2)]:mt-0 lg:[&:nth-of-type(n+2)]:ml-29">
-                      <a class="group/link js-hover-gradient-opacity block" href="https://company.dgft.jp/termofuse.html" target="_blank">
+                      <a class="group/link js-hover-gradient-opacity block" href="https://company.dgft.jp/termofuse.html" target="_blank" data-gtm-click="nav_click" data-gtm-category="footer_nav" data-gtm-label="サイトの利用条件">
                         <span class="laeding-[1.8] js-animate-bg lg:laeding-16 gradient-bg bg-clip-text text-13 text-gray-2 transition-colors duration-400 ease-main group-hover/link:text-transparent lg:text-12">
                           サイトの利用条件
                         </span>
@@ -5710,7 +5710,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                           </span>
                       </a>
                     </li><li class="[&:nth-of-type(n+2)]:mt-11 lg:[&:nth-of-type(n+2)]:mt-0 lg:[&:nth-of-type(n+2)]:ml-29">
-              <a class="group/link js-hover-gradient-opacity block" href="/sitemap.html" target="_self">
+              <a class="group/link js-hover-gradient-opacity block" href="/sitemap.html" target="_self" data-gtm-click="nav_click" data-gtm-category="footer_nav" data-gtm-label="サイトマップ">
                         <span class="laeding-[1.8] js-animate-bg lg:laeding-16 gradient-bg bg-clip-text text-13 text-gray-2 transition-colors duration-400 ease-main group-hover/link:text-transparent lg:text-12">
                           サイトマップ
                         </span>
@@ -5765,7 +5765,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                   <div class="w-full">
                     <div class="group w-full border-t border-t-border [&:first-child]:border-none">
                             <div class="w-full">
-                              <a class="flex w-full items-baseline justify-between py-21 text-left" href="/purpose/">
+                              <a class="flex w-full items-baseline justify-between py-21 text-left" href="/purpose/" data-gtm-click="nav_click" data-gtm-category="header_nav" data-gtm-label="目的から探す">
                                 <span class="block w-[calc(100%-2.5625rem)] text-15 leading-18 text-black-2">
                                   目的から探す
                                 </span>
@@ -5778,7 +5778,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </div>
                           </div><dl class="js-accordion group w-full border-t border-t-border [&:first-child]:border-none">
                             <dt class="w-full">
-                              <button class="flex w-full touch-manipulation items-baseline justify-between py-21 text-left" type="button" aria-label="業種別の使い方を開く">
+                              <button class="flex w-full touch-manipulation items-baseline justify-between py-21 text-left" type="button" aria-label="業種別の使い方を開く" data-gtm-click="nav_click" data-gtm-category="header_nav" data-gtm-label="業種別の使い方">
                                 <span class="block w-[calc(100%-2.5625rem)] text-15 leading-18 text-black-2">
                                   業種別の使い方
                                 </span>
@@ -5792,7 +5792,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                               <div class="w-full pb-5">
                                 <ul class="w-full">
                                   <li class="w-full border-t border-t-border">
-                                        <a class="flex w-full items-center justify-between py-16 pl-20" href="/solutions/">
+                                        <a class="flex w-full items-center justify-between py-16 pl-20" href="/solutions/" data-gtm-click="nav_click" data-gtm-category="header_nav" data-gtm-label="業種別の使い方を詳しく見る">
                                           <span class="flex items-center gap-x-10">
                                             
                                             <span class="text-13 leading-19 text-gray-2">
@@ -5806,7 +5806,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                           </span>
                                         </a>
                                       </li><li class="w-full border-t border-t-border">
-                                        <a class="flex w-full items-center justify-between py-16 pl-20" href="/solutions/real-estate.html">
+                                        <a class="flex w-full items-center justify-between py-16 pl-20" href="/solutions/real-estate.html" data-gtm-click="nav_click" data-gtm-category="header_nav" data-gtm-label="不動産">
                                           <span class="flex items-center gap-x-10">
                                             <span class="size-25">
                                                 <img src="/assets/images/icons/building.svg" alt="">
@@ -5822,7 +5822,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                           </span>
                                         </a>
                                       </li><li class="w-full border-t border-t-border">
-                                        <a class="flex w-full items-center justify-between py-16 pl-20" href="/solutions/beauty.html">
+                                        <a class="flex w-full items-center justify-between py-16 pl-20" href="/solutions/beauty.html" data-gtm-click="nav_click" data-gtm-category="header_nav" data-gtm-label="サロン・美容">
                                           <span class="flex items-center gap-x-10">
                                             <span class="size-25">
                                                 <img src="/assets/images/icons/heart.svg" alt="">
@@ -5838,7 +5838,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                           </span>
                                         </a>
                                       </li><li class="w-full border-t border-t-border">
-                                        <a class="flex w-full items-center justify-between py-16 pl-20" href="/solutions/education.html">
+                                        <a class="flex w-full items-center justify-between py-16 pl-20" href="/solutions/education.html" data-gtm-click="nav_click" data-gtm-category="header_nav" data-gtm-label="教育・スクール">
                                           <span class="flex items-center gap-x-10">
                                             <span class="size-25">
                                                 <img src="/assets/images/icons/time.svg" alt="">
@@ -5854,7 +5854,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                           </span>
                                         </a>
                                       </li><li class="w-full border-t border-t-border">
-                                        <a class="flex w-full items-center justify-between py-16 pl-20" href="/solutions/mobility.html">
+                                        <a class="flex w-full items-center justify-between py-16 pl-20" href="/solutions/mobility.html" data-gtm-click="nav_click" data-gtm-category="header_nav" data-gtm-label="交通・MaaS">
                                           <span class="flex items-center gap-x-10">
                                             <span class="size-25">
                                                 <img src="/assets/images/icons/train.svg" alt="">
@@ -5870,7 +5870,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                           </span>
                                         </a>
                                       </li><li class="w-full border-t border-t-border">
-                                        <a class="flex w-full items-center justify-between py-16 pl-20" href="/solutions/utilities.html">
+                                        <a class="flex w-full items-center justify-between py-16 pl-20" href="/solutions/utilities.html" data-gtm-click="nav_click" data-gtm-category="header_nav" data-gtm-label="公共料金">
                                           <span class="flex items-center gap-x-10">
                                             <span class="size-25">
                                                 <img src="/assets/images/icons/yen.svg" alt="">
@@ -5886,7 +5886,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                           </span>
                                         </a>
                                       </li><li class="w-full border-t border-t-border">
-                                        <a class="flex w-full items-center justify-between py-16 pl-20" href="/solutions/prepaid.html">
+                                        <a class="flex w-full items-center justify-between py-16 pl-20" href="/solutions/prepaid.html" data-gtm-click="nav_click" data-gtm-category="header_nav" data-gtm-label="ハウスプリペイド">
                                           <span class="flex items-center gap-x-10">
                                             <span class="size-25">
                                                 <img src="/assets/images/icons/credit-card.svg" alt="">
@@ -5902,7 +5902,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                           </span>
                                         </a>
                                       </li><li class="w-full border-t border-t-border">
-                                        <a class="flex w-full items-center justify-between py-16 pl-20" href="/solutions/field-service.html">
+                                        <a class="flex w-full items-center justify-between py-16 pl-20" href="/solutions/field-service.html" data-gtm-click="nav_click" data-gtm-category="header_nav" data-gtm-label="訪問販売・修理サービス">
                                           <span class="flex items-center gap-x-10">
                                             <span class="size-25">
                                                 <img src="/assets/images/icons/gear.svg" alt="">
@@ -5918,7 +5918,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                           </span>
                                         </a>
                                       </li><li class="w-full border-t border-t-border">
-                                        <a class="flex w-full items-center justify-between py-16 pl-20" href="/solutions/b2b.html">
+                                        <a class="flex w-full items-center justify-between py-16 pl-20" href="/solutions/b2b.html" data-gtm-click="nav_click" data-gtm-category="header_nav" data-gtm-label="企業間取引サービス">
                                           <span class="flex items-center gap-x-10">
                                             <span class="size-25">
                                                 <img src="/assets/images/icons/cycle.svg" alt="">
@@ -5939,7 +5939,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </dd>
                           </dl><dl class="js-accordion group w-full border-t border-t-border [&:first-child]:border-none">
                             <dt class="w-full">
-                              <button class="flex w-full touch-manipulation items-baseline justify-between py-21 text-left" type="button" aria-label="提供サービスを開く">
+                              <button class="flex w-full touch-manipulation items-baseline justify-between py-21 text-left" type="button" aria-label="提供サービスを開く" data-gtm-click="nav_click" data-gtm-category="header_nav" data-gtm-label="提供サービス">
                                 <span class="block w-[calc(100%-2.5625rem)] text-15 leading-18 text-black-2">
                                   提供サービス
                                 </span>
@@ -6042,7 +6042,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </dd>
                           </dl><dl class="js-accordion group w-full border-t border-t-border [&:first-child]:border-none">
                             <dt class="w-full">
-                              <button class="flex w-full touch-manipulation items-baseline justify-between py-21 text-left" type="button" aria-label="決済手段一覧を開く">
+                              <button class="flex w-full touch-manipulation items-baseline justify-between py-21 text-left" type="button" aria-label="決済手段一覧を開く" data-gtm-click="nav_click" data-gtm-category="header_nav" data-gtm-label="決済手段一覧">
                                 <span class="block w-[calc(100%-2.5625rem)] text-15 leading-18 text-black-2">
                                   決済手段一覧
                                 </span>
@@ -6131,7 +6131,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </dd>
                           </dl><div class="group w-full border-t border-t-border [&:first-child]:border-none">
                             <div class="w-full">
-                              <a class="flex w-full items-baseline justify-between py-21 text-left" href="/features/">
+                              <a class="flex w-full items-baseline justify-between py-21 text-left" href="/features/" data-gtm-click="nav_click" data-gtm-category="header_nav" data-gtm-label="DGFTの強み">
                                 <span class="block w-[calc(100%-2.5625rem)] text-15 leading-18 text-black-2">
                                   DGFTの強み
                                 </span>
@@ -6144,7 +6144,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </div>
                           </div><div class="group w-full border-t border-t-border [&:first-child]:border-none">
                             <div class="w-full">
-                              <a class="flex w-full items-baseline justify-between py-21 text-left" href="/security/">
+                              <a class="flex w-full items-baseline justify-between py-21 text-left" href="/security/" data-gtm-click="nav_click" data-gtm-category="header_nav" data-gtm-label="セキュリティ対策ソリューション">
                                 <span class="block w-[calc(100%-2.5625rem)] text-15 leading-18 text-black-2">
                                   セキュリティ対策ソリューション
                                 </span>
@@ -6157,7 +6157,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </div>
                           </div><dl class="js-accordion group w-full border-t border-t-border [&:first-child]:border-none">
                             <dt class="w-full">
-                              <button class="flex w-full touch-manipulation items-baseline justify-between py-21 text-left" type="button" aria-label="導入ご検討中の方へを開く">
+                              <button class="flex w-full touch-manipulation items-baseline justify-between py-21 text-left" type="button" aria-label="導入ご検討中の方へを開く" data-gtm-click="nav_click" data-gtm-category="header_nav" data-gtm-label="導入ご検討中の方へ">
                                 <span class="block w-[calc(100%-2.5625rem)] text-15 leading-18 text-black-2">
                                   導入ご検討中の方へ
                                 </span>
@@ -6246,7 +6246,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </dd>
                           </dl><dl class="js-accordion group w-full border-t border-t-border [&:first-child]:border-none">
                             <dt class="w-full">
-                              <button class="flex w-full touch-manipulation items-baseline justify-between py-21 text-left" type="button" aria-label="お役立ち情報を開く">
+                              <button class="flex w-full touch-manipulation items-baseline justify-between py-21 text-left" type="button" aria-label="お役立ち情報を開く" data-gtm-click="nav_click" data-gtm-category="header_nav" data-gtm-label="お役立ち情報">
                                 <span class="block w-[calc(100%-2.5625rem)] text-15 leading-18 text-black-2">
                                   お役立ち情報
                                 </span>
@@ -6321,7 +6321,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </dd>
                           </dl><div class="group w-full border-t border-t-border [&:first-child]:border-none">
                             <div class="w-full">
-                              <a class="flex w-full items-baseline justify-between py-21 text-left" href="https://faqfa.dgft.jp/">
+                              <a class="flex w-full items-baseline justify-between py-21 text-left" href="https://faqfa.dgft.jp/" data-gtm-click="nav_click" data-gtm-category="header_nav" data-gtm-label="ご契約中のお客さまへ">
                                 <span class="block w-[calc(100%-2.5625rem)] text-15 leading-18 text-black-2">
                                   ご契約中のお客さまへ
                                 </span>
@@ -6336,7 +6336,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                   </div>
                 </div>
                 <div class="w-full border-t border-t-border px-[calc(var(--grid-sp)*1)] pt-40">
-                  <a href="/download/" class="group js-split-text-trigger relative flex min-h-35 w-fit cursor-pointer items-center justify-center gap-x-7 rounded-full border border-black-1 px-18 py-10 text-[min(calc(var(--grid-sp)*1.2),0.75rem)] leading-[1.2] tracking-[0.04em] text-[color:var(--color-black-1)] !no-underline lg:text-[min(calc(var(--grid-pc)*1.4),0.875rem)] lg:min-h-35 lg:px-22 lg:py-9 [--gradient-opacity:1] [--gradient-position:0]" target="_self" data-delay="0">
+                  <a href="/download/" class="group js-split-text-trigger relative flex min-h-35 w-fit cursor-pointer items-center justify-center gap-x-7 rounded-full border border-black-1 px-18 py-10 text-[min(calc(var(--grid-sp)*1.2),0.75rem)] leading-[1.2] tracking-[0.04em] text-[color:var(--color-black-1)] !no-underline lg:text-[min(calc(var(--grid-pc)*1.4),0.875rem)] lg:min-h-35 lg:px-22 lg:py-9 [--gradient-opacity:1] [--gradient-position:0]" target="_self" data-delay="0" data-gtm-click="nav_click" data-gtm-category="header_cta" data-gtm-label="資料をダウンロードする">
             
             
             
@@ -6372,7 +6372,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                   <div class="mt-30 w-full">
                   <ul class="w-full">
                   <li class="mt-11">
-                        <a class="block" href="https://company.dgft.jp/news/">
+                        <a class="block" href="https://company.dgft.jp/news/" data-gtm-click="nav_click" data-gtm-category="header_nav" data-gtm-label="ニュース">
                           <span class="laeding-[1.5] text-11 text-black-2">
                             ニュース
                           </span>
@@ -6384,7 +6384,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </span>
                         </a>
                       </li><li class="mt-11">
-                        <a class="block" href="https://recruit.garage.co.jp/">
+                        <a class="block" href="https://recruit.garage.co.jp/" data-gtm-click="nav_click" data-gtm-category="header_nav" data-gtm-label="採用情報">
                           <span class="laeding-[1.5] text-11 text-black-2">
                             採用情報
                           </span>
@@ -6396,7 +6396,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </span>
                         </a>
                       </li><li class="mt-11">
-                        <a class="block" href="https://company.dgft.jp/privacy.html">
+                        <a class="block" href="https://company.dgft.jp/privacy.html" data-gtm-click="nav_click" data-gtm-category="header_nav" data-gtm-label="個人情報保護方針">
                           <span class="laeding-[1.5] text-11 text-black-2">
                             個人情報保護方針
                           </span>
@@ -6408,7 +6408,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </span>
                         </a>
                       </li><li class="mt-11">
-                        <a class="block" href="https://company.dgft.jp/privacy-operation.html">
+                        <a class="block" href="https://company.dgft.jp/privacy-operation.html" data-gtm-click="nav_click" data-gtm-category="header_nav" data-gtm-label="個人情報の取扱いについて">
                           <span class="laeding-[1.5] text-11 text-black-2">
                             個人情報の取扱いについて
                           </span>
@@ -6420,7 +6420,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </span>
                         </a>
                       </li><li class="mt-11">
-                        <a class="block" href="https://www.veritrans.co.jp/tos/contract.html">
+                        <a class="block" href="https://www.veritrans.co.jp/tos/contract.html" data-gtm-click="nav_click" data-gtm-category="header_nav" data-gtm-label="決済サービスに係る利用規約">
                           <span class="laeding-[1.5] text-11 text-black-2">
                             決済サービスに係る利用規約
                           </span>
@@ -6432,7 +6432,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </span>
                         </a>
                       </li><li class="mt-11">
-                        <a class="block" href="https://company.dgft.jp/termofuse.html">
+                        <a class="block" href="https://company.dgft.jp/termofuse.html" data-gtm-click="nav_click" data-gtm-category="header_nav" data-gtm-label="サイトの利用条件">
                           <span class="laeding-[1.5] text-11 text-black-2">
                             サイトの利用条件
                           </span>
@@ -6444,7 +6444,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </span>
                         </a>
                       </li><li class="mt-11">
-                        <a class="block" href="/sitemap.html">
+                        <a class="block" href="/sitemap.html" data-gtm-click="nav_click" data-gtm-category="header_nav" data-gtm-label="サイトマップ">
                           <span class="laeding-[1.5] text-11 text-black-2">
                             サイトマップ
                           </span>
