@@ -1,4 +1,4 @@
-<!DOCTYPE html><html lang="ja"><head prefix="og: http://ogp.me/ns#"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://j.wovn.io/1" async="true" data-wovnio="key=QLeFbd&amp;backend=true&amp;currentLang=ja&amp;defaultLang=ja&amp;urlPattern=path&amp;version=1.26.3&amp;backendVersion=WOVN.php_1.10.1&amp;langParamName=wovn" data-wovnio-cache-time="202606140328+0000"> </script>
+<!DOCTYPE html><html lang="ja"><head prefix="og: http://ogp.me/ns#"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://j.wovn.io/1" async="true" data-wovnio="key=QLeFbd&amp;backend=true&amp;currentLang=ja&amp;defaultLang=ja&amp;urlPattern=path&amp;version=1.26.3&amp;backendVersion=WOVN.php_1.10.1&amp;langParamName=wovn" data-wovnio-cache-time="202606220401+0000"> </script>
 
 <meta charset="utf-8">
 <title>決済代行・オンライン決済サービス・システム導入ならSBペイメントサービス（ソフトバンクグループ）</title>
@@ -50,7 +50,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-MRQRDWV');</script>
 <!-- End Google Tag Manager -->
 
-<link rel="alternate" hreflang="en" href="https://www.sbpayment.jp/en/?_=1781407693663"><link rel="alternate" hreflang="ja" href="https://www.sbpayment.jp/?_=1781407693663"><link rel="alternate" hreflang="x-default" href="https://www.sbpayment.jp/?_=1781407693663"></head>
+<link rel="alternate" hreflang="en" href="https://www.sbpayment.jp/en/?_=1778210644612"><link rel="alternate" hreflang="ja" href="https://www.sbpayment.jp/?_=1778210644612"><link rel="alternate" hreflang="x-default" href="https://www.sbpayment.jp/?_=1778210644612"></head>
 
 <body>
   <!-- Google Tag Manager (noscript) -->
@@ -198,7 +198,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <li><a href="/purpose/needs/usecase/e-commerce/">物販（ネット通販／ECサイト）</a></li>
                         <li><a href="/purpose/needs/usecase/dental/">歯科医院向け</a></li>
                         <li><a href="/purpose/needs/usecase/digitalcontent/">デジタルコンテンツ</a></li>
-                        <li></li>
+                        <li><a href="/purpose/needs/usecase/ticket-sales/">オンラインチケット</a></li>
                         <li><a href="/purpose/needs/usecase/hotel/">ホテル／宿泊業</a></li>
                         <li></li>
                         <li><a href="/purpose/needs/usecase/fitness/">フィットネス</a></li>
@@ -863,6 +863,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <p class="modTextDescription">事業者さまのビジネスに役立つセミナーを実施しています。</p>
           <div class="modListCompany__wrapper modListCompany__wrapper02 swiper-container">
             <ul class="modListCompany swiper-wrapper">
+            
               <li class="modListPost__item swiper-slide" style="max-width: 350px;">
                 <a href="https://page.openlogi.com/conference-20260617?organizationId=1692" target="_blank">
                   <figure class="img">
@@ -870,7 +871,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                   </figure>
                   <div class="cont">
                     <div class="status__wrapper">
-                      <span class="status"><span>開催予定</span></span>
+                      <span class="status status--end"><span>開催終了</span></span>
                     </div>
                     <div class="title">
                       「仕組み」で勝つEC 2026 ─ 月商5,000万の壁を突破する、最新チャネル活用とバックオフィス最適解 ─
@@ -1259,30 +1260,30 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             
             <li class="modListNews__item">
               
+              <a href="https://www.sbpayment.jp/case/ymstar/" target="_blank" rel="noopener noreferrer">
+                <time class="time" datetime="2026-06-22">2026.06.22</time>
+                <span class="category"><span>お知らせ</span></span>
+                <p class="title">導入事例ページに「合同会社ワイエムスター」が追加されました。</p>
+              </a>
+              
+            </li>
+            
+            <li class="modListNews__item">
+              
+              <a href="https://www.sbpayment.jp/case/tahara-jupposha/" target="_blank" rel="noopener noreferrer">
+                <time class="time" datetime="2026-06-22">2026.06.22</time>
+                <span class="category"><span>お知らせ</span></span>
+                <p class="title">導入事例ページに「田原十方舎有限会社」が追加されました。</p>
+              </a>
+              
+            </li>
+            
+            <li class="modListNews__item">
+              
               <a href="https://www.sbpayment.jp/case/sani-memorial/" target="_blank" rel="noopener noreferrer">
                 <time class="time" datetime="2026-06-12">2026.06.12</time>
                 <span class="category"><span>お知らせ</span></span>
                 <p class="title">導入事例ページに「株式会社三愛メモリアル」が追加されました。</p>
-              </a>
-              
-            </li>
-            
-            <li class="modListNews__item">
-              
-              <a href="https://www.sbpayment.jp/news/press/2026/20260605_001555/">
-                <time class="time" datetime="2026-06-05">2026.06.05</time>
-                <span class="category"><span>プレスリリース</span></span>
-                <p class="title">SBペイメントサービス、加盟店向けファイナンスソリューションを拡充<br>アイ・ティ・リアライズと連携して「加盟店サポートローン」「SBPS BizCRECO」を6月5日から提供開始<br><span style="font-size:70%;">～「SBPS請求書カード払い」を含む3サービスで、資金繰り改善と事業資金の見える化を支援～</span></p>
-              </a>
-              
-            </li>
-            
-            <li class="modListNews__item">
-              
-              <a href="https://www.sbpayment.jp/news/press/2026/20260528_001553/">
-                <time class="time" datetime="2026-05-28">2026.05.28</time>
-                <span class="category"><span>プレスリリース</span></span>
-                <p class="title">SBペイメントサービスとネットプロテクションズ<br>後払い決済サービス「atone」をシステム連携<br><span style="font-size:70%;">～後払い決済の提供拡充により、加盟店の売上拡大と利用者の利便性を向上～</span></p>
               </a>
               
             </li>
