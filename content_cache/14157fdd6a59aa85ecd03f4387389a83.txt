@@ -1,4 +1,4 @@
-<!DOCTYPE html><html lang="ja"><head prefix="og: http://ogp.me/ns#"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://j.wovn.io/1" async="true" data-wovnio="key=QLeFbd&amp;backend=true&amp;currentLang=ja&amp;defaultLang=ja&amp;urlPattern=path&amp;version=1.27.0&amp;backendVersion=WOVN.php_1.10.1&amp;langParamName=wovn" data-wovnio-cache-time="202606290909+0000"> </script>
+<!DOCTYPE html><html lang="ja"><head prefix="og: http://ogp.me/ns#"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://j.wovn.io/1" async="true" data-wovnio="key=QLeFbd&amp;backend=true&amp;currentLang=ja&amp;defaultLang=ja&amp;urlPattern=path&amp;version=1.27.0&amp;backendVersion=WOVN.php_1.10.1&amp;langParamName=wovn" data-wovnio-cache-time="202606300210+0000"> </script>
 
 <meta charset="utf-8">
 <title>決済代行・オンライン決済サービス・システム導入ならSBペイメントサービス（ソフトバンクグループ）</title>
@@ -50,7 +50,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-MRQRDWV');</script>
 <!-- End Google Tag Manager -->
 
-<link rel="alternate" hreflang="en" href="https://www.sbpayment.jp/en/"><link rel="alternate" hreflang="ja" href="https://www.sbpayment.jp/"><link rel="alternate" hreflang="x-default" href="https://www.sbpayment.jp/"></head>
+<link rel="alternate" hreflang="en" href="https://www.sbpayment.jp/en/?_=1782785413309"><link rel="alternate" hreflang="ja" href="https://www.sbpayment.jp/?_=1782785413309"><link rel="alternate" hreflang="x-default" href="https://www.sbpayment.jp/?_=1782785413309"></head>
 
 <body>
   <!-- Google Tag Manager (noscript) -->
@@ -95,7 +95,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </ul>
                             <ul class="cont__list">
                               <li><a href="/service/asp/convenience_store/">コンビニ決済</a></li>
-                              <li><a href="/service/asp/rakuten/">楽天ペイ（オンライン決済）</a></li>
+                              <li><a href="/service/asp/atone/">atone</a></li>
                               <li><a href="/service/method/mail_link/">メールリンク型決済</a></li>
                             </ul>
                           </div>
@@ -284,7 +284,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <li><a href="/service/partner/akuru/">チャージバック保証サービス</a></li>
                         <li><a href="/service/partner/o-plux/">不正検知サービス O-PLUX（オープラックス）</a></li>
                         <li><a href="/service/partner/paidy/">Paidy</a></li>
-                        <li><a href="/service/partner/atone/">atone</a></li>
                       </ul>
                     </div>
                   </div>
@@ -519,13 +518,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <p class="text">キャリア決済</p>
                       </a>
                     </li>
-                    <li class="google_pay">
-                      <a href="/service/asp/google_pay/">
+                    <li class="atone">
+                      <a href="/service/asp/atone/">
                         <picture class="img">
-                          <source media="(max-width: 954px)" srcset="/assets/img/top/img_service_01_07.png">
-                          <img loading="eager" src="/assets/img/top/img_service_01_07.png" alt="Google Pay">
+                          <img loading="eager" src="/assets/img/top/img_service_01_09.png" alt="atone">
                         </picture>
-                        <p class="text">Google Pay</p>
+                        <p class="text">atone</p>
                       </a>
                     </li>
                     <li class="rakuten">
@@ -1418,6 +1416,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <li><a href="/service/asp/electronic_money/">電子マネー決済</a></li>
           <li><a href="/service/asp/bill/">総合振込決済</a></li>
           <li><a href="/service/asp/netmile/">ネットマイル決済</a></li>
+          <li><a href="/service/asp/atone/">atone</a></li>
         </ul>
       </div>
       <div class="footer__block">
@@ -1736,6 +1735,18 @@ var google_remarketing_only = true;
 </noscript>
 
   </div>
+  <style>
+   @media screen and (min-width: 955px) {
+     .topTab__block__item .cont .list--logo>li.atone .img img {
+        max-height: 32px;
+     }
+   }
+   @media screen and (max-width: 954px) {
+     .topTab__block__item .cont .list--logo>li.atone .img img {
+        max-height: 44px;
+      }
+    }
+  </style>
 
 <script type="text/javascript" src="/js/jquery.cookie.js"></script>
 <script type="text/javascript" src="/js/sticky_display.js"></script>
