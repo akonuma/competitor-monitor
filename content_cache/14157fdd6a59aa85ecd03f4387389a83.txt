@@ -1,4 +1,4 @@
-<!DOCTYPE html><html lang="ja"><head prefix="og: http://ogp.me/ns#"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://j.wovn.io/1" async="true" data-wovnio="key=QLeFbd&amp;backend=true&amp;currentLang=ja&amp;defaultLang=ja&amp;urlPattern=path&amp;version=1.27.2&amp;backendVersion=WOVN.php_1.10.1&amp;langParamName=wovn" data-wovnio-cache-time="202607040727+0000"> </script>
+<!DOCTYPE html><html lang="ja"><head prefix="og: http://ogp.me/ns#"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://j.wovn.io/1" async="true" data-wovnio="key=QLeFbd&amp;backend=true&amp;currentLang=ja&amp;defaultLang=ja&amp;urlPattern=path&amp;version=1.27.2&amp;backendVersion=WOVN.php_1.10.1&amp;langParamName=wovn" data-wovnio-cache-time="202607080153+0000"> </script>
 
 <meta charset="utf-8">
 <title>決済代行・オンライン決済サービス・システム導入ならSBペイメントサービス（ソフトバンクグループ）</title>
@@ -50,7 +50,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-MRQRDWV');</script>
 <!-- End Google Tag Manager -->
 
-<link rel="alternate" hreflang="en" href="https://www.sbpayment.jp/en/?_=1777573211170"><link rel="alternate" hreflang="ja" href="https://www.sbpayment.jp/?_=1777573211170"><link rel="alternate" hreflang="x-default" href="https://www.sbpayment.jp/?_=1777573211170"></head>
+<link rel="alternate" hreflang="en" href="https://www.sbpayment.jp/en/"><link rel="alternate" hreflang="ja" href="https://www.sbpayment.jp/"><link rel="alternate" hreflang="x-default" href="https://www.sbpayment.jp/"></head>
 
 <body>
   <!-- Google Tag Manager (noscript) -->
@@ -89,7 +89,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                           <a href="/service/asp/payment-method/" class="cont__list__title">決済手段一覧（40ブランド以上を提供）</a>
                           <div class="inner">
                             <ul class="cont__list">
-                              <li><a href="/service/asp/creditcard/">クレジットカード決済サービス</a></li>
+                              <li><a href="/service/asp/creditcard/">クレジットカード決済</a></li>
                               <li><a href="/service/asp/paypay_online/">PayPay（オンライン決済）</a></li>
                               <li><a href="/service/asp/mobile/">キャリア決済</a></li>
                             </ul>
@@ -292,7 +292,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </li>
           </ul>
           <ul class="listBtn">
-            
             
               
                 <li class="listBtn__download ja">
@@ -1395,7 +1394,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <a href="/service/asp/">オンライン決済サービス</a>
         </p>
         <ul class="footer__block__menu">
-          <li><a href="/service/asp/creditcard/">クレジットカード決済サービス</a></li>
+          <li><a href="/service/asp/creditcard/">クレジットカード決済</a></li>
           <li><a href="/service/asp/convenience_store/">コンビニ決済</a></li>
           <li><a href="/service/asp/np/">後払い決済</a></li>
           <li><a href="/service/asp/paypal/">ペイパル</a></li>
