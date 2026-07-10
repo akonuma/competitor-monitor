@@ -1,4 +1,4 @@
-<!DOCTYPE html><html lang="ja"><head prefix="og: http://ogp.me/ns#"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://j.wovn.io/1" async="true" data-wovnio="key=QLeFbd&amp;backend=true&amp;currentLang=ja&amp;defaultLang=ja&amp;urlPattern=path&amp;version=1.27.2&amp;backendVersion=WOVN.php_1.10.1&amp;langParamName=wovn" data-wovnio-cache-time="202607080153+0000"> </script>
+<!DOCTYPE html><html lang="ja"><head prefix="og: http://ogp.me/ns#"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://j.wovn.io/1" async="true" data-wovnio="key=QLeFbd&amp;backend=true&amp;currentLang=ja&amp;defaultLang=ja&amp;urlPattern=path&amp;version=1.27.2&amp;backendVersion=WOVN.php_1.10.1&amp;langParamName=wovn" data-wovnio-cache-time="202607100138+0000"> </script>
 
 <meta charset="utf-8">
 <title>決済代行・オンライン決済サービス・システム導入ならSBペイメントサービス（ソフトバンクグループ）</title>
@@ -50,7 +50,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-MRQRDWV');</script>
 <!-- End Google Tag Manager -->
 
-<link rel="alternate" hreflang="en" href="https://www.sbpayment.jp/en/"><link rel="alternate" hreflang="ja" href="https://www.sbpayment.jp/"><link rel="alternate" hreflang="x-default" href="https://www.sbpayment.jp/"></head>
+<link rel="alternate" hreflang="en" href="https://www.sbpayment.jp/en/?_=1783647484087"><link rel="alternate" hreflang="ja" href="https://www.sbpayment.jp/?_=1783647484087"><link rel="alternate" hreflang="x-default" href="https://www.sbpayment.jp/?_=1783647484087"></head>
 
 <body>
   <!-- Google Tag Manager (noscript) -->
@@ -309,7 +309,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </li>
             
               <li class="listBtn__contact modBpPc ja">
-                <a href="https://service.sbpayment.jp/contact/" target="_blank" class="headcta-info-Pc">
+                <a href="https://service.sbpayment.jp/contact/simpleform/" target="_blank" class="headcta-info-Pc">
                   お問い合わせ
                   <div class="caption">
                     <div class="caption__inner">お問い合わせ</div>
@@ -325,7 +325,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 </a>
               </li>
               <li class="listBtn__contact modBpPc en">
-                <a href="https://service.sbpayment.jp/contact/" class="headcta-info">
+                <a href="/en/contact/contact-en/" class="headcta-info">
                   お問い合わせ
                   <div class="caption">
                     <div class="caption__inner">お問い合わせ</div>
@@ -333,7 +333,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 </a>
               </li>
               <li class="listBtn__contact modBpSp en">
-                <a href="https://service.sbpayment.jp/contact/sp/" class="menucta-info">
+                <a href="/en/contact/contact-en/" class="menucta-info">
                   お問い合わせ
                   <div class="caption">
                     <div class="caption__inner">お問い合わせ</div>
@@ -430,7 +430,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <p class="topKv__lead">豊富な決済手段と万全のセキュリティで、<br class="modBpPc">売上拡大を実現する決済プラットフォーム。</p>
             <ul class="topKv__listBtn">
               <li class="ja">
-                <a href="https://service.sbpayment.jp/contact/" class="btn btn--contact modBpPc kvcta-info-Pc" target="_blank">お問い合わせ</a>
+                <a href="https://service.sbpayment.jp/contact/simpleform/" class="btn btn--contact modBpPc kvcta-info-Pc" target="_blank">お問い合わせ</a>
                 <a href="https://service.sbpayment.jp/contact/sp/" class="btn btn--contact modBpSp kvcta-info-Sp" target="_blank">お問い合わせ</a>
               </li>
               <li class="en">
@@ -698,7 +698,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <div class="modCta__cont">
             <ul class="modCta__cont__list">
               <li class="modBpPc ja">
-                <a class="btn btn--contact" href="https://service.sbpayment.jp/contact/" target="_blank">
+                <a class="btn btn--contact" href="https://service.sbpayment.jp/contact/simpleform/" target="_blank">
                   <span class="btn__inner"><i class="icon icon--contact"></i>お問い合わせする</span>
                 </a>
               </li>
@@ -713,7 +713,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 </a>
               </li>
               <li class="modBpSp ja">
-                <a class="btn btn--contact" href="https://service.sbpayment.jp/contact/sp/" target="_blank">
+                <a class="btn btn--contact" href="https://service.sbpayment.jp/contact/simpleform/sp/" target="_blank">
                   <span class="btn__inner"><i class="icon icon--contact"></i>お問い合わせする</span>
                 </a>
               </li>
@@ -1257,6 +1257,16 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             
             <li class="modListNews__item">
               
+              <a href="https://boxil.jp/service/4462" target="_blank" rel="noopener noreferrer">
+                <time class="time" datetime="2026-07-10">2026.07.10</time>
+                <span class="category"><span>お知らせ</span></span>
+                <p class="title">SaaS比較サイト「BOXIL」に「SBペイメントサービス」が掲載されました</p>
+              </a>
+              
+            </li>
+            
+            <li class="modListNews__item">
+              
               <a href="https://www.sbpayment.jp/news/press/2026/20260629_001573/">
                 <time class="time" datetime="2026-06-29">2026.06.29</time>
                 <span class="category"><span>プレスリリース</span></span>
@@ -1271,16 +1281,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <time class="time" datetime="2026-06-29">2026.06.29</time>
                 <span class="category"><span>お知らせ</span></span>
                 <p class="title">【導入事例】「さとふる」において、<br>新たに18自治体のふるさと納税に決済サービスを導入</p>
-              </a>
-              
-            </li>
-            
-            <li class="modListNews__item">
-              
-              <a href="https://www.sbpayment.jp/news/press/2026/20260625_001570/">
-                <time class="time" datetime="2026-06-25">2026.06.25</time>
-                <span class="category"><span>プレスリリース</span></span>
-                <p class="title">RiskifiedとSBペイメントサービスが提携し、EC事業者の収益最大化を加速<br><span style="font-size:70%;">～不正利用被害の抑止やオーソリ承認率・決済完了率の向上を通してEC事業の成長を支援～</span></p>
               </a>
               
             </li>
@@ -1300,7 +1300,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <div class="modCta__cont">
             <ul class="modCta__cont__list">
               <li class="modBpPc ja">
-                <a class="btn btn--contact" href="https://service.sbpayment.jp/contact/" target="_blank">
+                <a class="btn btn--contact" href="https://service.sbpayment.jp/contact/simpleform/" target="_blank">
                   <span class="btn__inner"><i class="icon icon--contact"></i>お問い合わせする</span>
                 </a>
               </li>
@@ -1315,7 +1315,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 </a>
               </li>
               <li class="modBpSp ja">
-                <a class="btn btn--contact" href="https://service.sbpayment.jp/contact/sp/" target="_blank">
+                <a class="btn btn--contact" href="https://service.sbpayment.jp/contact/simpleform/sp/" target="_blank">
                   <span class="btn__inner"><i class="icon icon--contact"></i>お問い合わせする</span>
                 </a>
               </li>
