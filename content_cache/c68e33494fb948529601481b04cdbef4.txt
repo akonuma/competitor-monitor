@@ -1864,6 +1864,45 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <li class="js-horizontal-list-item w-full translate-x-[10%] scale-105 opacity-0 lg:translate-x-[15%]" >
                 <div class="group relative block h-full w-full rounded-10 bg-white hover:scale-[1.02] hover:rounded-15 hover:shadow transition-all duration-300 ease-main">
                   <div class="relative grid h-full w-full grid-cols-1 grid-rows-[1fr_auto] content-start gap-x-[calc(var(--grid-pc)*6)] gap-y-0">
+                    <a class="col-span-full row-[1/3] grid grid-rows-subgrid gap-y-40 p-20 pt-30 pb-0 lg:p-30" href="https://prtimes.jp/main/html/rd/p/000000097.000050308.html" target="_blank">
+                      <div class="grid content-start">
+                        <div class="flex h-full">
+                          <div class="grid w-full flex-col gap-y-25">
+                            <div class="grid gap-y-20">
+                              <time datetime="2026.07.07" class="leading-trim text-12 leading-[1.5] text-gray-4">
+                                2026.07.07
+                              </time>
+                            </div>
+                            <div class="leading-trim text-14 leading-[1.8] lg:text-15 lg:leading-[1.9]">
+                              "アジフライの聖地"長崎県松浦市が現地消費型ふるさと納税の取り組み「テツふる」を導入(株式会社読売旅行のPR TIMESへ遷移)
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </a>
+                    <ul class="pointer-events-none col-span-full row-[2/3] mt-auto flex flex-wrap gap-x-8 gap-y-8 self-end p-20 pr-50 pb-20 text-11 lg:gap-x-16 lg:pr-70 lg:pb-30 lg:pl-30 lg:text-14">
+                      <li class="-mr-2 -ml-6 text-11/15 lg:text-13/19">
+                        
+  <a class="js-animate-bg group/tag pointer-events-auto gradient-border-fixed-opacity relative flex overflow-clip rounded-4 gradient-bg-fixed-opacity bg-clip-text py-2 pr-6 pl-4 text-transparent transition-colors duration-400 ease-main hover:text-white" href="https://company.dgft.jp/news/?category=news" target="_blank">
+    お知らせ
+    <span class="absolute inset-0 -z-10 gradient-bg-fixed-opacity bg-position-[inherit] opacity-0 transition-opacity duration-600 ease-main group-hover/tag:opacity-100"></span>
+  </a>
+  
+</li>
+                    </ul>
+                    <div class="pointer-events-none grid size-30 rounded-full p-9 lg:size-35 lg:p-11 [.is-hovering_&#38;]:bg-bg/70 transition-colors duration-300 ease-main *:col-span-full *:row-span-full *:block *:size-13 *:transition-opacity *:duration-300 *:ease-main absolute right-10 bottom-10 bg-bg group-hover:bg-brand-light-3 group-hover:opacity-100 lg:right-20 lg:bottom-20">
+  <span class="bg-current opacity-100 [.is-hovering_&#38;]:opacity-0" style="clip-path: url(#s-blankClip)">
+  </span>
+  <span class="js-animate-bg gradient-bg-fixed-opacity opacity-0 [.is-hovering_&#38;]:opacity-100" style="clip-path: url(#s-blankClip)">
+  </span>
+</div>
+                  </div>
+                </div>
+              </li>
+              
+          <li class="js-horizontal-list-item w-full translate-x-[10%] scale-105 opacity-0 lg:translate-x-[15%]" >
+                <div class="group relative block h-full w-full rounded-10 bg-white hover:scale-[1.02] hover:rounded-15 hover:shadow transition-all duration-300 ease-main">
+                  <div class="relative grid h-full w-full grid-cols-1 grid-rows-[1fr_auto] content-start gap-x-[calc(var(--grid-pc)*6)] gap-y-0">
                     <a class="col-span-full row-[1/3] grid grid-rows-subgrid gap-y-40 p-20 pt-30 pb-0 lg:p-30" href="https://www.garage.co.jp/pr/release/20260630/" target="_blank">
                       <div class="grid content-start">
                         <div class="flex h-full">
@@ -1914,45 +1953,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </div>
                             <div class="leading-trim text-14 leading-[1.8] lg:text-15 lg:leading-[1.9]">
                               「AWS Summit Japan 2026」にDGFT執行役員 Chief Architectのジョナサン ハガンが登壇
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </a>
-                    <ul class="pointer-events-none col-span-full row-[2/3] mt-auto flex flex-wrap gap-x-8 gap-y-8 self-end p-20 pr-50 pb-20 text-11 lg:gap-x-16 lg:pr-70 lg:pb-30 lg:pl-30 lg:text-14">
-                      <li class="-mr-2 -ml-6 text-11/15 lg:text-13/19">
-                        
-  <a class="js-animate-bg group/tag pointer-events-auto gradient-border-fixed-opacity relative flex overflow-clip rounded-4 gradient-bg-fixed-opacity bg-clip-text py-2 pr-6 pl-4 text-transparent transition-colors duration-400 ease-main hover:text-white" href="https://company.dgft.jp/news/?category=news" target="_blank">
-    お知らせ
-    <span class="absolute inset-0 -z-10 gradient-bg-fixed-opacity bg-position-[inherit] opacity-0 transition-opacity duration-600 ease-main group-hover/tag:opacity-100"></span>
-  </a>
-  
-</li>
-                    </ul>
-                    <div class="pointer-events-none grid size-30 rounded-full p-9 lg:size-35 lg:p-11 [.is-hovering_&#38;]:bg-bg/70 transition-colors duration-300 ease-main *:col-span-full *:row-span-full *:block *:size-13 *:transition-opacity *:duration-300 *:ease-main absolute right-10 bottom-10 bg-bg group-hover:bg-brand-light-3 group-hover:opacity-100 lg:right-20 lg:bottom-20">
-  <span class="bg-current opacity-100 [.is-hovering_&#38;]:opacity-0" style="clip-path: url(#s-blankClip)">
-  </span>
-  <span class="js-animate-bg gradient-bg-fixed-opacity opacity-0 [.is-hovering_&#38;]:opacity-100" style="clip-path: url(#s-blankClip)">
-  </span>
-</div>
-                  </div>
-                </div>
-              </li>
-              
-          <li class="js-horizontal-list-item w-full translate-x-[10%] scale-105 opacity-0 lg:translate-x-[15%]" >
-                <div class="group relative block h-full w-full rounded-10 bg-white hover:scale-[1.02] hover:rounded-15 hover:shadow transition-all duration-300 ease-main">
-                  <div class="relative grid h-full w-full grid-cols-1 grid-rows-[1fr_auto] content-start gap-x-[calc(var(--grid-pc)*6)] gap-y-0">
-                    <a class="col-span-full row-[1/3] grid grid-rows-subgrid gap-y-40 p-20 pt-30 pb-0 lg:p-30" href="https://www.garage.co.jp/pr/release/20260619/" target="_blank">
-                      <div class="grid content-start">
-                        <div class="flex h-full">
-                          <div class="grid w-full flex-col gap-y-25">
-                            <div class="grid gap-y-20">
-                              <time datetime="2026.06.19" class="leading-trim text-12 leading-[1.5] text-gray-4">
-                                2026.06.19
-                              </time>
-                            </div>
-                            <div class="leading-trim text-14 leading-[1.8] lg:text-15 lg:leading-[1.9]">
-                              ＜グループ会社からのお知らせ＞"手形廃止に対応"  デジタルガレージ、ワークスアプリケーションズと協業　ERPパッケージにB2Bカード決済実装
                             </div>
                           </div>
                         </div>

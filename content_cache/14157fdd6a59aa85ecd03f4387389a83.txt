@@ -1,4 +1,4 @@
-<!DOCTYPE html><html lang="ja"><head prefix="og: http://ogp.me/ns#"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://j.wovn.io/1" async="true" data-wovnio="key=QLeFbd&amp;backend=true&amp;currentLang=ja&amp;defaultLang=ja&amp;urlPattern=path&amp;version=1.27.2&amp;backendVersion=WOVN.php_1.10.1&amp;langParamName=wovn" data-wovnio-cache-time="202607100138+0000"> </script>
+<!DOCTYPE html><html lang="ja"><head prefix="og: http://ogp.me/ns#"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://j.wovn.io/1" async="true" data-wovnio="key=QLeFbd&amp;backend=true&amp;currentLang=ja&amp;defaultLang=ja&amp;urlPattern=path&amp;version=1.27.3&amp;backendVersion=WOVN.php_1.10.1&amp;langParamName=wovn" data-wovnio-cache-time="202607140211+0000"> </script>
 
 <meta charset="utf-8">
 <title>決済代行・オンライン決済サービス・システム導入ならSBペイメントサービス（ソフトバンクグループ）</title>
@@ -38,6 +38,11 @@
       font-size: 1.2rem;
     }
   }
+  @media screen and (min-width: 955px) {
+      #container {
+          padding: 120px 0 0;
+      }
+  }
 </style>
 
 <script type="text/javascript" src="/assets/js/libs/jquery.min.js"></script>
@@ -50,7 +55,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-MRQRDWV');</script>
 <!-- End Google Tag Manager -->
 
-<link rel="alternate" hreflang="en" href="https://www.sbpayment.jp/en/?_=1783647484087"><link rel="alternate" hreflang="ja" href="https://www.sbpayment.jp/?_=1783647484087"><link rel="alternate" hreflang="x-default" href="https://www.sbpayment.jp/?_=1783647484087"></head>
+<link rel="alternate" hreflang="en" href="https://www.sbpayment.jp/en/?_=1783995077127"><link rel="alternate" hreflang="ja" href="https://www.sbpayment.jp/?_=1783995077127"><link rel="alternate" hreflang="x-default" href="https://www.sbpayment.jp/?_=1783995077127"></head>
 
 <body>
   <!-- Google Tag Manager (noscript) -->
@@ -409,7 +414,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       
       
       <div class="topAlert">
-        <p class="topAlert__text">【注意喚起】<a href="/news/info/2025/20250716_001471/">当社をかたる不審なメール、SNS、電話等からのご連絡にご注意ください</a></p>
+        <p class="topAlert__text">【注意喚起】<a href="/news/info/2026/20260714_001576/">当社をかたる不審な電話、SNS、メール等による勧誘にご注意ください</a></p>
       </div>
       <div class="topKv topKv--typeB">
         <div class="topKv__inner">
@@ -1257,6 +1262,16 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             
             <li class="modListNews__item">
               
+              <a href="https://www.sbpayment.jp/news/info/2026/20260714_001576/">
+                <time class="time" datetime="2026-07-14">2026.07.14</time>
+                <span class="category"><span>お知らせ</span></span>
+                <p class="title">【注意喚起】当社をかたる不審な電話、SNS、メール等による勧誘にご注意ください</p>
+              </a>
+              
+            </li>
+            
+            <li class="modListNews__item">
+              
               <a href="https://boxil.jp/service/4462" target="_blank" rel="noopener noreferrer">
                 <time class="time" datetime="2026-07-10">2026.07.10</time>
                 <span class="category"><span>お知らせ</span></span>
@@ -1271,16 +1286,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <time class="time" datetime="2026-06-29">2026.06.29</time>
                 <span class="category"><span>プレスリリース</span></span>
                 <p class="title">「SBPS請求書カード払い」手数料2.5％キャンペーン開始<br><span style="font-size:70%;">～対象期間中の新規登録で、10月31日までのお支払いは何度でも手数料2.5％が適用～</span></p>
-              </a>
-              
-            </li>
-            
-            <li class="modListNews__item">
-              
-              <a href="https://www.sbpayment.jp/news/info/2026/20260629_001574/">
-                <time class="time" datetime="2026-06-29">2026.06.29</time>
-                <span class="category"><span>お知らせ</span></span>
-                <p class="title">【導入事例】「さとふる」において、<br>新たに18自治体のふるさと納税に決済サービスを導入</p>
               </a>
               
             </li>
