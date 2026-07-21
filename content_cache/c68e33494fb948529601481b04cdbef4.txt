@@ -3720,11 +3720,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   
 
   <li class="js-horizontal-list-item js-card w-full translate-x-[10%] scale-105 opacity-0 lg:translate-x-[15%]" style="--card-width: 17.5rem; --card-lg-width: 25.625rem">
-  <a class="group relative block h-full rounded-10 bg-white hover:scale-[1.02] hover:rounded-15 hover:shadow transition-all duration-300 ease-main w-[var(--card-width)] lg:!w-[var(--card-lg-width)]" href="https://www.dgft.jp/tips/webinar/260716.html">
+  <a class="group relative block h-full rounded-10 bg-white hover:scale-[1.02] hover:rounded-15 hover:shadow transition-all duration-300 ease-main w-[var(--card-width)] lg:!w-[var(--card-lg-width)]" href="https://www.dgft.jp/tips/webinar/260804.html">
     <div class="relative flex h-full w-full flex-col gap-x-[calc(var(--grid-pc)*6)] p-[calc(var(--grid-sp)*1)] lg:p-20">
       <div class="lg:shrink-0">
         <div class="aspect-[360/202] w-full overflow-hidden rounded-5 transition-all duration-300 ease-main group-hover:rounded-7">
-          <img src="https://www.dgft.jp/tips/webinar/assets/S__47185954.jpg" alt="3Dセキュア義務化後の「決済体験の最適化」" class="h-full w-full object-contain" width="360" height="202">
+          <img src="https://www.dgft.jp/tips/webinar/assets/banner02.jpg" alt="訪日外国人にストレスのない購買体験を提供するには？" class="h-full w-full object-contain" width="360" height="202">
         </div>
       </div>
       <div class="mt-30 flex h-full">
@@ -3739,19 +3739,18 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           
           
             <div class="text-12 leading-[1.5] text-black-1 lg:text-14">
-              【LIVE】2026年7月16日(木) 13:00～14:00
-【アーカイブ】2026年7月17日(金)、7月21日(火) 13:00～14:00
+              【LIVE】2026年8月4日(火) 13:00～14:00
             </div>
           
           </div>
         
           <div class="leading-trim mt-18 text-16 leading-[1.6] lg:mt-20 lg:text-20">
-            3Dセキュア義務化後の「決済体験の最適化」
+            訪日外国人にストレスのない購買体験を提供するには？
           </div>
           
           
           <div class="leading-trim mt-auto pt-40 pr-[calc(var(--grid-pc)*7.5)] pb-10 text-12 leading-[1.5] text-gray-4 lg:text-14">
-            EC事業者向け
+            観光関連・小売事業者さま向け
           </div>
           
           <div class="pointer-events-none grid size-30 rounded-full p-9 lg:size-35 lg:p-11 [.is-hovering_&#38;]:bg-bg/70 transition-colors duration-300 ease-main *:col-span-full *:row-span-full *:block *:size-13 *:[clip-path:url(#s-arrowRightIconClip)] *:transition-opacity *:duration-300 *:ease-main absolute right-10 bottom-10 bg-bg group-hover:bg-brand-light-3 group-hover:opacity-100 lg:right-20 lg:bottom-20">
