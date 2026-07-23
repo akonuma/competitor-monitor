@@ -3819,6 +3819,98 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <div class="js-augmented-container relative grid h-full content-end gap-x-[calc(var(--grid-pc)*6)] p-20 lg:px-40 lg:py-30 aspect-square w-[var(--card-width)] lg:aspect-square lg:!w-[var(--card-lg-width)]">
       <div class="absolute inset-0 aspect-[360/202] size-full">
         <div class="dgft-aug-img-tr">
+          <a href="https://www.dgbt.jp/news/topics/fukano_cx02" tabindex="-1" data-aug-image target="_blank">
+            <div>
+              <img class="transition-transform duration-600 ease-main [.is-hovering_&]:scale-[1.2]" src="https://www.dgft.jp/tips/column/assets/images/CX02tmb.png" alt="【連載コラム】CXは、顧客理解のズレを捉えることから始まる" width="360" height="202">
+            </div>
+          </a>
+          <a href="https://www.dgbt.jp/news/topics/fukano_cx02" tabindex="-1" data-aug-image target="_blank">
+            <div>
+              <img class="transition-transform duration-600 ease-main [.is-hovering_&]:scale-[1.2]" src="https://www.dgft.jp/tips/column/assets/images/CX02tmb.png" alt="【連載コラム】CXは、顧客理解のズレを捉えることから始まる" width="360" height="202">
+            </div>
+          </a>
+        
+    <a href="/tips/column/?category=online
+&page_no=1#list"class="js-hover-gradient-opacity js-animate-bg group/link relative z-10 max-w-200 text-gray-2 lg:max-w-300">
+        <span class="absolute inset-0 rounded-10 bg-bg" style="touch-action: pan-y;"></span>
+        <span
+            class="block rounded-10 gradient-bg bg-clip-text pt-2 pr-3 pb-2 pl-10 text-11 leading-[1.6] lg:pr-4 lg:pb-2 lg:text-14"
+            style="touch-action: pan-y;">
+            <span
+                class="block -translate-y-4 rounded-10 gradient-bg bg-clip-text text-gray-2 transition-colors duration-400 ease-main group-hover/link:text-transparent">
+                オンライン決済・EC
+            </span>
+        </span>
+    </a>
+
+        </div>
+      </div>
+      <div class="pointer-events-none absolute inset-0 size-full rounded-10 bg-gradient-to-b from-transparent from-30% to-black-1/70 to-70%">
+      </div>
+     <div>
+        <div class="pointer-events-none relative mt-30 flex h-full pr-[calc(var(--grid-pc)*4)] text-white">
+          <div class="flex w-full flex-col gap-y-20 lg:gap-y-25">
+            <ul class="flex flex-wrap gap-x-15 gap-y-7 lg:gap-y-10">
+            
+              
+                <li class="leading-trim flex text-11 lg:text-14">
+                <a href="/tips/column/?tag=EC_site
+&page_no=1#list" class="pointer-events-auto transition-opacity ease-main hover:opacity-80" data-aug-image="">
+                    <span class="w-14 text-center">#</span>
+                    ECサイト
+                </a>
+                </li>
+              
+                <li class="leading-trim flex text-11 lg:text-14">
+                <a href="/tips/column/?tag=improve_CX
+&page_no=1#list" class="pointer-events-auto transition-opacity ease-main hover:opacity-80" data-aug-image="">
+                    <span class="w-14 text-center">#</span>
+                    CX向上
+                </a>
+                </li>
+              
+                <li class="leading-trim flex text-11 lg:text-14">
+                <a href="/tips/column/?tag=retail
+&page_no=1#list" class="pointer-events-auto transition-opacity ease-main hover:opacity-80" data-aug-image="">
+                    <span class="w-14 text-center">#</span>
+                    小売業
+                </a>
+                </li>
+              
+            
+            </ul>
+           <a href="https://www.dgbt.jp/news/topics/fukano_cx02" data-aug-image class="pointer-events-auto leading-trim line-clamp-2 text-16 leading-[1.6] transition-opacity ease-main hover:opacity-80 lg:text-18">
+                      【連載コラム】CXは、顧客理解のズレを捉えることから始まる
+                  </a>
+            <div class="flex items-center gap-x-10 text-12 leading-[1] lg:text-14">
+              <span class="flex items-center gap-x-10 after:block after:h-10 after:w-1 after:bg-current">
+                更新日
+              </span>
+              <time datetime="2026-07-23" class="leading-trim leading-[1.5]">
+                2026.07.23
+              </time>
+            </div>
+          </div>
+        </div>
+      </div>
+    
+   <div class="pointer-events-none grid size-30 rounded-full bg-bg/50 p-9 lg:size-35 lg:p-11 group-hover:bg-bg/70 [.is-hovering_&#38;]:bg-bg/70 transition-colors duration-300 ease-main *:col-span-full *:row-span-full *:block *:size-13 *:transition-opacity *:duration-300 *:ease-main absolute right-10 bottom-10 lg:right-20 lg:bottom-20">
+  <span class="bg-current opacity-100 group-hover:opacity-0 [.is-hovering_&#38;]:opacity-0" style="clip-path: url(#s-blankClip)">
+  </span>
+  <span class="js-animate-bg gradient-bg-fixed-opacity opacity-0 group-hover:opacity-100 [.is-hovering_&#38;]:opacity-100" style="clip-path: url(#s-blankClip)">
+  </span>
+</div>
+    
+    </div>
+  </div>
+  </li>
+  
+  
+  <li class="js-horizontal-list-item js-card w-full translate-x-[10%] scale-105 opacity-0 lg:translate-x-[15%]" style="--card-width: 17.5rem; --card-lg-width: 25.625rem">
+  <div class="relative block h-full w-full">
+    <div class="js-augmented-container relative grid h-full content-end gap-x-[calc(var(--grid-pc)*6)] p-20 lg:px-40 lg:py-30 aspect-square w-[var(--card-width)] lg:aspect-square lg:!w-[var(--card-lg-width)]">
+      <div class="absolute inset-0 aspect-[360/202] size-full">
+        <div class="dgft-aug-img-tr">
           <a href="https://www.dgbt.jp/news/topics/baba_ac01" tabindex="-1" data-aug-image target="_blank">
             <div>
               <img class="transition-transform duration-600 ease-main [.is-hovering_&]:scale-[1.2]" src="https://www.dgft.jp/tips/column/assets/images/2026-07-10.png" alt="【連載コラム】エージェンティックコマースのいま " width="360" height="202">
@@ -4465,106 +4557,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </ul>
            <a href="https://www.dgft.jp/tips/column/dx.html" data-aug-image class="pointer-events-auto leading-trim line-clamp-2 text-16 leading-[1.6] transition-opacity ease-main hover:opacity-80 lg:text-18">
                       家族葬時代の「薄利・未収」リスクを回避する―葬儀経営を安定させる決済DXの重要性
-                  </a>
-            <div class="flex items-center gap-x-10 text-12 leading-[1] lg:text-14">
-              <span class="flex items-center gap-x-10 after:block after:h-10 after:w-1 after:bg-current">
-                更新日
-              </span>
-              <time datetime="2026-04-30" class="leading-trim leading-[1.5]">
-                2026.04.30
-              </time>
-            </div>
-          </div>
-        </div>
-      </div>
-    
-   <div class="pointer-events-none grid size-30 rounded-full bg-bg/50 p-9 lg:size-35 lg:p-11 group-hover:bg-bg/70 [.is-hovering_&#38;]:bg-bg/70 transition-colors duration-300 ease-main *:col-span-full *:row-span-full *:block *:size-13 *:[clip-path:url(#s-arrowRightIconClip)] *:transition-opacity *:duration-300 *:ease-main absolute right-10 bottom-10 lg:right-20 lg:bottom-20">
-  <span class="bg-current opacity-100 group-hover:opacity-0 [.is-hovering_&#38;]:opacity-0">
-  </span>
-  <span class="js-animate-bg gradient-bg-fixed-opacity opacity-0 group-hover:opacity-100 [.is-hovering_&#38;]:opacity-100">
-  </span>
-</div>
-      
-    </div>
-  </div>
-  </li>
-  
-  
-  <li class="js-horizontal-list-item js-card w-full translate-x-[10%] scale-105 opacity-0 lg:translate-x-[15%]" style="--card-width: 17.5rem; --card-lg-width: 25.625rem">
-  <div class="relative block h-full w-full">
-    <div class="js-augmented-container relative grid h-full content-end gap-x-[calc(var(--grid-pc)*6)] p-20 lg:px-40 lg:py-30 aspect-square w-[var(--card-width)] lg:aspect-square lg:!w-[var(--card-lg-width)]">
-      <div class="absolute inset-0 aspect-[360/202] size-full">
-        <div class="dgft-aug-img-tr">
-          <a href="https://www.dgft.jp/tips/column/recolumn13.html" tabindex="-1" data-aug-image >
-            <div>
-              <img class="transition-transform duration-600 ease-main [.is-hovering_&]:scale-[1.2]" src="https://www.dgft.jp/tips/column/assets/recolumn13_kv.jpeg" alt="ペットサロンの収益を安定させる決済・顧客管理の導入ガイド" width="360" height="202">
-            </div>
-          </a>
-          <a href="https://www.dgft.jp/tips/column/recolumn13.html" tabindex="-1" data-aug-image >
-            <div>
-              <img class="transition-transform duration-600 ease-main [.is-hovering_&]:scale-[1.2]" src="https://www.dgft.jp/tips/column/assets/recolumn13_kv.jpeg" alt="ペットサロンの収益を安定させる決済・顧客管理の導入ガイド" width="360" height="202">
-            </div>
-          </a>
-        
-    <a href="/tips/column/?category=industry
-&page_no=1#list"class="js-hover-gradient-opacity js-animate-bg group/link relative z-10 max-w-200 text-gray-2 lg:max-w-300">
-        <span class="absolute inset-0 rounded-10 bg-bg" style="touch-action: pan-y;"></span>
-        <span
-            class="block rounded-10 gradient-bg bg-clip-text pt-2 pr-3 pb-2 pl-10 text-11 leading-[1.6] lg:pr-4 lg:pb-2 lg:text-14"
-            style="touch-action: pan-y;">
-            <span
-                class="block -translate-y-4 rounded-10 gradient-bg bg-clip-text text-gray-2 transition-colors duration-400 ease-main group-hover/link:text-transparent">
-                業界別ソリューション
-            </span>
-        </span>
-    </a>
-
-        </div>
-      </div>
-      <div class="pointer-events-none absolute inset-0 size-full rounded-10 bg-gradient-to-b from-transparent from-30% to-black-1/70 to-70%">
-      </div>
-     <div>
-        <div class="pointer-events-none relative mt-30 flex h-full pr-[calc(var(--grid-pc)*4)] text-white">
-          <div class="flex w-full flex-col gap-y-20 lg:gap-y-25">
-            <ul class="flex flex-wrap gap-x-15 gap-y-7 lg:gap-y-10">
-            
-              
-                <li class="leading-trim flex text-11 lg:text-14">
-                <a href="/tips/column/?tag=store
-&page_no=1#list" class="pointer-events-auto transition-opacity ease-main hover:opacity-80" data-aug-image="">
-                    <span class="w-14 text-center">#</span>
-                    店舗向け決済
-                </a>
-                </li>
-              
-                <li class="leading-trim flex text-11 lg:text-14">
-                <a href="/tips/column/?tag=subscription
-&page_no=1#list" class="pointer-events-auto transition-opacity ease-main hover:opacity-80" data-aug-image="">
-                    <span class="w-14 text-center">#</span>
-                    サブスクリプション
-                </a>
-                </li>
-              
-                <li class="leading-trim flex text-11 lg:text-14">
-                <a href="/tips/column/?tag=efficiency
-&page_no=1#list" class="pointer-events-auto transition-opacity ease-main hover:opacity-80" data-aug-image="">
-                    <span class="w-14 text-center">#</span>
-                    業務効率化
-                </a>
-                </li>
-              
-                <li class="leading-trim flex text-11 lg:text-14">
-                <a href="/tips/column/?tag=improve_CX
-&page_no=1#list" class="pointer-events-auto transition-opacity ease-main hover:opacity-80" data-aug-image="">
-                    <span class="w-14 text-center">#</span>
-                    CX向上
-                </a>
-                </li>
-              
-            
-            </ul>
-           <a href="https://www.dgft.jp/tips/column/recolumn13.html" data-aug-image class="pointer-events-auto leading-trim line-clamp-2 text-16 leading-[1.6] transition-opacity ease-main hover:opacity-80 lg:text-18">
-                      ペットサロンの収益を安定させる決済・顧客管理の導入ガイド
                   </a>
             <div class="flex items-center gap-x-10 text-12 leading-[1] lg:text-14">
               <span class="flex items-center gap-x-10 after:block after:h-10 after:w-1 after:bg-current">
