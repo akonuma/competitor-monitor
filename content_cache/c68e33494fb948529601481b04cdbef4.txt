@@ -2713,6 +2713,51 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <!-- Case card --><li class="js-horizontal-list-item js-card w-full translate-x-[10%] scale-105 opacity-0 lg:translate-x-[15%]" style="--card-width: 17.5rem; --card-lg-width: 25.625rem">
   <div class="group relative block h-full rounded-10 bg-white hover:scale-[1.02] hover:rounded-15 hover:shadow transition-all duration-300 ease-main w-[var(--card-width)] lg:!w-[var(--card-lg-width)]">
     <div class="relative grid h-full w-full grid-cols-1 grid-rows-[auto_1fr_auto] content-start gap-x-[calc(var(--grid-pc)*6)] gap-y-30">
+      <a class="col-span-full row-[1/4] grid grid-rows-subgrid gap-y-40 p-[calc(var(--grid-sp)*1)] pb-0 lg:p-20 lg:pb-0" href="https://www.dgft.jp/case/case27.html">
+        <div class="aspect-[425/239] w-full overflow-hidden rounded-5 transition-all duration-300 ease-main group-hover:rounded-7">
+          <img src="https://www.dgft.jp/case/assets/images/case27_kv.png" alt="個人向けPCレンタルサービスの未返却リスク軽減にクレカ決済が貢献。継続課金で月100台稼働へ" class="h-full w-full object-cover" width="360" height="202">
+        </div>
+        <div class="grid content-start gap-y-20 px-10 lg:gap-y-40">
+          <div class="flex h-full">
+            <div class="grid w-full flex-col gap-y-25">
+              <div class="grid gap-y-20">
+                
+                <div class="w-fit rounded-3 bg-bg px-10 py-8 text-13 leading-[1] text-gray-2">
+                  プラットフォーム
+                </div>
+                 
+                 
+                <div class="leading-trim text-14 leading-[1.6] text-gray-4 lg:text-16">
+                  株式会社HAKU
+                </div>
+              </div>
+              <div class="leading-trim line-clamp-3 text-16 leading-[1.6] lg:text-20">
+                個人向けPCレンタルサービスの未返却リスク軽減にクレカ決済が貢献。継続課金で月100台稼働へ
+              </div>
+            </div>
+          </div>
+        </div>
+      </a>
+       <ul class="pointer-events-none col-span-full row-[3/4] mt-auto flex flex-wrap gap-x-8 self-end text-11 p-[calc(var(--grid-sp)*1)] pr-[calc(var(--grid-sp)*3)] pl-[calc(var(--grid-sp)*2)] lg:gap-x-16 lg:gap-y-8 lg:p-20 lg:pr-[calc(var(--grid-pc)*5)] lg:pl-[calc(var(--grid-pc)*3)] lg:text-14">
+        <li class="-mr-2 -ml-6 text-11/15 lg:text-14/19">
+  <a href="/case/?issue=experience#list" class="js-hover-gradient-opacity js-animate-bg pointer-events-auto gradient-border flex gradient-bg-fixed-opacity bg-clip-text py-2 pr-6 pl-4 text-transparent">
+    <span class="w-14 text-center">#</span>
+    業務工数削減
+  </a>
+</li>
+      </ul>
+      <div class="pointer-events-none grid size-30 rounded-full p-9 lg:size-35 lg:p-11 [.is-hovering_&#38;]:bg-bg/70 transition-colors duration-300 ease-main *:col-span-full *:row-span-full *:block *:size-13 *:[clip-path:url(#s-arrowRightIconClip)] *:transition-opacity *:duration-300 *:ease-main absolute right-10 bottom-10 bg-bg group-hover:bg-brand-light-3 group-hover:opacity-100 lg:right-20 lg:bottom-20">
+  <span class="bg-current opacity-100 group-hover:opacity-0 [.is-hovering_&#38;]:opacity-0">
+  </span>
+  <span class="js-animate-bg gradient-bg-fixed-opacity opacity-0 group-hover:opacity-100 [.is-hovering_&#38;]:opacity-100">
+  </span>
+</div>
+    </div>
+  </div>
+</li>
+<!-- /Case card --><li class="js-horizontal-list-item js-card w-full translate-x-[10%] scale-105 opacity-0 lg:translate-x-[15%]" style="--card-width: 17.5rem; --card-lg-width: 25.625rem">
+  <div class="group relative block h-full rounded-10 bg-white hover:scale-[1.02] hover:rounded-15 hover:shadow transition-all duration-300 ease-main w-[var(--card-width)] lg:!w-[var(--card-lg-width)]">
+    <div class="relative grid h-full w-full grid-cols-1 grid-rows-[auto_1fr_auto] content-start gap-x-[calc(var(--grid-pc)*6)] gap-y-30">
       <a class="col-span-full row-[1/4] grid grid-rows-subgrid gap-y-40 p-[calc(var(--grid-sp)*1)] pb-0 lg:p-20 lg:pb-0" href="https://www.dgft.jp/case/case26.html">
         <div class="aspect-[425/239] w-full overflow-hidden rounded-5 transition-all duration-300 ease-main group-hover:rounded-7">
           <img src="https://www.dgft.jp/case/assets/images/case26_01.jpg" alt="路線バスに「顔パス」乗車。都の「顔認証キャッシュレス決済実証」を支えるDGFTの決済基盤" class="h-full w-full object-cover" width="360" height="202">
@@ -3013,51 +3058,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <a href="/case/?issue=experience#list" class="js-hover-gradient-opacity js-animate-bg pointer-events-auto gradient-border flex gradient-bg-fixed-opacity bg-clip-text py-2 pr-6 pl-4 text-transparent">
     <span class="w-14 text-center">#</span>
     多様な決済手段への対応
-  </a>
-</li>
-      </ul>
-      <div class="pointer-events-none grid size-30 rounded-full p-9 lg:size-35 lg:p-11 [.is-hovering_&#38;]:bg-bg/70 transition-colors duration-300 ease-main *:col-span-full *:row-span-full *:block *:size-13 *:[clip-path:url(#s-arrowRightIconClip)] *:transition-opacity *:duration-300 *:ease-main absolute right-10 bottom-10 bg-bg group-hover:bg-brand-light-3 group-hover:opacity-100 lg:right-20 lg:bottom-20">
-  <span class="bg-current opacity-100 group-hover:opacity-0 [.is-hovering_&#38;]:opacity-0">
-  </span>
-  <span class="js-animate-bg gradient-bg-fixed-opacity opacity-0 group-hover:opacity-100 [.is-hovering_&#38;]:opacity-100">
-  </span>
-</div>
-    </div>
-  </div>
-</li>
-<!-- /Case card --><li class="js-horizontal-list-item js-card w-full translate-x-[10%] scale-105 opacity-0 lg:translate-x-[15%]" style="--card-width: 17.5rem; --card-lg-width: 25.625rem">
-  <div class="group relative block h-full rounded-10 bg-white hover:scale-[1.02] hover:rounded-15 hover:shadow transition-all duration-300 ease-main w-[var(--card-width)] lg:!w-[var(--card-lg-width)]">
-    <div class="relative grid h-full w-full grid-cols-1 grid-rows-[auto_1fr_auto] content-start gap-x-[calc(var(--grid-pc)*6)] gap-y-30">
-      <a class="col-span-full row-[1/4] grid grid-rows-subgrid gap-y-40 p-[calc(var(--grid-sp)*1)] pb-0 lg:p-20 lg:pb-0" href="https://www.dgft.jp/case/case18.html">
-        <div class="aspect-[425/239] w-full overflow-hidden rounded-5 transition-all duration-300 ease-main group-hover:rounded-7">
-          <img src="https://www.dgft.jp/case/assets/img/case18_02.png" alt="端末レス決済サービスで「コスト削減」と「顧客満足度向上」を実現" class="h-full w-full object-cover" width="360" height="202">
-        </div>
-        <div class="grid content-start gap-y-20 px-10 lg:gap-y-40">
-          <div class="flex h-full">
-            <div class="grid w-full flex-col gap-y-25">
-              <div class="grid gap-y-20">
-                
-                <div class="w-fit rounded-3 bg-bg px-10 py-8 text-13 leading-[1] text-gray-2">
-                  実店舗・O2O
-                </div>
-                 
-                 
-                <div class="leading-trim text-14 leading-[1.6] text-gray-4 lg:text-16">
-                  日立グローバルライフソリューションズ
-                </div>
-              </div>
-              <div class="leading-trim line-clamp-3 text-16 leading-[1.6] lg:text-20">
-                端末レス決済サービスで「コスト削減」と「顧客満足度向上」を実現
-              </div>
-            </div>
-          </div>
-        </div>
-      </a>
-       <ul class="pointer-events-none col-span-full row-[3/4] mt-auto flex flex-wrap gap-x-8 self-end text-11 p-[calc(var(--grid-sp)*1)] pr-[calc(var(--grid-sp)*3)] pl-[calc(var(--grid-sp)*2)] lg:gap-x-16 lg:gap-y-8 lg:p-20 lg:pr-[calc(var(--grid-pc)*5)] lg:pl-[calc(var(--grid-pc)*3)] lg:text-14">
-        <li class="-mr-2 -ml-6 text-11/15 lg:text-14/19">
-  <a href="/case/?issue=experience#list" class="js-hover-gradient-opacity js-animate-bg pointer-events-auto gradient-border flex gradient-bg-fixed-opacity bg-clip-text py-2 pr-6 pl-4 text-transparent">
-    <span class="w-14 text-center">#</span>
-    導入スピード・コスト最適化
   </a>
 </li>
       </ul>
