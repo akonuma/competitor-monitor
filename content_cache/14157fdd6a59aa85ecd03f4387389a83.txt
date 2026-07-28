@@ -1,4 +1,4 @@
-<!DOCTYPE html><html lang="ja"><head prefix="og: http://ogp.me/ns#"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://j.wovn.io/1" async="true" data-wovnio="key=QLeFbd&amp;backend=true&amp;currentLang=ja&amp;defaultLang=ja&amp;urlPattern=path&amp;version=1.27.3&amp;backendVersion=WOVN.php_1.10.1&amp;langParamName=wovn" data-wovnio-cache-time="202607270408+0000"> </script>
+<!DOCTYPE html><html lang="ja"><head prefix="og: http://ogp.me/ns#"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://j.wovn.io/1" async="true" data-wovnio="key=QLeFbd&amp;backend=true&amp;currentLang=ja&amp;defaultLang=ja&amp;urlPattern=path&amp;version=1.27.3&amp;backendVersion=WOVN.php_1.10.1&amp;langParamName=wovn" data-wovnio-cache-time="202607280224+0000"> </script>
 
 <meta charset="utf-8">
 <title>決済代行・オンライン決済サービス・システム導入ならSBペイメントサービス（ソフトバンクグループ）</title>
@@ -55,7 +55,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-MRQRDWV');</script>
 <!-- End Google Tag Manager -->
 
-<link rel="alternate" hreflang="en" href="https://www.sbpayment.jp/en/?&amp;_=1785110400021"><link rel="alternate" hreflang="ja" href="https://www.sbpayment.jp/?&amp;_=1785110400021"><link rel="alternate" hreflang="x-default" href="https://www.sbpayment.jp/?&amp;_=1785110400021"></head>
+<link rel="alternate" hreflang="en" href="https://www.sbpayment.jp/en/?&amp;_=1785205479076"><link rel="alternate" hreflang="ja" href="https://www.sbpayment.jp/?&amp;_=1785205479076"><link rel="alternate" hreflang="x-default" href="https://www.sbpayment.jp/?&amp;_=1785205479076"></head>
 
 <body>
   <!-- Google Tag Manager (noscript) -->
@@ -1280,6 +1280,16 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             
             <li class="modListNews__item">
               
+              <a href="https://www.sbpayment.jp/news/press/2026/20260728_001579/">
+                <time class="time" datetime="2026-07-28">2026.07.28</time>
+                <span class="category"><span>プレスリリース</span></span>
+                <p class="title">課金ユーザーの74.2%が「スマホ新法」を認知！<br>【2026年版】スマホゲームアプリの利用・課金状況の調査結果を公開<br><span style="font-size:70%;">～求める決済1位は「PayPay」、アプリ外課金を選択する理由は割引・特典よりも「利用したい決済サービス」～</span></p>
+              </a>
+              
+            </li>
+            
+            <li class="modListNews__item">
+              
               <a href="https://www.sbpayment.jp/news/press/2026/20260727_001577/">
                 <time class="time" datetime="2026-07-27">2026.07.27</time>
                 <span class="category"><span>プレスリリース</span></span>
@@ -1294,16 +1304,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <time class="time" datetime="2026-07-27">2026.07.27</time>
                 <span class="category"><span>セミナー</span></span>
                 <p class="title">インバウンド需要を確実に取り込む！免税販売の「始め方」と「新制度」対策セミナー<br><span style="font-size:70%;">～11月リファンド方式対応に向けた準備ガイド～</span></p>
-              </a>
-              
-            </li>
-            
-            <li class="modListNews__item">
-              
-              <a href="https://www.sbpayment.jp/news/info/2026/20260714_001576/">
-                <time class="time" datetime="2026-07-14">2026.07.14</time>
-                <span class="category"><span>お知らせ</span></span>
-                <p class="title">【注意喚起】当社をかたる不審な電話、SNS、メール等による勧誘にご注意ください</p>
               </a>
               
             </li>
