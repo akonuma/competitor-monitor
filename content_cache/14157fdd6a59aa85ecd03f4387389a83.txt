@@ -1,4 +1,4 @@
-<!DOCTYPE html><html lang="ja"><head prefix="og: http://ogp.me/ns#"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://j.wovn.io/1" async="true" data-wovnio="key=QLeFbd&amp;backend=true&amp;currentLang=ja&amp;defaultLang=ja&amp;urlPattern=path&amp;version=1.27.3&amp;backendVersion=WOVN.php_1.10.1&amp;langParamName=wovn" data-wovnio-cache-time="202607280224+0000"> </script>
+<!DOCTYPE html><html lang="ja"><head prefix="og: http://ogp.me/ns#"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://j.wovn.io/1" async="true" data-wovnio="key=QLeFbd&amp;backend=true&amp;currentLang=ja&amp;defaultLang=ja&amp;urlPattern=path&amp;version=1.27.4&amp;backendVersion=WOVN.php_1.10.1&amp;langParamName=wovn" data-wovnio-cache-time="202607310656+0000"> </script>
 
 <meta charset="utf-8">
 <title>決済代行・オンライン決済サービス・システム導入ならSBペイメントサービス（ソフトバンクグループ）</title>
@@ -55,7 +55,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-MRQRDWV');</script>
 <!-- End Google Tag Manager -->
 
-<link rel="alternate" hreflang="en" href="https://www.sbpayment.jp/en/?&amp;_=1785205479076"><link rel="alternate" hreflang="ja" href="https://www.sbpayment.jp/?&amp;_=1785205479076"><link rel="alternate" hreflang="x-default" href="https://www.sbpayment.jp/?&amp;_=1785205479076"></head>
+<link rel="alternate" hreflang="en" href="https://www.sbpayment.jp/en/?_=1778553264476"><link rel="alternate" hreflang="ja" href="https://www.sbpayment.jp/?_=1778553264476"><link rel="alternate" hreflang="x-default" href="https://www.sbpayment.jp/?_=1778553264476"></head>
 
 <body>
   <!-- Google Tag Manager (noscript) -->
@@ -279,7 +279,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <li><a href="/service/partner/welcart/">welcart</a></li>
                         <li><a href="/service/partner/cafe24/">Cafe24</a></li>
                         <li><a href="/service/partner/ochanokonet/lp01/">おちゃのこネット</a></li>
-                        <li><a href="/service/partner/w2/lp01/">W2 Unified・Repeat・BtoB</a></li>
+                        <li><a href="/service/partner/w2/lp01/">W2 Commerce Unified・Repeat・BtoB</a></li>
                       </ul>
                       <ul class="cont__list cont__list--3rd">
                         <li>
@@ -484,15 +484,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                   </picture>
                 </div>
                 <div class="cont">
-                  <p>SBペイメントサービス(SBPS)は、 オンライン決済に必須なクレジットカード決済をはじめ、人気のPayPay（オンライン決済）やキャリア決済など40ブランド以上の豊富な決済を取り扱いしております。</p>
+                  <p>SBペイメントサービス（SBPS）は、 オンライン決済に必須なクレジットカード決済をはじめ、人気のPayPay（オンライン決済）やキャリア決済など40ブランド以上の豊富な決済を取り扱いしております。</p>
                   <ul class="list list--logo">
                     <li class="creditcard">
                       <a href="/service/asp/creditcard/">
                         <picture class="img">
                         <source media="(max-width: 954px)" srcset="/assets/img/top/sp/img_service_01_02.png">
-                          <img loading="eager" src="/assets/img/top/img_service_01_02.png" alt="クレジットカード決済サービス">
+                          <img loading="eager" src="/assets/img/top/img_service_01_02.png" alt="クレジットカード決済">
                         </picture>
-                        <p class="text">クレジット<br class="modBpSp">カード決済サービス</p>
+                        <p class="text">クレジット<br class="modBpSp">カード決済</p>
                       </a>
                     </li>
                     <li class="convenience_store">
@@ -868,11 +868,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <li class="modListPost__item swiper-slide" style="max-width: 350px;">
                 <a href="https://service.sbpayment.jp/seminar-tax-free02/" target="_blank">
                   <figure class="img">
-                    <img src="/image/top/seminar/img_seminar20260728.png" width="700" height="364" alt="" loading="lazy">
+                    <img src="/image/top/seminar/img_seminar20260731.png" width="700" height="364" alt="" loading="lazy">
                   </figure>
                   <div class="cont">
                     <div class="status__wrapper">
-                      <span class="status"><span>申込受付中</span></span>
+                      <span class="status"><span>アーカイブ提供中</span></span>
                     </div>
                     <div class="title">
                       インバウンド需要を確実に取り込む！免税販売の「始め方」と「新制度」対策セミナー<br>～11月リファンド方式対応に向けた準備ガイド～
