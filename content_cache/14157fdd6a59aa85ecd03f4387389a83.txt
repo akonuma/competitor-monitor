@@ -1,4 +1,4 @@
-<!DOCTYPE html><html lang="ja"><head prefix="og: http://ogp.me/ns#"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://j.wovn.io/1" async="true" data-wovnio="key=QLeFbd&amp;backend=true&amp;currentLang=ja&amp;defaultLang=ja&amp;urlPattern=path&amp;version=1.27.4&amp;backendVersion=WOVN.php_1.10.1&amp;langParamName=wovn" data-wovnio-cache-time="202607310656+0000"> </script>
+<!DOCTYPE html><html lang="ja"><head prefix="og: http://ogp.me/ns#"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://j.wovn.io/1" async="true" data-wovnio="key=QLeFbd&amp;backend=true&amp;currentLang=ja&amp;defaultLang=ja&amp;urlPattern=path&amp;version=1.27.4&amp;backendVersion=WOVN.php_1.10.1&amp;langParamName=wovn" data-wovnio-cache-time="202608030254+0000"> </script>
 
 <meta charset="utf-8">
 <title>決済代行・オンライン決済サービス・システム導入ならSBペイメントサービス（ソフトバンクグループ）</title>
@@ -55,7 +55,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-MRQRDWV');</script>
 <!-- End Google Tag Manager -->
 
-<link rel="alternate" hreflang="en" href="https://www.sbpayment.jp/en/?_=1778553264476"><link rel="alternate" hreflang="ja" href="https://www.sbpayment.jp/?_=1778553264476"><link rel="alternate" hreflang="x-default" href="https://www.sbpayment.jp/?_=1778553264476"></head>
+<link rel="alternate" hreflang="en" href="https://www.sbpayment.jp/en/?_=1785725648198"><link rel="alternate" hreflang="ja" href="https://www.sbpayment.jp/?_=1785725648198"><link rel="alternate" hreflang="x-default" href="https://www.sbpayment.jp/?_=1785725648198"></head>
 
 <body>
   <!-- Google Tag Manager (noscript) -->
@@ -1280,6 +1280,16 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             
             <li class="modListNews__item">
               
+              <a href="https://www.sbpayment.jp/news/press/2026/20260803_001580/">
+                <time class="time" datetime="2026-08-03">2026.08.03</time>
+                <span class="category"><span>プレスリリース</span></span>
+                <p class="title">SP.LINKS株式会社の子会社化に関するお知らせ<br><span style="font-size:70%;">～AI時代を牽引する国内トップクラスの決済プラットフォームを実現～</span></p>
+              </a>
+              
+            </li>
+            
+            <li class="modListNews__item">
+              
               <a href="https://www.sbpayment.jp/news/press/2026/20260728_001579/">
                 <time class="time" datetime="2026-07-28">2026.07.28</time>
                 <span class="category"><span>プレスリリース</span></span>
@@ -1294,16 +1304,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <time class="time" datetime="2026-07-27">2026.07.27</time>
                 <span class="category"><span>プレスリリース</span></span>
                 <p class="title">【国内免税システム初】新免税制度のリファンド方式に対応する免税返金サービスを提供開始<br><span style="font-size:70%;">～2026年11月予定の制度変更に向け、事業者のデータ連携から返金処理までトータルで支援～</span></p>
-              </a>
-              
-            </li>
-            
-            <li class="modListNews__item">
-              
-              <a href="https://service.sbpayment.jp/seminar-tax-free02/" target="_blank" rel="noopener noreferrer">
-                <time class="time" datetime="2026-07-27">2026.07.27</time>
-                <span class="category"><span>セミナー</span></span>
-                <p class="title">インバウンド需要を確実に取り込む！免税販売の「始め方」と「新制度」対策セミナー<br><span style="font-size:70%;">～11月リファンド方式対応に向けた準備ガイド～</span></p>
               </a>
               
             </li>
