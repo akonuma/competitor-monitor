@@ -1,4 +1,4 @@
-<!DOCTYPE html><html lang="ja"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://j.wovn.io/1" async="true" data-wovnio='key=f1IRL-&amp;backend=true&amp;currentLang=ja&amp;defaultLang=ja&amp;urlPattern=path&amp;langCodeAliases={"en":"en"}&amp;version=1.27.3&amp;backendVersion=WOVN.php_1.12.0&amp;langParamName=wovn' data-wovnio-cache-time="202607280619+0000"> </script>
+<!DOCTYPE html><html lang="ja"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://j.wovn.io/1" async="true" data-wovnio='key=f1IRL-&amp;backend=true&amp;currentLang=ja&amp;defaultLang=ja&amp;urlPattern=path&amp;langCodeAliases={"en":"en"}&amp;version=1.27.5&amp;backendVersion=WOVN.php_1.12.0&amp;langParamName=wovn' data-wovnio-cache-time="202608060708+0000"> </script>
 <meta charset="utf-8">
 	<meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -25,15 +25,15 @@
 
     <!-- css -->
 
-<link rel="stylesheet" href="/common/css/core.css?ver=202607281504">
+<link rel="stylesheet" href="/common/css/core.css?ver=202608061605">
 
 
-<link rel="preload" href="/common/css/common.css?ver=202607281504" as="style" onload="this.onload=null;this.rel='stylesheet'">
-<noscript><link rel="stylesheet" href="/common/css/common.css?ver=202607281504"></noscript>
+<link rel="preload" href="/common/css/common.css?ver=202608061605" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="/common/css/common.css?ver=202608061605"></noscript>
 
 
-<link rel="preload" href="/common/css/footer.css?ver=202607281504" as="style" onload="this.onload=null;this.rel='stylesheet'">
-<noscript><link rel="stylesheet" href="/common/css/footer.css?ver=202607281504"></noscript>
+<link rel="preload" href="/common/css/footer.css?ver=202608061605" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="/common/css/footer.css?ver=202608061605"></noscript>
 <link rel="preload" href="/common/css/lib/splide-core.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
 <noscript><link rel="stylesheet" href="/common/css/lib/splide-core.min.css"></noscript>
 
@@ -116,10 +116,10 @@
 </script>
 
 <!-- TOP用CSS/JS -->
-<link rel="stylesheet" href="/top/css/style.css?ver=202607281504">
+<link rel="stylesheet" href="/top/css/style.css?ver=202608061605">
 <link rel="preload" href="/common/js/lib/swiper-bundle.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
 <noscript><link rel="stylesheet" href="/common/js/lib/swiper-bundle.min.css"></noscript>
-<script src="/top/js/script.js?ver=202607281504"></script>
+<script src="/top/js/script.js?ver=202608061605"></script>
 <link rel="alternate" hreflang="en" href="https://www.gmo-pg.com/en/"><link rel="alternate" hreflang="ja" href="https://www.gmo-pg.com/"><link rel="alternate" hreflang="x-default" href="https://www.gmo-pg.com/"></head>
 <body>
 <canvas id="waveBg" aria-hidden="true"></canvas>
@@ -253,7 +253,7 @@
 <div id="js-headerMenuTarget" class="c-header-menuBox">
 	<div class="c-header-menuBox__inner">
 		<nav class="c-header-menuArea">
-			<ul class="c-header-menuNavi" style="margin-bottom: 40px;">
+			<ul class="c-header-menuNavi" style="margin-bottom: 120px;">
 				<li>
 				<!-- サイト内検索 START -->
 					<div class="hide_if_en">
@@ -628,57 +628,82 @@
 	<!-- キービジュアル START -->
 <div class="p-topKeyVisual">
 	<div class="p-topKeyVisual__inner">
-		<div id="js-topKeyVisualMainSlider" class="p-topKeyVisualContents swiper" style="position: relative;">
-			<div style="padding: 5px 0;background-color: rgb(0,0,0,0.3);color: #ffffff;text-align: center;z-index: 100;width: 100%;position: absolute;">
-            <a href="/news/news/info/2019/0618.html" style="text-decoration: none;">！当社もしくは類似する社名を騙る会社やサービス、フィッシングサイトへの誘導にご注意ください</a>
+
+		<div id="js-topKeyVisualMainSlider" class="p-topKeyVisualContents swiper">
+
+			<div class="p-topKeyVisualNotice">
+				<a href="/news/news/info/2019/0618.html">
+					！当社もしくは類似する社名を騙る会社やサービス、フィッシングサイトへの誘導にご注意ください
+				</a>
 			</div>
+
 			<div class="p-topKeyVisualMain swiper-wrapper">
-				<div class="p-topKeyVisualMain__item swiper-slide"><!-- 1つ目 -->
+				<div class="p-topKeyVisualMain__item swiper-slide">
+
 					<div id="js-topKeyVisualFadeAnime" class="p-topKeyVisualAnime swiper">
 						<div class="p-topKeyVisualAnimeSlider swiper-wrapper">
+
 							<div class="p-topKeyVisualAnimeSlider__item swiper-slide">
-                            	<div class="animate">
-								<picture>
-									<source srcset="/top/image/img_top_kv01_sp.webp" media="(max-width: 767px)">
-									<img src="/top/image/img_top_kv01.webp" alt="決済で、次をつくる。イメージビジュアル1" loading="eager" fetchpriority="high" decoding="async">
-								</picture>
-                                </div>
+								<div class="animate">
+									<picture>
+										<source srcset="/top/image/img_top_kv01_sp.webp" media="(max-width: 767px)">
+										<img src="/top/image/img_top_kv01.webp" alt="決済で、次をつくる。イメージビジュアル1" loading="eager" fetchpriority="high" decoding="async">
+									</picture>
+								</div>
 							</div>
+
 							<div class="p-topKeyVisualAnimeSlider__item swiper-slide">
-                            	<div class="animate">
-								<picture>
-									<source srcset="/top/image/img_top_kv03_sp.webp" media="(max-width: 767px)">
-									<img src="/top/image/img_top_kv03.webp" alt="決済で、次をつくる。イメージビジュアル3" loading="lazy" fetchpriority="low" decoding="async">
-								</picture>
-                                </div>
+								<div class="animate">
+									<picture>
+										<source srcset="/top/image/img_top_kv03_sp.webp" media="(max-width: 767px)">
+										<img src="/top/image/img_top_kv03.webp" alt="決済で、次をつくる。イメージビジュアル3" loading="lazy" fetchpriority="low" decoding="async">
+									</picture>
+								</div>
 							</div>
+
 							<div class="p-topKeyVisualAnimeSlider__item swiper-slide">
-                            	<div class="animate">
-								<picture>
-									<source srcset="/top/image/img_top_kv02_sp.webp" media="(max-width: 767px)">
-									<img src="/top/image/img_top_kv02.webp" alt="決済で、次をつくる。イメージビジュアル2" loading="lazy" fetchpriority="low" decoding="async">
-								</picture>
-                                </div>
+								<div class="animate">
+									<picture>
+										<source srcset="/top/image/img_top_kv02_sp.webp" media="(max-width: 767px)">
+										<img src="/top/image/img_top_kv02.webp" alt="決済で、次をつくる。イメージビジュアル2" loading="lazy" fetchpriority="low" decoding="async">
+									</picture>
+								</div>
 							</div>
+
 						</div>
 					</div>
+
 					<div class="p-topKeyVisualMain__content">
-						<h2 class="p-topKeyVisualMain__title">決済で、<br class="u-sp-only">次をつくる。</h2>
-						<p class="p-topKeyVisualMain__description">お金の流れをデジタル化し、<br class="u-sp-only">もっと便利で、もっと可能性あふれる社会へ。<br>
+						<h2 class="p-topKeyVisualMain__title">
+							決済で、<br class="u-sp-only">次をつくる。
+						</h2>
+
+						<p class="p-topKeyVisualMain__description">
+							お金の流れをデジタル化し、<br class="u-sp-only">もっと便利で、もっと可能性あふれる社会へ。<br>
 							新しい夢、新しいビジネス、新しいサステナブル。<br>
-							決済はつくる、想像以上の未来を。</p>
+							決済はつくる、想像以上の未来を。
+						</p>
 					</div>
+
 				</div>
 			</div>
 		</div>
-        <div class="p-topKeyVisualScroll">
+
+		<div class="p-topKeyVisualScroll">
 			<div class="p-topKeyVisualScroll__inner">
 				<div class="p-topKeyVisualScroll__shape">
 					<p class="p-topKeyVisualScroll__text">SCROLL</p>
-					<span class="p-topKeyVisualScroll__view"><span class="p-topKeyVisualScroll__line"></span><span class="p-topKeyVisualScroll__arrow"><img src="/top/image/icon_top_kv_arrow.svg" alt="下へスクロール"></span></span>
+
+					<span class="p-topKeyVisualScroll__view">
+						<span class="p-topKeyVisualScroll__line"></span>
+						<span class="p-topKeyVisualScroll__arrow">
+							<img src="/top/image/icon_top_kv_arrow.svg" alt="下へスクロール">
+						</span>
+					</span>
 				</div>
 			</div>
 		</div>
+
 	</div>
 </div>
 <!-- キービジュアル END -->
@@ -827,6 +852,58 @@
 						<div class="p-topNewsTabContent__item is-active">
 							
 							<ul class="p-topNewsList">
+								
+									<li class="p-topNewsListItem hide_if_ja">
+	<div class="p-topNewsListItem__head">
+		<time class="p-topNewsListItem__date" datetime="2026-08-06">2026.08.06</time>
+		<ul class="p-topNewsListItem__tagList">
+		
+		<li class="p-topNewsListItem__tag">
+		
+		
+		<span class="c-tag c-tag--press">プレスリリース</span>
+		
+		
+		</li>
+		
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">GMO PAYMENT GATEWAY</span></li>
+		</ul>
+		<!--  -->
+	</div>
+	<div class="p-topNewsListItem__body">
+		<p class="p-topNewsListItem__title"><a href="
+	/en/news/press/gmo-paymentgateway/2026/0806.html
+	
+">GMO Payment Gateway builds a proprietary payment solution adopting the specifications of the Universal Commerce Protocol (UCP)</a></p>
+	</div>
+</li>
+
+
+
+	
+<li class="p-topNewsListItem hide_if_en">
+	<div class="p-topNewsListItem__head">
+		<time class="p-topNewsListItem__date" datetime="2026-08-06">2026.08.06</time>
+		<ul class="p-topNewsListItem__tagList">
+		
+		<li class="p-topNewsListItem__tag">
+		
+		
+		<span class="c-tag c-tag--press">プレスリリース</span>
+		
+		
+		</li>
+		
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">GMO PAYMENT GATEWAY</span></li>
+		</ul>
+		<!--  -->
+	</div>
+	<div class="p-topNewsListItem__body">
+		<p class="p-topNewsListItem__title"><a href="/news/press/gmo-paymentgateway/2026/0806.html">GMOペイメントゲートウェイ、「Universal Commerce Protocol（UCP）」の仕様を採用した独自の決済ソリューションを構築</a></p>
+	</div>
+</li>
+
+
 								
 									<li class="p-topNewsListItem hide_if_ja">
 	<div class="p-topNewsListItem__head">
@@ -1247,8 +1324,6 @@
 </li>
 
 
-								
-									
 								
 									
 								
@@ -1825,6 +1900,58 @@
 							
 								<li class="p-topNewsListItem hide_if_ja">
 	<div class="p-topNewsListItem__head">
+		<time class="p-topNewsListItem__date" datetime="2026-08-06">2026.08.06</time>
+		<ul class="p-topNewsListItem__tagList">
+		
+		<li class="p-topNewsListItem__tag">
+		
+		
+		<span class="c-tag c-tag--press">プレスリリース</span>
+		
+		
+		</li>
+		
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">GMO PAYMENT GATEWAY</span></li>
+		</ul>
+		<!--  -->
+	</div>
+	<div class="p-topNewsListItem__body">
+		<p class="p-topNewsListItem__title"><a href="
+	/en/news/press/gmo-paymentgateway/2026/0806.html
+	
+">GMO Payment Gateway builds a proprietary payment solution adopting the specifications of the Universal Commerce Protocol (UCP)</a></p>
+	</div>
+</li>
+
+
+
+	
+<li class="p-topNewsListItem hide_if_en">
+	<div class="p-topNewsListItem__head">
+		<time class="p-topNewsListItem__date" datetime="2026-08-06">2026.08.06</time>
+		<ul class="p-topNewsListItem__tagList">
+		
+		<li class="p-topNewsListItem__tag">
+		
+		
+		<span class="c-tag c-tag--press">プレスリリース</span>
+		
+		
+		</li>
+		
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">GMO PAYMENT GATEWAY</span></li>
+		</ul>
+		<!--  -->
+	</div>
+	<div class="p-topNewsListItem__body">
+		<p class="p-topNewsListItem__title"><a href="/news/press/gmo-paymentgateway/2026/0806.html">GMOペイメントゲートウェイ、「Universal Commerce Protocol（UCP）」の仕様を採用した独自の決済ソリューションを構築</a></p>
+	</div>
+</li>
+
+
+							
+								<li class="p-topNewsListItem hide_if_ja">
+	<div class="p-topNewsListItem__head">
 		<time class="p-topNewsListItem__date" datetime="2026-07-28">2026.07.28</time>
 		<ul class="p-topNewsListItem__tagList">
 		
@@ -2338,58 +2465,6 @@
 	</div>
 	<div class="p-topNewsListItem__body">
 		<p class="p-topNewsListItem__title"><a href="/news/press/gmo-paymentgateway/2026/0401.html">GMOペイメントゲートウェイ、LayerXと連携 「バクラク請求書発行」にカード決済処理機能を提供</a></p>
-	</div>
-</li>
-
-
-							
-								<li class="p-topNewsListItem hide_if_ja">
-	<div class="p-topNewsListItem__head">
-		<time class="p-topNewsListItem__date" datetime="2026-03-31">2026.03.31</time>
-		<ul class="p-topNewsListItem__tagList">
-		
-		<li class="p-topNewsListItem__tag">
-		
-		
-		<span class="c-tag c-tag--press">プレスリリース</span>
-		
-		
-		</li>
-		
-		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">GMO PAYMENT GATEWAY</span></li>
-		</ul>
-		<!--  -->
-	</div>
-	<div class="p-topNewsListItem__body">
-		<p class="p-topNewsListItem__title"><a href="
-	/en/news/press/gmo-paymentgateway/2026/0331-02.html
-	
-">GMO Payment Gateway Releases "payment Development Documentation" for the First LLM Search and AI Search Support for PSP in Japan</a></p>
-	</div>
-</li>
-
-
-
-	
-<li class="p-topNewsListItem hide_if_en">
-	<div class="p-topNewsListItem__head">
-		<time class="p-topNewsListItem__date" datetime="2026-03-31">2026.03.31</time>
-		<ul class="p-topNewsListItem__tagList">
-		
-		<li class="p-topNewsListItem__tag">
-		
-		
-		<span class="c-tag c-tag--press">プレスリリース</span>
-		
-		
-		</li>
-		
-		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">GMO PAYMENT GATEWAY</span></li>
-		</ul>
-		<!--  -->
-	</div>
-	<div class="p-topNewsListItem__body">
-		<p class="p-topNewsListItem__title"><a href="/news/press/gmo-paymentgateway/2026/0331-02.html">GMOペイメントゲートウェイ、国内PSP初のLLM探索・AI検索対応「決済開発ドキュメント」を本公開</a></p>
 	</div>
 </li>
 
@@ -3564,7 +3639,7 @@
 <script src="/common/js/lib/micromodal.min.js"></script>
 <script src="/common/js/lib/scroll-hint.min.js"></script>
 <link rel="stylesheet" href="/common/js/lib/scroll-hint.css">
-<script src="/common/js/script.js?ver=202607281504"></script>
+<script src="/common/js/script.js?ver=202608061605"></script>
 	<script src="/common/js/lib/swiper-bundle.min.js" defer=""></script>
 <!-- GMOグループヘッダー -->
 <script type="text/javascript" charset="UTF-8" src="https://cache.img.gmo.jp/gmo/header/script.min.js" id="gmoheadertag" async="async"></script>
