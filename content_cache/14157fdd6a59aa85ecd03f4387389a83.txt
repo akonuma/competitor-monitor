@@ -1,4 +1,4 @@
-<!DOCTYPE html><html lang="ja"><head prefix="og: http://ogp.me/ns#"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://j.wovn.io/1" async="true" data-wovnio="key=QLeFbd&amp;backend=true&amp;currentLang=ja&amp;defaultLang=ja&amp;urlPattern=path&amp;version=1.27.5&amp;backendVersion=WOVN.php_1.10.1&amp;langParamName=wovn" data-wovnio-cache-time="202608060834+0000"> </script>
+<!DOCTYPE html><html lang="ja"><head prefix="og: http://ogp.me/ns#"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://j.wovn.io/1" async="true" data-wovnio="key=QLeFbd&amp;backend=true&amp;currentLang=ja&amp;defaultLang=ja&amp;urlPattern=path&amp;version=1.27.5&amp;backendVersion=WOVN.php_1.10.1&amp;langParamName=wovn" data-wovnio-cache-time="202608200200+0000"> </script>
 
 <meta charset="utf-8">
 <title>決済代行・オンライン決済サービス・システム導入ならSBペイメントサービス（ソフトバンクグループ）</title>
@@ -56,7 +56,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-MRQRDWV');</script>
 <!-- End Google Tag Manager -->
 
-<link rel="alternate" hreflang="en" href="https://www.sbpayment.jp/en/?&amp;&amp;_=1786005296616"><link rel="alternate" hreflang="ja" href="https://www.sbpayment.jp/?&amp;&amp;_=1786005296616"><link rel="alternate" hreflang="x-default" href="https://www.sbpayment.jp/?&amp;&amp;_=1786005296616"></head>
+<link rel="alternate" hreflang="en" href="https://www.sbpayment.jp/en/?_=1787191198251"><link rel="alternate" hreflang="ja" href="https://www.sbpayment.jp/?_=1787191198251"><link rel="alternate" hreflang="x-default" href="https://www.sbpayment.jp/?_=1787191198251"></head>
 
 <body>
   <!-- Google Tag Manager (noscript) -->
@@ -290,7 +290,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <li><a href="/service/partner/akuru/">チャージバック保証サービス</a></li>
                         <li><a href="/service/partner/o-plux/">不正検知サービス O-PLUX（オープラックス）</a></li>
                         <li><a href="/service/partner/paidy/">Paidy</a></li>
-                      </ul>
+                        <li><a href="/service/partner/program/">パートナー提携・協業のご相談</a>
+                      </li></ul>
                     </div>
                   </div>
                 </div>
@@ -1148,6 +1149,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <p class="modTextDescription">事業者さまのビジネスに役立つセミナーを実施しています。</p>
             <div class="modListCompany__wrapper jsTopSlider swiper">
               <ul class="modListCompany swiper-wrapper">
+              
                 <li class="modListPost__item swiper-slide">
                   <a href="https://service.sbpayment.jp/seminar-tax-free02/" target="_blank">
                     <figure class="img">
