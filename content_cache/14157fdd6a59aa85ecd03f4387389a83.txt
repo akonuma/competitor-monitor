@@ -1,6 +1,4 @@
-<!doctype html>
-<html lang="ja">
-<head prefix="og: http://ogp.me/ns#"><link rel="alternate" hreflang="en" href="https://www.sbpayment.jp/en/"><link rel="alternate" hreflang="ja" href="https://www.sbpayment.jp/"><script src="//j.wovn.io/1" data-wovnio="key=QLeFbd&amp;backend=true&amp;currentLang=ja&amp;defaultLang=ja&amp;urlPattern=path&amp;langCodeAliases=[]&amp;langParamName=wovn" data-wovnio-info="version=WOVN.php_1.10.1" data-wovnio-type="fallback_snippet" async></script>
+<!DOCTYPE html><html lang="ja"><head prefix="og: http://ogp.me/ns#"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://j.wovn.io/1" async="true" data-wovnio="key=QLeFbd&amp;backend=true&amp;currentLang=ja&amp;defaultLang=ja&amp;urlPattern=path&amp;version=1.27.7&amp;backendVersion=WOVN.php_1.10.1&amp;langParamName=wovn" data-wovnio-cache-time="202608290559+0000"> </script>
 
 <meta charset="utf-8">
 <title>決済代行・オンライン決済サービス・システム導入ならSBペイメントサービス（ソフトバンクグループ）</title>
@@ -9,18 +7,18 @@
 <link rel="canonical" href="/">
 <meta name="description" content="SBペイメントサービス (SBPS) は、クレジットカード決済はもちろんPayPayやキャリア決済など様々な決済手段を一括導入可能な決済代行会社です。ソフトバンクグループの決済代行を担う当社の決済代行システムで、貴社サイトのオンラインショッピングをさらに快適に。">
 <meta name="keywords" content="決済代行,決済代行会社,キャッシュレス決済,Paypay決済,クレジットカード決済,クレジットカード,決済システム,SBペイメント,ソフトバンクペイメント">
-<meta property="og:title" content="決済代行・オンライン決済サービス・システム導入ならSBペイメントサービス（ソフトバンクグループ）" />
+<meta property="og:title" content="決済代行・オンライン決済サービス・システム導入ならSBペイメントサービス（ソフトバンクグループ）">
 <meta property="og:description" content="SBペイメントサービス (SBPS) は、クレジットカード決済はもちろんPayPayやキャリア決済など様々な決済手段を一括導入可能な決済代行会社です。ソフトバンクグループの決済代行を担う当社の決済代行システムで、貴社サイトのオンラインショッピングをさらに快適に。">
-<meta property="og:type" content="website" />
-<meta property="og:image" content="https://www.sbpayment.jp/news/img_ogp.png" />
-<meta property="og:url" content="https://www.sbpayment.jp/" />
-<meta property="og:locale" content="ja_jp" />
+<meta property="og:type" content="website">
+<meta property="og:image" content="https://www.sbpayment.jp/news/img_ogp.png">
+<meta property="og:url" content="https://www.sbpayment.jp/">
+<meta property="og:locale" content="ja_jp">
 
 <link rel="stylesheet" href="/assets/css/libs/swiper-bundle.min.css">
 <link rel="stylesheet" href="/assets/css/style.css">
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&amp;display=swap" rel="stylesheet">
 <style>
   .topAlert{
     padding: 15px 0;
@@ -58,7 +56,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-MRQRDWV');</script>
 <!-- End Google Tag Manager -->
 
-</head>
+<link rel="alternate" hreflang="en" href="https://www.sbpayment.jp/en/?_=1787983170700"><link rel="alternate" hreflang="ja" href="https://www.sbpayment.jp/?_=1787983170700"><link rel="alternate" hreflang="x-default" href="https://www.sbpayment.jp/?_=1787983170700"></head>
 
 <body>
   <!-- Google Tag Manager (noscript) -->
@@ -70,8 +68,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <header class="header">
     
     <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&amp;display=swap" rel="stylesheet">
     <link rel="stylesheet" href="/assets/css/header.css">
     <link rel="stylesheet" href="/assets/css/wovn.css">
     <div class="header__inner">
@@ -134,8 +132,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <div class="cont__row cont__row--column3">
                       <ul class="cont__list cont__list--3rd">
                         <li>
-                          <p class="cont__title"><a href="/service/device/"><i
-                                class="icon icon--shop"></i>店舗向け決済サービス</a></p>
+                          <p class="cont__title"><a href="/service/device/"><i class="icon icon--shop"></i>店舗向け決済サービス</a></p>
                         </li>
                         <li class="cont__row cont__row--column3">
                           <ul class="cont__list cont__list--3rd">
@@ -294,7 +291,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <li><a href="/service/partner/o-plux/">不正検知サービス O-PLUX（オープラックス）</a></li>
                         <li><a href="/service/partner/paidy/">Paidy</a></li>
                         <li><a href="/service/partner/program/">パートナー提携・協業のご相談</a>
-                      </ul>
+                      </li></ul>
                     </div>
                   </div>
                 </div>
@@ -1715,10 +1712,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </ul>
 
 
-<footer  class="footer">
+<footer class="footer">
   <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&display=swap" rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&amp;display=swap" rel="stylesheet">
   <link rel="stylesheet" href="/assets/css/footer.css">
   <div class="footer__inner">
     <p class="footer__head">サービス</p>
@@ -1960,7 +1957,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <div class="footer__lower">
     <div class="footer__lower__inner">
       <div class="logo"><a href="/">SBペイメントサービス株式会社</a></div>
-      <p class="copyright">Copyright &copy; SB Payment Service Corp. All right reserved.</p>
+      <p class="copyright">Copyright © SB Payment Service Corp. All right reserved.</p>
     </div>
   </div>
 </footer>
@@ -2084,7 +2081,7 @@ var google_remarketing_only = true;
       }
     }
   </style>
-</body>
+
 <script type="text/javascript" src="/js/jquery.cookie.js"></script>
 <script type="text/javascript" src="/js/sticky_display.js"></script>
 <script type="text/plain" src="/js/targeting_cookies.js" class="optanon-category-C0004"></script>
@@ -2103,4 +2100,4 @@ var google_remarketing_only = true;
     }
   });
 </script>
-</html>
+</body></html>
