@@ -1,4 +1,4 @@
-<!DOCTYPE html><html lang="ja"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://j.wovn.io/1" async="true" data-wovnio='key=f1IRL-&amp;backend=true&amp;currentLang=ja&amp;defaultLang=ja&amp;urlPattern=path&amp;langCodeAliases={"en":"en"}&amp;version=1.27.7&amp;backendVersion=WOVN.php_1.12.0&amp;langParamName=wovn' data-wovnio-cache-time="202608260732+0000"> </script>
+<!DOCTYPE html><html lang="ja"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://j.wovn.io/1" async="true" data-wovnio='key=f1IRL-&amp;backend=true&amp;currentLang=ja&amp;defaultLang=ja&amp;urlPattern=path&amp;langCodeAliases={"en":"en"}&amp;version=1.27.7&amp;backendVersion=WOVN.php_1.12.0&amp;langParamName=wovn' data-wovnio-cache-time="202609010647+0000"> </script>
 <meta charset="utf-8">
 	<meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -25,15 +25,15 @@
 
     <!-- css -->
 
-<link rel="stylesheet" href="/common/css/core.css?ver=202608261631">
+<link rel="stylesheet" href="/common/css/core.css?ver=202609011530">
 
 
-<link rel="preload" href="/common/css/common.css?ver=202608261631" as="style" onload="this.onload=null;this.rel='stylesheet'">
-<noscript><link rel="stylesheet" href="/common/css/common.css?ver=202608261631"></noscript>
+<link rel="preload" href="/common/css/common.css?ver=202609011530" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="/common/css/common.css?ver=202609011530"></noscript>
 
 
-<link rel="preload" href="/common/css/footer.css?ver=202608261631" as="style" onload="this.onload=null;this.rel='stylesheet'">
-<noscript><link rel="stylesheet" href="/common/css/footer.css?ver=202608261631"></noscript>
+<link rel="preload" href="/common/css/footer.css?ver=202609011530" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="/common/css/footer.css?ver=202609011530"></noscript>
 <link rel="preload" href="/common/css/lib/splide-core.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
 <noscript><link rel="stylesheet" href="/common/css/lib/splide-core.min.css"></noscript>
 
@@ -116,10 +116,10 @@
 </script>
 
 <!-- TOP用CSS/JS -->
-<link rel="stylesheet" href="/top/css/style.css?ver=202608261631">
+<link rel="stylesheet" href="/top/css/style.css?ver=202609011530">
 <link rel="preload" href="/common/js/lib/swiper-bundle.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
 <noscript><link rel="stylesheet" href="/common/js/lib/swiper-bundle.min.css"></noscript>
-<script src="/top/js/script.js?ver=202608261631"></script>
+<script src="/top/js/script.js?ver=202609011530"></script>
 <link rel="alternate" hreflang="en" href="https://www.gmo-pg.com/en/"><link rel="alternate" hreflang="ja" href="https://www.gmo-pg.com/"><link rel="alternate" hreflang="x-default" href="https://www.gmo-pg.com/"></head>
 <body>
 <canvas id="waveBg" aria-hidden="true"></canvas>
@@ -2973,6 +2973,39 @@
 							
 							
 							<li class="p-topOwnedMediaList__item splide__slide">
+								<a class="p-topOwnedMediaCard" href="/blog/articles/article-0187/">
+									<figure class="p-topOwnedMediaCard__thumbnail">
+										
+											<img src="/blog/articles/assets_c/2026/08/article-0187_thumb01-thumb-320xauto-14942.jpg" loading="lazy" alt="人の「違和感」をAIが学べる知識へ――データとAIで構築する次世代与信【東京大学DSS】">
+											
+									</figure>
+									<div class="p-topOwnedMediaCard__content">
+										<div class="p-topOwnedMediaCard__headline">
+											<time class="p-topOwnedMediaCard__date" datetime="2026-09-01">2026.09.01</time>
+											
+											<div class="p-topOwnedMediaCard__category">
+												
+												<span>AI</span>
+												
+												<span>GMO-PS</span>
+												
+												<span>イベント</span>
+												
+												<span>不正対策</span>
+												
+												<span>東京大学DSS</span>
+												
+											</div>
+											
+										</div>
+										<p class="p-topOwnedMediaCard__title">人の「違和感」をAIが学べる知識へ――データとAIで構築する次世代与信【東京大学DSS】</p>
+									</div>
+								</a>
+							</li>
+							
+							
+							
+							<li class="p-topOwnedMediaList__item splide__slide">
 								<a class="p-topOwnedMediaCard" href="/blog/articles/article-0181/">
 									<figure class="p-topOwnedMediaCard__thumbnail">
 										
@@ -3707,7 +3740,7 @@
 <script src="/common/js/lib/micromodal.min.js"></script>
 <script src="/common/js/lib/scroll-hint.min.js"></script>
 <link rel="stylesheet" href="/common/js/lib/scroll-hint.css">
-<script src="/common/js/script.js?ver=202608261631"></script>
+<script src="/common/js/script.js?ver=202609011530"></script>
 	<script src="/common/js/lib/swiper-bundle.min.js" defer=""></script>
 <!-- GMOグループヘッダー -->
 <script type="text/javascript" charset="UTF-8" src="https://cache.img.gmo.jp/gmo/header/script.min.js" id="gmoheadertag" async="async"></script>
