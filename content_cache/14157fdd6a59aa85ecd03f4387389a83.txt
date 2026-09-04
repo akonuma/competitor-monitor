@@ -1,4 +1,4 @@
-<!DOCTYPE html><html lang="ja"><head prefix="og: http://ogp.me/ns#"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://j.wovn.io/1" async="true" data-wovnio="key=QLeFbd&amp;backend=true&amp;currentLang=ja&amp;defaultLang=ja&amp;urlPattern=path&amp;version=1.27.7&amp;backendVersion=WOVN.php_1.10.1&amp;langParamName=wovn" data-wovnio-cache-time="202608290559+0000"> </script>
+<!DOCTYPE html><html lang="ja"><head prefix="og: http://ogp.me/ns#"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://j.wovn.io/1" async="true" data-wovnio="key=QLeFbd&amp;backend=true&amp;currentLang=ja&amp;defaultLang=ja&amp;urlPattern=path&amp;version=1.27.7&amp;backendVersion=WOVN.php_1.10.1&amp;langParamName=wovn" data-wovnio-cache-time="202609040332+0000"> </script>
 
 <meta charset="utf-8">
 <title>決済代行・オンライン決済サービス・システム導入ならSBペイメントサービス（ソフトバンクグループ）</title>
@@ -56,7 +56,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-MRQRDWV');</script>
 <!-- End Google Tag Manager -->
 
-<link rel="alternate" hreflang="en" href="https://www.sbpayment.jp/en/?_=1787983170700"><link rel="alternate" hreflang="ja" href="https://www.sbpayment.jp/?_=1787983170700"><link rel="alternate" hreflang="x-default" href="https://www.sbpayment.jp/?_=1787983170700"></head>
+<link rel="alternate" hreflang="en" href="https://www.sbpayment.jp/en/?&amp;_=1788492746937"><link rel="alternate" hreflang="ja" href="https://www.sbpayment.jp/?&amp;_=1788492746937"><link rel="alternate" hreflang="x-default" href="https://www.sbpayment.jp/?&amp;_=1788492746937"></head>
 
 <body>
   <!-- Google Tag Manager (noscript) -->
@@ -290,8 +290,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <li><a href="/service/partner/akuru/">チャージバック保証サービス</a></li>
                         <li><a href="/service/partner/o-plux/">不正検知サービス O-PLUX（オープラックス）</a></li>
                         <li><a href="/service/partner/paidy/">Paidy</a></li>
-                        <li><a href="/service/partner/program/">パートナー提携・協業のご相談</a>
-                      </li></ul>
+                        <li><a href="/service/partner/program/">パートナー提携・協業のご相談</a></li>
+                      </ul>
                     </div>
                   </div>
                 </div>
@@ -1518,6 +1518,16 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               
               <li class="modListNews__item">
                 
+                <a href="https://www.sbpayment.jp/news/press/2026/20260904_001584/">
+                  <time class="time" datetime="2026-09-04">2026.09.04</time>
+                  <span class="category"><span>プレスリリース</span></span>
+                  <p class="title">NEC、SBペイメントサービス、SB C&amp;Sの3社が提携し、<br class="ja">マルチ決済サービス「PayCAS」に顔認証決済を導入<br><span style="font-size:70%;">～顔認証決済でレジ業務の効率化と快適な購買体験を実現～</span></p>
+                </a>
+                
+              </li>
+              
+              <li class="modListNews__item">
+                
                 <a href="https://www.sbpayment.jp/news/info/2026/20260824_001583/">
                   <time class="time" datetime="2026-08-24">2026.08.24</time>
                   <span class="category"><span>セミナー</span></span>
@@ -1532,16 +1542,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                   <time class="time" datetime="2026-08-03">2026.08.03</time>
                   <span class="category"><span>プレスリリース</span></span>
                   <p class="title">SP.LINKS株式会社の子会社化に関するお知らせ<br><span style="font-size:70%;">～AI時代を牽引する国内トップクラスの決済プラットフォームを実現～</span></p>
-                </a>
-                
-              </li>
-              
-              <li class="modListNews__item">
-                
-                <a href="https://www.sbpayment.jp/news/press/2026/20260728_001579/">
-                  <time class="time" datetime="2026-07-28">2026.07.28</time>
-                  <span class="category"><span>プレスリリース</span></span>
-                  <p class="title">課金ユーザーの74.2%が「スマホ新法」を認知！<br>【2026年版】スマホゲームアプリの利用・課金状況の調査結果を公開<br><span style="font-size:70%;">～求める決済1位は「PayPay」、アプリ外課金を選択する理由は割引・特典よりも「利用したい決済サービス」～</span></p>
                 </a>
                 
               </li>
