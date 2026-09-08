@@ -1,4 +1,4 @@
-<!DOCTYPE html><html lang="ja"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://j.wovn.io/1" async="true" data-wovnio='key=f1IRL-&amp;backend=true&amp;currentLang=ja&amp;defaultLang=ja&amp;urlPattern=path&amp;langCodeAliases={"en":"en"}&amp;version=1.27.7&amp;backendVersion=WOVN.php_1.12.0&amp;langParamName=wovn' data-wovnio-cache-time="202609010647+0000"> </script>
+<!DOCTYPE html><html lang="ja"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://j.wovn.io/1" async="true" data-wovnio='key=f1IRL-&amp;backend=true&amp;currentLang=ja&amp;defaultLang=ja&amp;urlPattern=path&amp;langCodeAliases={"en":"en"}&amp;version=1.27.7&amp;backendVersion=WOVN.php_1.12.0&amp;langParamName=wovn' data-wovnio-cache-time="202609080718+0000"> </script>
 <meta charset="utf-8">
 	<meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -25,15 +25,15 @@
 
     <!-- css -->
 
-<link rel="stylesheet" href="/common/css/core.css?ver=202609011530">
+<link rel="stylesheet" href="/common/css/core.css?ver=202609081504">
 
 
-<link rel="preload" href="/common/css/common.css?ver=202609011530" as="style" onload="this.onload=null;this.rel='stylesheet'">
-<noscript><link rel="stylesheet" href="/common/css/common.css?ver=202609011530"></noscript>
+<link rel="preload" href="/common/css/common.css?ver=202609081504" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="/common/css/common.css?ver=202609081504"></noscript>
 
 
-<link rel="preload" href="/common/css/footer.css?ver=202609011530" as="style" onload="this.onload=null;this.rel='stylesheet'">
-<noscript><link rel="stylesheet" href="/common/css/footer.css?ver=202609011530"></noscript>
+<link rel="preload" href="/common/css/footer.css?ver=202609081504" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="/common/css/footer.css?ver=202609081504"></noscript>
 <link rel="preload" href="/common/css/lib/splide-core.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
 <noscript><link rel="stylesheet" href="/common/css/lib/splide-core.min.css"></noscript>
 
@@ -116,514 +116,706 @@
 </script>
 
 <!-- TOP用CSS/JS -->
-<link rel="stylesheet" href="/top/css/style.css?ver=202609011530">
+<link rel="stylesheet" href="/top/css/style.css?ver=202609081504">
 <link rel="preload" href="/common/js/lib/swiper-bundle.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
 <noscript><link rel="stylesheet" href="/common/js/lib/swiper-bundle.min.css"></noscript>
-<script src="/top/js/script.js?ver=202609011530"></script>
+<script src="/top/js/script.js?ver=202609081504"></script>
 <link rel="alternate" hreflang="en" href="https://www.gmo-pg.com/en/"><link rel="alternate" hreflang="ja" href="https://www.gmo-pg.com/"><link rel="alternate" hreflang="x-default" href="https://www.gmo-pg.com/"></head>
 <body>
+<!-- COMMON INCLUDE: HEADER --> <a class="u-skip-link" href="#main">
+	本文へ移動
+</a>
 <canvas id="waveBg" aria-hidden="true"></canvas>
-<header class="c-header l-header">
-	<div class="c-header__inner">
-		<p class="c-header__logo">
-			<a class="c-header__logo-link" href="/"><img src="/common/image/logo.svg" alt="GMO PAYMENTGATEWAY"></a>
-		</p>
-		<a class="u-skip-link" href="#main">本文へスキップ</a>
-		<div class="c-header__assembly">
-			<nav class="c-header-navi">
-				<div class="c-header-navi__sub">
-					<ul class="c-header-sub-navi">
-						<li class="c-header-sub-navi__item">
-							<button type="button" id="js-megaMenuCorpTrigger" class="c-header-sub-navi__link c-header-sub-navi__link--plus" aria-haspopup="true" aria-expanded="false" aria-controls="megaMenuCorp">
-								<span class="hide_if_en">会社情報</span>
-								<span class="hide_if_ja">Corporate</span>
-							</button>
-						</li>
-						<li class="c-header-sub-navi__item">
-							<a class="c-header-sub-navi__link" href="/news/">
-								<span class="hide_if_en">ニュース</span>
-								<span class="hide_if_ja">News</span>
-							</a>
-						</li>
-						<li class="c-header-sub-navi__item">
-							<button type="button" id="js-megaMenuIrTrigger" class="c-header-sub-navi__link c-header-sub-navi__link--plus" aria-haspopup="true" aria-expanded="false" aria-controls="megaMenuIr">
-								<span class="hide_if_en">IR情報</span>
-								<span class="hide_if_ja">Information for Investors</span>
-							</button>
-						</li>
-						<li class="c-header-sub-navi__item">
-							<a class="c-header-sub-navi__link" href="/sustainability/">
-								<span class="hide_if_en">サステナビリティ</span>
-								<span class="hide_if_ja">Sustainability</span>
-							</a>
-						</li>
-						<li class="c-header-sub-navi__item">
-							<a class="c-header-sub-navi__link" href="/corp/recruit/" target="_blank">
-								<span class="hide_if_en">採用情報</span>
-								<span class="hide_if_ja">Career</span>
-							</a>
-						</li>
-					</ul>
+<header class="c-siteHeader" id="siteHeader">
+	<div class="c-siteHeader__inner">
+		<div class="c-siteHeader__logo">
+			<a href="/" aria-label="GMOペイメントゲートウェイ トップページ">
+				<img src="/common/image/logo.svg" alt="GMO PAYMENT GATEWAY">
+			</a>
+		</div>
+
+		<nav class="c-globalNav" id="globalNav" aria-label="グローバルナビゲーション">
+			<div class="c-globalNav__mobileSearch">
+				<div class="hide_if_en">
+					<form name="SS_searchForm_ja_nav" id="SS_searchForm_ja_nav" role="search" action="https://search.gmo-pg.com/search" method="get" enctype="application/x-www-form-urlencoded">
+						<label for="SS_searchQuery_ja_nav" class="c-mobileSearchField">
+							<input type="hidden" name="site" value="66Q81MHZ">
+							<input type="hidden" name="charset" value="UTF-8">
+							<input type="hidden" name="design" value="neww">
+							<input type="text" name="query" id="SS_searchQuery_ja_nav"
+								class="c-mobileSearchField__input" placeholder="サイト内検索" maxlength="100"
+								autocomplete="off">
+							<button type="submit" name="submit" class="c-mobileSearchField__button"
+								aria-label="検索する"></button>
+						</label>
+					</form>
 				</div>
-				<div class="c-header-navi__main">
-					<!-- Global Navi -->
-					<ul class="c-header-global-navi">
-						<li class="c-header-global-navi__item">
-							 <button type="button" id="js-megaMenuServiceTrigger" class="c-header-global-navi__link" aria-haspopup="true" aria-expanded="false" aria-controls="megaMenuService">
-								<span class="hide_if_en">サービス</span>
-								<span class="hide_if_ja">Services</span>
-							</button>
-						</li>
-						<li class="c-header-global-navi__item">
-							<a class="c-header-global-navi__link" href="/customersuccess/">
-								<span class="hide_if_en">成功事例</span>
-								<span class="hide_if_ja">CustomerSuccess</span>
-							</a>
-						</li>
-						<li class="c-header-global-navi__item">
-							<a class="c-header-global-navi__link" href="/document/">
-								<span class="hide_if_en">お役立ち資料</span>
-								<span class="hide_if_ja">Documents</span>
-							</a>
-						</li>
-						<li class="c-header-global-navi__item">
-							<a class="c-header-global-navi__link" href="/inquiry/">
-								<span class="hide_if_en">資料請求・お問い合わせ</span>
-								<span class="hide_if_ja">Inquiry</span>
-							</a>
-						</li>
-					</ul>
-					<!-- /Global Navi -->
+				<div class="hide_if_ja">
+					<form name="SS_searchForm_en_nav" id="SS_searchForm_en_nav" role="search" action="https://search.gmo-pg.com/search" method="get" enctype="application/x-www-form-urlencoded">
+						<label for="SS_searchQuery_en_nav" class="c-mobileSearchField">
+							<input type="hidden" name="site" value="66Q81MHZ">
+							<input type="hidden" name="charset" value="UTF-8">
+							<input type="hidden" name="design" value="new_en">
+							<input type="hidden" name="group" value="1">
+							<input type="text" name="query" id="SS_searchQuery_en_nav"
+								class="c-mobileSearchField__input" placeholder="Search" maxlength="100"
+								autocomplete="off">
+							<button type="submit" name="submit" class="c-mobileSearchField__button"
+								aria-label="Search"></button>
+						</label>
+					</form>
 				</div>
-			</nav>
-			<!-- Language Navi -->
+			</div>
+			<ul class="c-globalNav__list">
+				<li class="c-globalNav__item c-globalNav__item--hasMega">
+					<a class="c-globalNav__link" href="/service/" data-mega-target="megaMenuService" aria-expanded="false" aria-controls="megaMenuService">
+						<span>サービス</span>
+					</a>
+				</li>
+				<li class="c-globalNav__item">
+					<a class="c-globalNav__link" href="/news/"><span>ニュース</span></a>
+				</li>
+				<li class="c-globalNav__item c-globalNav__item--hasMega">
+					<a class="c-globalNav__link" href="/corp/" data-mega-target="megaMenuCorp" data-mobile-title="会社情報" aria-expanded="false" aria-controls="megaMenuCorp">
+						<span>会社情報</span>
+					</a>
+				</li>
+				<li class="c-globalNav__item c-globalNav__item--hasMega">
+					<a class="c-globalNav__link" href="/ir/" data-mega-target="megaMenuIr" aria-expanded="false" aria-controls="megaMenuIr">
+						<span>IR情報</span>
+					</a>
+				</li>
+				<li class="c-globalNav__item c-globalNav__item--hasMega">
+					<a class="c-globalNav__link" href="/sustainability/" data-mega-target="megaMenuSus" aria-expanded="false" aria-controls="megaMenuSus">
+						<span>サステナビリティ</span>
+					</a>
+				</li>
+				<li class="c-globalNav__item">
+					<a class="c-globalNav__link" href="/inquiry/"><span>お問い合わせ</span></a>
+				</li>
+				<li class="c-globalNav__item c-globalNav__item--mobileOnly">
+					<a class="c-globalNav__link" href="/corp/recruit/" target="_blank">
+						<span>採用情報</span>
+					</a>
+				</li>
+			</ul>
+		</nav>
+
+		<div class="c-siteHeader__utility">
+			<a class="c-headerInquiry" href="/corp/recruit/" target="_blank">採用情報</a>
 			<div class="wovn-languages">
-				<ul class="c-header-language">
-					<li class="c-header-language__item"><a class="c-header-language__link " href="#" data-value="ja" aria-current="true">JP</a></li>
-					<li class="c-header-language__item"><a class="c-header-language__link " href="#" data-value="en">EN</a></li>
+				<ul class="c-headerLanguage" aria-label="言語切り替え">
+					<li class="c-headerLanguage__item">
+						<a class="wovn-switch" data-value="ja" role="button" tabindex="0" aria-label="日本語に切り替える">JP</a>
+					</li>
+					<li class="c-headerLanguage__item">
+						<a class="wovn-switch" data-value="en" role="button" tabindex="0" aria-label="Englishに切り替える">EN</a>
+					</li>
 				</ul>
 			</div>
-			<!-- /Language Navi -->
-			<div class="c-header-search">
-				<button id="js-headerSearchTrigger" class="c-header-search__button" type="button" aria-label="サイト内検索フィールドを開く"></button>
+			<button class="c-headerSearch" type="button" aria-label="サイト内検索を開く" aria-expanded="false" aria-controls="headerSearchPanel"><span>検索</span></button>
+			<button class="c-headerMenuButton" type="button" aria-expanded="false" aria-controls="globalNav" aria-label="メニューを開く">
+				<span></span><span></span><span></span>
+			</button>
+		</div>
+	</div>
+
+	<div class="c-headerSearchPanel" id="headerSearchPanel" hidden="">
+		<div class="c-headerSearchPanel__inner">
+			<div class="hide_if_en">
+				<form name="SS_searchForm_ja_header" id="SS_searchForm_ja_header" role="search" action="https://search.gmo-pg.com/search" method="get" enctype="application/x-www-form-urlencoded">
+					<label for="SS_searchQuery_ja_header" class="c-headerSearchField">
+						<input type="hidden" name="site" value="66Q81MHZ">
+						<input type="hidden" name="charset" value="UTF-8">
+						<input type="hidden" name="design" value="neww">
+						<input type="text" name="query" id="SS_searchQuery_ja_header" class="c-headerSearchField__input"
+							placeholder="サイト内検索" maxlength="100" autocomplete="off" data-header-search-input>
+						<button type="submit" name="submit" value="検索" class="c-headerSearchField__button"
+							aria-label="検索する"></button>
+					</label>
+				</form>
 			</div>
-			<div class="c-header-menu">
-				<button id="js-headerMenuTrigger" class="c-header-menu__button" type="button" aria-label="メニューを開く"></button>
+			<div class="hide_if_ja">
+				<form name="SS_searchForm_en_header" id="SS_searchForm_en_header" role="search" action="https://search.gmo-pg.com/search" method="get" enctype="application/x-www-form-urlencoded">
+					<label for="SS_searchQuery_en_header" class="c-headerSearchField">
+						<input type="hidden" name="site" value="66Q81MHZ">
+						<input type="hidden" name="charset" value="UTF-8">
+						<input type="hidden" name="group" value="1">
+						<input type="hidden" name="design" value="new_en">
+						<input type="text" name="query" id="SS_searchQuery_en_header" class="c-headerSearchField__input"
+							placeholder="Search" maxlength="100" autocomplete="off" data-header-search-input>
+						<button type="submit" name="submit" value="検索" class="c-headerSearchField__button"
+							aria-label="Search"></button>
+					</label>
+				</form>
 			</div>
-			<div class="c-header-mega-menu"></div>
+			<button class="c-headerSearchPanel__close" type="button" aria-label="検索を閉じる" data-header-search-close=""><span>閉じる</span></button>
+		</div>
+	</div>
+
+	<div class="c-navMegaContainer">
+		<div class="c-headerMegaMobileBar">
+			<button class="c-headerMegaMobileBack" type="button" data-mobile-mega-back="">メニューに戻る</button>
+			<p class="c-headerMegaMobileTitle" data-mobile-mega-title=""></p>
+		</div>
+
+		<div id="megaMenuService" class="c-navMegaPanel c-serviceMegaMenu" hidden="">
+			<div class="c-serviceMegaMenu__inner">
+				<div class="c-serviceMegaMenu__grid">
+					<!-- 決済を導入・安全に運用する -->
+					<section aria-labelledby="serviceMegaCol01" class="c-serviceMegaMenu__col">
+						<h2 class="c-serviceMegaMenu__heading" id="serviceMegaCol01">
+							<span>
+								オンライン決済を導入・安全に運用する
+							</span>
+						</h2>
+						<!-- PGマルチペイメントサービス -->
+						<div class="c-serviceMegaMenu__group c-serviceMegaMenu__group--featured">
+							<a class="c-serviceMegaMenu__link c-serviceMegaMenu__link--featured" href="/service/mulpay/">
+								<span class="c-serviceMegaMenu__title">
+									PGマルチペイメントサービス
+								</span>
+								<span class="c-serviceMegaMenu__desc">
+									決済手段と不正対策をまとめて導入
+								</span>
+							</a>
+						</div>
+
+						<div class="c-serviceMegaMenu__indent">
+							<a class="c-serviceMegaMenu__link" href="/service/mulpay/#anc_01">
+								<span class="c-serviceMegaMenu__title">
+									決済手段
+								</span>
+								<span class="c-serviceMegaMenu__desc">
+									クレジットカード払い・Pay払い・銀行振替など
+								</span>
+							</a>
+							<div class="c-serviceMegaMenu__group">
+								<ul class="c-serviceMegaMenu__subLinks c-serviceMegaMenu__subLinks--payments">
+									<li class="c-serviceMegaMenu__subLinksItem c-serviceMegaMenu__subLinksItem--expandOnly">
+										<a class="c-serviceMegaMenu__subLinksLink" href="/service/mulpay-creditcard/">
+											クレジットカード
+										</a>
+									</li>
+									<li class="c-serviceMegaMenu__subLinksItem c-serviceMegaMenu__subLinksItem--expandOnly">
+										<a class="c-serviceMegaMenu__subLinksLink" href="/service/mulpay-paypay/">
+											PayPay
+										</a>
+									</li>
+									<li class="c-serviceMegaMenu__subLinksItem c-serviceMegaMenu__subLinksItem--expandOnly">
+										<a class="c-serviceMegaMenu__subLinksLink" href="/service/mulpay-conveniencestore/">
+											コンビニ決済
+										</a>
+									</li>
+									<li class="c-serviceMegaMenu__subLinksItem c-serviceMegaMenu__subLinksItem--expandOnly">
+										<a class="c-serviceMegaMenu__subLinksLink" href="/service/mulpay-virtual/">
+											銀行振込
+										</a>
+									</li>
+									<li class="c-serviceMegaMenu__subLinksItem c-serviceMegaMenu__subLinksItem--expandOnly">
+										<a class="c-serviceMegaMenu__subLinksLink" href="/service/mulpay-amazonpay/">
+											Amazon Pay
+										</a>
+									</li>
+									<li class="c-serviceMegaMenu__subLinksItem c-serviceMegaMenu__subLinksItem--expandOnly">
+										<a class="c-serviceMegaMenu__subLinksLink" href="/service/mulpay-rakutenpay/">
+											楽天ペイ
+										</a>
+									</li>
+									<li class="c-serviceMegaMenu__subLinksItem c-serviceMegaMenu__subLinksItem--expandOnly">
+										<a class="c-serviceMegaMenu__subLinksLink" href="/service/mulpay-mobilecarrier/">
+											キャリア決済
+										</a>
+									</li>
+									<li class="c-serviceMegaMenu__subLinksItem c-serviceMegaMenu__subLinksItem--expandOnly">
+										<a class="c-serviceMegaMenu__subLinksLink" href="/service/mulpay-applepay/">
+											Apple Pay
+										</a>
+									</li>
+									<li class="c-serviceMegaMenu__subLinksItem c-serviceMegaMenu__subLinksItem--expandOnly">
+										<a class="c-serviceMegaMenu__subLinksLink" href="/service/mulpay-mobilecarrier-docomo/">
+											d払い
+										</a>
+									</li>
+									<li class="c-serviceMegaMenu__subLinksItem c-serviceMegaMenu__subLinksItem--expandOnly">
+										<a class="c-serviceMegaMenu__subLinksLink" href="/service/mulpay-merpay/">
+											メルペイ
+										</a>
+									</li>
+									<li class="c-serviceMegaMenu__subLinksItem c-serviceMegaMenu__subLinksItem--expandOnly">
+										<a class="c-serviceMegaMenu__subLinksLink" href="/service/mulpay-googlepay/">
+											Google Pay
+										</a>
+									</li>
+									<li class="c-serviceMegaMenu__subLinksItem c-serviceMegaMenu__subLinksItem--expandOnly">
+										<a class="c-serviceMegaMenu__subLinksLink c-serviceMegaMenu__subLinksLink--more" href="/service/mulpay/#anc_01">
+											もっと見る
+										</a>
+									</li>
+								</ul>
+							</div>
+						</div>
+
+						<!-- セキュリティ -->
+						<div class="c-serviceMegaMenu__group c-serviceMegaMenu__group--security c-serviceMegaMenu__indent">
+							<a class="c-serviceMegaMenu__link" href="/service/security/">
+								<span class="c-serviceMegaMenu__title">
+									セキュリティ
+								</span>
+								<span class="c-serviceMegaMenu__desc">
+									本人認証・不正対策・脆弱性対策
+								</span>
+							</a>
+						</div>
+						<!-- ピックアップソリューション -->
+						<div class="c-serviceMegaMenu__subBlock c-serviceMegaMenu__subBlock--pickup">
+							<h3 class="c-serviceMegaMenu__subHeading">
+								ピックアップソリューション
+							</h3>
+							<ul class="c-serviceMegaMenu__subLinks">
+								<li class="c-serviceMegaMenu__subLinksItem">
+									<a class="c-serviceMegaMenu__subLinksLink" href="/service/mulpay-authratevisualizationoption/">
+										承認率可視化オプション
+									</a>
+								</li>
+								<li class="c-serviceMegaMenu__subLinksItem">
+									<a class="c-serviceMegaMenu__subLinksLink" href="/service/invoicecardpay/">
+										請求書カード払い byGMO
+									</a>
+								</li>
+								<li class="c-serviceMegaMenu__subLinksItem">
+									<a class="c-serviceMegaMenu__subLinksLink" href="https://www.gmo-ps.com/feature_kb-lp01/" target="_blank">
+										GMO掛け払い
+									</a>
+								</li>
+							</ul>
+						</div>
+						<!-- 導入・運用サポート -->
+						<div class="c-serviceMegaMenu__utility">
+							<a class="c-serviceMegaMenu__utilityLink c-serviceMegaMenu__utilityLink--docs" href="https://docs.gmo-pg.com/mulpay/" rel="noopener" target="_blank">
+								<span class="c-serviceMegaMenu__utilityIcon" aria-hidden="true"></span>
+								<span class="c-serviceMegaMenu__utilityText">開発者ドキュメント</span>
+							</a>
+							<a class="c-serviceMegaMenu__utilityLink c-serviceMegaMenu__utilityLink--faq" href="https://mp-faq.gmo-pg.com/s/" rel="noopener" target="_blank">
+								<span class="c-serviceMegaMenu__utilityIcon" aria-hidden="true"></span>
+								<span class="c-serviceMegaMenu__utilityText">よくあるご質問</span>
+							</a>
+						</div>
+					</section>
+					<section aria-labelledby="serviceMegaCol02" class="c-serviceMegaMenu__col">
+						<h2 class="c-serviceMegaMenu__heading" id="serviceMegaCol02">
+							<span>
+								企業間取引・決済をスムーズにする
+							</span>
+						</h2>
+						<div class="c-serviceMegaMenu__group c-serviceMegaMenu__group--featured">
+							<a class="c-serviceMegaMenu__link c-serviceMegaMenu__link--featured" href="/service/btobsolutions/">
+								<span class="c-serviceMegaMenu__title">
+									企業間取引向け決済サービス
+								</span>
+								<span class="c-serviceMegaMenu__desc">
+									請求書カード払い・早払い・保証など
+								</span>
+							</a>
+						</div>
+						<div class="c-serviceMegaMenu__group c-serviceMegaMenu__indent">
+							<a class="c-serviceMegaMenu__link" href="/service/invoicecardpay/">
+								<span class="c-serviceMegaMenu__title">
+									請求書カード払い byGMO
+								</span>
+								<span class="c-serviceMegaMenu__desc">
+									請求書支払いのタイミングを調整
+								</span>
+							</a>
+							<a class="c-serviceMegaMenu__link" href="/service/hayabarai/">
+								<span class="c-serviceMegaMenu__title">
+									GMO BtoB早払い
+								</span>
+								<span class="c-serviceMegaMenu__desc">
+									売掛金を早期に資金化
+								</span>
+							</a>
+							<a class="c-serviceMegaMenu__link" href="/service/urikake/">
+								<span class="c-serviceMegaMenu__title">
+									GMO BtoB売掛保証
+								</span>
+								<span class="c-serviceMegaMenu__desc">
+									売掛金の未回収リスクに備える
+								</span>
+							</a>
+							<a class="c-serviceMegaMenu__link" href="/service/shiharaihosho/">
+								<span class="c-serviceMegaMenu__title">
+									GMO BtoB支払保証
+								</span>
+								<span class="c-serviceMegaMenu__desc">
+									前払いや保証金の負担を軽減
+								</span>
+							</a>
+						</div>
+						<div class="c-serviceMegaMenu__subBlock c-serviceMegaMenu__subBlock--pickup">
+							<h3 class="c-serviceMegaMenu__subHeading">
+								関連ソリューション
+							</h3>
+							<a class="c-serviceMegaMenu__link" href="https://www.gmo-ps.com/feature_kb-lp01/" target="_blank">
+								<span class="c-serviceMegaMenu__title">
+									GMO掛け払い
+								</span>
+								<span class="c-serviceMegaMenu__desc">
+									請求業務の効率化
+								</span>
+							</a>
+						</div>
+					</section>
+					<!-- カテゴリから探す -->
+					<section aria-labelledby="serviceMegaCol03" class="c-serviceMegaMenu__col c-serviceMegaMenu__col--category">
+						<h2 class="c-serviceMegaMenu__heading" id="serviceMegaCol03">
+							<span>
+								カテゴリから探す
+							</span>
+						</h2>
+						<ul class="c-serviceMegaMenu__categoryList">
+							<li class="c-serviceMegaMenu__categoryItem">
+								<a class="c-serviceMegaMenu__categoryLink" href="/service/">
+									<span>
+										決済代行サービス
+									</span>
+								</a>
+							</li>
+							<li class="c-serviceMegaMenu__categoryItem">
+								<a class="c-serviceMegaMenu__categoryLink" href="/service/cat02/">
+									<span>
+										オンライン決済手段
+									</span>
+								</a>
+							</li>
+							<li class="c-serviceMegaMenu__categoryItem">
+								<a class="c-serviceMegaMenu__categoryLink" href="/service/cat03/">
+									<span>
+										セキュリティ対策
+									</span>
+								</a>
+							</li>
+							<li class="c-serviceMegaMenu__categoryItem">
+								<a class="c-serviceMegaMenu__categoryLink" href="/service/cat04/">
+									<span>
+										資金面のサポート
+									</span>
+								</a>
+							</li>
+							<li class="c-serviceMegaMenu__categoryItem">
+								<a class="c-serviceMegaMenu__categoryLink" href="/service/cat05/">
+									<span>
+										送金・企業間決済・給与振込
+									</span>
+								</a>
+							</li>
+							<li class="c-serviceMegaMenu__categoryItem">
+								<a class="c-serviceMegaMenu__categoryLink" href="/service/cat06/">
+									<span>
+										海外企業向け
+									</span>
+								</a>
+							</li>
+							<li class="c-serviceMegaMenu__categoryItem">
+								<a class="c-serviceMegaMenu__categoryLink" href="/service/cat07/">
+									<span>
+										金融機関向け・BaaS支援
+									</span>
+								</a>
+							</li>
+							<li class="c-serviceMegaMenu__categoryItem">
+								<a class="c-serviceMegaMenu__categoryLink" href="/service/cat08/">
+									<span>
+										その他
+									</span>
+								</a>
+							</li>
+						</ul>
+						<div class="c-serviceMegaMenu__subBlock">
+							<a class="c-serviceMegaMenu__link" href="/service/">
+								<span class="c-serviceMegaMenu__title">
+									サービス一覧を見る
+								</span>
+							</a>
+							<a class="c-serviceMegaMenu__link" href="/customersuccess/">
+								<span class="c-serviceMegaMenu__title">
+									成功事例を見る
+								</span>
+							</a>
+						</div>
+					</section>
+					<aside aria-labelledby="serviceMegaCol04" class="c-serviceMegaMenu__col c-serviceMegaMenu__col--aside">
+						<h2 class="c-serviceMegaMenu__heading c-serviceMegaMenu__heading--aside" id="serviceMegaCol04">
+							<span>さらに見る</span>
+						</h2>
+						<div class="c-serviceMegaMenu__asideBlock">
+							<div class="c-serviceMegaMenu__asideContact">
+								<a class="c-serviceMegaMenu__link c-serviceMegaMenu__link--aside" href="/inquiry/">
+									<span class="c-serviceMegaMenu__title">資料請求・お問い合わせ</span>
+									<span class="c-serviceMegaMenu__desc">目的にあわせてお問い合わせ先をご案内</span>
+								</a>
+
+								<ul class="c-serviceMegaMenu__asideSubLinks c-serviceMegaMenu__asideExpandOnly">
+									<li>
+										<a class="c-serviceMegaMenu__asideSubLink" href="https://contact.gmo-pg.com/m?f=790" target="_blank" rel="noopener">
+											決済手段の導入をご検討のお客様
+										</a>
+									</li>
+									<li>
+										<a class="c-serviceMegaMenu__asideSubLink" href="https://contact.gmo-pg.com/m?f=791" target="_blank" rel="noopener">
+											ご契約中のお客様
+										</a>
+									</li>
+									<li>
+										<a class="c-serviceMegaMenu__asideSubLink" href="/inquiry/">
+											その他のお問い合わせ
+										</a>
+									</li>
+								</ul>
+							</div>
+						</div>
+
+						<div class="c-serviceMegaMenu__asideNote">
+							<p class="c-serviceMegaMenu__asideLabel">関連サービス</p>
+							<ul class="c-serviceMegaMenu__relatedList">
+								<li>
+									<a class="c-serviceMegaMenu__relatedLink" href="https://www.fincode.jp/" target="_blank" rel="noopener">
+										<span class="c-serviceMegaMenu__relatedTitle">fincode byGMO</span>
+										<span class="c-serviceMegaMenu__relatedDesc c-serviceMegaMenu__asideExpandOnly">
+											スタートアップ向けオンライン決済
+										</span>
+									</a>
+								</li>
+								<li>
+									<a class="c-serviceMegaMenu__relatedLink" href="https://www.epsilon.jp/" target="_blank" rel="noopener">
+										<span class="c-serviceMegaMenu__relatedTitle">Epsilon byGMO</span>
+										<span class="c-serviceMegaMenu__relatedDesc c-serviceMegaMenu__asideExpandOnly">
+											中小・個人事業主向けオンライン決済
+										</span>
+									</a>
+								</li>
+								<li>
+									<a class="c-serviceMegaMenu__relatedLink" href="/service/gcp/">
+										<span class="c-serviceMegaMenu__relatedTitle">GMO Cashless Platform</span>
+										<span class="c-serviceMegaMenu__relatedDesc c-serviceMegaMenu__asideExpandOnly">
+											店舗向けQR決済
+										</span>
+									</a>
+								</li>
+								<li>
+									<a class="c-serviceMegaMenu__relatedLink" href="https://gmo-fg.com/" target="_blank" rel="noopener">
+										<span class="c-serviceMegaMenu__relatedTitle">キャッシュレス決済端末/インフラ</span>
+										<span class="c-serviceMegaMenu__relatedDesc c-serviceMegaMenu__asideExpandOnly">
+											実店舗向け決済端末
+										</span>
+									</a>
+								</li>
+								<li>
+									<a class="c-serviceMegaMenu__relatedLink" href="/service/sokkyu/">
+										<span class="c-serviceMegaMenu__relatedTitle">即給 byGMO</span>
+										<span class="c-serviceMegaMenu__relatedDesc c-serviceMegaMenu__asideExpandOnly">
+											給与業務を効率化
+										</span>
+									</a>
+								</li>
+							</ul>
+						</div>
+						<div aria-label="オウンドメディア" class="c-serviceMegaMenu__ownedMedia c-serviceMegaMenu__subBlock">
+							<a class="c-serviceMegaMenu__ownedMediaLink" href="/blog/">
+								あなたのとなりに、決済を
+							</a>
+							<a class="c-serviceMegaMenu__ownedMediaLink" href="/pxplus/">
+								PX+ byGMO
+							</a>
+						</div>
+					</aside>
+				</div>
+
+			</div>
+		</div>
+
+		<div id="megaMenuCorp" class="c-navMegaPanel c-corpMegaMenu c-corpMegaMenu--corp" hidden="">
+			<div class="c-corpMegaMenu__inner">
+				<!-- 会社情報 -->
+				<section class="c-corpMegaMenu__section" aria-labelledby="corpMegaCol01">
+					<div class="c-corpMegaMenu__head">
+						<p class="c-corpMegaMenu__eyebrow">Corporate</p>
+
+						<h2 class="c-corpMegaMenu__heading" id="corpMegaCol01">
+							<a href="/corp/" class="c-corpMegaMenu__headingLink">
+								会社情報
+							</a>
+						</h2>
+					</div>
+
+					<ul class="c-corpMegaMenu__list">
+						<li class="c-corpMegaMenu__item">
+							<a href="/corp/company-management/" class="c-corpMegaMenu__link">
+								私たちについて
+							</a>
+						</li>
+
+						<li class="c-corpMegaMenu__item">
+							<a href="/corp/company-business/" class="c-corpMegaMenu__link">
+								事業内容
+							</a>
+						</li>
+
+						<li class="c-corpMegaMenu__item">
+							<a href="/corp/company/" class="c-corpMegaMenu__link">
+								会社概要・沿革
+							</a>
+						</li>
+
+						<li class="c-corpMegaMenu__item">
+							<a href="/corp/company-access/" class="c-corpMegaMenu__link">
+								地図・連絡先
+							</a>
+						</li>
+
+						<li class="c-corpMegaMenu__item">
+							<a href="/corp/company-profile/" class="c-corpMegaMenu__link">
+								役員一覧
+							</a>
+						</li>
+
+						<li class="c-corpMegaMenu__item">
+							<a href="/corp/company-value/" class="c-corpMegaMenu__link">
+								提供価値の領域
+							</a>
+						</li>
+
+						<li class="c-corpMegaMenu__item">
+							<a href="/corp/security/" class="c-corpMegaMenu__link">
+								セキュリティ・コンプライアンス
+							</a>
+						</li>
+					</ul>
+				</section>
+			</div>
+		</div>
+		<div id="megaMenuIr" class="c-navMegaPanel c-corpMegaMenu c-corpMegaMenu--ir" hidden="">
+			<div class="c-corpMegaMenu__inner">
+
+				<section class="c-corpMegaMenu__section" aria-labelledby="irMegaCol01">
+					<div class="c-corpMegaMenu__head">
+						<p class="c-corpMegaMenu__eyebrow">
+							For Investors
+						</p>
+
+						<h2 class="c-corpMegaMenu__heading" id="irMegaCol01">
+							<a href="/ir/" class="c-corpMegaMenu__headingLink">
+								IR情報
+							</a>
+						</h2>
+					</div>
+
+					<ul class="c-corpMegaMenu__list">
+						<li class="c-corpMegaMenu__item">
+							<a href="/ir/policy/" class="c-corpMegaMenu__link">
+								経営方針
+							</a>
+						</li>
+
+						<li class="c-corpMegaMenu__item">
+							<a href="/ir/library/" class="c-corpMegaMenu__link">
+								IR資料室
+							</a>
+						</li>
+
+						<li class="c-corpMegaMenu__item">
+							<a href="/ir/newslist/" class="c-corpMegaMenu__link">
+								IRニュース
+							</a>
+						</li>
+
+						<li class="c-corpMegaMenu__item">
+							<a href="/ir/stock/" class="c-corpMegaMenu__link">
+								株式・格付情報
+							</a>
+						</li>
+
+						<li class="c-corpMegaMenu__item">
+							<a href="/ir/calendar/" class="c-corpMegaMenu__link">
+								IRカレンダー
+							</a>
+						</li>
+
+						<li class="c-corpMegaMenu__item">
+							<a href="/ir/individual/" class="c-corpMegaMenu__link">
+								個人投資家の皆様へ
+							</a>
+						</li>
+
+						<li class="c-corpMegaMenu__item">
+							<a href="/ir/highlights/" class="c-corpMegaMenu__link">
+								財務ハイライト
+							</a>
+						</li>
+
+						<li class="c-corpMegaMenu__item">
+							<a href="/ir/faq/" class="c-corpMegaMenu__link">
+								よくあるご質問
+							</a>
+						</li>
+					</ul>
+
+				</section>
+
+			</div>
+		</div>
+		<div id="megaMenuSus" class="c-navMegaPanel c-corpMegaMenu c-corpMegaMenu--sus" hidden="">
+			<div class="c-corpMegaMenu__inner">
+				<section class="c-corpMegaMenu__section" aria-labelledby="susMegaCol01">
+					<div class="c-corpMegaMenu__head">
+						<p class="c-corpMegaMenu__eyebrow">Sustainability</p>
+
+						<h2 class="c-corpMegaMenu__heading" id="susMegaCol01">
+							<a href="/sustainability/" class="c-corpMegaMenu__headingLink">
+								サステナビリティ
+							</a>
+						</h2>
+					</div>
+
+					<ul class="c-corpMegaMenu__list">
+						<li class="c-corpMegaMenu__item">
+							<a href="/sustainability/environment/" class="c-corpMegaMenu__link">
+								環境
+							</a>
+						</li>
+
+						<li class="c-corpMegaMenu__item">
+							<a href="/sustainability/social/" class="c-corpMegaMenu__link">
+								社会
+							</a>
+						</li>
+
+						<li class="c-corpMegaMenu__item">
+							<a href="/sustainability/governance/" class="c-corpMegaMenu__link">
+								ガバナンス
+							</a>
+						</li>
+
+						<li class="c-corpMegaMenu__item">
+							<a href="/sustainability/evaluation/" class="c-corpMegaMenu__link">
+								外部からの評価
+							</a>
+						</li>
+
+						<li class="c-corpMegaMenu__item">
+							<a href="/sustainability/materiality/" class="c-corpMegaMenu__link">
+								マテリアリティ
+							</a>
+						</li>
+					</ul>
+
+				</section>
+
+			</div>
 		</div>
 	</div>
 </header>
-<!-- サイト内検索 START -->
-<div id="js-headerSearchTarget" class="c-header-searchBox">
-	<div class="hide_if_en">
-		<div class="c-header-searchBox__inner">
-			<form name="SS_searchForm_ja" id="SS_searchForm_ja" action="https://search.gmo-pg.com/search" method="get" enctype="application/x-www-form-urlencoded" data-hs-cf-bound="true">
-				<div class="c-header-searchBox__field">
-					<label for="SS_searchQuery_ja" class="c-header-searchBoxField">
-						<input type="hidden" name="site" value="66Q81MHZ" />
-						<input type="hidden" name="charset" value="UTF-8" />
-						<input type="hidden" name="design" value="neww" />
-						<input type="text" name="query" id="SS_searchQuery_ja" class="c-header-searchBoxField__input" placeholder="サイト内検索" value=""/>
-						<button type="submit" name="submit" class="c-header-searchBoxField__button" id="SS_searchSubmit_ja" aria-label="検索する"></button>
-					</label>
-				</div>
-			</form>
-		</div>
-	</div>
-	<div class="hide_if_ja">
-		<div class="c-header-searchBox__inner">
-			<form name="SS_searchForm_en" id="SS_searchForm_en" action="https://search.gmo-pg.com/search" method="get" enctype="application/x-www-form-urlencoded" data-hs-cf-bound="true">
-				<div class="c-header-searchBox__field">
-					<label for="SS_searchQuery_en" class="c-header-searchBoxField">
-						<input type="hidden" name="site" value="66Q81MHZ" />
-						<input type="hidden" name="charset" value="UTF-8" />
-						<input type="hidden" name="design" value="new_en" />
-						<input type="hidden" name="group" value="1" />
-						<input type="text" name="query" id="SS_searchQuery_en" class="c-header-searchBoxField__input" placeholder="Search" value=""/>
-						<button type="submit" name="submit" class="c-header-searchBoxField__button" id="SS_searchSubmit_en" aria-label="Search"></button>
-					</label>
-				</div>
-			</form>
-		</div>
-	</div>
-</div>
-<!-- サイト内検索 END -->
-<!-- SPメニュー START -->
-<div id="js-headerMenuTarget" class="c-header-menuBox">
-	<div class="c-header-menuBox__inner">
-		<nav class="c-header-menuArea">
-			<ul class="c-header-menuNavi" style="margin-bottom: 120px;">
-				<li>
-				<!-- サイト内検索 START -->
-					<div class="hide_if_en">
-						<div class="c-header-searchBox__inner">
-							<form name="SS_searchForm_ja_sp" id="SS_searchForm_ja_sp" action="https://search.gmo-pg.com/search" method="get" enctype="application/x-www-form-urlencoded" data-hs-cf-bound="true">
-								<div class="c-header-searchBox__field">
-									<label for="SS_searchQuery_ja_sp" class="c-header-searchBoxField">
-										<input type="hidden" name="site" value="66Q81MHZ" />
-										<input type="hidden" name="charset" value="UTF-8" />
-										<input type="hidden" name="design" value="neww" />
-										<input type="text" name="query" id="SS_searchQuery_ja_sp" class="c-header-searchBoxField__input" placeholder="サイト内検索" value=""/>
-										<button type="submit" name="submit" class="c-header-searchBoxField__button" id="SS_searchSubmit_ja_sp" aria-label="検索する"></button>
-									</label>
-								</div>
-							</form>
-						</div>
-					</div>
-					<div class="hide_if_ja">
-						<div class="c-header-searchBox__inner">
-							<form name="SS_searchForm_en_sp" id="SS_searchForm_en_sp" action="https://search.gmo-pg.com/search" method="get" enctype="application/x-www-form-urlencoded" data-hs-cf-bound="true">
-								<div class="c-header-searchBox__field">
-									<label for="SS_searchQuery_en_sp" class="c-header-searchBoxField">
-										<input type="hidden" name="site" value="66Q81MHZ" />
-										<input type="hidden" name="charset" value="UTF-8" />
-										<input type="hidden" name="design" value="new_en" />
-										<input type="hidden" name="group" value="1" />
-										<input type="text" name="query" id="SS_searchQuery_en_sp" class="c-header-searchBoxField__input" placeholder="Search" value=""/>
-										<button type="submit" name="submit" class="c-header-searchBoxField__button" id="SS_searchSubmit_en_sp" aria-label="Search"></button>
-									</label>
-								</div>
-							</form>
-						</div>
-					</div>
-				<!-- サイト内検索 END -->
-				</li>
-				<li class="c-header-menuNavi__item">
-					<button class="c-header-menuNavi__accordion is-active" type="button" aria-expanded="true" aria-controls="header-menu-service"><span class="hide_if_en">サービス</span><span class="hide_if_ja">Services</span></button>
-					<div class="c-header-menuChild c-header-menuChild--service" id="header-menu-service">
-						<div class="c-header-menuChild__inner">
-							<ul class="c-header-menuService">
-								<li class="c-header-menuService__item">
-									<div class="c-header-menuService__accordion is-active" role="button" tabindex="0"><span>決済代行サービス</span></div>
-									<div class="c-header-menuServiceChild">
-										<div class="c-header-menuServiceChild__inner">
-											<div class="c-header-menuServiceDetail">
-												<div class="c-header-menuServiceDetail__top">
-													<a class="c-header-menuServiceMulpay" href="/service/mulpay/">
-														<span class="c-header-menuServiceMulpay__subTitle">総合オンライン決済サービス</span>
-														<span class="c-header-menuServiceMulpay__title">PGマルチペイメントサービス</span>
-													</a>
-													<ul class="c-header-menuServicePayment">
-														<li class="c-header-menuServicePayment__item">
-															<div class="c-header-menuServicePayment__accordion" role="button" tabindex="0">ご提供可能な決済手段<span class="note">国内・国外あわせて30以上の手段を提供</span></div>
-															<div class="c-header-menuServicePaymentChild">
-																<div class="c-header-menuServicePaymentChild__inner">
-																	<ul class="c-header-menuSubLinks c-header-menuSubLinks--horizontal">
-																		<li class="c-header-menuSubLinks__item"><a class="c-header-menuSubLinks__link" href="/service/mulpay-creditcard/">クレジットカード</a></li>
-																		<li class="c-header-menuSubLinks__item"><a class="c-header-menuSubLinks__link" href="/service/mulpay-mobilecarrier/">キャリア決済</a></li>
-																		<li class="c-header-menuSubLinks__item"><a class="c-header-menuSubLinks__link" href="/service/mulpay-conveniencestore/">コンビニ決済</a></li>
-																		<li class="c-header-menuSubLinks__item"><a class="c-header-menuSubLinks__link" href="/service/mulpay-virtual/">銀行振込（バーチャル口座）</a></li>
-																		<li class="c-header-menuSubLinks__item"><a class="c-header-menuSubLinks__link" href="/service/mulpay-atobarai/">GMO後払い</a></li>
-																	</ul>
-																	<ul class="c-header-menuSubLinks c-header-menuSubLinks--horizontal">
-																		<li class="c-header-menuSubLinks__item c-header-menuSubLinks__item--1col"><span class="c-header-menuSubLinks__noLink">Pay系決済</span></li>
-																		<li class="c-header-menuSubLinks__item"><a class="c-header-menuSubLinks__link" href="/service/mulpay-paypay/">PayPay</a></li>
-																		<li class="c-header-menuSubLinks__item"><a class="c-header-menuSubLinks__link" href="/service/mulpay-amazonpay/">AmazonPay</a></li>
-																		<li class="c-header-menuSubLinks__item"><a class="c-header-menuSubLinks__link" href="/service/mulpay-mobilecarrier-docomo/">d払い</a></li>
-																		<li class="c-header-menuSubLinks__item"><a class="c-header-menuSubLinks__link" href="/service/mulpay-rakutenpay/">楽天ペイ</a></li>
-																		<li class="c-header-menuSubLinks__item"><a class="c-header-menuSubLinks__link" href="/service/mulpay-merpay/">メルペイ</a></li>
-																		<li class="c-header-menuSubLinks__item"><a class="c-header-menuSubLinks__link" href="/service/mulpay-googlepay/">GooglePay</a></li>
-																		<li class="c-header-menuSubLinks__item"><a class="c-header-menuSubLinks__link" href="/service/mulpay-applepay/">ApplePay</a></li>
-																	</ul>
-																</div>
-															</div>
-														</li>
-														<li class="c-header-menuServicePayment__item">
-															<div class="c-header-menuServicePayment__accordion" role="button" tabindex="0">セキュリティ対策</div>
-															<div class="c-header-menuServicePaymentChild">
-																<div class="c-header-menuServicePaymentChild__inner">
-																	<ul class="c-header-menuSubLinks c-header-menuSubLinks--horizontal">
-																		<li class="c-header-menuSubLinks__item"><a class="c-header-menuSubLinks__link" href="/service/security#security_01">情報漏えい対策</a></li>
-																		<li class="c-header-menuSubLinks__item"><a class="c-header-menuSubLinks__link" href="/service/security#security_02">不正利用対策</a></li>
-																		<li class="c-header-menuSubLinks__item"><a class="c-header-menuSubLinks__link" href="/service/security-3dsecure/">EMV 3Dセキュア(3Dセキュア2.0)</a></li>
-																		<li class="c-header-menuSubLinks__item"><a class="c-header-menuSubLinks__link" href="/service/security#security_03">クレジットマスター対策</a></li>
-																		<li class="c-header-menuSubLinks__item"><a class="c-header-menuSubLinks__link" href="/service/security-verify/">その他の対策</a></li>
-																	</ul>
-																	<p class="c-header-menuServiceGoToList"><a href="/service/security/">一覧へ</a></p>
-																</div>
-															</div>
-														</li>
-													</ul>
-												</div>
-												<div class="c-header-menuServiceDetail__bottom">
-													<ul class="c-header-menuServicePayment">
-														<li class="c-header-menuServicePayment__item">
-															<div class="c-header-menuServicePayment__accordion" role="button" tabindex="0">各種決済サービス</div>
-															<div class="c-header-menuServicePaymentChild">
-																<div class="c-header-menuServicePaymentChild__inner">
-																	<ul class="c-header-menuSubLinks">
-																		<li class="c-header-menuSubLinks__item"><a class="c-header-menuSubLinks__link" href="https://www.fincode.jp/" target="_blank">スタートアップ向けオンライン決済</a></li>
-																		<li class="c-header-menuSubLinks__item"><a class="c-header-menuSubLinks__link" href="https://www.epsilon.jp/" target="_blank">中小・個人事業主向けオンライン決済</a></li>
-																		<li class="c-header-menuSubLinks__item"><a class="c-header-menuSubLinks__link" href="/service/gcp/">店舗向けQR決済</a></li>
-																		<li class="c-header-menuSubLinks__item"><a class="c-header-menuSubLinks__link" href="https://gmo-fg.com/" target="_blank">実店舗向決済端末</a></li>
-																	</ul>
-																</div>
-															</div>
-														</li>
-													</ul>
-												</div>
-											</div>
-										</div>
-									</div>
-								</li>
-								<li class="c-header-menuService__item">
-									<div class="c-header-menuService__accordion is-active" role="button" tabindex="0"><span>ビジネス成長サポート</span></div>
-									<div class="c-header-menuServiceChild">
-										<div class="c-header-menuServiceChild__inner">
-											<ul class="c-header-menuServiceSupport">
-												<li class="c-header-menuServiceSupport__item">
-													<div class="c-header-menuServiceSupport__accordion" role="button" tabindex="0">ファイナンス支援</div>
-													<div class="c-header-menuServiceSupportChild">
-														<div class="c-header-menuServiceSupportChild__inner">
-															<ul class="c-header-menuSubLinks">
-																<li class="c-header-menuSubLinks__item"><a class="c-header-menuSubLinks__link" href="/service/invoicecardpay/">支払い期日を伸ばしたい</a></li>
-																<li class="c-header-menuSubLinks__item"><a class="c-header-menuSubLinks__link" href="/service/hayabarai/">売掛金を早期資金化したい</a></li>
-																<li class="c-header-menuSubLinks__item"><a class="c-header-menuSubLinks__link" href="/service/urikake/">売掛金の未回収リスクに備えたい</a></li>
-																<li class="c-header-menuSubLinks__item"><a class="c-header-menuSubLinks__link" href="/service/adpayment/">WEB広告費を後払いにしたい</a></li>
-																<li class="c-header-menuSubLinks__item"><a class="c-header-menuSubLinks__link" href="/service/souki/">ECの入金サイクルを最適化したい</a></li>
-																<li class="c-header-menuSubLinks__item"><a class="c-header-menuSubLinks__link" href="/service/tl/">事業費を調達したい</a></li>
-															</ul>
-														</div>
-													</div>
-												</li>
-												<li class="c-header-menuServiceSupport__item">
-													<div class="c-header-menuServiceSupport__accordion" role="button" tabindex="0">DX支援</div>
-													<div class="c-header-menuServiceSupportChild">
-														<div class="c-header-menuServiceSupportChild__inner">
-															<ul class="c-header-menuSubLinks">
-																<li class="c-header-menuSubLinks__item"><a class="c-header-menuSubLinks__link" href="/service/soukin/">返金/送金を効率化したい</a></li>
-																<li class="c-header-menuSubLinks__item"><a class="c-header-menuSubLinks__link" href="/service/digitalbilling/">請求書発行を効率化したい</a></li>
-																<li class="c-header-menuSubLinks__item"><a class="c-header-menuSubLinks__link" href="/service/sokkyu/">給与業務を効率化したい</a></li>
-																<li class="c-header-menuSubLinks__item"><a class="c-header-menuSubLinks__link" href="/service/themesolution/">課題別に探したい</a></li>
-																<li class="c-header-menuSubLinks__item"><a class="c-header-menuSubLinks__link" href="/service/ad/">サービスの集客を増やしたい</a></li>
-																<li class="c-header-menuSubLinks__item"><a class="c-header-menuSubLinks__link" href="/service/zcom/">海外展開を伴走してほしい</a></li>
-																<li class="c-header-menuSubLinks__item"><a class="c-header-menuSubLinks__link" href="/service/ginkopay/">銀行Pay 基盤システム</a></li>
-																<li class="c-header-menuSubLinks__item"><a class="c-header-menuSubLinks__link" href="/service/processing/">BaaS支援</a></li>
-															</ul>
-														</div>
-													</div>
-												</li>
-											</ul>
-										</div>
-									</div>
-								</li>
-							</ul>
-							<a class="c-header-menuServiceMore" href="/service/">すべてのサービスを見る</a>
-						</div>
-					</div>
-				</li>
-				<li class="c-header-menuNavi__item"><a class="c-header-menuNavi__link" href="/customersuccess/"><span class="hide_if_en">成功事例</span><span class="hide_if_ja">CustomerSuccess</span></a></li>
-				<li class="c-header-menuNavi__item"><a class="c-header-menuNavi__link" href="/document/"><span class="hide_if_en">お役立ち資料</span><span class="hide_if_ja">Documents</span></a></li>
-				<li class="c-header-menuNavi__item"><a class="c-header-menuNavi__link" href="/inquiry/"><span class="hide_if_en">資料請求・お問い合わせ</span><span class="hide_if_ja">Inquiry</span></a></li>
-				<li class="c-header-menuNavi__item">
-					<button class="c-header-menuNavi__accordion" type="button" aria-expanded="true" aria-controls="header-menu-corp"><span class="hide_if_en">会社情報</span><span class="hide_if_ja">Corporate</span></button>
-					<div class="c-header-menuChild" id="header-menu-corp">
-						<div class="c-header-menuChild__inner">
-							<ul class="c-header-menuLinks">
-								<li class="c-header-menuLinks__item"><a class="c-header-menuLinks__link" href="/corp/"><span class="hide_if_en">会社情報TOP</span><span class="hide_if_ja">CorporateTOP</span></a></li>
-								<li class="c-header-menuLinks__item"><a class="c-header-menuLinks__link" href="/corp/company/"><span class="hide_if_en">会社概要・沿革</span><span class="hide_if_ja">Company Profile and History</span></a></li>
-								<li class="c-header-menuLinks__item"><a class="c-header-menuLinks__link" href="/corp/company-access/"><span class="hide_if_en">地図・連絡先</span><span class="hide_if_ja">Map / Contact</span></a></li>
-								<li class="c-header-menuLinks__item"><a class="c-header-menuLinks__link" href="/corp/company-management/"><span class="hide_if_en">私たちについて</span><span class="hide_if_ja">Who We Are</span></a></li>
-								<li class="c-header-menuLinks__item"><a class="c-header-menuLinks__link" href="/corp/company-profile/"><span class="hide_if_en">役員一覧</span><span class="hide_if_ja">Board Members</span></a></li>
-								<li class="c-header-menuLinks__item"><a class="c-header-menuLinks__link" href="/corp/company-business/"><span class="hide_if_en">事業内容</span><span class="hide_if_ja">Business Overview</span></a></li>
-								<li class="c-header-menuLinks__item"><a class="c-header-menuLinks__link" href="/corp/company-access/">地図・連絡先</a></li>
-								<li class="c-header-menuLinks__item"><a class="c-header-menuLinks__link" href="/corp/company-value/"><span class="hide_if_en">提供価値の領域</span><span class="hide_if_ja">The Scope of Our Value Proposition</span></a></li>
-								<li class="c-header-menuLinks__item hide_if_en"><a class="c-header-menuLinks__link" href="/corp/security/"><span>セキュリティ・コンプライアンス</span><span>Security compliance</span></a></li>
-							</ul>
-						</div>
-					</div>
-				</li>
-				<li class="c-header-menuNavi__item"><a class="c-header-menuNavi__link" href="/news/"><span class="hide_if_en">ニュース</span><span class="hide_if_ja">News</span></a></li>
-				<li class="c-header-menuNavi__item">
-					<button class="c-header-menuNavi__accordion" type="button" aria-expanded="true" aria-controls="header-menu-IR"><span class="hide_if_en">IR情報</span><span class="hide_if_ja">Information for Investors</span></button>
-					<div class="c-header-menuChild" id="header-menu-IR">
-						<div class="c-header-menuChild__inner">
-							<ul class="c-header-menuLinks">
-								<li class="c-header-menuLinks__item"><a class="c-header-menuLinks__link" href="/ir/"><span class="hide_if_en">IR情報TOP</span><span class="hide_if_ja">IR TOP</span></a></li>
-								<li class="c-header-menuLinks__item"><a class="c-header-menuLinks__link" href="/ir/policy/"><span class="hide_if_en">経営方針</span><span class="hide_if_ja">Management Policy</span></a></li>
-								<li class="c-header-menuLinks__item"><a class="c-header-menuLinks__link" href="/ir/library/"><span class="hide_if_en">IR資料室</span><span class="hide_if_ja">IR Library</span></a></li>
-								<li class="c-header-menuLinks__item"><a class="c-header-menuLinks__link" href="/ir/newslist/"><span class="hide_if_en">IRニュース</span><span class="hide_if_ja">IR News</span></a></li>
-								<li class="c-header-menuLinks__item"><a class="c-header-menuLinks__link" href="/ir/stock/"><span class="hide_if_en">株式・格付情報</span><span class="hide_if_ja">Stock Overview</span></a></li>
-								<li class="c-header-menuLinks__item"><a class="c-header-menuLinks__link" href="/ir/calendar/"><span class="hide_if_en">IRカレンダー</span><span class="hide_if_ja">IR Calendar</span></a></li>
-								<li class="c-header-menuLinks__item"><a class="c-header-menuLinks__link" href="/ir/individual/"><span class="hide_if_en">個人投資家の皆様へ</span><span class="hide_if_ja">Information for Individual Investors</span></a></li>
-								<li class="c-header-menuLinks__item"><a class="c-header-menuLinks__link" href="/ir/highlights/"><span class="hide_if_en">財務ハイライト</span><span class="hide_if_ja">Financial Highlights</span></a></li>
-								<li class="c-header-menuLinks__item"><a class="c-header-menuLinks__link" href="/ir/faq/"><span class="hide_if_en">よくあるご質問</span><span class="hide_if_ja">Frequently Asked Questions</span></a></li>
-							</ul>
-						</div>
-					</div>
-				</li>
-				<li class="c-header-menuNavi__item"><a class="c-header-menuNavi__link" href="/sustainability/">サステナビリティ</a></li>
-				<li class="c-header-menuNavi__item"><a class="c-header-menuNavi__link" href="/corp/recruit/" target="_blank">採用情報</a></li>
-			</ul>
-		</nav>
-	</div>
-</div>
-<!-- SPメニュー END -->
-<!-- PCメガメニュー START -->
-<div id="js-overlay" class="bg-overlay"></div>
-<div class="c-header-megaMenu">
-	<div id="megaMenuCorp" class="c-megaMenu c-megaMenu--corp" hidden="">
-		<div class="c-megaMenu__inner">
-			<div class="c-megaMenu__heading">
-				<p class="c-megaMenu__title"><a href="/corp/">会社情報</a></p>
-				<p class="c-megaMenu__subTitle">CORPORATE</p>
-			</div>
-			<div class="c-megaMenu__body">
-				<nav class="c-megaMenuLinks">
-					<ul class="c-megaMenuLinksList">
-						<li class="c-megaMenuLinksList__item"><a class="c-megaMenuLinksList__link" href="/corp/company-management/"><span class="hide_if_en">私たちについて</span><span class="hide_if_ja">Who We Are</span></a></li>
-						<li class="c-megaMenuLinksList__item"><a class="c-megaMenuLinksList__link" href="/corp/company-business/"><span class="hide_if_en">事業内容</span><span class="hide_if_ja">Business Overview</span></a></li>
-						<li class="c-megaMenuLinksList__item"><a class="c-megaMenuLinksList__link" href="/corp/company/"><span class="hide_if_en">会社概要・沿革</span><span class="hide_if_ja">Company Profile and History</span></a></li>
-						<li class="c-megaMenuLinksList__item"><a class="c-megaMenuLinksList__link" href="/corp/company-access/"><span class="hide_if_en">地図・連絡先</span><span class="hide_if_ja">Map / Contact</span></a></li>
-						<li class="c-megaMenuLinksList__item"><a class="c-megaMenuLinksList__link" href="/corp/company-profile/"><span class="hide_if_en">役員一覧</span><span class="hide_if_ja">Board Members</span></a></li>
-						<li class="c-megaMenuLinksList__item"><a class="c-megaMenuLinksList__link" href="/corp/company-value/"><span class="hide_if_en">提供価値の領域</span><span class="hide_if_ja">The Scope of Our Value Proposition</span></a></li>
-						<li class="c-megaMenuLinksList__item hide_if_en">
-							<a class="c-megaMenuLinksList__link" href="/corp/security/">セキュリティ・<br>コンプライアンス</a>
-						</li>
-					</ul>
-				</nav>
-			</div>
-		</div>
-	</div>
-	<div id="megaMenuIr" class="c-megaMenu c-megaMenu--ir" hidden="">
-		<div class="c-megaMenu__inner">
-			<div class="c-megaMenu__heading">
-				<p class="c-megaMenu__title"><a href="/ir/">IR情報</a></p>
-				<p class="c-megaMenu__subTitle">Information for Investors</p>
-			</div>
-			<div class="c-megaMenu__body">
-				<nav class="c-megaMenuLinks">
-					<ul class="c-megaMenuLinksList">
-						<li class="c-megaMenuLinksList__item"><a class="c-megaMenuLinksList__link" href="/ir/newslist/"><span class="hide_if_en">IRニュース</span><span class="hide_if_ja">IR News</span></a></li>
-						<li class="c-megaMenuLinksList__item"><a class="c-megaMenuLinksList__link" href="/ir/policy/"><span class="hide_if_en">経営方針</span><span class="hide_if_ja">Management Policy</span></a></li>
-						<li class="c-megaMenuLinksList__item"><a class="c-megaMenuLinksList__link" href="/ir/library/"><span class="hide_if_en">IR資料室</span><span class="hide_if_ja">IR Library</span></a></li>
-						<li class="c-megaMenuLinksList__item"><a class="c-megaMenuLinksList__link" href="/ir/stock/"><span class="hide_if_en">株式・格付情報</span><span class="hide_if_ja">Stock Overview</span></a></li>
-						<li class="c-megaMenuLinksList__item"><a class="c-megaMenuLinksList__link" href="/ir/calendar/"><span class="hide_if_en">IRカレンダー</span><span class="hide_if_ja">IR Calendar</span></a></li>
-						<li class="c-megaMenuLinksList__item"><a class="c-megaMenuLinksList__link" href="/ir/individual/"><span class="hide_if_en">個人投資家の皆様へ</span><span class="hide_if_ja">Information for Individual Investors</span></a></li>
-						<li class="c-megaMenuLinksList__item"><a class="c-megaMenuLinksList__link" href="/ir/highlights/"><span class="hide_if_en">財務ハイライト</span><span class="hide_if_ja">Financial Highlights</span></a></li>
-						<li class="c-megaMenuLinksList__item"><a class="c-megaMenuLinksList__link" href="/ir/faq/"><span class="hide_if_en">よくあるご質問</span><span class="hide_if_ja">Frequently Asked Questions</span></a></li>
-					</ul>
-				</nav>
-			</div>
-		</div>
-	</div>
-	<div id="megaMenuService" class="c-megaMenuService" hidden="">
-		<div class="c-megaMenuService__inner">
-			<p class="c-megaMenuService__note">※<img src="/common/image/ico/ico_external.svg" width="16" height="16" alt="" aria-hidden="true">は各運営会社サイトに遷移します。</p>
-			<div class="c-megaMenuService__contents">
-				<div class="c-megaMenuServicePayment">
-					<p class="c-megaMenuServicePayment__title">決済代行サービス</p>
-					<div class="c-megaMenuServicePayment__body">
-						<div class="c-megaMenuServicePaymentColumn">
-							<div class="c-megaMenuServicePaymentColumn__left">
-								<div class="c-megaMenuServiceMulpay">
-									<p class="c-megaMenuServiceMulpay__subTitle">総合オンライン決済サービス</p>
-									<p class="c-megaMenuServiceMulpay__title"><a href="/service/mulpay/">PGマルチペイメントサービス</a></p>
-								</div>
-								<div class="c-megaMenuServicePaymentSubColumn">
-									<div class="c-megaMenuServicePaymentSubColumn__left">
-										<p class="c-megaMenuServicePaymentSubColumn__title">ご提供可能な決済手段<span class="note">（国内・国外あわせて30以上の手段を提供）</span></p>
-										<ul class="c-megaMenuServiceLinks c-megaMenuServiceLinks--horizontal">
-											<li class="c-megaMenuServiceLinks__item"><a class="c-megaMenuServiceLinks__link" href="/service/mulpay-creditcard/">クレジットカード</a></li>
-											<li class="c-megaMenuServiceLinks__item"><a class="c-megaMenuServiceLinks__link" href="/service/mulpay-mobilecarrier">キャリア決済</a></li>
-											<li class="c-megaMenuServiceLinks__item"><a class="c-megaMenuServiceLinks__link" href="/service/mulpay-conveniencestore">コンビニ決済</a></li>
-											<li class="c-megaMenuServiceLinks__item"><a class="c-megaMenuServiceLinks__link" href="/service/mulpay-virtual">銀行振込（バーチャル口座）</a></li>
-											<li class="c-megaMenuServiceLinks__item"><a class="c-megaMenuServiceLinks__link" href="/service/mulpay-atobarai">GMO後払い</a></li>
-										</ul>
-										<p class="c-megaMenuServicePaymentSubColumn__subTitle">Pay系決済</p>
-										<ul class="c-megaMenuServiceLinks c-megaMenuServiceLinks--horizontal">
-											<li class="c-megaMenuServiceLinks__item"><a class="c-megaMenuServiceLinks__link" href="/service/mulpay-paypay/">PayPay</a></li>
-											<li class="c-megaMenuServiceLinks__item"><a class="c-megaMenuServiceLinks__link" href="/service/mulpay-amazonpay/">AmazonPay</a></li>
-											<li class="c-megaMenuServiceLinks__item"><a class="c-megaMenuServiceLinks__link" href="/service/mulpay-mobilecarrier-docomo/">d払い</a></li>
-											<li class="c-megaMenuServiceLinks__item"><a class="c-megaMenuServiceLinks__link" href="/service/mulpay-rakutenpay/">楽天ペイ</a></li>
-											<li class="c-megaMenuServiceLinks__item"><a class="c-megaMenuServiceLinks__link" href="/service/mulpay-merpay/">メルペイ</a></li>
-											<li class="c-megaMenuServiceLinks__item"><a class="c-megaMenuServiceLinks__link" href="/service/mulpay-googlepay/">GooglePay</a></li>
-											<li class="c-megaMenuServiceLinks__item"><a class="c-megaMenuServiceLinks__link" href="/service/mulpay-applepay/">ApplePay</a></li>
-										</ul>
-									</div>
-									<div class="c-megaMenuServicePaymentSubColumn__right">
-										<p class="c-megaMenuServicePaymentSubColumn__title">セキュリティ対策</p>
-										<ul class="c-megaMenuServiceLinks c-megaMenuServiceLinks--horizontal">
-											<li class="c-megaMenuServiceLinks__item"><a class="c-megaMenuServiceLinks__link" href="/service/security#security_01">情報漏えい対策</a></li>
-											<li class="c-megaMenuServiceLinks__item"><a class="c-megaMenuServiceLinks__link" href="/service/security#security_02">不正利用対策</a></li>
-											<li class="c-megaMenuServiceLinks__item"><a class="c-megaMenuServiceLinks__link" href="/service/security-3dsecure/">EMV 3Dセキュア(3Dセキュア2.0)</a></li>
-											<li class="c-megaMenuServiceLinks__item"><a class="c-megaMenuServiceLinks__link" href="/service/security#security_03">クレジットマスター対策</a></li>
-											<li class="c-megaMenuServiceLinks__item"><a class="c-megaMenuServiceLinks__link" href="/service/security-verify/">その他の対策</a></li>
-										</ul>
-									</div>
-								</div>
-							</div>
-							<div class="c-megaMenuServicePaymentColumn__right">
-								<p class="c-megaMenuServicePaymentColumn__title">各種決済サービス</p>
-								<ul class="c-megaMenuServiceLinks">
-									<li class="c-megaMenuServiceLinks__item"><a class="c-megaMenuServiceLinks__link" href="https://www.fincode.jp/" target="_blank">スタートアップ向けオンライン決済</a></li>
-									<li class="c-megaMenuServiceLinks__item"><a class="c-megaMenuServiceLinks__link" href="https://www.epsilon.jp/" target="_blank">中小・個人事業主向けオンライン決済</a></li>
-									<li class="c-megaMenuServiceLinks__item"><a class="c-megaMenuServiceLinks__link" href="/service/gcp/">店舗向けQR決済</a></li>
-									<li class="c-megaMenuServiceLinks__item"><a class="c-megaMenuServiceLinks__link" href="https://gmo-fg.com/" target="_blank">実店舗向決済端末</a></li>
-								</ul>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="c-megaMenuServiceSupport">
-					<p class="c-megaMenuServiceSupport__title">ビジネス成長サポート</p>
-					<div class="c-megaMenuServiceSupportColumn">
-						<div class="c-megaMenuServiceSupportColumn__item">
-							<p class="c-megaMenuServiceSupportColumn__title"><a href="/service/cat04/">ファイナンス支援</a></p>
-							<div class="c-megaMenuServiceSupportColumn__body">
-								<ul class="c-megaMenuServiceLinks c-megaMenuServiceLinks--w50per">
-									<li class="c-megaMenuServiceLinks__item"><a class="c-megaMenuServiceLinks__link" href="/service/invoicecardpay/">支払い期日を伸ばしたい</a></li>
-									<li class="c-megaMenuServiceLinks__item"><a class="c-megaMenuServiceLinks__link" href="/service/hayabarai/">売掛金を早期資金化したい</a></li>
-									<li class="c-megaMenuServiceLinks__item"><a class="c-megaMenuServiceLinks__link" href="/service/urikake/">売掛金の未回収リスクに備えたい</a></li>
-									<li class="c-megaMenuServiceLinks__item"><a class="c-megaMenuServiceLinks__link" href="/service/adpayment/">WEB広告費を後払いにしたい</a></li>
-									<li class="c-megaMenuServiceLinks__item"><a class="c-megaMenuServiceLinks__link" href="/service/souki/">ECの入金サイクルを最適化したい</a></li>
-									<li class="c-megaMenuServiceLinks__item"><a class="c-megaMenuServiceLinks__link" href="/service/tl/">事業費を調達したい</a></li>
-								</ul>
-							</div>
-						</div>
-						<div class="c-megaMenuServiceSupportColumn__item">
-							<p class="c-megaMenuServiceSupportColumn__title">DX支援</p>
-							<div class="c-megaMenuServiceSupportColumn__body">
-								<ul class="c-megaMenuServiceLinks c-megaMenuServiceLinks--w50per">
-									<li class="c-megaMenuServiceLinks__item"><a class="c-megaMenuServiceLinks__link" href="/service/soukin/">返金/送金を効率化したい</a></li>
-									<li class="c-megaMenuServiceLinks__item"><a class="c-megaMenuServiceLinks__link" href="/service/digitalbilling/">請求書発行を効率化したい</a></li>
-									<li class="c-megaMenuServiceLinks__item"><a class="c-megaMenuServiceLinks__link" href="/service/sokkyu/">給与業務を効率化したい</a></li>
-									<li class="c-megaMenuServiceLinks__item"><a class="c-megaMenuServiceLinks__link" href="/service/themesolution/">課題別に探したい</a></li>
-									<li class="c-megaMenuServiceLinks__item"><a class="c-megaMenuServiceLinks__link" href="/service/ad/">サービスの集客を増やしたい</a></li>
-									<li class="c-megaMenuServiceLinks__item"><a class="c-megaMenuServiceLinks__link" href="/service/zcom/">海外展開を伴走してほしい</a></li>
-									<li class="c-megaMenuServiceLinks__item"><a class="c-megaMenuServiceLinks__link" href="/service/ginkopay/">銀行Pay 基盤システム</a></li>
-									<li class="c-megaMenuServiceLinks__item"><a class="c-megaMenuServiceLinks__link" href="/service/processing/">BaaS支援</a></li>
-								</ul>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="c-megaMenuService_bottom">
-				<a class="c-megaMenuService_viewMore" href="/service/">すべてのサービスを見る</a>
-			</div>
-		</div>
-	</div>
-</div>
-<div class="c-shadow-header">
-	<div class="c-shadow-header__inner">
-		<ul class="c-shadow-header-links">
-			<li class="c-shadow-header-links__item">
-				<button type="button" id="js-megaMenuCorpCloseTrigger" class="c-shadow-header-links__button c-shadow-header-links__button--corp">会社情報</button>
-			</li>
-			<li class="c-shadow-header-links__item">
-				<button type="button" id="js-megaMenuIrCloseTrigger" class="c-shadow-header-links__button c-shadow-header-links__button--ir">IR情報</button>
-			</li>
-			<li class="c-shadow-header-links__item">
-				<button type="button" id="js-megaMenuServiceCloseTrigger" class="c-shadow-header-links__button c-shadow-header-links__button--service">サービス</button>
-			</li>
-		</ul>
-
-		<button id="js-headerSearchCloseTrigger" class="c-shadow-header-search-button" type="button" aria-label="サイト内検索フィールドを閉じる"></button>
-	</div>
-</div>
-<!-- PCメガメニュー END -->
+<div class="c-siteHeaderSpacer" aria-hidden="true"></div> <!-- /COMMON INCLUDE: HEADER -->
 <main class="l-main">
 	<!-- キービジュアル START -->
 <div class="p-topKeyVisual">
@@ -3395,6 +3587,7 @@
 													<li class="c-footerUnitNaviList__item"><a href="/service/mulpay-mobilesuica/">モバイルSuica決済</a></li>
 													<li class="c-footerUnitNaviList__item"><a href="/service/mulpay-webmoney/">WebMoney（ウェブマネー）決済</a></li>
 													<li class="c-footerUnitNaviList__item"><a href="/service/mulpay-bitcash/">ビットキャッシュ決済サービス</a></li>
+													<li class="c-footerUnitNaviList__item"><a href="/service/mulpay-mypayment/">マイペイメント</a></li>
 												</ul>
 											</div>
 										</div>
@@ -3740,7 +3933,7 @@
 <script src="/common/js/lib/micromodal.min.js"></script>
 <script src="/common/js/lib/scroll-hint.min.js"></script>
 <link rel="stylesheet" href="/common/js/lib/scroll-hint.css">
-<script src="/common/js/script.js?ver=202609011530"></script>
+<script src="/common/js/script.js?ver=202609081504"></script>
 	<script src="/common/js/lib/swiper-bundle.min.js" defer=""></script>
 <!-- GMOグループヘッダー -->
 <script type="text/javascript" charset="UTF-8" src="https://cache.img.gmo.jp/gmo/header/script.min.js" id="gmoheadertag" async="async"></script>
