@@ -1,5 +1,11 @@
-<!DOCTYPE html><html lang="ja"><head prefix="og: http://ogp.me/ns#"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://j.wovn.io/1" async="true" data-wovnio="key=QLeFbd&amp;backend=true&amp;currentLang=ja&amp;defaultLang=ja&amp;urlPattern=path&amp;version=1.27.7&amp;backendVersion=WOVN.php_1.10.1&amp;langParamName=wovn" data-wovnio-cache-time="202609040332+0000"> </script>
+<!DOCTYPE html><html lang="ja"><head prefix="og: http://ogp.me/ns#"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://j.wovn.io/1" async="true" data-wovnio="key=QLeFbd&amp;backend=true&amp;currentLang=ja&amp;defaultLang=ja&amp;urlPattern=path&amp;version=1.28.1&amp;backendVersion=WOVN.php_1.10.1&amp;langParamName=wovn" data-wovnio-cache-time="202610010159+0000"> </script>
 
+<!-- STRIGHT ONE Tag Auto Control Script Start for Prod https://sbpayment.jp/ -->
+<script type="text/javascript" src="https://cdn01.stright.bizris.com/js/cookie_consent_block.js" charset="UTF-8" data-site-id="SIT-7a17932b-a799-4e1c-9e9e-8e4703b6223a"></script>
+<!-- STRIGHT ONE Tag Auto Control Script End -->
+<!-- STRIGHT ONE Banner Script Start for Prod https://sbpayment.jp/ -->
+<script type="module" src="https://cdn01.stright.bizris.com/js/cookie_consent_setting.js?banner_type=banner" charset="UTF-8" data-site-id="SIT-7a17932b-a799-4e1c-9e9e-8e4703b6223a"></script>
+<!-- STRIGHT ONE Banner Script End -->
 <meta charset="utf-8">
 <title>決済代行・オンライン決済サービス・システム導入ならSBペイメントサービス（ソフトバンクグループ）</title>
 <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0">
@@ -56,7 +62,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-MRQRDWV');</script>
 <!-- End Google Tag Manager -->
 
-<link rel="alternate" hreflang="en" href="https://www.sbpayment.jp/en/?&amp;_=1788492746937"><link rel="alternate" hreflang="ja" href="https://www.sbpayment.jp/?&amp;_=1788492746937"><link rel="alternate" hreflang="x-default" href="https://www.sbpayment.jp/?&amp;_=1788492746937"></head>
+<link rel="alternate" hreflang="en" href="https://www.sbpayment.jp/en/"><link rel="alternate" hreflang="ja" href="https://www.sbpayment.jp/"><link rel="alternate" hreflang="x-default" href="https://www.sbpayment.jp/"></head>
 
 <body>
   <!-- Google Tag Manager (noscript) -->
@@ -157,17 +163,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                       <ul class="cont__list cont__list--3rd">
                         <li>
                           <p class="cont__title">
-                            <i class="icon icon--company"></i>B2Bサービス
+                            <a href="/service/b2b/"><i class="icon icon--shop"></i>B2Bサービス</a>
                           </p>
                         </li>
-                          <li class="cont__row cont__row--column3 submenu3rd">
-                            <ul class="cont__list cont__list--3rd cont__list--service">
-                              <li><a href="/service/b2b/invoice-creditcard/">SBPS請求書カード払い</a></li>
-                              <li><a href="/service/b2b/support-loan/">加盟店サポートローン</a></li>
-                              <li><a href="/service/b2b/sbps-bizcreco/">SBPS BizCRECO</a></li>
-                              <li><a href="https://www.web-furi.com/campaign/sbpayment/" target="_blank">ウェブフリコム</a></li>
-                            </ul>
-                          </li>
+                        <li><a href="/service/b2b/invoice-creditcard/" class="cont__list__title">SBPS請求書カード払い</a></li>
+                        <li><a href="/service/b2b/support-loan/" class="cont__list__title">加盟店サポートローン</a></li>
+                        <li><a href="/service/b2b/sbps-bizcreco/" class="cont__list__title">SBPS BizCRECO</a></li>
+                        <li><a href="https://www.web-furi.com/campaign/sbpayment/" class="cont__list__title" target="_blank">ウェブフリコム</a></li>
                       </ul>
                     </div>
                     <p class="note"><i class="icon icon--blank"></i>：提携企業のサイトに遷移します。</p>
@@ -316,7 +318,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </li>
             
               <li class="listBtn__contact modBpPc ja">
-                <a href="https://service.sbpayment.jp/contact/simpleform/" target="_blank" class="headcta-info-Pc">
+                <a href="https://service.sbpayment.jp/contact/" target="_blank" class="headcta-info-Pc">
                   お問い合わせ
                   <div class="caption">
                     <div class="caption__inner">お問い合わせ</div>
@@ -410,6 +412,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       </ul>
     </div>
     </header>
+    <style>
+      @media screen and (max-width: 1279px) {
+        .submenu__inner .note {
+          display: none;
+        }
+      }
+    </style>
     
 
     <main class="main">
@@ -437,7 +446,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <p class="topKv__lead">豊富な決済手段と万全のセキュリティで、<br class="modBpPc">売上拡大を実現する決済プラットフォーム。</p>
             <ul class="topKv__listBtn">
               <li class="ja">
-                <a href="https://service.sbpayment.jp/contact/simpleform/" class="btn btn--contact modBpPc kvcta-info-Pc" target="_blank">お問い合わせ</a>
+                <a href="https://service.sbpayment.jp/contact/" class="btn btn--contact modBpPc kvcta-info-Pc" target="_blank">お問い合わせ</a>
                 <a href="https://service.sbpayment.jp/contact/sp/" class="btn btn--contact modBpSp kvcta-info-Sp" target="_blank">お問い合わせ</a>
               </li>
               <li class="en">
@@ -821,6 +830,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                       </picture>
                       <h3 class="tabContHead__title__head">資金繰りを<br>改善したい</h3>
                       <p class="tabContHead__title__text">複数口座の管理、請求書の支払い調整、スピーディーな資金調達まで。キャッシュフロー改善を支えるサービスで、ビジネスの成長を支援します。</p>
+                      <div class="tabContHead__title__link">
+                        <a href="/service/b2b/" target="_blank" class="modBtnMain modBtnMain--frame">
+                          <span>サービス詳細を見る</span>
+                        </a>
+                      </div>
                     </div>
                     <picture class="tabContHead__img">
                       <source media="(max-width: 954px)" srcset="/assets/img/top/sp/img_tab04.webp">
@@ -1156,7 +1170,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     </figure>
                     <div class="cont">
                       <div class="status__wrapper">
-                        <span class="status"><span>申込受付中</span></span>
+                        <span class="status status--end"><span>開催終了</span></span>
                       </div>
                       <div class="title">
                         海外ビジネスEXPO 2026 東京
@@ -1513,35 +1527,34 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <section class="pageSection pageSection--bgBlue pageSection--news">
           <div class="pageSection__inner">
             <h2 class="modHeadingSection">プレスリリース・<br class="modBpSp">お知らせ</h2>
-            <p class="modTextDescription">事業者さまのビジネスに役立つ<br>セミナーを実施しています。</p>
             <ul class="modListNews">
               
               <li class="modListNews__item">
                 
-                <a href="https://www.sbpayment.jp/news/press/2026/20260904_001584/">
-                  <time class="time" datetime="2026-09-04">2026.09.04</time>
+                <a href="https://www.sbpayment.jp/news/press/2026/20260930_001599/">
+                  <time class="time" datetime="2026-09-30">2026.09.30</time>
                   <span class="category"><span>プレスリリース</span></span>
-                  <p class="title">NEC、SBペイメントサービス、SB C&amp;Sの3社が提携し、<br class="ja">マルチ決済サービス「PayCAS」に顔認証決済を導入<br><span style="font-size:70%;">～顔認証決済でレジ業務の効率化と快適な購買体験を実現～</span></p>
+                  <p class="title">SP.LINKS株式会社の子会社化完了のお知らせ</p>
                 </a>
                 
               </li>
               
               <li class="modListNews__item">
                 
-                <a href="https://www.sbpayment.jp/news/info/2026/20260824_001583/">
-                  <time class="time" datetime="2026-08-24">2026.08.24</time>
-                  <span class="category"><span>セミナー</span></span>
-                  <p class="title">【9/17・18開催】「海外ビジネスEXPO 2026 東京」にSBペイメントサービスが出展・登壇</p>
+                <a href="https://www.sbpayment.jp/news/press/2026/20260930_001598/">
+                  <time class="time" datetime="2026-09-30">2026.09.30</time>
+                  <span class="category"><span>プレスリリース</span></span>
+                  <p class="title">Visa、Pulse、SBPSが国内初のオンライン決済領域での<br class="ja">Visa割キャンペーン展開で協力<br><span style="font-size:70%;">～第一弾として、9月30日よりNCの新MMORPGゲーム「AION2」で「スタートダッシュ記念 キャッシュバックキャンペーン」を実施～</span></p>
                 </a>
                 
               </li>
               
               <li class="modListNews__item">
                 
-                <a href="https://www.sbpayment.jp/news/press/2026/20260803_001580/">
-                  <time class="time" datetime="2026-08-03">2026.08.03</time>
-                  <span class="category"><span>プレスリリース</span></span>
-                  <p class="title">SP.LINKS株式会社の子会社化に関するお知らせ<br><span style="font-size:70%;">～AI時代を牽引する国内トップクラスの決済プラットフォームを実現～</span></p>
+                <a href="https://www.sbpayment.jp/service/partner/shiharai-jp/" target="_blank" rel="noopener noreferrer">
+                  <time class="time" datetime="2026-09-17">2026.09.17</time>
+                  <span class="category"><span>お知らせ</span></span>
+                  <p class="title">提携サービスページに「支払いJP」が追加されました</p>
                 </a>
                 
               </li>
@@ -1613,7 +1626,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="modCta__cont">
           <ul class="modCta__cont__list">
             <li class="modBpPc ja">
-              <a class="btn btn--contact" href="https://service.sbpayment.jp/contact/simpleform/" target="_blank">
+              <a class="btn btn--contact" href="https://service.sbpayment.jp/contact/" target="_blank">
                 <span class="btn__inner">
                   <span class="btn__lead">費用や導入について</span>
                   <span class="btn__text">お問い合わせする</span>
@@ -1637,7 +1650,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               </a>
             </li>
             <li class="modBpSp ja">
-              <a class="btn btn--contact" href="https://service.sbpayment.jp/contact/simpleform/sp/" target="_blank">
+              <a class="btn btn--contact" href="https://service.sbpayment.jp/contact/sp/" target="_blank">
                 <span class="btn__inner">
                   <span class="btn__lead">費用や導入について</span>
                   <span class="btn__text">お問い合わせする</span>
@@ -1798,7 +1811,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       </div>
       <div class="footer__block">
         <p class="footer__block__title">
-          B2Bサービス
+          <a href="/service/b2b/">B2Bサービス</a>
         </p>
         <ul class="footer__block__menu">
           <li><a href="/service/b2b/invoice-creditcard/">SBPS請求書カード払い</a></li>
@@ -2070,16 +2083,16 @@ var google_remarketing_only = true;
 
   </div>
   <style>
-   @media screen and (min-width: 955px) {
-     .topTab__block__item .cont .list--logo>li.atone .img img {
+  @media screen and (min-width: 955px) {
+    .topTab__block__item .cont .list--logo>li.atone .img img {
         max-height: 32px;
-     }
-   }
-   @media screen and (max-width: 954px) {
-     .topTab__block__item .cont .list--logo>li.atone .img img {
-        max-height: 44px;
-      }
     }
+  }
+  @media screen and (max-width: 954px) {
+    .topTab__block__item .cont .list--logo>li.atone .img img {
+      max-height: 44px;
+    }
+  }
   </style>
 
 <script type="text/javascript" src="/js/jquery.cookie.js"></script>

@@ -2723,7 +2723,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               <div class="grid gap-y-20">
                 
                 <div class="w-fit rounded-3 bg-bg px-10 py-8 text-13 leading-[1] text-gray-2">
-                  プラットフォーム
+                  ECサイト
                 </div>
                  
                  
@@ -2768,7 +2768,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               <div class="grid gap-y-20">
                 
                 <div class="w-fit rounded-3 bg-bg px-10 py-8 text-13 leading-[1] text-gray-2">
-                  教育・公共
+                  交通・MaaS
                 </div>
                  
                  
@@ -2813,7 +2813,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               <div class="grid gap-y-20">
                 
                 <div class="w-fit rounded-3 bg-bg px-10 py-8 text-13 leading-[1] text-gray-2">
-                  教育・公共
+                  公共料金
                 </div>
                  
                  
@@ -2858,7 +2858,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               <div class="grid gap-y-20">
                 
                 <div class="w-fit rounded-3 bg-bg px-10 py-8 text-13 leading-[1] text-gray-2">
-                  レジャー・アミューズメント
+                  旅行・レジャー・アミューズメント
                 </div>
                  
                  
@@ -2903,7 +2903,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               <div class="grid gap-y-20">
                 
                 <div class="w-fit rounded-3 bg-bg px-10 py-8 text-13 leading-[1] text-gray-2">
-                  実店舗・O2O
+                  小売・飲食
                 </div>
                  
                  
@@ -2948,7 +2948,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               <div class="grid gap-y-20">
                 
                 <div class="w-fit rounded-3 bg-bg px-10 py-8 text-13 leading-[1] text-gray-2">
-                  プラットフォーム
+                  交通・MaaS
                 </div>
                  
                  
@@ -2993,7 +2993,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               <div class="grid gap-y-20">
                 
                 <div class="w-fit rounded-3 bg-bg px-10 py-8 text-13 leading-[1] text-gray-2">
-                  レジャー・アミューズメント
+                  旅行・レジャー・アミューズメント
                 </div>
                  
                  
@@ -3038,7 +3038,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               <div class="grid gap-y-20">
                 
                 <div class="w-fit rounded-3 bg-bg px-10 py-8 text-13 leading-[1] text-gray-2">
-                  レジャー・アミューズメント
+                  旅行・レジャー・アミューズメント
                 </div>
                  
                  
