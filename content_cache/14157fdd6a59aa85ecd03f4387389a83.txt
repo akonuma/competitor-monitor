@@ -1,4 +1,4 @@
-<!DOCTYPE html><html lang="ja"><head prefix="og: http://ogp.me/ns#"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://j.wovn.io/1" async="true" data-wovnio="key=QLeFbd&amp;backend=true&amp;currentLang=ja&amp;defaultLang=ja&amp;urlPattern=path&amp;version=1.28.1&amp;backendVersion=WOVN.php_1.10.1&amp;langParamName=wovn" data-wovnio-cache-time="202610140134+0000"> </script>
+<!DOCTYPE html><html lang="ja"><head prefix="og: http://ogp.me/ns#"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://j.wovn.io/1" async="true" data-wovnio="key=QLeFbd&amp;backend=true&amp;currentLang=ja&amp;defaultLang=ja&amp;urlPattern=path&amp;version=1.28.1&amp;backendVersion=WOVN.php_1.10.1&amp;langParamName=wovn" data-wovnio-cache-time="202610220607+0000"> </script>
 
 <!-- STRIGHT ONE Tag Auto Control Script Start for Prod https://sbpayment.jp/ -->
 <script type="text/javascript" src="https://cdn01.stright.bizris.com/js/cookie_consent_block.js" charset="UTF-8" data-site-id="SIT-7a17932b-a799-4e1c-9e9e-8e4703b6223a"></script>
@@ -62,7 +62,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-MRQRDWV');</script>
 <!-- End Google Tag Manager -->
 
-<link rel="alternate" hreflang="en" href="https://www.sbpayment.jp/en/"><link rel="alternate" hreflang="ja" href="https://www.sbpayment.jp/"><link rel="alternate" hreflang="x-default" href="https://www.sbpayment.jp/"></head>
+<link rel="alternate" hreflang="en" href="https://www.sbpayment.jp/en/?_=1792649256158"><link rel="alternate" hreflang="ja" href="https://www.sbpayment.jp/?_=1792649256158"><link rel="alternate" hreflang="x-default" href="https://www.sbpayment.jp/?_=1792649256158"></head>
 
 <body>
   <!-- Google Tag Manager (noscript) -->
@@ -1531,6 +1531,16 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               
               <li class="modListNews__item">
                 
+                <a href="https://www.sbpayment.jp/news/info/2026/20261022_001615/">
+                  <time class="time" datetime="2026-10-22">2026.10.22</time>
+                  <span class="category"><span>お知らせ</span></span>
+                  <p class="title">WEBサイトメンテナンス完了のお知らせ</p>
+                </a>
+                
+              </li>
+              
+              <li class="modListNews__item">
+                
                 <a href="https://www.sbpayment.jp/news/info/2026/20261014_001600/">
                   <time class="time" datetime="2026-10-14">2026.10.14</time>
                   <span class="category"><span>お知らせ</span></span>
@@ -1545,16 +1555,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                   <time class="time" datetime="2026-10-07">2026.10.07</time>
                   <span class="category"><span>お知らせ</span></span>
                   <p class="title">「SBPS BizCRECO」が個人事業主に対応<br><span style="font-size:70%;">～法人口座だけでなく、事業に利用する個人口座もまとめて管理可能に～</span></p>
-                </a>
-                
-              </li>
-              
-              <li class="modListNews__item">
-                
-                <a href="https://www.sbpayment.jp/news/press/2026/20260930_001599/">
-                  <time class="time" datetime="2026-09-30">2026.09.30</time>
-                  <span class="category"><span>プレスリリース</span></span>
-                  <p class="title">SP.LINKS株式会社の子会社化完了のお知らせ</p>
                 </a>
                 
               </li>
