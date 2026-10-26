@@ -1,4 +1,4 @@
-<!DOCTYPE html><html lang="ja"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://j.wovn.io/1" async="true" data-wovnio='key=f1IRL-&amp;backend=true&amp;currentLang=ja&amp;defaultLang=ja&amp;urlPattern=path&amp;langCodeAliases={"en":"en"}&amp;version=1.28.1&amp;backendVersion=WOVN.php_1.12.0&amp;langParamName=wovn' data-wovnio-cache-time="202610200706+0000"> </script>
+<!DOCTYPE html><html lang="ja"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://j.wovn.io/1" async="true" data-wovnio='key=f1IRL-&amp;backend=true&amp;currentLang=ja&amp;defaultLang=ja&amp;urlPattern=path&amp;langCodeAliases={"en":"en"}&amp;version=1.28.1&amp;backendVersion=WOVN.php_1.12.0&amp;langParamName=wovn' data-wovnio-cache-time="202610261036+0000"> </script>
 <meta charset="utf-8">
 	<meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -25,15 +25,15 @@
 
     <!-- css -->
 
-<link rel="stylesheet" href="/common/css/core.css?ver=202610201604">
+<link rel="stylesheet" href="/common/css/core.css?ver=202610261907">
 
 
-<link rel="preload" href="/common/css/common.css?ver=202610201604" as="style" onload="this.onload=null;this.rel='stylesheet'">
-<noscript><link rel="stylesheet" href="/common/css/common.css?ver=202610201604"></noscript>
+<link rel="preload" href="/common/css/common.css?ver=202610261907" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="/common/css/common.css?ver=202610261907"></noscript>
 
 
-<link rel="preload" href="/common/css/footer.css?ver=202610201604" as="style" onload="this.onload=null;this.rel='stylesheet'">
-<noscript><link rel="stylesheet" href="/common/css/footer.css?ver=202610201604"></noscript>
+<link rel="preload" href="/common/css/footer.css?ver=202610261907" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="/common/css/footer.css?ver=202610261907"></noscript>
 <link rel="preload" href="/common/css/lib/splide-core.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
 <noscript><link rel="stylesheet" href="/common/css/lib/splide-core.min.css"></noscript>
 
@@ -115,11 +115,13 @@
 	})(window,document,'script','dataLayer','GTM-M26SSP');
 </script>
 
+
+
 <!-- TOP用CSS/JS -->
-<link rel="stylesheet" href="/top/css/style.css?ver=202610201604">
+<link rel="stylesheet" href="/top/css/style.css?ver=202610261907">
 <link rel="preload" href="/common/js/lib/swiper-bundle.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
 <noscript><link rel="stylesheet" href="/common/js/lib/swiper-bundle.min.css"></noscript>
-<script src="/top/js/script.js?ver=202610201604"></script>
+<script src="/top/js/script.js?ver=202610261907"></script>
 <link rel="alternate" hreflang="en" href="https://www.gmo-pg.com/en/"><link rel="alternate" hreflang="ja" href="https://www.gmo-pg.com/"><link rel="alternate" hreflang="x-default" href="https://www.gmo-pg.com/"></head>
 <body>
 <!-- COMMON INCLUDE: HEADER --> <a class="u-skip-link" href="#main">
@@ -1034,6 +1036,30 @@
 							
 							<ul class="p-topNewsList">
 								
+									<li class="p-topNewsListItem hide_if_en">
+	<div class="p-topNewsListItem__head">
+		<time class="p-topNewsListItem__date" datetime="2026-10-26">2026.10.26</time>
+		<ul class="p-topNewsListItem__tagList">
+		
+		<li class="p-topNewsListItem__tag">
+		
+		
+		<span class="c-tag c-tag--news">お知らせ</span>
+		
+		
+		</li>
+		
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">お知らせ</span></li>
+		</ul>
+		<!--  -->
+	</div>
+	<div class="p-topNewsListItem__body">
+		<p class="p-topNewsListItem__title"><a href="/news/news/info/2026/1026.html">GMOインターネット株式会社が提供する「お名前.com デスクトップクラウド」への不正アクセスにつきまして</a></p>
+	</div>
+</li>
+
+
+								
 									<li class="p-topNewsListItem hide_if_ja">
 	<div class="p-topNewsListItem__head">
 		<time class="p-topNewsListItem__date" datetime="2026-10-20">2026.10.20</time>
@@ -1554,59 +1580,6 @@
 	</div>
 	<div class="p-topNewsListItem__body">
 		<p class="p-topNewsListItem__title"><a href="/news/pdf/20260814_gmo_pg_ir_introduction.pdf" target="_blank">IRイントロダクション　-事業概要とビジネスモデルについて-（2026年9月期 第3四半期）</a></p>
-	</div>
-</li>
-
-
-								
-									<li class="p-topNewsListItem hide_if_ja">
-	<div class="p-topNewsListItem__head">
-		<time class="p-topNewsListItem__date" datetime="2026-08-14">2026.08.14</time>
-		<ul class="p-topNewsListItem__tagList">
-		
-		<li class="p-topNewsListItem__tag">
-		
-		
-		<span class="c-tag c-tag--ir">IRニュース</span>
-		
-		
-		</li>
-		
-		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">決算説明会資料</span></li>
-		</ul>
-		<!--  -->
-	</div>
-	<div class="p-topNewsListItem__body">
-		<p class="p-topNewsListItem__title"><a href="
-	/news/pdf/20260814_gmo_pg_ir_consolidated_financial_en.pdf
-		
-		
-" target="_blank">Summary of Consolidated Financial Statements for the third Quarter, FY2026 (IFRS)</a></p>
-	</div>
-</li>
-
-
-
-	
-<li class="p-topNewsListItem hide_if_en">
-	<div class="p-topNewsListItem__head">
-		<time class="p-topNewsListItem__date" datetime="2026-08-14">2026.08.14</time>
-		<ul class="p-topNewsListItem__tagList">
-		
-		<li class="p-topNewsListItem__tag">
-		
-		
-		<span class="c-tag c-tag--ir">IRニュース</span>
-		
-		
-		</li>
-		
-		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">決算説明会資料</span></li>
-		</ul>
-		<!--  -->
-	</div>
-	<div class="p-topNewsListItem__body">
-		<p class="p-topNewsListItem__title"><a href="/news/pdf/20260814_gmo_pg_ir_tanshin.pdf" target="_blank">2026年9月期 第3四半期 決算短信[IFRS]</a></p>
 	</div>
 </li>
 
@@ -2761,6 +2734,30 @@
                             <ul class="p-topNewsList">
 							
 							
+								<li class="p-topNewsListItem hide_if_en">
+	<div class="p-topNewsListItem__head">
+		<time class="p-topNewsListItem__date" datetime="2026-10-26">2026.10.26</time>
+		<ul class="p-topNewsListItem__tagList">
+		
+		<li class="p-topNewsListItem__tag">
+		
+		
+		<span class="c-tag c-tag--news">お知らせ</span>
+		
+		
+		</li>
+		
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">お知らせ</span></li>
+		</ul>
+		<!--  -->
+	</div>
+	<div class="p-topNewsListItem__body">
+		<p class="p-topNewsListItem__title"><a href="/news/news/info/2026/1026.html">GMOインターネット株式会社が提供する「お名前.com デスクトップクラウド」への不正アクセスにつきまして</a></p>
+	</div>
+</li>
+
+
+							
 								<li class="p-topNewsListItem hide_if_ja">
 	<div class="p-topNewsListItem__head">
 		<time class="p-topNewsListItem__date" datetime="2026-10-19">2026.10.19</time>
@@ -3076,58 +3073,6 @@
 	</div>
 	<div class="p-topNewsListItem__body">
 		<p class="p-topNewsListItem__title"><a href="/news/news/info/2025/0529.html">「PGマルチペイメントサービス」に新たな決済手段「AEON Pay」を追加</a></p>
-	</div>
-</li>
-
-
-							
-								<li class="p-topNewsListItem hide_if_ja">
-	<div class="p-topNewsListItem__head">
-		<time class="p-topNewsListItem__date" datetime="2025-02-20">2025.02.20</time>
-		<ul class="p-topNewsListItem__tagList">
-		
-		<li class="p-topNewsListItem__tag">
-		
-		
-		<span class="c-tag c-tag--news">お知らせ</span>
-		
-		
-		</li>
-		
-		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">お知らせ</span></li>
-		</ul>
-		<!--  -->
-	</div>
-	<div class="p-topNewsListItem__body">
-		<p class="p-topNewsListItem__title"><a href="
-	/en/news/news/info/2025/0220.html
-	
-">Notice of Change of Trade Name of Consolidated Company enpay Inc.</a></p>
-	</div>
-</li>
-
-
-
-	
-<li class="p-topNewsListItem hide_if_en">
-	<div class="p-topNewsListItem__head">
-		<time class="p-topNewsListItem__date" datetime="2025-02-20">2025.02.20</time>
-		<ul class="p-topNewsListItem__tagList">
-		
-		<li class="p-topNewsListItem__tag">
-		
-		
-		<span class="c-tag c-tag--news">お知らせ</span>
-		
-		
-		</li>
-		
-		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">お知らせ</span></li>
-		</ul>
-		<!--  -->
-	</div>
-	<div class="p-topNewsListItem__body">
-		<p class="p-topNewsListItem__title"><a href="/news/news/info/2025/0220.html">連結会社 株式会社エンペイの商号変更に関するお知らせ</a></p>
 	</div>
 </li>
 
@@ -3932,7 +3877,7 @@
 <script src="/common/js/lib/micromodal.min.js"></script>
 <script src="/common/js/lib/scroll-hint.min.js"></script>
 <link rel="stylesheet" href="/common/js/lib/scroll-hint.css">
-<script src="/common/js/script.js?ver=202610201604"></script>
+<script src="/common/js/script.js?ver=202610261907"></script>
 	<script src="/common/js/lib/swiper-bundle.min.js" defer=""></script>
 <!-- GMOグループヘッダー -->
 <script type="text/javascript" charset="UTF-8" src="https://cache.img.gmo.jp/gmo/header/script.min.js" id="gmoheadertag" async="async"></script>
