@@ -1,4 +1,4 @@
-<!DOCTYPE html><html lang="ja"><head prefix="og: http://ogp.me/ns#"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://j.wovn.io/1" async="true" data-wovnio="key=QLeFbd&amp;backend=true&amp;currentLang=ja&amp;defaultLang=ja&amp;urlPattern=path&amp;version=1.28.1&amp;backendVersion=WOVN.php_1.10.1&amp;langParamName=wovn" data-wovnio-cache-time="202610270200+0000"> </script>
+<!DOCTYPE html><html lang="ja"><head prefix="og: http://ogp.me/ns#"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://j.wovn.io/1" async="true" data-wovnio="key=QLeFbd&amp;backend=true&amp;currentLang=ja&amp;defaultLang=ja&amp;urlPattern=path&amp;version=1.28.1&amp;backendVersion=WOVN.php_1.10.1&amp;langParamName=wovn" data-wovnio-cache-time="202610290543+0000"> </script>
 
 <!-- STRIGHT ONE Tag Auto Control Script Start for Prod https://sbpayment.jp/ -->
 <script type="text/javascript" src="https://cdn01.stright.bizris.com/js/cookie_consent_block.js" charset="UTF-8" data-site-id="SIT-7a17932b-a799-4e1c-9e9e-8e4703b6223a"></script>
@@ -59,7 +59,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-MRQRDWV');</script>
 <!-- End Google Tag Manager -->
 
-<link rel="alternate" hreflang="en" href="https://www.sbpayment.jp/en/?_=1778042149739"><link rel="alternate" hreflang="ja" href="https://www.sbpayment.jp/?_=1778042149739"><link rel="alternate" hreflang="x-default" href="https://www.sbpayment.jp/?_=1778042149739"></head>
+<link rel="alternate" hreflang="en" href="https://www.sbpayment.jp/en/?_=1793066440335"><link rel="alternate" hreflang="ja" href="https://www.sbpayment.jp/?_=1793066440335"><link rel="alternate" hreflang="x-default" href="https://www.sbpayment.jp/?_=1793066440335"></head>
 
 <body>
   <!-- Google Tag Manager (noscript) -->
@@ -1641,6 +1641,16 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               
               <li class="modListNews__item">
                 
+                <a href="https://www.sbpayment.jp/news/press/2026/20261029_001606/">
+                  <time class="time" datetime="2026-10-29">2026.10.29</time>
+                  <span class="category"><span>プレスリリース</span></span>
+                  <p class="title">SBペイメントサービス、UCPを活用した「AIコマースシミュレータ」を開発<br><span style="font-size:70%;">～加盟店やEC・カート事業者との検証を通し、エージェンティックコマースにおけるUCP接続や購買フローの実用性を検証～</span></p>
+                </a>
+                
+              </li>
+              
+              <li class="modListNews__item">
+                
                 <a href="https://www.sbpayment.jp/news/press/2026/20261027_001614/">
                   <time class="time" datetime="2026-10-27">2026.10.27</time>
                   <span class="category"><span>プレスリリース</span></span>
@@ -1655,16 +1665,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                   <time class="time" datetime="2026-10-27">2026.10.27</time>
                   <span class="category"><span>セミナー</span></span>
                   <p class="title">「開業後3ヶ月以内の黒字化率64%の実績に学ぶ歯科開業・経営セミナー」でSBペイメントサービスが登壇</p>
-                </a>
-                
-              </li>
-              
-              <li class="modListNews__item">
-                
-                <a href="https://www.sbpayment.jp/news/info/2026/20261022_001615/">
-                  <time class="time" datetime="2026-10-22">2026.10.22</time>
-                  <span class="category"><span>お知らせ</span></span>
-                  <p class="title">WEBサイトメンテナンス完了のお知らせ</p>
                 </a>
                 
               </li>
