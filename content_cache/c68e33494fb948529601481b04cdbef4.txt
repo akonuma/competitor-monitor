@@ -5454,6 +5454,26 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   
 </a>
                           </li>
+<li class="mt-12 grid w-full items-start gap-y-14 last:mb-30 lg:mt-0 lg:gap-y-15 lg:last:mb-0">
+                            <a class="group/link js-hover-gradient-opacity js-shift-text flex w-full items-center text-gray-2 lg:py-3 lg:text-black-1" href="https://company.dgft.jp/news/" target="_blank" data-gtm-click="nav_click" data-gtm-category="footer_nav" data-gtm-label="ニュース">
+  <span class="relative inline-block overflow-hidden text-14 leading-14 *:transition-colors *:duration-400 *:ease-main *:group-hover/link:text-transparent lg:whitespace-nowrap">
+    
+      <span class="js-animate-bg block w-full gradient-bg bg-clip-text py-4" data-target>
+        ニュース
+      </span>
+      <span class="js-animate-bg absolute top-0 left-0 block w-full translate-y-full gradient-bg bg-clip-text py-4" data-target aira-hidden="true">
+        ニュース
+      </span>
+    
+  </span>
+                              <span class="js-hover-gradient-opacity relative ml-8 inline-block size-12 text-black-1 lg:size-14 lg:text-gray-2">
+                                  <span class="absolute top-0 left-0 block h-full w-full">
+                                    <span class="absolute top-0 left-0 block h-full w-full bg-black-1 gradient-bg [clip-path:url(#s-blankClip)]"></span>
+                                    <span class="absolute top-0 left-0 block h-full w-full gradient-bg opacity-0 [clip-path:url(#s-blankClip)]"></span>
+                                  </span>
+                                </span>
+</a>
+                          </li>
                     </ul>
                   </dd>
                 </dl>

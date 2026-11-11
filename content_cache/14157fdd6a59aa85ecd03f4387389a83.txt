@@ -1,4 +1,4 @@
-<!DOCTYPE html><html lang="ja"><head prefix="og: http://ogp.me/ns#"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://j.wovn.io/1" async="true" data-wovnio="key=QLeFbd&amp;backend=true&amp;currentLang=ja&amp;defaultLang=ja&amp;urlPattern=path&amp;version=1.29.0&amp;backendVersion=WOVN.php_1.10.1&amp;langParamName=wovn" data-wovnio-cache-time="202611060135+0000"> </script>
+<!DOCTYPE html><html lang="ja"><head prefix="og: http://ogp.me/ns#"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://j.wovn.io/1" async="true" data-wovnio="key=QLeFbd&amp;backend=true&amp;currentLang=ja&amp;defaultLang=ja&amp;urlPattern=path&amp;version=1.29.0&amp;backendVersion=WOVN.php_1.10.1&amp;langParamName=wovn" data-wovnio-cache-time="202611110150+0000"> </script>
 
 <!-- STRIGHT ONE Tag Auto Control Script Start for Prod https://sbpayment.jp/ -->
 <script type="text/javascript" src="https://cdn01.stright.bizris.com/js/cookie_consent_block.js" charset="UTF-8" data-site-id="SIT-7a17932b-a799-4e1c-9e9e-8e4703b6223a"></script>
@@ -59,7 +59,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-MRQRDWV');</script>
 <!-- End Google Tag Manager -->
 
-<link rel="alternate" hreflang="en" href="https://www.sbpayment.jp/en/?gbraid=0AAAAAqHQlPaD1iCW_h3a4Q2kf_x0utm7M&amp;_=1793928938357"><link rel="alternate" hreflang="ja" href="https://www.sbpayment.jp/?gbraid=0AAAAAqHQlPaD1iCW_h3a4Q2kf_x0utm7M&amp;_=1793928938357"><link rel="alternate" hreflang="x-default" href="https://www.sbpayment.jp/?gbraid=0AAAAAqHQlPaD1iCW_h3a4Q2kf_x0utm7M&amp;_=1793928938357"></head>
+<link rel="alternate" hreflang="en" href="https://www.sbpayment.jp/en/?&amp;_=1794361857551"><link rel="alternate" hreflang="ja" href="https://www.sbpayment.jp/?&amp;_=1794361857551"><link rel="alternate" hreflang="x-default" href="https://www.sbpayment.jp/?&amp;_=1794361857551"></head>
 
 <body>
   <!-- Google Tag Manager (noscript) -->
@@ -1255,6 +1255,25 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="modListCompany__wrapper jsTopSlider swiper">
               <ul class="modListCompany swiper-wrapper">
                 <li class="modListPost__item swiper-slide">
+                  <a href="/news/info/2026/20261111_001621/" target="_blank">
+                    <figure class="img">
+                      <img src="/image/top/seminar/img_seminar20261208.png" width="700" height="364" alt="" loading="lazy">
+                    </figure>
+                    <div class="cont">
+                      <div class="status__wrapper">
+                        <span class="status"><span>申込受付中</span></span>
+                      </div>
+                      <div class="title">
+                        ゲーム開発の「今」を、1日で。ゲーム開発者向けのツール、ミドルウェア、ソリューションの展示会
+                      </div>
+                      <ul class="info">
+                        <li class="info__time">2026年12月8日（火）09:30～18:30</li>
+                        <li class="info__online">秋葉原UDX 4F UDXギャラリー｜UDXギャラリーネクスト（東京都千代田区外神田４丁目１４−１ 秋葉原UDX 4F）</li>
+                      </ul>
+                    </div>
+                  </a>
+                </li>
+                <li class="modListPost__item swiper-slide">
                   <a href="https://survey.emdi.co.jp/seminar/20261115_sb-md_collaborative-seminar/" target="_blank">
                     <figure class="img">
                       <img src="/image/top/seminar/img_seminar20261115.png" width="700" height="364" alt="" loading="lazy">
@@ -1641,30 +1660,30 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               
               <li class="modListNews__item">
                 
+                <a href="https://www.sbpayment.jp/news/press/2026/20261111_001620/">
+                  <time class="time" datetime="2026-11-11">2026.11.11</time>
+                  <span class="category"><span>プレスリリース</span></span>
+                  <p class="title">【2026年版】ECサイトでの決済手段やAI活用状況の実態調査結果を公開<br><span style="font-size:70%;">～20代女性の4割超が「AIのおすすめ」で購入判断。20代の男女でエージェンティックコマースの利用意向が高い～</span></p>
+                </a>
+                
+              </li>
+              
+              <li class="modListNews__item">
+                
+                <a href="https://www.sbpayment.jp/news/info/2026/20261111_001621/">
+                  <time class="time" datetime="2026-11-11">2026.11.11</time>
+                  <span class="category"><span>セミナー</span></span>
+                  <p class="title">ゲーム開発者向け展示会「GTMF 2026」東京会場に SBペイメントサービスが出展</p>
+                </a>
+                
+              </li>
+              
+              <li class="modListNews__item">
+                
                 <a href="https://www.sbpayment.jp/news/info/2026/20261106_001619/">
                   <time class="time" datetime="2026-11-06">2026.11.06</time>
                   <span class="category"><span>お知らせ</span></span>
                   <p class="title">バッファローの法人向けWi-Fi機器とSBペイメントサービスのモバイル決済端末との動作確認を実施。店舗DXを支える安定した通信環境の構築を実現</p>
-                </a>
-                
-              </li>
-              
-              <li class="modListNews__item">
-                
-                <a href="https://www.sbpayment.jp/news/press/2026/20261029_001606/">
-                  <time class="time" datetime="2026-10-29">2026.10.29</time>
-                  <span class="category"><span>プレスリリース</span></span>
-                  <p class="title">SBペイメントサービス、UCPを活用した「AIコマースシミュレータ」を開発<br><span style="font-size:70%;">～加盟店やEC・カート事業者との検証を通し、エージェンティックコマースにおけるUCP接続や購買フローの実用性を検証～</span></p>
-                </a>
-                
-              </li>
-              
-              <li class="modListNews__item">
-                
-                <a href="https://www.sbpayment.jp/news/press/2026/20261027_001614/">
-                  <time class="time" datetime="2026-10-27">2026.10.27</time>
-                  <span class="category"><span>プレスリリース</span></span>
-                  <p class="title">「SBPS請求書カード払い」手数料2.5％キャンペーンを<br class="ja">好評につき期間延長<br><span style="font-size:70%;">～年末年始の資金需要を支援。期間中の新規登録で、2027年1月31日まで何度でも手数料2.5％に～</span></p>
                 </a>
                 
               </li>

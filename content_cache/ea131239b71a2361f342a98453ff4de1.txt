@@ -1,4 +1,6 @@
-<!DOCTYPE html><html lang="ja"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://j.wovn.io/1" async="true" data-wovnio='key=f1IRL-&amp;backend=true&amp;currentLang=ja&amp;defaultLang=ja&amp;urlPattern=path&amp;langCodeAliases={"en":"en"}&amp;version=1.29.0&amp;backendVersion=WOVN.php_1.12.0&amp;langParamName=wovn' data-wovnio-cache-time="202611020632+0000"> </script>
+<!DOCTYPE html>
+<html lang="ja">
+<head><link rel="alternate" hreflang="ja" href="https://www.gmo-pg.com/"><link rel="alternate" hreflang="en" href="https://www.gmo-pg.com/en/"><link rel="alternate" hreflang="x-default" href="https://www.gmo-pg.com/" data-wovn="true"><script src="//j.wovn.io/1" data-wovnio="key=f1IRL-&amp;backend=true&amp;currentLang=ja&amp;defaultLang=ja&amp;urlPattern=path&amp;langCodeAliases={&quot;en&quot;:&quot;en&quot;}&amp;langParamName=wovn" data-wovnio-info="version=WOVN.php_1.29.1" async></script>
 <meta charset="utf-8">
 	<meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -14,7 +16,7 @@
 	<meta property="og:type" content="website">
 	<meta property="fb:app_id" content="244270202291484">
 	<link rel="icon" href="/favicon.ico">
-	<link rel="canonical" href="https://www.gmo-pg.com/">
+	<link rel=canonical href="https://www.gmo-pg.com/">
 
 	<!-- twittercard -->
 	<meta name="twitter:card" content="summary">
@@ -25,23 +27,26 @@
 
     <!-- css -->
 
-<link rel="stylesheet" href="/common/css/core.css?ver=202611021500">
+<link rel="stylesheet" href="/common/css/core.css?ver=202611111604">
 
 
-<link rel="preload" href="/common/css/common.css?ver=202611021500" as="style" onload="this.onload=null;this.rel='stylesheet'">
-<noscript><link rel="stylesheet" href="/common/css/common.css?ver=202611021500"></noscript>
+<link rel="preload" href="/common/css/common.css?ver=202611111604" as="style"
+      onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="/common/css/common.css?ver=202611111604"></noscript>
 
 
-<link rel="preload" href="/common/css/footer.css?ver=202611021500" as="style" onload="this.onload=null;this.rel='stylesheet'">
-<noscript><link rel="stylesheet" href="/common/css/footer.css?ver=202611021500"></noscript>
-<link rel="preload" href="/common/css/lib/splide-core.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<link rel="preload" href="/common/css/footer.css?ver=202611111604" as="style"
+      onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="/common/css/footer.css?ver=202611111604"></noscript>
+<link rel="preload" href="/common/css/lib/splide-core.min.css" as="style"
+      onload="this.onload=null;this.rel='stylesheet'">
 <noscript><link rel="stylesheet" href="/common/css/lib/splide-core.min.css"></noscript>
 
 	<!-- web font -->
 	<link rel="preconnect" href="https://fonts.googleapis.com">
-	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
-	<link href="https://fonts.googleapis.com/css2?family=Marcellus&amp;display=swap" rel="stylesheet">
-	<script src="https://font.realtype.jp/api/script/v4" data-rt-user="tHs9xWEV7hTvkvU8xu7WYBNGIP0zfbG4" data-rt-input="true" data-rt-nofliker="true" data-rt-layout="true" data-rt-emulation="true" data-rt-cache="true"></script>
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Marcellus&display=swap" rel="stylesheet">
+	<script src="https://font.realtype.jp/api/script/v4" data-rt-user="tHs9xWEV7hTvkvU8xu7WYBNGIP0zfbG4" data-rt-input=true data-rt-nofliker=true data-rt-layout=true data-rt-emulation=true data-rt-cache=true></script>
 
 <script>
   document.addEventListener('DOMContentLoaded', function () {
@@ -112,11 +117,12 @@
 </script>
 
 <!-- TOP用CSS/JS -->
-<link rel="stylesheet" href="/top/css/style.css?ver=202611021500">
-<link rel="preload" href="/common/js/lib/swiper-bundle.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<link rel="stylesheet" href="/top/css/style.css?ver=202611111604">
+<link rel="preload" href="/common/js/lib/swiper-bundle.min.css" as="style"
+      onload="this.onload=null;this.rel='stylesheet'">
 <noscript><link rel="stylesheet" href="/common/js/lib/swiper-bundle.min.css"></noscript>
-<script src="/top/js/script.js?ver=202611021500"></script>
-<link rel="alternate" hreflang="en" href="https://www.gmo-pg.com/en/"><link rel="alternate" hreflang="ja" href="https://www.gmo-pg.com/"><link rel="alternate" hreflang="x-default" href="https://www.gmo-pg.com/"></head>
+<script src="/top/js/script.js?ver=202611111604"></script>
+</head>
 <body>
 <!-- COMMON INCLUDE: HEADER --> <a class="u-skip-link" href="#main">
 	本文へ移動
@@ -133,7 +139,8 @@
 		<nav class="c-globalNav" id="globalNav" aria-label="グローバルナビゲーション">
 			<ul class="c-globalNav__list">
 				<li class="c-globalNav__item c-globalNav__item--hasMega">
-					<a class="c-globalNav__link" href="/service/" data-mega-target="megaMenuService" aria-expanded="false" aria-controls="megaMenuService">
+					<a class="c-globalNav__link" href="/service/" data-mega-target="megaMenuService"
+						aria-expanded="false" aria-controls="megaMenuService">
 						<span>サービス</span>
 					</a>
 				</li>
@@ -141,17 +148,20 @@
 					<a class="c-globalNav__link" href="/news/"><span>ニュース</span></a>
 				</li>
 				<li class="c-globalNav__item c-globalNav__item--hasMega">
-					<a class="c-globalNav__link" href="/corp/" data-mega-target="megaMenuCorp" data-mobile-title="会社情報" aria-expanded="false" aria-controls="megaMenuCorp">
+					<a class="c-globalNav__link" href="/corp/" data-mega-target="megaMenuCorp"
+						data-mobile-title="会社情報" aria-expanded="false" aria-controls="megaMenuCorp">
 						<span>会社情報</span>
 					</a>
 				</li>
 				<li class="c-globalNav__item c-globalNav__item--hasMega">
-					<a class="c-globalNav__link" href="/ir/" data-mega-target="megaMenuIr" aria-expanded="false" aria-controls="megaMenuIr">
+					<a class="c-globalNav__link" href="/ir/" data-mega-target="megaMenuIr" aria-expanded="false"
+						aria-controls="megaMenuIr">
 						<span>IR情報</span>
 					</a>
 				</li>
 				<li class="c-globalNav__item c-globalNav__item--hasMega">
-					<a class="c-globalNav__link" href="/sustainability/" data-mega-target="megaMenuSus" aria-expanded="false" aria-controls="megaMenuSus">
+					<a class="c-globalNav__link" href="/sustainability/" data-mega-target="megaMenuSus" aria-expanded="false"
+						aria-controls="megaMenuSus">
 						<span>サステナビリティ</span>
 					</a>
 				</li>
@@ -174,19 +184,24 @@
 						<a class="wovn-switch" data-value="ja" role="button" tabindex="0" aria-label="日本語に切り替える">JP</a>
 					</li>
 					<li class="c-headerLanguage__item">
-						<a class="wovn-switch" data-value="en" role="button" tabindex="0" aria-label="Englishに切り替える">EN</a>
+						<a class="wovn-switch" data-value="en" role="button" tabindex="0" aria-label="Englishに切り替える" >EN</a>
 					</li>
 				</ul>
 			</div>
 			
-			<a class="c-headerSearch hide_if_en" href="https://search.gmo-pg.com/search?site=66Q81MHZ&amp;charset=UTF-8&amp;design=neww" aria-label="サイト内検索ページへ移動">
+			<a class="c-headerSearch hide_if_en"
+				href="https://search.gmo-pg.com/search?site=66Q81MHZ&amp;charset=UTF-8&amp;design=neww"
+				aria-label="サイト内検索ページへ移動">
 				<span>検索</span>
 			</a>
-			<a class="c-headerSearch hide_if_ja" href="https://search.gmo-pg.com/search?site=66Q81MHZ&amp;charset=UTF-8&amp;design=new_en&amp;group=1" aria-label="Go to site search">
+			<a class="c-headerSearch hide_if_ja"
+				href="https://search.gmo-pg.com/search?site=66Q81MHZ&amp;charset=UTF-8&amp;design=new_en&amp;group=1"
+				aria-label="Go to site search">
 				<span>Search</span>
 			</a>
 
-			<button class="c-headerMenuButton" type="button" aria-expanded="false" aria-controls="globalNav" aria-label="メニューを開く">
+			<button class="c-headerMenuButton" type="button" aria-expanded="false" aria-controls="globalNav"
+				aria-label="メニューを開く">
 				<span></span><span></span><span></span>
 			</button>
 		</div>
@@ -194,11 +209,11 @@
 
 	<div class="c-navMegaContainer">
 		<div class="c-headerMegaMobileBar">
-			<button class="c-headerMegaMobileBack" type="button" data-mobile-mega-back="">メニューに戻る</button>
-			<p class="c-headerMegaMobileTitle" data-mobile-mega-title=""></p>
+			<button class="c-headerMegaMobileBack" type="button" data-mobile-mega-back>メニューに戻る</button>
+			<p class="c-headerMegaMobileTitle" data-mobile-mega-title></p>
 		</div>
 
-		<div id="megaMenuService" class="c-navMegaPanel c-serviceMegaMenu" hidden="">
+		<div id="megaMenuService" class="c-navMegaPanel c-serviceMegaMenu" hidden>
 			<div class="c-serviceMegaMenu__inner">
 				<div class="c-serviceMegaMenu__grid">
 					<!-- 決済を導入・安全に運用する -->
@@ -210,7 +225,8 @@
 						</h2>
 						<!-- PGマルチペイメントサービス -->
 						<div class="c-serviceMegaMenu__group c-serviceMegaMenu__group--featured">
-							<a class="c-serviceMegaMenu__link c-serviceMegaMenu__link--featured" href="/service/mulpay/">
+							<a class="c-serviceMegaMenu__link c-serviceMegaMenu__link--featured"
+								href="/service/mulpay/">
 								<span class="c-serviceMegaMenu__title">
 									PGマルチペイメントサービス
 								</span>
@@ -231,63 +247,79 @@
 							</a>
 							<div class="c-serviceMegaMenu__group">
 								<ul class="c-serviceMegaMenu__subLinks c-serviceMegaMenu__subLinks--payments">
-									<li class="c-serviceMegaMenu__subLinksItem c-serviceMegaMenu__subLinksItem--expandOnly">
+									<li
+										class="c-serviceMegaMenu__subLinksItem c-serviceMegaMenu__subLinksItem--expandOnly">
 										<a class="c-serviceMegaMenu__subLinksLink" href="/service/mulpay-creditcard/">
 											クレジットカード
 										</a>
 									</li>
-									<li class="c-serviceMegaMenu__subLinksItem c-serviceMegaMenu__subLinksItem--expandOnly">
+									<li
+										class="c-serviceMegaMenu__subLinksItem c-serviceMegaMenu__subLinksItem--expandOnly">
 										<a class="c-serviceMegaMenu__subLinksLink" href="/service/mulpay-paypay/">
 											PayPay
 										</a>
 									</li>
-									<li class="c-serviceMegaMenu__subLinksItem c-serviceMegaMenu__subLinksItem--expandOnly">
-										<a class="c-serviceMegaMenu__subLinksLink" href="/service/mulpay-conveniencestore/">
+									<li
+										class="c-serviceMegaMenu__subLinksItem c-serviceMegaMenu__subLinksItem--expandOnly">
+										<a class="c-serviceMegaMenu__subLinksLink"
+											href="/service/mulpay-conveniencestore/">
 											コンビニ決済
 										</a>
 									</li>
-									<li class="c-serviceMegaMenu__subLinksItem c-serviceMegaMenu__subLinksItem--expandOnly">
+									<li
+										class="c-serviceMegaMenu__subLinksItem c-serviceMegaMenu__subLinksItem--expandOnly">
 										<a class="c-serviceMegaMenu__subLinksLink" href="/service/mulpay-virtual/">
 											銀行振込
 										</a>
 									</li>
-									<li class="c-serviceMegaMenu__subLinksItem c-serviceMegaMenu__subLinksItem--expandOnly">
+									<li
+										class="c-serviceMegaMenu__subLinksItem c-serviceMegaMenu__subLinksItem--expandOnly">
 										<a class="c-serviceMegaMenu__subLinksLink" href="/service/mulpay-amazonpay/">
 											Amazon Pay
 										</a>
 									</li>
-									<li class="c-serviceMegaMenu__subLinksItem c-serviceMegaMenu__subLinksItem--expandOnly">
+									<li
+										class="c-serviceMegaMenu__subLinksItem c-serviceMegaMenu__subLinksItem--expandOnly">
 										<a class="c-serviceMegaMenu__subLinksLink" href="/service/mulpay-rakutenpay/">
 											楽天ペイ
 										</a>
 									</li>
-									<li class="c-serviceMegaMenu__subLinksItem c-serviceMegaMenu__subLinksItem--expandOnly">
-										<a class="c-serviceMegaMenu__subLinksLink" href="/service/mulpay-mobilecarrier/">
+									<li
+										class="c-serviceMegaMenu__subLinksItem c-serviceMegaMenu__subLinksItem--expandOnly">
+										<a class="c-serviceMegaMenu__subLinksLink"
+											href="/service/mulpay-mobilecarrier/">
 											キャリア決済
 										</a>
 									</li>
-									<li class="c-serviceMegaMenu__subLinksItem c-serviceMegaMenu__subLinksItem--expandOnly">
+									<li
+										class="c-serviceMegaMenu__subLinksItem c-serviceMegaMenu__subLinksItem--expandOnly">
 										<a class="c-serviceMegaMenu__subLinksLink" href="/service/mulpay-applepay/">
 											Apple Pay
 										</a>
 									</li>
-									<li class="c-serviceMegaMenu__subLinksItem c-serviceMegaMenu__subLinksItem--expandOnly">
-										<a class="c-serviceMegaMenu__subLinksLink" href="/service/mulpay-mobilecarrier-docomo/">
+									<li
+										class="c-serviceMegaMenu__subLinksItem c-serviceMegaMenu__subLinksItem--expandOnly">
+										<a class="c-serviceMegaMenu__subLinksLink"
+											href="/service/mulpay-mobilecarrier-docomo/">
 											d払い
 										</a>
 									</li>
-									<li class="c-serviceMegaMenu__subLinksItem c-serviceMegaMenu__subLinksItem--expandOnly">
+									<li
+										class="c-serviceMegaMenu__subLinksItem c-serviceMegaMenu__subLinksItem--expandOnly">
 										<a class="c-serviceMegaMenu__subLinksLink" href="/service/mulpay-merpay/">
 											メルペイ
 										</a>
 									</li>
-									<li class="c-serviceMegaMenu__subLinksItem c-serviceMegaMenu__subLinksItem--expandOnly">
+									<li
+										class="c-serviceMegaMenu__subLinksItem c-serviceMegaMenu__subLinksItem--expandOnly">
 										<a class="c-serviceMegaMenu__subLinksLink" href="/service/mulpay-googlepay/">
 											Google Pay
 										</a>
 									</li>
-									<li class="c-serviceMegaMenu__subLinksItem c-serviceMegaMenu__subLinksItem--expandOnly">
-										<a class="c-serviceMegaMenu__subLinksLink c-serviceMegaMenu__subLinksLink--more" href="/service/mulpay/#anc_01">
+									<li
+										class="c-serviceMegaMenu__subLinksItem c-serviceMegaMenu__subLinksItem--expandOnly">
+										<a class="c-serviceMegaMenu__subLinksLink c-serviceMegaMenu__subLinksLink--more"
+											href="/service/mulpay/#anc_01">
 											もっと見る
 										</a>
 									</li>
@@ -296,7 +328,8 @@
 						</div>
 
 						<!-- セキュリティ -->
-						<div class="c-serviceMegaMenu__group c-serviceMegaMenu__group--security c-serviceMegaMenu__indent">
+						<div
+							class="c-serviceMegaMenu__group c-serviceMegaMenu__group--security c-serviceMegaMenu__indent">
 							<a class="c-serviceMegaMenu__link" href="/service/security/">
 								<span class="c-serviceMegaMenu__title">
 									セキュリティ
@@ -323,7 +356,8 @@
 									</a>
 								</li>
 								<li class="c-serviceMegaMenu__subLinksItem">
-									<a class="c-serviceMegaMenu__subLinksLink" href="https://www.gmo-ps.com/feature_kb-lp01/" target="_blank">
+									<a class="c-serviceMegaMenu__subLinksLink"
+										href="https://www.gmo-ps.com/feature_kb-lp01/" target="_blank">
 										GMO掛け払い
 									</a>
 								</li>
@@ -331,11 +365,13 @@
 						</div>
 						<!-- 導入・運用サポート -->
 						<div class="c-serviceMegaMenu__utility">
-							<a class="c-serviceMegaMenu__utilityLink c-serviceMegaMenu__utilityLink--docs" href="https://docs.gmo-pg.com/mulpay/" rel="noopener" target="_blank">
+							<a class="c-serviceMegaMenu__utilityLink c-serviceMegaMenu__utilityLink--docs"
+								href="https://docs.gmo-pg.com/mulpay/" rel="noopener" target="_blank">
 								<span class="c-serviceMegaMenu__utilityIcon" aria-hidden="true"></span>
 								<span class="c-serviceMegaMenu__utilityText">開発者ドキュメント</span>
 							</a>
-							<a class="c-serviceMegaMenu__utilityLink c-serviceMegaMenu__utilityLink--faq" href="https://mp-faq2.gmo-pg.com/hc/ja" rel="noopener" target="_blank">
+							<a class="c-serviceMegaMenu__utilityLink c-serviceMegaMenu__utilityLink--faq"
+								href="https://mp-faq2.gmo-pg.com/hc/ja" rel="noopener" target="_blank">
 								<span class="c-serviceMegaMenu__utilityIcon" aria-hidden="true"></span>
 								<span class="c-serviceMegaMenu__utilityText">よくあるご質問</span>
 							</a>
@@ -395,7 +431,8 @@
 							<h3 class="c-serviceMegaMenu__subHeading">
 								関連ソリューション
 							</h3>
-							<a class="c-serviceMegaMenu__link" href="https://www.gmo-ps.com/feature_kb-lp01/" target="_blank">
+							<a class="c-serviceMegaMenu__link" href="https://www.gmo-ps.com/feature_kb-lp01/"
+								target="_blank">
 								<span class="c-serviceMegaMenu__title">
 									GMO掛け払い
 								</span>
@@ -406,7 +443,8 @@
 						</div>
 					</section>
 					<!-- カテゴリから探す -->
-					<section aria-labelledby="serviceMegaCol03" class="c-serviceMegaMenu__col c-serviceMegaMenu__col--category">
+					<section aria-labelledby="serviceMegaCol03"
+						class="c-serviceMegaMenu__col c-serviceMegaMenu__col--category">
 						<h2 class="c-serviceMegaMenu__heading" id="serviceMegaCol03">
 							<span>
 								カテゴリから探す
@@ -483,7 +521,8 @@
 							</a>
 						</div>
 					</section>
-					<aside aria-labelledby="serviceMegaCol04" class="c-serviceMegaMenu__col c-serviceMegaMenu__col--aside">
+					<aside aria-labelledby="serviceMegaCol04"
+						class="c-serviceMegaMenu__col c-serviceMegaMenu__col--aside">
 						<h2 class="c-serviceMegaMenu__heading c-serviceMegaMenu__heading--aside" id="serviceMegaCol04">
 							<span>さらに見る</span>
 						</h2>
@@ -496,12 +535,14 @@
 
 								<ul class="c-serviceMegaMenu__asideSubLinks c-serviceMegaMenu__asideExpandOnly">
 									<li>
-										<a class="c-serviceMegaMenu__asideSubLink" href="https://contact.gmo-pg.com/m?f=790" target="_blank" rel="noopener">
+										<a class="c-serviceMegaMenu__asideSubLink"
+											href="https://contact.gmo-pg.com/m?f=790" target="_blank" rel="noopener">
 											決済手段の導入をご検討のお客様
 										</a>
 									</li>
 									<li>
-										<a class="c-serviceMegaMenu__asideSubLink" href="https://contact.gmo-pg.com/m?f=791" target="_blank" rel="noopener">
+										<a class="c-serviceMegaMenu__asideSubLink"
+											href="https://contact.gmo-pg.com/m?f=791" target="_blank" rel="noopener">
 											ご契約中のお客様
 										</a>
 									</li>
@@ -518,7 +559,8 @@
 							<p class="c-serviceMegaMenu__asideLabel">関連サービス</p>
 							<ul class="c-serviceMegaMenu__relatedList">
 								<li>
-									<a class="c-serviceMegaMenu__relatedLink" href="https://www.fincode.jp/" target="_blank" rel="noopener">
+									<a class="c-serviceMegaMenu__relatedLink" href="https://www.fincode.jp/"
+										target="_blank" rel="noopener">
 										<span class="c-serviceMegaMenu__relatedTitle">fincode byGMO</span>
 										<span class="c-serviceMegaMenu__relatedDesc c-serviceMegaMenu__asideExpandOnly">
 											スタートアップ向けオンライン決済
@@ -526,7 +568,8 @@
 									</a>
 								</li>
 								<li>
-									<a class="c-serviceMegaMenu__relatedLink" href="https://www.epsilon.jp/" target="_blank" rel="noopener">
+									<a class="c-serviceMegaMenu__relatedLink" href="https://www.epsilon.jp/"
+										target="_blank" rel="noopener">
 										<span class="c-serviceMegaMenu__relatedTitle">Epsilon byGMO</span>
 										<span class="c-serviceMegaMenu__relatedDesc c-serviceMegaMenu__asideExpandOnly">
 											中小・個人事業主向けオンライン決済
@@ -542,7 +585,8 @@
 									</a>
 								</li>
 								<li>
-									<a class="c-serviceMegaMenu__relatedLink" href="https://gmo-fg.com/" target="_blank" rel="noopener">
+									<a class="c-serviceMegaMenu__relatedLink" href="https://gmo-fg.com/" target="_blank"
+										rel="noopener">
 										<span class="c-serviceMegaMenu__relatedTitle">キャッシュレス決済端末/インフラ</span>
 										<span class="c-serviceMegaMenu__relatedDesc c-serviceMegaMenu__asideExpandOnly">
 											実店舗向け決済端末
@@ -573,7 +617,7 @@
 			</div>
 		</div>
 
-		<div id="megaMenuCorp" class="c-navMegaPanel c-corpMegaMenu c-corpMegaMenu--corp" hidden="">
+		<div id="megaMenuCorp" class="c-navMegaPanel c-corpMegaMenu c-corpMegaMenu--corp" hidden>
 			<div class="c-corpMegaMenu__inner">
 				<!-- 会社情報 -->
 				<section class="c-corpMegaMenu__section" aria-labelledby="corpMegaCol01">
@@ -633,7 +677,7 @@
 				</section>
 			</div>
 		</div>
-		<div id="megaMenuIr" class="c-navMegaPanel c-corpMegaMenu c-corpMegaMenu--ir" hidden="">
+		<div id="megaMenuIr" class="c-navMegaPanel c-corpMegaMenu c-corpMegaMenu--ir" hidden>
 			<div class="c-corpMegaMenu__inner">
 
 				<section class="c-corpMegaMenu__section" aria-labelledby="irMegaCol01">
@@ -703,7 +747,7 @@
 
 			</div>
 		</div>
-		<div id="megaMenuSus" class="c-navMegaPanel c-corpMegaMenu c-corpMegaMenu--sus" hidden="">
+		<div id="megaMenuSus" class="c-navMegaPanel c-corpMegaMenu c-corpMegaMenu--sus" hidden>
 			<div class="c-corpMegaMenu__inner">
 				<section class="c-corpMegaMenu__section" aria-labelledby="susMegaCol01">
 					<div class="c-corpMegaMenu__head">
@@ -778,7 +822,13 @@
 								<div class="animate">
 									<picture>
 										<source srcset="/top/image/img_top_kv01_sp.webp" media="(max-width: 767px)">
-										<img src="/top/image/img_top_kv01.webp" alt="決済で、次をつくる。イメージビジュアル1" loading="eager" fetchpriority="high" decoding="async">
+										<img
+											src="/top/image/img_top_kv01.webp"
+											alt="決済で、次をつくる。イメージビジュアル1"
+											loading="eager"
+											fetchpriority="high"
+											decoding="async"
+										>
 									</picture>
 								</div>
 							</div>
@@ -787,7 +837,13 @@
 								<div class="animate">
 									<picture>
 										<source srcset="/top/image/img_top_kv03_sp.webp" media="(max-width: 767px)">
-										<img src="/top/image/img_top_kv03.webp" alt="決済で、次をつくる。イメージビジュアル3" loading="lazy" fetchpriority="low" decoding="async">
+										<img
+											src="/top/image/img_top_kv03.webp"
+											alt="決済で、次をつくる。イメージビジュアル3"
+											loading="lazy"
+											fetchpriority="low"
+											decoding="async"
+										>
 									</picture>
 								</div>
 							</div>
@@ -796,7 +852,13 @@
 								<div class="animate">
 									<picture>
 										<source srcset="/top/image/img_top_kv02_sp.webp" media="(max-width: 767px)">
-										<img src="/top/image/img_top_kv02.webp" alt="決済で、次をつくる。イメージビジュアル2" loading="lazy" fetchpriority="low" decoding="async">
+										<img
+											src="/top/image/img_top_kv02.webp"
+											alt="決済で、次をつくる。イメージビジュアル2"
+											loading="lazy"
+											fetchpriority="low"
+											decoding="async"
+										>
 									</picture>
 								</div>
 							</div>
@@ -2609,7 +2671,7 @@
 		<p class="p-topNewsListItem__title"><a href="
 	/en/news/press/gmo-paymentgateway/2026/0717.html
 	
-">GALOIS and GMO Payment Gateway Collaborate to Launch the 'Part-Time Recruitment &amp; Retention Plan' Supporting 'PayPay Paycheck'</a></p>
+">GALOIS and GMO Payment Gateway Collaborate to Launch the 'Part-Time Recruitment & Retention Plan' Supporting 'PayPay Paycheck'</a></p>
 	</div>
 </li>
 
@@ -3338,7 +3400,7 @@
 			<li class="c-footerLogo__item">
 				<figure class="c-footerLogo__image">
 					<a class="c-footerLogo__link" href="https://privacymark.jp/" target="_blank">
-						<img src="/common/image/logo/ico_pmark.png" alt="プライバシーマークのロゴ画像" width="76" height="76">
+						<img src="/common/image/logo/ico_pmark.png" alt="プライバシーマークのロゴ画像" width="76" height="76" />
 					</a>
 				</figure>
 				<div class="c-footerLogo__content">
@@ -3349,7 +3411,7 @@
 			<li class="c-footerLogo__item">
 				<figure class="c-footerLogo__image">
 					<a class="c-footerLogo__link" href="/corp/security-pcidss/" target="_blank">
-						<img src="/common/image/logo/logo_pcidss181220.png" alt="PCI DSSGMOのロゴ画像" width="76" height="76">
+						<img src="/common/image/logo/logo_pcidss181220.png" alt="PCI DSSGMOのロゴ画像" width="76" height="76" />
 					</a>
 				</figure>
 				<div class="c-footerLogo__content">
@@ -3360,7 +3422,7 @@
 			<li class="c-footerLogo__item">
 				<figure class="c-footerLogo__image">
 					<a class="c-footerLogo__link" href="/corp/security-iso27001/" target="_blank">
-						<img src="/common/image/logo/logo_iso27001.png" alt="ISO27001GMOのロゴ画像" width="112" height="76">
+						<img src="/common/image/logo/logo_iso27001.png" alt="ISO27001GMOのロゴ画像" width="112" height="76" />
 					</a>
 				</figure>
 				<div class="c-footerLogo__content">
@@ -3376,7 +3438,7 @@
 	</div>
 
 	<div class="c-footer__top">
-		<p class="c-footer__topText">私たちがお客さまの事業成長を<br class="u-sp-only">サポートいたします。</p>
+		<p class="c-footer__topText">私たちがお客さまの事業成長を<br class="u-sp-only" />サポートいたします。</p>
 		<div class="c-footerGroupBannerArea splide" data-slider="footerGroupBannerSlider" aria-label="GMOグループ会社のバナー画像スライダー">
 			<div class="splide__arrows">
 				<button class="splide__arrow splide__arrow--prev"><span>PREV</span></button>
@@ -3390,43 +3452,43 @@
 			<div class="splide__track">
 				<ul class="c-footerGroupBanner splide__list">
 					<li class="c-footerGroupBanner__item splide__slide">
-						<span><img src="/common/image/bnr/footer/companies_logo_01.png" alt="GMO PAYMENT GATEWAY" width="996" height="160" class="footerLogo"></span>
+						<span><img src="/common/image/bnr/footer/companies_logo_01.png" alt="GMO PAYMENT GATEWAY" width="996" height="160" class="footerLogo"/></span>
 					</li>
 					<li class="c-footerGroupBanner__item splide__slide">
-						<a href="https://www.epsilon.jp/" target="_blank"><img src="/common/image/bnr/footer/companies_logo_02.png" alt="GMO EPSILON" width="608" height="160" class="footerLogo"></a>
+						<a href="https://www.epsilon.jp/" target="_blank"><img src="/common/image/bnr/footer/companies_logo_02.png" alt="GMO EPSILON" width="608" height="160" class="footerLogo" /></a>
 					</li>
 					<li class="c-footerGroupBanner__item splide__slide">
-						<a href="https://www.gmo-ps.com/" target="_blank"><img src="/common/image/bnr/footer/companies_logo_03.png" alt="GMO PAYMENT SERVISE" width="920" height="160" class="footerLogo"></a>
+						<a href="https://www.gmo-ps.com/" target="_blank"><img src="/common/image/bnr/footer/companies_logo_03.png" alt="GMO PAYMENT SERVISE" width="920" height="160" class="footerLogo" /></a>
 					</li>
 					<li class="c-footerGroupBanner__item splide__slide">
-						<a href="https://gmo-fg.com/" target="_blank"><img src="/common/image/bnr/footer/companies_logo_04.png" alt="GMO FINANCIAL GATE" width="870" height="160" class="footerLogo"></a>
+						<a href="https://gmo-fg.com/" target="_blank"><img src="/common/image/bnr/footer/companies_logo_04.png" alt="GMO FINANCIAL GATE" width="870" height="160" class="footerLogo" /></a>
 					</li>
 					<li class="c-footerGroupBanner__item splide__slide">
-						<a href="https://www.gmo-cas.com/" target="_blank"><img src="/common/image/bnr/footer/companies_logo_05.png" alt="GMO CARD SYSTEM" width="808" height="160" class="footerLogo"></a>
+						<a href="https://www.gmo-cas.com/" target="_blank"><img src="/common/image/bnr/footer/companies_logo_05.png" alt="GMO CARD SYSTEM" width="808" height="160" class="footerLogo"/></a>
 					</li>
 					<li class="c-footerGroupBanner__item splide__slide">
-						<a href="https://gmo-reserve.plus/" target="_blank"><img src="/common/image/bnr/footer/companies_logo_06.png" alt="GMO RESERVE PLUS" width="743" height="160" class="footerLogo"></a>
+						<a href="https://gmo-reserve.plus/" target="_blank"><img src="/common/image/bnr/footer/companies_logo_06.png" alt="GMO RESERVE PLUS" width="743" height="160" class="footerLogo" /></a>
 					</li>
 					<li class="c-footerGroupBanner__item splide__slide">
-						<a href="https://www.enpay.co.jp/corporation/" target="_blank"><img src="/common/image/bnr/footer/companies_logo_14.png" alt="GMO ENPAY" width="546" height="160" class="footerLogo"></a>
+						<a href="https://www.enpay.co.jp/corporation/" target="_blank"><img src="/common/image/bnr/footer/companies_logo_14.png" alt="GMO ENPAY" width="546" height="160" class="footerLogo" /></a>
 					</li>
 					<li class="c-footerGroupBanner__item splide__slide">
-						<span><img src="/common/image/bnr/footer/companies_logo_08.png" alt="GMO-Z.com Payment Gateway Pte. Ltd." width="1440" height="160" class="footerLogo"></span>
+						<span><img src="/common/image/bnr/footer/companies_logo_08.png" alt="GMO-Z.com Payment Gateway Pte. Ltd." width="1440" height="160" class="footerLogo" /></span>
 					</li>
 					<li class="c-footerGroupBanner__item splide__slide">
-						<span><img src="/common/image/bnr/footer/companies_logo_09.png" alt="GMO-Z.com Payment Gateway HK Ltd." width="1452" height="160" class="footerLogo"></span>
+						<span><img src="/common/image/bnr/footer/companies_logo_09.png" alt="GMO-Z.com Payment Gateway HK Ltd." width="1452" height="160" class="footerLogo"/></span>
 					</li>
 					<li class="c-footerGroupBanner__item splide__slide">
-						<span><img src="/common/image/bnr/footer/companies_logo_11.png" alt="GMO-Z.com Payment Gateway Malaysia Sdn. Bhd." width="1736" height="160" class="footerLogo"></span>
+						<span><img src="/common/image/bnr/footer/companies_logo_11.png" alt="GMO-Z.com Payment Gateway Malaysia Sdn. Bhd." width="1736" height="160" class="footerLogo"/></span>
 					</li>
 					<li class="c-footerGroupBanner__item splide__slide">
-						<span><img src="/common/image/bnr/footer/companies_logo_10.png" alt="GMO-Z.com Payment Gateway Thailand Co., Ltd." width="1734" height="160" class="footerLogo"></span>
+						<span><img src="/common/image/bnr/footer/companies_logo_10.png" alt="GMO-Z.com Payment Gateway Thailand Co., Ltd." width="1734" height="160" class="footerLogo"/></span>
 					</li>
 					<li class="c-footerGroupBanner__item splide__slide">
-						<a href="https://www.gmo-pg.com/us/" target="_blank"><img src="/common/image/bnr/footer/companies_logo_12.png" alt="GMO-Z.com Payment Gateway USA, Inc." width="1472" height="160" class="footerLogo"></a>
+						<a href="https://www.gmo-pg.com/us/" target="_blank"><img src="/common/image/bnr/footer/companies_logo_12.png" alt="GMO-Z.com Payment Gateway USA, Inc." width="1472" height="160" class="footerLogo" /></a>
 					</li>
 					<li class="c-footerGroupBanner__item splide__slide">
-						<span><img src="/common/image/bnr/footer/companies_logo_13.png" alt="GMO-Z.com Payment Gateway India Pvt. Ltd." width="1594" height="160" class="footerLogo"></span>
+						<span><img src="/common/image/bnr/footer/companies_logo_13.png" alt="GMO-Z.com Payment Gateway India Pvt. Ltd." width="1594" height="160" class="footerLogo" /></span>
 					</li>
 				</ul>
 			</div>
@@ -3455,11 +3517,6 @@
 													<li class="c-footerUnitNaviList__item"><a href="/service/gcp/">GMO Cashless Platform</a></li>
 													<li class="c-footerUnitNaviList__item"><a href="https://gmo-fg.com/index.html">キャッシュレス決済インフラ</a></li>
 													<li class="c-footerUnitNaviList__item"><a href="/service/taimen/">対面連携サービス</a></li>
-												</ul>
-
-												<h4 class="c-footerUnitNavi__title">海外展開向け</h4>
-												<ul class="c-footerUnitNaviList">
-													<li class="c-footerUnitNaviList__item"><a href="/service/zcom/">Z.com Payment byGMO</a></li>
 												</ul>
 											</div>
 										</div>
@@ -3792,7 +3849,7 @@
 				</div>
 			</div>
 		</div>
-		<button id="js-anchorPageTop" class="c-footerPageTop" type="button" aria-label="ページ先頭までスクロールする"><img src="/common/image/btn/btn_footer_to_top.png" width="56" height="128" alt="" aria-hidden="true"></button>
+		<button id="js-anchorPageTop" class="c-footerPageTop" type="button" aria-label="ページ先頭までスクロールする"><img src="/common/image/btn/btn_footer_to_top.png" width="56" height="128" alt="" aria-hidden="true"/></button>
 	</div>
 	<div class="c-footer__middle">
 		<div class="c-footerLogoArea" style="text-align: center;">
@@ -3816,7 +3873,7 @@
 				<ul>
 					<li>
 						<div id="ss_gmo_globalsign_secured_site_seal" oncontextmenu="return false;">
-							<img id="ss_gmo_globalsign_img" src="data:image/gif;base64,R0lGODlhAQABAGAAACH5BAEKAP8ALAAAAAABAAEAAAgEAP8FBAA7" alt="" onclick="ss_open_profile()" style="cursor:pointer; border:0;">
+							<img id="ss_gmo_globalsign_img" src="data:image/gif;base64,R0lGODlhAQABAGAAACH5BAEKAP8ALAAAAAABAAEAAAgEAP8FBAA7" alt="" onclick="ss_open_profile()" style="cursor:pointer; border:0;" >
 						</div>
 						<script>
 							window.addEventListener('load', () => {
@@ -3829,7 +3886,7 @@
 					<li>
 						<span id="csi_siteseal_tag" oncontextmenu="return false;">
 							<a id="csi_siteseal_profile_link">
-								<img loading="lazy" alt="dark_typeA_130x66.png" id="csi_siteseal_image" width="130" height="66" src="#" style="display: none">
+								<img loading="lazy" alt="dark_typeA_130x66.png" id="csi_siteseal_image" width="130" height="66" src="#" style="display: none" />
 							</a>
 						</span>
 						<script type="text/javascript" src="https://siteseal.gmo-cybersecurity.com/static/scripts/siteseal.js" defer="defer"></script>
@@ -3837,7 +3894,7 @@
 					<li>
 						<span id="brs_siteseal_tag" oncontextmenu="return false;">
 							<a id="gmobrs_seal_profile_link">
-							<img decoding="async" alt="dark_typeA_130x66.png" id="gmobrs_seal_image" width="130px" height="66px" src="#" style="display: none">
+							<img decoding="async" alt="dark_typeA_130x66.png" id="gmobrs_seal_image" width="130px" height="66px" src="#" style="display: none" />
 							</a>
 						</span>
 						<script>
@@ -3869,8 +3926,8 @@
 <script src="/common/js/lib/micromodal.min.js"></script>
 <script src="/common/js/lib/scroll-hint.min.js"></script>
 <link rel="stylesheet" href="/common/js/lib/scroll-hint.css">
-<script src="/common/js/script.js?ver=202611021500"></script>
-	<script src="/common/js/lib/swiper-bundle.min.js" defer=""></script>
+<script src="/common/js/script.js?ver=202611111604"></script>
+	<script src="/common/js/lib/swiper-bundle.min.js" defer></script>
 <!-- GMOグループヘッダー -->
 <script type="text/javascript" charset="UTF-8" src="https://cache.img.gmo.jp/gmo/header/script.min.js" id="gmoheadertag" async="async"></script>
 <!-- END GMOグループヘッダー -->
@@ -3878,5 +3935,5 @@
 <!-- SNSシェアボタン -->
 <script src="/common/js/script_sns.js"></script>
 <link rel="stylesheet" href="/common/css/style_footer.css">
-
-</body></html>
+</body>
+</html>
