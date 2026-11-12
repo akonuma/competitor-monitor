@@ -27,17 +27,17 @@
 
     <!-- css -->
 
-<link rel="stylesheet" href="/common/css/core.css?ver=202611111604">
+<link rel="stylesheet" href="/common/css/core.css?ver=202611121535">
 
 
-<link rel="preload" href="/common/css/common.css?ver=202611111604" as="style"
+<link rel="preload" href="/common/css/common.css?ver=202611121535" as="style"
       onload="this.onload=null;this.rel='stylesheet'">
-<noscript><link rel="stylesheet" href="/common/css/common.css?ver=202611111604"></noscript>
+<noscript><link rel="stylesheet" href="/common/css/common.css?ver=202611121535"></noscript>
 
 
-<link rel="preload" href="/common/css/footer.css?ver=202611111604" as="style"
+<link rel="preload" href="/common/css/footer.css?ver=202611121535" as="style"
       onload="this.onload=null;this.rel='stylesheet'">
-<noscript><link rel="stylesheet" href="/common/css/footer.css?ver=202611111604"></noscript>
+<noscript><link rel="stylesheet" href="/common/css/footer.css?ver=202611121535"></noscript>
 <link rel="preload" href="/common/css/lib/splide-core.min.css" as="style"
       onload="this.onload=null;this.rel='stylesheet'">
 <noscript><link rel="stylesheet" href="/common/css/lib/splide-core.min.css"></noscript>
@@ -117,11 +117,11 @@
 </script>
 
 <!-- TOP用CSS/JS -->
-<link rel="stylesheet" href="/top/css/style.css?ver=202611111604">
+<link rel="stylesheet" href="/top/css/style.css?ver=202611121535">
 <link rel="preload" href="/common/js/lib/swiper-bundle.min.css" as="style"
       onload="this.onload=null;this.rel='stylesheet'">
 <noscript><link rel="stylesheet" href="/common/js/lib/swiper-bundle.min.css"></noscript>
-<script src="/top/js/script.js?ver=202611111604"></script>
+<script src="/top/js/script.js?ver=202611121535"></script>
 </head>
 <body>
 <!-- COMMON INCLUDE: HEADER --> <a class="u-skip-link" href="#main">
@@ -1037,6 +1037,59 @@
 								
 									<li class="p-topNewsListItem hide_if_ja">
 	<div class="p-topNewsListItem__head">
+		<time class="p-topNewsListItem__date" datetime="2026-11-12">2026.11.12</time>
+		<ul class="p-topNewsListItem__tagList">
+		
+		<li class="p-topNewsListItem__tag">
+		
+		
+		<span class="c-tag c-tag--ir">IRニュース</span>
+		
+		
+		</li>
+		
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">適時開示・任意開示</span></li>
+		</ul>
+		<!--  -->
+	</div>
+	<div class="p-topNewsListItem__body">
+		<p class="p-topNewsListItem__title"><a href="
+	/news/pdf/20261112_gmo_pg_ir_kaiji_en.pdf
+		
+		
+" target="_blank">Notice on Difference in Non-Consolidated Financial Performance of a Consolidated Subsidiary (GMO Financial Gate, Inc.) from the Previous Fiscal Year</a></p>
+	</div>
+</li>
+
+
+
+	
+<li class="p-topNewsListItem hide_if_en">
+	<div class="p-topNewsListItem__head">
+		<time class="p-topNewsListItem__date" datetime="2026-11-12">2026.11.12</time>
+		<ul class="p-topNewsListItem__tagList">
+		
+		<li class="p-topNewsListItem__tag">
+		
+		
+		<span class="c-tag c-tag--ir">IRニュース</span>
+		
+		
+		</li>
+		
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">適時開示・任意開示</span></li>
+		</ul>
+		<!--  -->
+	</div>
+	<div class="p-topNewsListItem__body">
+		<p class="p-topNewsListItem__title"><a href="/news/pdf/20261112_gmo_pg_ir_kaiji.pdf" target="_blank">連結子会社（GMOフィナンシャルゲート株式会社）の個別業績の前期実績値との差異に関するお知らせ</a></p>
+	</div>
+</li>
+
+
+								
+									<li class="p-topNewsListItem hide_if_ja">
+	<div class="p-topNewsListItem__head">
 		<time class="p-topNewsListItem__date" datetime="2026-11-02">2026.11.02</time>
 		<ul class="p-topNewsListItem__tagList">
 		
@@ -1558,9 +1611,15 @@
 
 
 								
-									<li class="p-topNewsListItem hide_if_ja">
+							</ul>
+						</div>
+						<div class="p-topNewsTabContent__item">
+                            <ul class="p-topNewsList">
+							
+							
+								<li class="p-topNewsListItem hide_if_ja">
 	<div class="p-topNewsListItem__head">
-		<time class="p-topNewsListItem__date" datetime="2026-08-14">2026.08.14</time>
+		<time class="p-topNewsListItem__date" datetime="2026-11-12">2026.11.12</time>
 		<ul class="p-topNewsListItem__tagList">
 		
 		<li class="p-topNewsListItem__tag">
@@ -1571,16 +1630,16 @@
 		
 		</li>
 		
-		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">決算説明会資料</span></li>
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">適時開示・任意開示</span></li>
 		</ul>
 		<!--  -->
 	</div>
 	<div class="p-topNewsListItem__body">
 		<p class="p-topNewsListItem__title"><a href="
-	/news/pdf/20260814_gmo-pg_financial_results_briefing_en.pdf
+	/news/pdf/20261112_gmo_pg_ir_kaiji_en.pdf
 		
 		
-" target="_blank">Financial results briefing for Q3 of FY2026</a></p>
+" target="_blank">Notice on Difference in Non-Consolidated Financial Performance of a Consolidated Subsidiary (GMO Financial Gate, Inc.) from the Previous Fiscal Year</a></p>
 	</div>
 </li>
 
@@ -1589,7 +1648,7 @@
 	
 <li class="p-topNewsListItem hide_if_en">
 	<div class="p-topNewsListItem__head">
-		<time class="p-topNewsListItem__date" datetime="2026-08-14">2026.08.14</time>
+		<time class="p-topNewsListItem__date" datetime="2026-11-12">2026.11.12</time>
 		<ul class="p-topNewsListItem__tagList">
 		
 		<li class="p-topNewsListItem__tag">
@@ -1600,22 +1659,16 @@
 		
 		</li>
 		
-		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">決算説明会資料</span></li>
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">適時開示・任意開示</span></li>
 		</ul>
 		<!--  -->
 	</div>
 	<div class="p-topNewsListItem__body">
-		<p class="p-topNewsListItem__title"><a href="/news/pdf/20260814_gmo-pg_kessan.pdf" target="_blank">2026年9月期 第3四半期決算説明会資料</a></p>
+		<p class="p-topNewsListItem__title"><a href="/news/pdf/20261112_gmo_pg_ir_kaiji.pdf" target="_blank">連結子会社（GMOフィナンシャルゲート株式会社）の個別業績の前期実績値との差異に関するお知らせ</a></p>
 	</div>
 </li>
 
 
-								
-							</ul>
-						</div>
-						<div class="p-topNewsTabContent__item">
-                            <ul class="p-topNewsList">
-							
 							
 								<li class="p-topNewsListItem hide_if_ja">
 	<div class="p-topNewsListItem__head">
@@ -2118,59 +2171,6 @@
 	</div>
 	<div class="p-topNewsListItem__body">
 		<p class="p-topNewsListItem__title"><a href="https://www.irwebcasting.com/20260515/3/index.html" target="_blank">2026年9月期 第2四半期決算説明会動画</a></p>
-	</div>
-</li>
-
-
-							
-								<li class="p-topNewsListItem hide_if_ja">
-	<div class="p-topNewsListItem__head">
-		<time class="p-topNewsListItem__date" datetime="2026-05-15">2026.05.15</time>
-		<ul class="p-topNewsListItem__tagList">
-		
-		<li class="p-topNewsListItem__tag">
-		
-		
-		<span class="c-tag c-tag--ir">IRニュース</span>
-		
-		
-		</li>
-		
-		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">決算説明会資料</span></li>
-		</ul>
-		<!--  -->
-	</div>
-	<div class="p-topNewsListItem__body">
-		<p class="p-topNewsListItem__title"><a href="
-	/news/pdf/20260515_gmo-pg_financial_results_briefing_en.pdf
-		
-		
-" target="_blank">Financial results briefing for Q2 of FY2026</a></p>
-	</div>
-</li>
-
-
-
-	
-<li class="p-topNewsListItem hide_if_en">
-	<div class="p-topNewsListItem__head">
-		<time class="p-topNewsListItem__date" datetime="2026-05-15">2026.05.15</time>
-		<ul class="p-topNewsListItem__tagList">
-		
-		<li class="p-topNewsListItem__tag">
-		
-		
-		<span class="c-tag c-tag--ir">IRニュース</span>
-		
-		
-		</li>
-		
-		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">決算説明会資料</span></li>
-		</ul>
-		<!--  -->
-	</div>
-	<div class="p-topNewsListItem__body">
-		<p class="p-topNewsListItem__title"><a href="/news/pdf/20260515_gmo-pg_kessan.pdf" target="_blank">2026年9月期 第2四半期決算説明会資料</a></p>
 	</div>
 </li>
 
@@ -3926,7 +3926,7 @@
 <script src="/common/js/lib/micromodal.min.js"></script>
 <script src="/common/js/lib/scroll-hint.min.js"></script>
 <link rel="stylesheet" href="/common/js/lib/scroll-hint.css">
-<script src="/common/js/script.js?ver=202611111604"></script>
+<script src="/common/js/script.js?ver=202611121535"></script>
 	<script src="/common/js/lib/swiper-bundle.min.js" defer></script>
 <!-- GMOグループヘッダー -->
 <script type="text/javascript" charset="UTF-8" src="https://cache.img.gmo.jp/gmo/header/script.min.js" id="gmoheadertag" async="async"></script>
