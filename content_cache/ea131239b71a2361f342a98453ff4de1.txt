@@ -27,17 +27,17 @@
 
     <!-- css -->
 
-<link rel="stylesheet" href="/common/css/core.css?ver=202611132011">
+<link rel="stylesheet" href="/common/css/core.css?ver=202611161829">
 
 
-<link rel="preload" href="/common/css/common.css?ver=202611132011" as="style"
+<link rel="preload" href="/common/css/common.css?ver=202611161829" as="style"
       onload="this.onload=null;this.rel='stylesheet'">
-<noscript><link rel="stylesheet" href="/common/css/common.css?ver=202611132011"></noscript>
+<noscript><link rel="stylesheet" href="/common/css/common.css?ver=202611161829"></noscript>
 
 
-<link rel="preload" href="/common/css/footer.css?ver=202611132011" as="style"
+<link rel="preload" href="/common/css/footer.css?ver=202611161829" as="style"
       onload="this.onload=null;this.rel='stylesheet'">
-<noscript><link rel="stylesheet" href="/common/css/footer.css?ver=202611132011"></noscript>
+<noscript><link rel="stylesheet" href="/common/css/footer.css?ver=202611161829"></noscript>
 <link rel="preload" href="/common/css/lib/splide-core.min.css" as="style"
       onload="this.onload=null;this.rel='stylesheet'">
 <noscript><link rel="stylesheet" href="/common/css/lib/splide-core.min.css"></noscript>
@@ -117,11 +117,11 @@
 </script>
 
 <!-- TOP用CSS/JS -->
-<link rel="stylesheet" href="/top/css/style.css?ver=202611132011">
+<link rel="stylesheet" href="/top/css/style.css?ver=202611161829">
 <link rel="preload" href="/common/js/lib/swiper-bundle.min.css" as="style"
       onload="this.onload=null;this.rel='stylesheet'">
 <noscript><link rel="stylesheet" href="/common/js/lib/swiper-bundle.min.css"></noscript>
-<script src="/top/js/script.js?ver=202611132011"></script>
+<script src="/top/js/script.js?ver=202611161829"></script>
 </head>
 <body>
 <!-- COMMON INCLUDE: HEADER --> <a class="u-skip-link" href="#main">
@@ -1035,6 +1035,59 @@
 							
 							<ul class="p-topNewsList">
 								
+									<li class="p-topNewsListItem hide_if_ja">
+	<div class="p-topNewsListItem__head">
+		<time class="p-topNewsListItem__date" datetime="2026-11-16">2026.11.16</time>
+		<ul class="p-topNewsListItem__tagList">
+		
+		<li class="p-topNewsListItem__tag">
+		
+		
+		<span class="c-tag c-tag--ir">IRニュース</span>
+		
+		
+		</li>
+		
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">適時開示・任意開示</span></li>
+		</ul>
+		<!--  -->
+	</div>
+	<div class="p-topNewsListItem__body">
+		<p class="p-topNewsListItem__title"><a href="
+	/news/pdf/20261116_gmo_pg_ir_kaiji_en.pdf
+		
+		
+" target="_blank">Notice Regarding the Distribution of Dividends from Retained Earnings</a></p>
+	</div>
+</li>
+
+
+
+	
+<li class="p-topNewsListItem hide_if_en">
+	<div class="p-topNewsListItem__head">
+		<time class="p-topNewsListItem__date" datetime="2026-11-16">2026.11.16</time>
+		<ul class="p-topNewsListItem__tagList">
+		
+		<li class="p-topNewsListItem__tag">
+		
+		
+		<span class="c-tag c-tag--ir">IRニュース</span>
+		
+		
+		</li>
+		
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">適時開示・任意開示</span></li>
+		</ul>
+		<!--  -->
+	</div>
+	<div class="p-topNewsListItem__body">
+		<p class="p-topNewsListItem__title"><a href="/news/pdf/20261116_gmo_pg_ir_kaiji.pdf" target="_blank">剰余金の配当に関するお知らせ</a></p>
+	</div>
+</li>
+
+
+								
 									<li class="p-topNewsListItem hide_if_en">
 	<div class="p-topNewsListItem__head">
 		<time class="p-topNewsListItem__date" datetime="2026-11-13">2026.11.13</time>
@@ -1059,7 +1112,36 @@
 
 
 								
-									<li class="p-topNewsListItem hide_if_en">
+									<li class="p-topNewsListItem hide_if_ja">
+	<div class="p-topNewsListItem__head">
+		<time class="p-topNewsListItem__date" datetime="2026-11-13">2026.11.13</time>
+		<ul class="p-topNewsListItem__tagList">
+		
+		<li class="p-topNewsListItem__tag">
+		
+		
+		<span class="c-tag c-tag--ir">IRニュース</span>
+		
+		
+		</li>
+		
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">決算説明会資料</span></li>
+		</ul>
+		<!--  -->
+	</div>
+	<div class="p-topNewsListItem__body">
+		<p class="p-topNewsListItem__title"><a href="
+	/news/pdf/20261113_gmo-pg_financial_results_briefing_en.pdf
+		
+		
+" target="_blank">Financial results briefing for FY2026</a></p>
+	</div>
+</li>
+
+
+
+	
+<li class="p-topNewsListItem hide_if_en">
 	<div class="p-topNewsListItem__head">
 		<time class="p-topNewsListItem__date" datetime="2026-11-13">2026.11.13</time>
 		<ul class="p-topNewsListItem__tagList">
@@ -1083,7 +1165,36 @@
 
 
 								
-									<li class="p-topNewsListItem hide_if_en">
+									<li class="p-topNewsListItem hide_if_ja">
+	<div class="p-topNewsListItem__head">
+		<time class="p-topNewsListItem__date" datetime="2026-11-13">2026.11.13</time>
+		<ul class="p-topNewsListItem__tagList">
+		
+		<li class="p-topNewsListItem__tag">
+		
+		
+		<span class="c-tag c-tag--ir">IRニュース</span>
+		
+		
+		</li>
+		
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">決算説明会資料</span></li>
+		</ul>
+		<!--  -->
+	</div>
+	<div class="p-topNewsListItem__body">
+		<p class="p-topNewsListItem__title"><a href="
+	/news/pdf/20261113_gmo_pg_ir_introduction_en.pdf
+		
+		
+" target="_blank">IR Introduction for FY2026 - Business Overview and Business Model -</a></p>
+	</div>
+</li>
+
+
+
+	
+<li class="p-topNewsListItem hide_if_en">
 	<div class="p-topNewsListItem__head">
 		<time class="p-topNewsListItem__date" datetime="2026-11-13">2026.11.13</time>
 		<ul class="p-topNewsListItem__tagList">
@@ -1474,58 +1585,6 @@
 	</div>
 	<div class="p-topNewsListItem__body">
 		<p class="p-topNewsListItem__title"><a href="/news/pdf/20261112_gmo_pg_ir_kaiji.pdf" target="_blank">連結子会社（GMOフィナンシャルゲート株式会社）の個別業績の前期実績値との差異に関するお知らせ</a></p>
-	</div>
-</li>
-
-
-								
-									<li class="p-topNewsListItem hide_if_ja">
-	<div class="p-topNewsListItem__head">
-		<time class="p-topNewsListItem__date" datetime="2026-11-02">2026.11.02</time>
-		<ul class="p-topNewsListItem__tagList">
-		
-		<li class="p-topNewsListItem__tag">
-		
-		
-		<span class="c-tag c-tag--news">お知らせ</span>
-		
-		
-		</li>
-		
-		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">お知らせ</span></li>
-		</ul>
-		<!--  -->
-	</div>
-	<div class="p-topNewsListItem__body">
-		<p class="p-topNewsListItem__title"><a href="
-	/en/news/news/info/2026/1102.html
-	
-">Apology and Notice Regarding the Potential Theft of Certain Customer Information</a></p>
-	</div>
-</li>
-
-
-
-	
-<li class="p-topNewsListItem hide_if_en">
-	<div class="p-topNewsListItem__head">
-		<time class="p-topNewsListItem__date" datetime="2026-11-02">2026.11.02</time>
-		<ul class="p-topNewsListItem__tagList">
-		
-		<li class="p-topNewsListItem__tag">
-		
-		
-		<span class="c-tag c-tag--news">お知らせ</span>
-		
-		
-		</li>
-		
-		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">お知らせ</span></li>
-		</ul>
-		<!--  -->
-	</div>
-	<div class="p-topNewsListItem__body">
-		<p class="p-topNewsListItem__title"><a href="/news/news/info/2026/1102.html">お客様情報の一部が窃取された可能性に関するお詫びとお知らせ</a></p>
 	</div>
 </li>
 
@@ -1537,6 +1596,59 @@
                             <ul class="p-topNewsList">
 							
 							
+								<li class="p-topNewsListItem hide_if_ja">
+	<div class="p-topNewsListItem__head">
+		<time class="p-topNewsListItem__date" datetime="2026-11-16">2026.11.16</time>
+		<ul class="p-topNewsListItem__tagList">
+		
+		<li class="p-topNewsListItem__tag">
+		
+		
+		<span class="c-tag c-tag--ir">IRニュース</span>
+		
+		
+		</li>
+		
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">適時開示・任意開示</span></li>
+		</ul>
+		<!--  -->
+	</div>
+	<div class="p-topNewsListItem__body">
+		<p class="p-topNewsListItem__title"><a href="
+	/news/pdf/20261116_gmo_pg_ir_kaiji_en.pdf
+		
+		
+" target="_blank">Notice Regarding the Distribution of Dividends from Retained Earnings</a></p>
+	</div>
+</li>
+
+
+
+	
+<li class="p-topNewsListItem hide_if_en">
+	<div class="p-topNewsListItem__head">
+		<time class="p-topNewsListItem__date" datetime="2026-11-16">2026.11.16</time>
+		<ul class="p-topNewsListItem__tagList">
+		
+		<li class="p-topNewsListItem__tag">
+		
+		
+		<span class="c-tag c-tag--ir">IRニュース</span>
+		
+		
+		</li>
+		
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">適時開示・任意開示</span></li>
+		</ul>
+		<!--  -->
+	</div>
+	<div class="p-topNewsListItem__body">
+		<p class="p-topNewsListItem__title"><a href="/news/pdf/20261116_gmo_pg_ir_kaiji.pdf" target="_blank">剰余金の配当に関するお知らせ</a></p>
+	</div>
+</li>
+
+
+							
 								<li class="p-topNewsListItem hide_if_en">
 	<div class="p-topNewsListItem__head">
 		<time class="p-topNewsListItem__date" datetime="2026-11-13">2026.11.13</time>
@@ -1561,7 +1673,36 @@
 
 
 							
-								<li class="p-topNewsListItem hide_if_en">
+								<li class="p-topNewsListItem hide_if_ja">
+	<div class="p-topNewsListItem__head">
+		<time class="p-topNewsListItem__date" datetime="2026-11-13">2026.11.13</time>
+		<ul class="p-topNewsListItem__tagList">
+		
+		<li class="p-topNewsListItem__tag">
+		
+		
+		<span class="c-tag c-tag--ir">IRニュース</span>
+		
+		
+		</li>
+		
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">決算説明会資料</span></li>
+		</ul>
+		<!--  -->
+	</div>
+	<div class="p-topNewsListItem__body">
+		<p class="p-topNewsListItem__title"><a href="
+	/news/pdf/20261113_gmo-pg_financial_results_briefing_en.pdf
+		
+		
+" target="_blank">Financial results briefing for FY2026</a></p>
+	</div>
+</li>
+
+
+
+	
+<li class="p-topNewsListItem hide_if_en">
 	<div class="p-topNewsListItem__head">
 		<time class="p-topNewsListItem__date" datetime="2026-11-13">2026.11.13</time>
 		<ul class="p-topNewsListItem__tagList">
@@ -1585,7 +1726,36 @@
 
 
 							
-								<li class="p-topNewsListItem hide_if_en">
+								<li class="p-topNewsListItem hide_if_ja">
+	<div class="p-topNewsListItem__head">
+		<time class="p-topNewsListItem__date" datetime="2026-11-13">2026.11.13</time>
+		<ul class="p-topNewsListItem__tagList">
+		
+		<li class="p-topNewsListItem__tag">
+		
+		
+		<span class="c-tag c-tag--ir">IRニュース</span>
+		
+		
+		</li>
+		
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">決算説明会資料</span></li>
+		</ul>
+		<!--  -->
+	</div>
+	<div class="p-topNewsListItem__body">
+		<p class="p-topNewsListItem__title"><a href="
+	/news/pdf/20261113_gmo_pg_ir_introduction_en.pdf
+		
+		
+" target="_blank">IR Introduction for FY2026 - Business Overview and Business Model -</a></p>
+	</div>
+</li>
+
+
+
+	
+<li class="p-topNewsListItem hide_if_en">
 	<div class="p-topNewsListItem__head">
 		<time class="p-topNewsListItem__date" datetime="2026-11-13">2026.11.13</time>
 		<ul class="p-topNewsListItem__tagList">
@@ -1976,61 +2146,6 @@
 	</div>
 	<div class="p-topNewsListItem__body">
 		<p class="p-topNewsListItem__title"><a href="/news/pdf/20261112_gmo_pg_ir_kaiji.pdf" target="_blank">連結子会社（GMOフィナンシャルゲート株式会社）の個別業績の前期実績値との差異に関するお知らせ</a></p>
-	</div>
-</li>
-
-
-							
-								<li class="p-topNewsListItem hide_if_ja">
-	<div class="p-topNewsListItem__head">
-		<time class="p-topNewsListItem__date" datetime="2026-08-14">2026.08.14</time>
-		<ul class="p-topNewsListItem__tagList">
-		
-		<li class="p-topNewsListItem__tag">
-		
-		
-		<span class="c-tag c-tag--ir">IRニュース</span>
-		
-		
-		</li>
-		
-		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">決算説明会資料</span></li>
-		</ul>
-		<!--  -->
-	</div>
-	<div class="p-topNewsListItem__body">
-		<p class="p-topNewsListItem__title"><a href="
-	
-		
-			/news/pdf/20260814_gmo-pg_transscript_en.pdf
-		
-		
-" target="_blank">Q3 of FY2026 Financial results briefing transcript</a></p>
-	</div>
-</li>
-
-
-
-	
-<li class="p-topNewsListItem hide_if_en">
-	<div class="p-topNewsListItem__head">
-		<time class="p-topNewsListItem__date" datetime="2026-08-14">2026.08.14</time>
-		<ul class="p-topNewsListItem__tagList">
-		
-		<li class="p-topNewsListItem__tag">
-		
-		
-		<span class="c-tag c-tag--ir">IRニュース</span>
-		
-		
-		</li>
-		
-		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">決算説明会資料</span></li>
-		</ul>
-		<!--  -->
-	</div>
-	<div class="p-topNewsListItem__body">
-		<p class="p-topNewsListItem__title"><a href="https://www.irwebcasting.com/20260814/1/index.html" target="_blank">2026年9月期 第3四半期決算説明会動画</a></p>
 	</div>
 </li>
 
@@ -3786,7 +3901,7 @@
 <script src="/common/js/lib/micromodal.min.js"></script>
 <script src="/common/js/lib/scroll-hint.min.js"></script>
 <link rel="stylesheet" href="/common/js/lib/scroll-hint.css">
-<script src="/common/js/script.js?ver=202611132011"></script>
+<script src="/common/js/script.js?ver=202611161829"></script>
 	<script src="/common/js/lib/swiper-bundle.min.js" defer></script>
 <!-- GMOグループヘッダー -->
 <script type="text/javascript" charset="UTF-8" src="https://cache.img.gmo.jp/gmo/header/script.min.js" id="gmoheadertag" async="async"></script>
