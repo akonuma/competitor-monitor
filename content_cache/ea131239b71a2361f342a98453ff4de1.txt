@@ -27,17 +27,17 @@
 
     <!-- css -->
 
-<link rel="stylesheet" href="/common/css/core.css?ver=202611171422">
+<link rel="stylesheet" href="/common/css/core.css?ver=202611262119">
 
 
-<link rel="preload" href="/common/css/common.css?ver=202611171422" as="style"
+<link rel="preload" href="/common/css/common.css?ver=202611262119" as="style"
       onload="this.onload=null;this.rel='stylesheet'">
-<noscript><link rel="stylesheet" href="/common/css/common.css?ver=202611171422"></noscript>
+<noscript><link rel="stylesheet" href="/common/css/common.css?ver=202611262119"></noscript>
 
 
-<link rel="preload" href="/common/css/footer.css?ver=202611171422" as="style"
+<link rel="preload" href="/common/css/footer.css?ver=202611262119" as="style"
       onload="this.onload=null;this.rel='stylesheet'">
-<noscript><link rel="stylesheet" href="/common/css/footer.css?ver=202611171422"></noscript>
+<noscript><link rel="stylesheet" href="/common/css/footer.css?ver=202611262119"></noscript>
 <link rel="preload" href="/common/css/lib/splide-core.min.css" as="style"
       onload="this.onload=null;this.rel='stylesheet'">
 <noscript><link rel="stylesheet" href="/common/css/lib/splide-core.min.css"></noscript>
@@ -66,7 +66,7 @@
   "@id":"https://www.gmo-pg.com/#org",
   "name":"GMOペイメントゲートウェイ株式会社",
   "url":"https://www.gmo-pg.com/",
-  "logo":"https://www.gmo-pg.com/common/images/logo.png"
+  "logo":"https://www.gmo-pg.com/common/image/logo.svg"
 }
 </script>
 <script type="application/ld+json">
@@ -80,7 +80,7 @@
   "publisher":{"@id":"https://www.gmo-pg.com/#org"},
   "potentialAction":{
     "@type":"SearchAction",
-    "target":"https://www.gmo-pg.com/search/?q={search_term_string}",
+    "target":"https://search.gmo-pg.com/search?site=66Q81MHZ&design=neww&group=0&charset=UTF-8&query={search_term_string}",
     "query-input":"required name=search_term_string"
   }
 }
@@ -117,11 +117,11 @@
 </script>
 
 <!-- TOP用CSS/JS -->
-<link rel="stylesheet" href="/top/css/style.css?ver=202611171422">
+<link rel="stylesheet" href="/top/css/style.css?ver=202611262119">
 <link rel="preload" href="/common/js/lib/swiper-bundle.min.css" as="style"
       onload="this.onload=null;this.rel='stylesheet'">
 <noscript><link rel="stylesheet" href="/common/js/lib/swiper-bundle.min.css"></noscript>
-<script src="/top/js/script.js?ver=202611171422"></script>
+<script src="/top/js/script.js?ver=202611262119"></script>
 </head>
 <body>
 <!-- COMMON INCLUDE: HEADER --> <a class="u-skip-link" href="#main">
@@ -355,12 +355,6 @@
 										請求書カード払い byGMO
 									</a>
 								</li>
-								<li class="c-serviceMegaMenu__subLinksItem">
-									<a class="c-serviceMegaMenu__subLinksLink"
-										href="https://www.gmo-ps.com/feature_kb-lp01/" target="_blank">
-										GMO掛け払い
-									</a>
-								</li>
 							</ul>
 						</div>
 						<!-- 導入・運用サポート -->
@@ -374,6 +368,11 @@
 								href="https://mp-faq2.gmo-pg.com/hc/ja" rel="noopener" target="_blank">
 								<span class="c-serviceMegaMenu__utilityIcon" aria-hidden="true"></span>
 								<span class="c-serviceMegaMenu__utilityText">よくあるご質問</span>
+							</a>
+							<a class="c-serviceMegaMenu__utilityLink c-serviceMegaMenu__utilityLink--download"
+								href="/document/" rel="noopener">
+								<span class="c-serviceMegaMenu__utilityIcon" aria-hidden="true"></span>
+								<span class="c-serviceMegaMenu__utilityText">お役立ち資料</span>
 							</a>
 						</div>
 					</section>
@@ -1035,6 +1034,30 @@
 							
 							<ul class="p-topNewsList">
 								
+									<li class="p-topNewsListItem hide_if_en">
+	<div class="p-topNewsListItem__head">
+		<time class="p-topNewsListItem__date" datetime="2026-11-27">2026.11.27</time>
+		<ul class="p-topNewsListItem__tagList">
+		
+		<li class="p-topNewsListItem__tag">
+		
+		
+		<span class="c-tag c-tag--ir">IRニュース</span>
+		
+		
+		</li>
+		
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">株主総会</span></li>
+		</ul>
+		<!--  -->
+	</div>
+	<div class="p-topNewsListItem__body">
+		<p class="p-topNewsListItem__title"><a href="/news/pdf/20261127_gmo_pg_ir_shosyu.pdf" target="_blank">2026年9月期定時株主総会招集ご通知</a></p>
+	</div>
+</li>
+
+
+								
 									<li class="p-topNewsListItem hide_if_ja">
 	<div class="p-topNewsListItem__head">
 		<time class="p-topNewsListItem__date" datetime="2026-11-16">2026.11.16</time>
@@ -1565,59 +1588,6 @@
 	</div>
 	<div class="p-topNewsListItem__body">
 		<p class="p-topNewsListItem__title"><a href="/news/pdf/20261113_gmo_pg_ir_kaiji_03.pdf" target="_blank">投資単位の引下げに関する考え方及び方針について</a></p>
-	</div>
-</li>
-
-
-								
-									<li class="p-topNewsListItem hide_if_ja">
-	<div class="p-topNewsListItem__head">
-		<time class="p-topNewsListItem__date" datetime="2026-11-12">2026.11.12</time>
-		<ul class="p-topNewsListItem__tagList">
-		
-		<li class="p-topNewsListItem__tag">
-		
-		
-		<span class="c-tag c-tag--ir">IRニュース</span>
-		
-		
-		</li>
-		
-		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">適時開示・任意開示</span></li>
-		</ul>
-		<!--  -->
-	</div>
-	<div class="p-topNewsListItem__body">
-		<p class="p-topNewsListItem__title"><a href="
-	/news/pdf/20261112_gmo_pg_ir_kaiji_en.pdf
-		
-		
-" target="_blank">Notice on Difference in Non-Consolidated Financial Performance of a Consolidated Subsidiary (GMO Financial Gate, Inc.) from the Previous Fiscal Year</a></p>
-	</div>
-</li>
-
-
-
-	
-<li class="p-topNewsListItem hide_if_en">
-	<div class="p-topNewsListItem__head">
-		<time class="p-topNewsListItem__date" datetime="2026-11-12">2026.11.12</time>
-		<ul class="p-topNewsListItem__tagList">
-		
-		<li class="p-topNewsListItem__tag">
-		
-		
-		<span class="c-tag c-tag--ir">IRニュース</span>
-		
-		
-		</li>
-		
-		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">適時開示・任意開示</span></li>
-		</ul>
-		<!--  -->
-	</div>
-	<div class="p-topNewsListItem__body">
-		<p class="p-topNewsListItem__title"><a href="/news/pdf/20261112_gmo_pg_ir_kaiji.pdf" target="_blank">連結子会社（GMOフィナンシャルゲート株式会社）の個別業績の前期実績値との差異に関するお知らせ</a></p>
 	</div>
 </li>
 
@@ -1629,6 +1599,30 @@
                             <ul class="p-topNewsList">
 							
 							
+								<li class="p-topNewsListItem hide_if_en">
+	<div class="p-topNewsListItem__head">
+		<time class="p-topNewsListItem__date" datetime="2026-11-27">2026.11.27</time>
+		<ul class="p-topNewsListItem__tagList">
+		
+		<li class="p-topNewsListItem__tag">
+		
+		
+		<span class="c-tag c-tag--ir">IRニュース</span>
+		
+		
+		</li>
+		
+		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">株主総会</span></li>
+		</ul>
+		<!--  -->
+	</div>
+	<div class="p-topNewsListItem__body">
+		<p class="p-topNewsListItem__title"><a href="/news/pdf/20261127_gmo_pg_ir_shosyu.pdf" target="_blank">2026年9月期定時株主総会招集ご通知</a></p>
+	</div>
+</li>
+
+
+							
 								<li class="p-topNewsListItem hide_if_ja">
 	<div class="p-topNewsListItem__head">
 		<time class="p-topNewsListItem__date" datetime="2026-11-16">2026.11.16</time>
@@ -2159,59 +2153,6 @@
 	</div>
 	<div class="p-topNewsListItem__body">
 		<p class="p-topNewsListItem__title"><a href="/news/pdf/20261113_gmo_pg_ir_kaiji_03.pdf" target="_blank">投資単位の引下げに関する考え方及び方針について</a></p>
-	</div>
-</li>
-
-
-							
-								<li class="p-topNewsListItem hide_if_ja">
-	<div class="p-topNewsListItem__head">
-		<time class="p-topNewsListItem__date" datetime="2026-11-12">2026.11.12</time>
-		<ul class="p-topNewsListItem__tagList">
-		
-		<li class="p-topNewsListItem__tag">
-		
-		
-		<span class="c-tag c-tag--ir">IRニュース</span>
-		
-		
-		</li>
-		
-		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">適時開示・任意開示</span></li>
-		</ul>
-		<!--  -->
-	</div>
-	<div class="p-topNewsListItem__body">
-		<p class="p-topNewsListItem__title"><a href="
-	/news/pdf/20261112_gmo_pg_ir_kaiji_en.pdf
-		
-		
-" target="_blank">Notice on Difference in Non-Consolidated Financial Performance of a Consolidated Subsidiary (GMO Financial Gate, Inc.) from the Previous Fiscal Year</a></p>
-	</div>
-</li>
-
-
-
-	
-<li class="p-topNewsListItem hide_if_en">
-	<div class="p-topNewsListItem__head">
-		<time class="p-topNewsListItem__date" datetime="2026-11-12">2026.11.12</time>
-		<ul class="p-topNewsListItem__tagList">
-		
-		<li class="p-topNewsListItem__tag">
-		
-		
-		<span class="c-tag c-tag--ir">IRニュース</span>
-		
-		
-		</li>
-		
-		<li class="p-topNewsListItem__tag"><span class="c-tag c-tag--white">適時開示・任意開示</span></li>
-		</ul>
-		<!--  -->
-	</div>
-	<div class="p-topNewsListItem__body">
-		<p class="p-topNewsListItem__title"><a href="/news/pdf/20261112_gmo_pg_ir_kaiji.pdf" target="_blank">連結子会社（GMOフィナンシャルゲート株式会社）の個別業績の前期実績値との差異に関するお知らせ</a></p>
 	</div>
 </li>
 
@@ -3966,7 +3907,7 @@
 <script src="/common/js/lib/micromodal.min.js"></script>
 <script src="/common/js/lib/scroll-hint.min.js"></script>
 <link rel="stylesheet" href="/common/js/lib/scroll-hint.css">
-<script src="/common/js/script.js?ver=202611171422"></script>
+<script src="/common/js/script.js?ver=202611262119"></script>
 	<script src="/common/js/lib/swiper-bundle.min.js" defer></script>
 <!-- GMOグループヘッダー -->
 <script type="text/javascript" charset="UTF-8" src="https://cache.img.gmo.jp/gmo/header/script.min.js" id="gmoheadertag" async="async"></script>
